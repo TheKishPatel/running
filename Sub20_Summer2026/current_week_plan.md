@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 26 March 2026*
+*Last updated: 29 March 2026*
 
 ---
 
@@ -112,11 +112,94 @@ Late night. Sleep in, recover. No running.
 
 ---
 
-## Next Week Preview — Week 2 (Mon 30 Mar – Sun 5 Apr)
+---
 
-- **Tue 31 Mar:** Barry's — first of the plan. 6/10 effort. HR avg <155 BPM. Zone 4 <15 min, Zone 5 <1 min.
-- **Thu 2 Apr:** 3km tempo @ 4:28/km (marginally tighter than Week 1)
-- **Sun 5 Apr:** 8km easy @ 5:50/km
-- Optional: Wed 1 Apr easy 4km @ 6:00/km
+## Week 2: Base Rebuild
+**Mon 30 Mar – Sun 5 Apr 2026**
+*(Week 2 of 14 — Phase 1: Base Rebuild)*
+
+**Week 2 objective:** Same paces as Week 1, marginally tighter on Thursday. Focus is consistency and fixing the km 2 pace discipline issue from last week. First Barry's of the cycle.
+
+---
+
+### Tuesday 31 March — BARRY'S (first of the plan)
+
+**Target:** 6/10 effort — no more
+**HR:** Average <155 BPM | Zone 4 <15 min | Zone 5 <1 min
+
+This is the first Barry's of the cycle. It will feel tempting to push — don't. The purpose is aerobic stimulus without digging a hole before Thursday's tempo. If the class starts going hard, drop your effort, not theirs. Watch your HR not the person next to you.
+
+---
+
+### Thursday 2 April — TEMPO
+
+| Component | Detail |
+|-----------|--------|
+| Warmup | 1km @ 6:00/km |
+| Main set | **3km @ 4:28/km** |
+| Cooldown | 1km @ 6:00/km |
+| **Total** | **5km** |
+
+**HR target during tempo:** 165-172 BPM
+**Key focus: even splits.** Week 1 went 4:26 / 4:21 / 4:27 — the 4:21 on km 2 caused the HR spike. This week aim for 4:28 / 4:28 / 4:28. If km 1 feels easy at 4:28, that's correct — hold it. Km 2 is where the discipline gets tested.
+
+If HR is at 168 BPM after km 1 and pace is 4:28 → perfect, hold exactly that. Don't interpret "feeling good" as a signal to accelerate.
+
+---
+
+### Optional: Wednesday 1 April — EASY
+
+4km @ 6:00/km. HR <140 BPM. Only if legs feel fully fresh. Skip if any fatigue from Barry's.
+
+---
+
+### Sunday 5 April — EASY LONG
+
+| Component | Detail |
+|-----------|--------|
+| Total | **8km @ 5:50/km** |
+
+**HR target:** <150 BPM
+Same as Week 1. HR alert at 150 BPM on Apple Watch. Pace will be wherever it needs to be to hold HR under 150. Expect it to be similar to last Sunday (~5:43-5:48/km) — that's fine.
+
+---
+
+### Week 2 Log Entries
+
+**Tuesday 31 Mar (Barry's):**
+- Effort rating (1-10): ___
+- Avg HR: ___ | Max HR: ___
+- Notes: ___
+
+**Thursday 2 Apr:**
+- Splits (full 5km): ___ / ___ / ___ / ___ / ___
+- Tempo avg pace: ___ | Tempo HR: ___ / ___ / ___
+- Max HR: ___
+- Notes: ___
+
+**Sunday 5 Apr:**
+- Splits (8km): ___ / ___ / ___ / ___ / ___ / ___ / ___ / ___
+- Avg pace: ___ | Avg HR: ___ | Max HR: ___
+- Notes: ___
+
+---
+
+### Week 2 Targets Summary
+
+| Session | Planned | Key Target | Success If |
+|---------|---------|------------|------------|
+| Tue Barry's | 6/10 effort | HR avg <155 BPM | Felt controlled, didn't push past 6/10 |
+| Thu Tempo | 3km @ 4:28/km | 165-172 BPM, even splits | All 3 kms at 4:27-4:29, HR <172 at finish |
+| Sun Long | 8km @ 5:50/km | <150 BPM | Stayed easy throughout |
+
+**Week 2 total volume:** ~25km
+
+---
+
+## Next Week Preview — Week 3 (Mon 6 Apr – Sun 12 Apr)
+
+- **Tue 7 Apr:** Barry's 6/10
+- **Thu 9 Apr:** 4km tempo @ 4:26/km *(distance steps up from 3km to 4km)*
+- **Sun 12 Apr:** 10km easy @ 5:45/km *(distance steps up from 8km to 10km)*
 
 *Update this file each Monday with the upcoming week's plan.*
