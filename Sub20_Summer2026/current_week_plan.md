@@ -89,19 +89,15 @@ Late night. Sleep in, recover. No running.
 - REST — late work night (00:30). Tempo moved to Friday.
 
 **Friday 27 Mar:**
-- Actual pace: ___
-- Avg HR: ___ | Max HR: ___
-- Splits (3 × 1km): ___ / ___ / ___
-- Resting HR this morning: ___
-- Sleep last night: ___ hrs
-- Notes: ___
+- Splits (full 5km): 5:47 / 4:26 / 4:21 / 4:27 / 5:25
+- Tempo avg pace: 4:25/km (target: 4:30) | Tempo HR: 164 / 166 / 176 BPM
+- Max HR: 176 BPM
+- Notes: Went 9 sec/km too fast on km2 (4:21), caused HR spike to 176 on km3. Cooldown too fast (5:25 vs 6:00).
 
 **Sunday 29 Mar:**
-- Actual pace: ___
-- Avg HR: ___ | Max HR: ___
-- Resting HR this morning: ___
-- Sleep last night: ___ hrs
-- Notes: ___
+- Splits: 5:43 / 5:30 / 5:25 / 5:36 / 5:48 / 5:42 / 6:01 / 6:02
+- Avg pace: 5:43/km (target: 5:50) | Avg HR: 144 BPM | Max HR: 147 BPM
+- Notes: HR discipline nailed — max 147 BPM, well under 150 ceiling. Km2-3 pushed to 5:25-5:30 again (same pattern as Friday) but HR stayed aerobic throughout. Good week 1 close.
 
 ---
 
