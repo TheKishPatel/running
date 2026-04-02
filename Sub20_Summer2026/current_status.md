@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 18 March 2026*
+*Last updated: 31 March 2026*
 
 ---
 
@@ -70,6 +70,18 @@
 | **Mon 18 May** | **Phase 3 begins — zero alcohol from here** |
 | Thu 11 Jun | Critical: 3×1600m @ 4:00/km — sub-20 readiness check |
 | **Sun 28 Jun** | **RACE DAY — Target: Sub-20:00** |
+
+---
+
+## Active Injury Flag
+
+**VMO/inner quad twinge (minor) — 31 March 2026**
+- Location: Inner quad / VMO near knee, right leg (jumping lunges at Barry's)
+- Severity: Minor — no swelling, able to run without pain
+- Cause: Deconditioning from break in Barry's attendance, not an inherent Barry's risk
+- Status: Thursday tempo proceeds as normal
+- Barry's modification: Substitute walking lunges for jumping lunges for next 2-3 lower body sessions
+- Clear when: No pain during or after 2 consecutive lower body sessions
 
 ---
 

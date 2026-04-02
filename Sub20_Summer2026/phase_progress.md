@@ -29,7 +29,7 @@
 | W1 | 26 Mar | Thu Tempo | REST | — | — | ↪️ moved | Late work night — moved to Fri 27 Mar |
 | W1 | 27 Mar | Fri Tempo | 3km @ 4:30 | 4:25/km avg | 169 BPM avg / 176 max | ⚠️ done | Avg pace 5sec/km too fast; HR drift 164→176 across 3km. Km2 at 4:21 caused km3 spike. |
 | W1 | 29 Mar | Sun Long | 8km @ 5:50 | 5:43/km avg | 144 BPM avg / 147 max | ✅ done | HR perfectly controlled <150 throughout. Pace 7sec/km fast but HR governed correctly. |
-| W2 | 31 Mar | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W2 | 31 Mar | Tue Barry's | 6/10 | — | — | ⚠️ done | Minor VMO twinge from jumping lunges — deconditioning injury from break in attendance. No swelling, can run. Substitute walking lunges for 2-3 sessions. |
 | W2 | 2 Apr | Thu Tempo | 3km @ 4:28 | | | ⏳ | |
 | W2 | 5 Apr | Sun Long | 8km @ 5:50 | | | ⏳ | |
 | W3 | 7 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
