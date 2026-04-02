@@ -172,10 +172,9 @@ Same as Week 1. HR alert at 150 BPM on Apple Watch. Pace will be wherever it nee
 - Notes: ___
 
 **Thursday 2 Apr:**
-- Splits (full 5km): ___ / ___ / ___ / ___ / ___
-- Tempo avg pace: ___ | Tempo HR: ___ / ___ / ___
-- Max HR: ___
-- Notes: ___
+- Splits: 5:54 / 4:22 / 4:28 / 4:32 / 6:10
+- Tempo avg pace: 4:27/km | Tempo HR: 163 / 168 / 166 BPM | Max HR: 168
+- Notes: Leg fatigue from Barry's. Km1 of tempo fast (4:22) but self-corrected — big improvement on W1. HR drift only 5 BPM. Cooldown excellent at 6:10.
 
 **Sunday 5 Apr:**
 - Splits (8km): ___ / ___ / ___ / ___ / ___ / ___ / ___ / ___

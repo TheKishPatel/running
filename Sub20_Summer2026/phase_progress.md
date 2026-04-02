@@ -30,7 +30,7 @@
 | W1 | 27 Mar | Fri Tempo | 3km @ 4:30 | 4:25/km avg | 169 BPM avg / 176 max | ⚠️ done | Avg pace 5sec/km too fast; HR drift 164→176 across 3km. Km2 at 4:21 caused km3 spike. |
 | W1 | 29 Mar | Sun Long | 8km @ 5:50 | 5:43/km avg | 144 BPM avg / 147 max | ✅ done | HR perfectly controlled <150 throughout. Pace 7sec/km fast but HR governed correctly. |
 | W2 | 31 Mar | Tue Barry's | 6/10 | — | — | ⚠️ done | Minor VMO twinge from jumping lunges — deconditioning injury from break in attendance. No swelling, can run. Substitute walking lunges for 2-3 sessions. |
-| W2 | 2 Apr | Thu Tempo | 3km @ 4:28 | | | ⏳ | |
+| W2 | 2 Apr | Thu Tempo | 3km @ 4:28 | 4:27/km avg | 166 BPM avg / 168 max | ✅ done | HR drift only 5 BPM (163→168) vs 12 BPM W1 — big improvement. Self-corrected after fast km1 (4:22). Under fatigue from Barry's. |
 | W2 | 5 Apr | Sun Long | 8km @ 5:50 | | | ⏳ | |
 | W3 | 7 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
 | W3 | 9 Apr | Thu Tempo | 4km @ 4:26 | | | ⏳ | |
@@ -82,7 +82,8 @@
 | Date | Session | Pace | HR | Assessment |
 |------|---------|------|----|------------|
 | Feb 6, 2026 (prev cycle peak) | 5km tempo | 4:21.6/km | 168 BPM | Baseline for new cycle |
-| W1 Fri (27 Mar) | 3km tempo | 4:25/km avg | 169 BPM avg / 176 max | Re-entry. Km2 too fast (4:21) caused km3 spike. Pace discipline needed. |
+| W1 Fri (27 Mar) | 3km tempo | 4:25/km avg | 169 BPM avg / 176 max | Re-entry. Km2 too fast (4:21) caused km3 spike. HR drift 12 BPM. |
+| W2 Thu (2 Apr) | 3km tempo | 4:27/km avg | 166 BPM avg / 168 max | Under Barry's fatigue. Self-corrected after fast km1. HR drift 5 BPM — significant improvement. |
 | *W3 Thu (9 Apr)* | 4km tempo | | | |
 | *W5 Thu (23 Apr)* | 5km tempo | | | |
 | *W7 Thu (7 May)* | 6km tempo | | | |
