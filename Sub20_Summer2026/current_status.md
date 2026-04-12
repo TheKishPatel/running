@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 6 April 2026*
+*Last updated: 9 April 2026*
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Where we are:** Week 3 of 14. Phase 1 (Base Rebuild), Mon 6 Apr – Sun 12 Apr.
 **Sessions completed this plan:** 5 of 12 Phase 1 sessions
-**Today:** Week 3 Sunday long run ✅ — 9.08km @ 5:47/km avg, HR 141 BPM, Zone 2 dominant.
+**Today:** Thu 9 Apr — W3 tempo skipped (illness Day 1). Last completed run: W2 long run (5 Apr) — 9.08km @ 5:47/km, HR 141 BPM.
 
 ---
 
@@ -19,7 +19,7 @@
 | 5K PB | **20:59** | 8 March 2026 |
 | Race pace | 4:12/km avg | |
 | Threshold pace | ~4:24-4:27/km | (W2 tempo: 4:27/km avg @ 166 BPM — Phase 1 re-entry) |
-| Easy pace | 5:43-5:47/km @ 141-144 BPM | (long run data W1 + W3) |
+| Easy pace | 5:43-5:47/km @ 141-144 BPM | (long run data W1 + W2) |
 | Morning resting HR baseline | <55 BPM | |
 
 **Fitness note:** Threshold feel returning well. W2 tempo showed significant HR improvement (drift 5 BPM vs 12 BPM in W1). Easy aerobic pace sitting naturally at 5:43-5:47/km at HR ~141-144 BPM — aerobic base developing as expected. The key remaining challenge is km1 pacing discipline on the tempo.
@@ -45,8 +45,7 @@
 | 2 | Sun 29 Mar | W1 Long 8km | ✅ 5:43/km avg @ 144/147 BPM | HR perfectly controlled |
 | 3 | Tue 31 Mar | W2 Barry's | ⚠️ done | Minor VMO twinge from jumping lunges |
 | 4 | Thu 2 Apr | W2 Tempo 3km | ✅ 4:27/km avg @ 166/168 BPM | HR drift 5 BPM — big improvement |
-| — | Sun 5 Apr | W2 Long 8km | ⏪ skipped | Moved to Sun 6 Apr (counted as W3 long) |
-| 5 | Sun 6 Apr | W3 Long ~9km | ✅ 5:47/km avg @ 141/146 BPM | Zone 2 dominant, well executed |
+| 5 | Sun 5 Apr | W2 Long 8km | ✅ 5:47/km avg @ 141/146 BPM | 9.08km. Zone 2 dominant, well executed |
 
 ---
 
@@ -54,18 +53,17 @@
 
 | Session | Date | Status |
 |---------|------|--------|
-| Sunday Long Run | Sun 6 Apr | ✅ Done — 9.08km, HR 141 avg, Zone 2 dominant |
-| Barry's | Tue 7 Apr | ⏳ Upcoming |
-| Thursday Tempo (4km step-up) | Thu 9 Apr | ⏳ Upcoming |
-| Sunday | Sun 12 Apr | Rest — long run already done |
+| Barry's | Tue 7 Apr | ⏳ Data pending |
+| Thursday Tempo (4km step-up) | Thu 9 Apr | ⏭️ Skipped — illness (blocked nose, fatigue) |
+| Sunday Long Run | Sun 12 Apr | ⏳ Upcoming — 10km @ 5:45/km, HR <150 BPM |
 
 ### Key Focus This Week
 
 **Barry's (Tue 7 Apr):** 6/10 effort cap. HR avg <155 BPM. Protect Thursday. VMO modification still active — walking lunges only (no jumping lunges).
 
-**Thursday Tempo (Thu 9 Apr):** This is the **first 4km tempo** of the plan — distance steps up from 3km. Pace target: **4:26/km**. HR: 168-175 BPM. The extra km at threshold means pacing from the first step matters even more. The W1 and W2 pattern of km1 being too fast (4:21, 4:22) needs to end here: **hold 4:26 from the gun**.
+**Thursday Tempo (Thu 9 Apr):** ⏭️ Skipped — illness (see Active Illness Flag). First 4km tempo carried forward to W4.
 
-**Sunday 12 Apr:** Rest. Long run stimulus already delivered today.
+**Sunday Long Run (Sun 12 Apr):** 10km @ 5:45/km. HR <150 BPM. First time hitting 10km this cycle — a proper distance step-up from the 8-9km long runs of W1 and W2. Same HR-governed approach. Only attempt if illness has cleared sufficiently; see illness protocol if still symptomatic.
 
 ---
 
@@ -74,12 +72,24 @@
 | Date | What |
 |------|------|
 | **Tue 7 Apr** | Barry's — Week 3 |
-| **Thu 9 Apr** | 4km Tempo @ 4:26/km — first distance step-up |
+| **Thu 9 Apr** | ~~4km Tempo @ 4:26/km~~ — ⏭️ Skipped (illness Day 1) |
 | Sun 19 Apr | End of Phase 1 gate assessment (W4 long run) |
 | Mon 20 Apr | Phase 2 begins (if Phase 1 gate passed) |
 | **Mon 18 May** | **Phase 3 begins — zero alcohol from here** |
 | Thu 11 Jun | Critical: 3×1600m @ 4:00/km — sub-20 readiness check |
 | **Sun 28 Jun** | **RACE DAY — Target: Sub-20:00** |
+
+---
+
+## Active Illness Flag
+
+**Upper respiratory / fatigue — 9 April 2026 (Day 1)**
+- Symptoms: Blocked nose, fatigue. General capacity ~80%. Tempo effort capacity: sub-50%.
+- Classification: Above-neck illness (Day 1)
+- Action: Thu 9 Apr tempo skipped. Rest today.
+- Protocol: Easy test run Fri 10 Apr if improving. Resume easy running Sat–Sun if clearing. Quality sessions only when 100% symptom-free.
+- Week 4 adjustment: Thu 16 Apr tempo set to 4:26/km (first 4km tempo — W3 step-up carried forward). Do not rush back to quality.
+- Watch for: any below-neck symptoms (chest, cough, phlegm, sore throat) → full rest protocol applies
 
 ---
 
@@ -116,7 +126,7 @@
 
 **Key discipline win to carry forward:** Perfect race pacing on March 8 (4:09, 4:18, 4:10, 4:12, 4:12) — the Parkrun pacing lesson was learned and executed perfectly.
 
-**Key discipline issue to manage:** Km1 too fast on tempos (4:21 in W1, 4:22 in W2). Thursday 9 Apr is the test — hold 4:26 from the start.
+**Key discipline issue to manage:** Km1 too fast on tempos (4:21 in W1, 4:22 in W2). Thu 9 Apr skipped (illness). Thu 16 Apr (W4) is now the test — first 4km tempo at 4:26/km. Hold it from the first step.
 
 ---
 

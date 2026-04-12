@@ -31,10 +31,10 @@
 | W1 | 29 Mar | Sun Long | 8km @ 5:50 | 5:43/km avg | 144 BPM avg / 147 max | ✅ done | HR perfectly controlled <150 throughout. Pace 7sec/km fast but HR governed correctly. |
 | W2 | 31 Mar | Tue Barry's | 6/10 | — | — | ⚠️ done | Minor VMO twinge from jumping lunges — deconditioning injury from break in attendance. No swelling, can run. Substitute walking lunges for 2-3 sessions. |
 | W2 | 2 Apr | Thu Tempo | 3km @ 4:28 | 4:27/km avg | 166 BPM avg / 168 max | ✅ done | HR drift only 5 BPM (163→168) vs 12 BPM W1 — big improvement. Self-corrected after fast km1 (4:22). Under fatigue from Barry's. |
-| W2 | 5 Apr | Sun Long | 8km @ 5:50 | — | — | ⏪ skipped | Long run moved to Sun 6 Apr — counted as W3 long run |
+| W2 | 5 Apr | Sun Long | 8km @ 5:50 | 5:47/km avg | 141 BPM avg / 146 max | ✅ done | 9.08km. Zone 2 dominant (40:12). HR perfectly controlled. |
 | W3 | 7 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W3 | 9 Apr | Thu Tempo | 4km @ 4:26 | | | ⏳ | |
-| W3 | 6 Apr* | Sun Long | 10km @ 5:45 | 5:47/km avg | 141 BPM avg / 146 BPM max | ✅ done | 9.08km. Zone 2 dominant (40:12). km3 quick (5:26) but HR stayed at 146 — Zone 2. *Run done 6 Apr, 1 day early |
+| W3 | 9 Apr | Thu Tempo | 4km @ 4:26 | — | — | ⏭️ skipped | Illness Day 1: blocked nose, fatigue (~80% general / sub-50% for tempo). Correct call — protocol: rest Day 1 above-neck illness. W4 Thu adjusted to 4:26/km (first 4km step-up carried forward). |
+| W3 | 12 Apr | Sun Long | 10km @ 5:45 | 5:37/km avg | 138 BPM avg / 144 max | ✅ done | Best HR control yet. 10km at avg 138 BPM — lower than W2 9km (141 BPM). Clear aerobic improvement. |
 | W4 | 14 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
 | W4 | 16 Apr | Thu Tempo | 4km @ 4:24 | | | ⏳ | |
 | W4 | 19 Apr | Sun Long | 10km @ 5:45 | | | ⏳ | |
@@ -46,7 +46,7 @@
 - [ ] HR during 4:24/km: 168-172 BPM (controlled)
 - [ ] HR drift during 4km tempo: <5%
 - [ ] 10km easy @ 5:45/km — comfortable
-- [ ] Zero illness interruptions
+- [ ] Zero illness interruptions ⚠️ *1 session skipped (Thu 9 Apr) — illness Day 1. Minor if resolved quickly.*
 - [ ] Consistent pace discipline on easy runs
 
 **Phase 1 Gate Decision:**
@@ -84,7 +84,7 @@
 | Feb 6, 2026 (prev cycle peak) | 5km tempo | 4:21.6/km | 168 BPM | Baseline for new cycle |
 | W1 Fri (27 Mar) | 3km tempo | 4:25/km avg | 169 BPM avg / 176 max | Re-entry. Km2 too fast (4:21) caused km3 spike. HR drift 12 BPM. |
 | W2 Thu (2 Apr) | 3km tempo | 4:27/km avg | 166 BPM avg / 168 max | Under Barry's fatigue. Self-corrected after fast km1. HR drift 5 BPM — significant improvement. |
-| W3 Sun (6 Apr) | ~9km easy long | 5:47/km avg | 141 BPM avg / 146 BPM max | Aerobic base session. Zone 2 dominant. Good HR control throughout. |
+| W2 Sun (5 Apr) | 9.08km easy long | 5:47/km avg | 141 BPM avg / 146 BPM max | W2 long run. Zone 2 dominant. Good HR control throughout. |
 | *W3 Thu (9 Apr)* | 4km tempo | | | |
 | *W5 Thu (23 Apr)* | 5km tempo | | | |
 | *W7 Thu (7 May)* | 6km tempo | | | |
@@ -202,7 +202,7 @@
 
 | Start Date | End Date | Days Lost | Symptoms | Phase Impact | Phase Adjustment |
 |------------|----------|-----------|----------|--------------|-----------------|
-| | | | | | |
+| 9 Apr 2026 | ongoing | TBD | Blocked nose, fatigue | Phase 1 W3 — Thu 4km tempo skipped (Day 1) | W4 Thu pace adjusted to 4:26/km (carries W3 step-up forward); monitor recovery before resuming quality |
 
 *Target: Zero entries in this table.*
 
@@ -214,8 +214,8 @@
 |------|-------|-----------|-----------|-------------------|-------------|-------|
 | Pre | 20-25 Mar | 0-5 | | | | |
 | 1 | 26-29 Mar | 13 | | | | |
-| 2 | 30 Mar-5 Apr | 25 | ~5km | 2 (Barry's + Tempo; Sun long skipped) | 0 | Sun long run moved to 6 Apr (W3) |
-| 3 | 6-12 Apr | 28 | 9.08km so far | 1 (Sun long ✅) | 0 | Barry's (7 Apr) + Tempo (9 Apr) remaining |
+| 2 | 30 Mar-5 Apr | 25 | ~27km | 3 (Barry's + Tempo + Long) | 0 | |
+| 3 | 6-12 Apr | 28 | TBD | Barry's (7 Apr, data pending) + Tempo skipped (9 Apr — illness) + Long (12 Apr upcoming) | 1 illness day (9 Apr) | Tempo skipped. Long run still to come Sun 12 Apr |
 | 4 | 13-19 Apr | 30 | | | | |
 | 5 | 20-26 Apr | 32 | | | | |
 | 6 | 27 Apr-3 May | 34 | | | | |

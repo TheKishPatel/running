@@ -12,7 +12,7 @@
 | W1 Sun 29 Mar | Long 8km | 5:50/km | 5:43/km avg | 144/147 BPM | ✅ HR perfectly controlled |
 | W2 Tue 31 Mar | Barry's | 6/10 | — | — | ⚠️ VMO twinge (jumping lunges) |
 | W2 Thu 2 Apr | Tempo 3km | 4:28/km | 4:27/km avg | 166/168 BPM | ✅ HR drift 5 BPM — big improvement |
-| W2 Sun 5 Apr | Long 8km | 5:50/km | — | — | ⏪ Skipped — moved to Sun 6 Apr |
+| W2 Sun 5 Apr | Long 8km | 5:50/km | 5:47/km avg | 141/146 BPM | ✅ 9.08km, Zone 2 dominant, HR 141 avg |
 
 ---
 
@@ -25,37 +25,6 @@
 **Volume target:** ~28km
 
 ---
-
-### Sunday 6 April — LONG RUN ✅ COMPLETED
-
-**Easy Aerobic — ~9km**
-
-| Component | Detail |
-|-----------|--------|
-| Distance | 9.08km |
-| Duration | ~52 minutes |
-| Avg Pace | 5:47/km (target: 5:45/km) |
-| Avg HR | 141 BPM |
-| Max HR | 146 BPM (km3-4) |
-
-**HR Zones:** Zone 1: 7:51 | Zone 2: 40:12 | Zone 3: 1:54 | Zone 4+5: 0:00
-
-**Splits:**
-
-| km | Pace | HR | Power |
-|----|------|----|-------|
-| 1 | 5:56 | 129 BPM | 204w |
-| 2 | 5:50 | 130 BPM | 211w |
-| 3 | 5:26 | 146 BPM | 228w |
-| 4 | 5:50 | 147 BPM | 210w |
-| 5 | 5:55 | 144 BPM | 200w |
-| 6 | 5:44 | 142 BPM | 210w |
-| 7 | 5:34 | 141 BPM | 213w |
-| 8 | 5:52 | 144 BPM | 207w |
-| 9 | 6:04 | 141 BPM | 201w |
-| 10 | 0:05 (frag) | 141 BPM | 206w |
-
-**Assessment:** Well-executed easy run. Zone 2 dominant throughout. km3 was slightly quicker (5:26) but HR peaked at 146 BPM — still within Zone 2 ceiling. No Zone 4 or Zone 5 time at all. The km9 natural deceleration (6:04) shows good fatigue awareness. Avg HR of 141 BPM confirms strong aerobic base development. Good session.
 
 ---
 
@@ -76,7 +45,7 @@ The star of this week is Thursday's 4km tempo. Barry's is support — arrive, ge
 
 ---
 
-### Thursday 9 April — TEMPO *(STEP-UP SESSION)*
+### Thursday 9 April — TEMPO *(STEP-UP SESSION)* ⏭️ SKIPPED — Illness
 
 **Threshold — 4km (first distance increase of the plan)**
 
@@ -108,21 +77,22 @@ The star of this week is Thursday's 4km tempo. Barry's is support — arrive, ge
 
 ---
 
-### Sunday 12 April — REST
+### Sunday 12 April — LONG RUN
 
-Long run stimulus already delivered Sunday 6 April. This is a rest day.
+| Component | Detail |
+|-----------|--------|
+| Total | **10km @ 5:45/km** |
 
-Optional only: If legs feel completely fresh and restless, 4km easy walk/jog @ 6:15/km, HR <135 BPM. Not a training session — active recovery only.
+**HR target:** <150 BPM. First time hitting 10km this cycle — a proper distance step-up from the 8-9km of the past two weeks. Same HR-governed approach. Apple Watch alert at 150 BPM. Expect to hold around 5:40-5:50/km naturally.
 
 ---
 
 ### Week 3 Log Entries
 
-**Sunday 6 Apr:**
-- Splits: 5:56 / 5:50 / 5:26 / 5:50 / 5:55 / 5:44 / 5:34 / 5:52 / 6:04 / 0:05 (frag)
-- Avg pace: 5:47/km (target: 5:45) | Avg HR: 141 BPM | Max HR: 146 BPM
-- HR Zones: Z1: 7:51 | Z2: 40:12 | Z3: 1:54 | Z4+5: 0:00
-- Notes: Well-executed. Zone 2 dominant. km3 quick (5:26) but HR held at 146 — still Zone 2. Good aerobic base session.
+**Sunday 12 Apr:**
+- Splits: 5:54 / 5:25 / 5:28 / 5:38 / 5:32 / 5:36 / 5:41 / 5:38 / 5:25 / 5:51
+- Avg pace: 5:37/km | Avg HR: 138 BPM | Max HR: 144 BPM
+- Notes: Never touched 150 BPM. Avg HR lower than W2 despite more distance — aerobic improvement confirmed. Km9 push to 5:25 caused km10 natural deceleration.
 
 **Tuesday 7 Apr (Barry's):**
 - Effort rating (1-10): ___
@@ -130,9 +100,11 @@ Optional only: If legs feel completely fresh and restless, 4km easy walk/jog @ 6
 - Notes: ___
 
 **Thursday 9 Apr:**
-- Splits: WU ___ / T1 ___ / T2 ___ / T3 ___ / T4 ___ / CD ___
-- Tempo avg pace: ___ | Tempo HR per km: ___ / ___ / ___ / ___ BPM | Max HR: ___
-- Notes: ___
+- **⏭️ SKIPPED — Illness (Day 1)**
+- Symptoms: Blocked nose, fatigue. ~80% for normal daily activities, sub-50% for tempo effort.
+- Reason: Above-neck illness on a quality/key session day. Protocol: rest on Day 1. Energy reserved for daughter's birthday.
+- Decision: Correct call. Running a threshold session at sub-50% capacity delivers no training benefit and risks extending illness into Week 4 gate assessment period.
+- **Week 4 adjustment:** Thu 16 Apr tempo to be run at **4:26/km** (not 4:24/km) — this becomes the first 4km tempo of the plan. Reassess to 4:24/km only if feeling 100% and recovery is complete.
 
 ---
 
@@ -140,7 +112,7 @@ Optional only: If legs feel completely fresh and restless, 4km easy walk/jog @ 6
 
 | Session | Planned | Key Target | Success If |
 |---------|---------|------------|------------|
-| Sun Long | ~9-10km easy | <150 BPM | ✅ DONE — 9.08km, HR 141 avg, Zone 2 dominant |
+| Sun Long | 10km @ 5:45/km | <150 BPM | HR governed throughout, comfortable finish |
 | Tue Barry's | 6/10 effort | HR avg <155 BPM | Felt controlled, protected Thursday |
 | Thu Tempo | 4km @ 4:26/km | 168-175 BPM, even splits | All 4 kms at 4:25-4:27, HR <175 at finish, HR drift <6 BPM |
 
@@ -148,13 +120,67 @@ Optional only: If legs feel completely fresh and restless, 4km easy walk/jog @ 6
 
 ---
 
-## Next Week Preview — Week 4 (Mon 13 Apr – Sun 19 Apr)
+---
 
-- **Tue 14 Apr:** Barry's 6/10
-- **Thu 16 Apr:** 4km tempo @ **4:24/km** *(pace tightens by 2 sec/km from this week)*
-- **Optional Sat 18 Apr:** 5km @ 5:50/km easy
-- **Sun 19 Apr:** 10km @ 5:45/km *(Phase 1 gate assessment run — must feel comfortable)*
+## Week 4: Base Rebuild
+**Mon 13 Apr – Sun 19 Apr 2026**
+*(Week 4 of 14 — Phase 1: Base Rebuild — PHASE GATE WEEK)*
 
-**Phase 1 gate assessment at end of Week 4.** All gate criteria checked after Sun 19 Apr. If passed → Phase 2 begins Monday 20 April.
+**Week 4 objective:** Complete the 4km tempo missed last Thursday. Same 4:26/km target — this is the step-up session. Then Sunday's 10km is the Phase 1 gate run.
+
+---
+
+### Tuesday 14 April — BARRY'S
+
+6/10 effort. HR avg <155 BPM. Jumping lunges can return cautiously if the VMO is 100% pain-free. Check cold symptoms are fully cleared before pushing intensity.
+
+---
+
+### Thursday 16 April — TEMPO *(4km step-up — carried from W3)*
+
+| Component | Detail |
+|-----------|--------|
+| Warmup | 1km @ 5:45/km |
+| Main set | **4km @ 4:26/km** |
+| Cooldown | 1km @ 5:45/km |
+| **Total** | **6km** |
+
+**HR target:** 168-175 BPM. Four even splits at 4:26. This is the first 4km threshold session of the cycle — the extra km vs the 3km sessions means the cost of going out too fast on km1 is higher. Hold 4:26 from the first step.
+
+---
+
+### Sunday 19 April — LONG RUN *(Phase 1 gate run)*
+
+| Component | Detail |
+|-----------|--------|
+| Total | **10km @ 5:45/km** |
+
+**HR target:** <150 BPM. This run needs to feel **comfortable** — not a grind. Given Sunday's 10km at avg 138 BPM, this should be very manageable. If it feels controlled → Phase 2 starts Monday 20 April.
+
+---
+
+### Week 4 Log Entries
+
+**Tuesday 14 Apr:** Effort: ___ | Avg HR: ___ | Notes: ___
+
+**Thursday 16 Apr:**
+- Splits: WU ___ / T1 ___ / T2 ___ / T3 ___ / T4 ___ / CD ___
+- Tempo avg: ___ | HR: ___ / ___ / ___ / ___ | Max: ___
+
+**Sunday 19 Apr:**
+- Splits: ___ | Avg pace: ___ | Avg HR: ___ | Max HR: ___
+
+---
+
+### Phase 1 Gate (after Sunday 19 Apr)
+
+- [ ] 4km @ 4:26/km feeling "hard but sustainable"
+- [ ] HR 168-175 BPM, drift <6 BPM across 4km
+- [ ] 10km easy — comfortable, HR <150
+- [ ] 100% clear of illness symptoms
+- [ ] Zero illness days in W4
+
+**Gate passed → Phase 2 starts Mon 20 April**
+**Gate failed → Extend Phase 1 one week**
 
 *Update this file each Monday with the upcoming week's plan.*
