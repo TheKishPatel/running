@@ -8,13 +8,15 @@
 
 | Phase | Weeks | Dates | Status | Gate Passed |
 |-------|-------|-------|--------|-------------|
-| Pre-training | — | Fri 20 – Wed 25 Mar | 🔄 IN PROGRESS | — |
-| Phase 1: Base Rebuild | 1-4 | Thu 26 Mar – Sun 19 Apr | ⏳ Upcoming | — |
-| Phase 2: Threshold Development | 5-8 | Mon 20 Apr – Sun 17 May | ⏳ Upcoming | — |
-| Phase 3: VO2max & Speed | 9-11 | Mon 18 May – Sun 7 Jun | ⏳ Upcoming | — |
-| Phase 4: Race Specific | 12-13 | Mon 8 Jun – Sun 21 Jun | ⏳ Upcoming | — |
-| Phase 5: Taper | 14 | Mon 22 Jun – Sat 27 Jun | ⏳ Upcoming | — |
+| Pre-training | — | Fri 20 – Wed 25 Mar | ✅ Complete | — |
+| Phase 1: Base Rebuild | 1-4+ext | Thu 26 Mar – Sun 26 Apr | 🔄 IN PROGRESS (gate ext.) | ⏳ pending 26 Apr |
+| Phase 2: Threshold Development | 5-8 | Mon 27 Apr – Sun 24 May | ⏳ Upcoming | — |
+| Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | ⏳ Upcoming | — |
+| Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ⏳ Upcoming ⚠️ 1 week only | — |
+| Phase 5: Taper | 13 | Mon 22 Jun – Sat 27 Jun | ⏳ Upcoming | — |
 | **RACE DAY** | — | **Sun 28 Jun 2026** | ⏳ Upcoming | — |
+
+⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) is now 1 week instead of 2. Phase 5 (Taper) unchanged.
 
 ---
 
@@ -35,47 +37,50 @@
 | W3 | 7 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
 | W3 | 9 Apr | Thu Tempo | 4km @ 4:26 | — | — | ⏭️ skipped | Illness Day 1: blocked nose, fatigue (~80% general / sub-50% for tempo). Correct call — protocol: rest Day 1 above-neck illness. W4 Thu adjusted to 4:26/km (first 4km step-up carried forward). |
 | W3 | 12 Apr | Sun Long | 10km @ 5:45 | 5:37/km avg | 138 BPM avg / 144 max | ✅ done | Best HR control yet. 10km at avg 138 BPM — lower than W2 9km (141 BPM). Clear aerobic improvement. |
-| W4 | 14 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W4 | 16 Apr | Thu Tempo | 4km @ 4:24 | | | ⏳ | |
-| W4 | 19 Apr | Sun Long | 10km @ 5:45 | | | ⏳ | |
+| W4 | 14 Apr | Tue Barry's | 6/10 | — | — | ⏳ data pending | Illness hit Thu — Barry's likely completed, no data |
+| W4 | 16 Apr | Thu Tempo | 4km @ 4:26 | — | — | ⏭️ skipped | Illness — throat symptoms + headaches + disrupted sleep. Gate tempo carried forward to W4 ext (Thu 23 Apr) |
+| W4 | 19 Apr | Sun Long | 10km @ 5:45 | — | — | ⏭️ skipped | Illness recovery rest. Gate run carried forward to W4 ext (Sun 26 Apr) |
+| W4 ext | 21 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W4 ext | 23 Apr | Thu Tempo | 4km @ 4:26 | | | ⏳ | |
+| W4 ext | 26 Apr | Sun Long | 10km @ 5:45 | | | ⏳ | |
 
 ### Phase 1 Gate Criteria
-*Complete at end of Week 4 before advancing to Phase 2*
+*Complete at end of W4 extension (Sun 26 Apr) before advancing to Phase 2*
 
-- [ ] 4km @ 4:24/km — feeling "hard but sustainable" (not wretched)
-- [ ] HR during 4:24/km: 168-172 BPM (controlled)
-- [ ] HR drift during 4km tempo: <5%
-- [ ] 10km easy @ 5:45/km — comfortable
-- [ ] Zero illness interruptions ⚠️ *1 session skipped (Thu 9 Apr) — illness Day 1. Minor if resolved quickly.*
+- [ ] 4km @ 4:26/km — feeling "hard but sustainable" (not wretched)
+- [ ] HR during 4:26/km: 168-175 BPM (controlled)
+- [ ] HR drift during 4km tempo: <6 BPM
+- [ ] 10km easy @ 5:45/km — comfortable, HR <150
+- [ ] Illness cleared ⚠️ *2 sessions skipped (Thu 9 Apr + Thu 16 Apr + Sun 19 Apr) — illness disruption*
 - [ ] Consistent pace discipline on easy runs
 
 **Phase 1 Gate Decision:**
-- Date assessed: ___
-- Gate passed: YES / NO
-- Notes: ___
+- Date assessed: 26 Apr 2026 (pending)
+- Gate passed: TBD
+- Notes: Strong aerobic evidence (W3 10km @ 138 BPM avg) suggests base is solid despite missed quality sessions
 
 ---
 
 ## Phase 2: Threshold Development
-**Dates:** Mon 20 Apr – Sun 17 May 2026
+**Dates:** Mon 27 Apr – Sun 24 May 2026 *(shifted 1 week — illness delay)*
 **Volume:** 30-35km/week
 
 ### Sessions Completed
 
 | Week | Date | Session | Planned | Actual Pace | Actual HR | Status | Notes |
 |------|------|---------|---------|-------------|-----------|--------|-------|
-| W5 | 21 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W5 | 23 Apr | Thu Tempo | 5km @ 4:22 | | | ⏳ | |
-| W5 | 26 Apr | Sun Long | 10km | | | ⏳ | |
-| W6 | 28 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W6 | 30 Apr | Thu Tempo | 5km @ 4:20 | | | ⏳ | |
-| W6 | 3 May | Sun Progressive | 11km | | | ⏳ | |
-| W7 | 5 May | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W7 | 7 May | Thu Tempo | 6km @ 4:18 | | | ⏳ | |
-| W7 | 10 May | Sun Progressive | 12km | | | ⏳ | |
-| W8 | 12 May | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W8 | 14 May | Thu BREAKTHROUGH | 2×3km @ 4:15 | | | ⏳ | |
-| W8 | 17 May | Sun Sustained | 11km @ 5:35 | | | ⏳ | |
+| W5 | 28 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W5 | 30 Apr | Thu Tempo | 5km @ 4:22 | | | ⏳ | |
+| W5 | 3 May | Sun Long | 10km | | | ⏳ | |
+| W6 | 5 May | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W6 | 7 May | Thu Tempo | 5km @ 4:20 | | | ⏳ | |
+| W6 | 10 May | Sun Progressive | 11km | | | ⏳ | |
+| W7 | 12 May | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W7 | 14 May | Thu Tempo | 6km @ 4:18 | | | ⏳ | |
+| W7 | 17 May | Sun Progressive | 12km | | | ⏳ | |
+| W8 | 19 May | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W8 | 21 May | Thu BREAKTHROUGH | 2×3km @ 4:15 | | | ⏳ | |
+| W8 | 24 May | Sun Sustained | 11km @ 5:35 | | | ⏳ | |
 
 ### Threshold Progression Tracker
 
@@ -107,23 +112,23 @@
 ---
 
 ## Phase 3: VO2max & Speed
-**Dates:** Mon 18 May – Sun 7 Jun 2026
+**Dates:** Mon 25 May – Sun 14 Jun 2026 *(shifted 1 week — illness delay)*
 **Volume:** 35-40km/week
-**🚨 Zero alcohol from 18 May**
+**🚨 Zero alcohol from 25 May**
 
 ### Sessions Completed
 
 | Week | Date | Session | Planned | Actual Pace | Actual HR | Status | Notes |
 |------|------|---------|---------|-------------|-----------|--------|-------|
-| W9 | 19 May | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W9 | 21 May | Thu Intervals | 6×800m @ 4:00 | | | ⏳ | |
-| W9 | 24 May | Sun Sustained | 12km @ 5:30 | | | ⏳ | |
-| W10 | 26 May | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W10 | 28 May | Thu Intervals | 5×1200m @ 4:02 | | | ⏳ | |
-| W10 | 31 May | Sun Sustained | 12km @ 5:30 | | | ⏳ | |
-| W11 | 2 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W11 | 4 Jun | Thu Intervals | 4×1600m @ 4:03 | | | ⏳ | |
-| W11 | 7 Jun | Sun Easy | 11km @ 5:35 | | | ⏳ | |
+| W9 | 26 May | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W9 | 28 May | Thu Intervals | 6×800m @ 4:00 | | | ⏳ | |
+| W9 | 31 May | Sun Sustained | 12km @ 5:30 | | | ⏳ | |
+| W10 | 2 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W10 | 4 Jun | Thu Intervals | 5×1200m @ 4:02 | | | ⏳ | |
+| W10 | 7 Jun | Sun Sustained | 12km @ 5:30 | | | ⏳ | |
+| W11 | 9 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W11 | 11 Jun | Thu Intervals | 4×1600m @ 4:03 | | | ⏳ | |
+| W11 | 14 Jun | Sun Easy | 11km @ 5:35 | | | ⏳ | |
 
 ### Phase 3 Gate Criteria
 
@@ -141,19 +146,17 @@
 ---
 
 ## Phase 4: Race Specific
-**Dates:** Mon 8 Jun – Sun 21 Jun 2026
+**Dates:** Mon 15 Jun – Sun 21 Jun 2026 *(compressed to 1 week — illness delay)*
 **Volume:** 30-35km/week
+**⚠️ Originally 2 weeks — now 1 week. Combine key race-specific sessions.**
 
 ### Sessions Completed
 
 | Week | Date | Session | Planned | Actual Pace | Actual HR | Status | Notes |
 |------|------|---------|---------|-------------|-----------|--------|-------|
-| W12 | 9 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W12 | 11 Jun | Thu Race Pace | 3×1600m @ 4:00 | | | ⏳ | |
-| W12 | 14 Jun | Sun Easy | 8km @ 5:40 | | | ⏳ | |
-| W13 | 16 Jun | Tue Easy/Rest | Easy 4km or rest | | | ⏳ | |
-| W13 | 18 Jun | Thu Race Rehearsal | 2×2000m @ 3:58 | | | ⏳ | |
-| W13 | 21 Jun | Sun Easy | 8km @ 5:40 | | | ⏳ | |
+| W12 | 16 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W12 | 18 Jun | Thu Race Rehearsal | 2×2000m @ 3:58 | | | ⏳ | Combined from W12+W13 |
+| W12 | 21 Jun | Sun Easy | 8km @ 5:40 | | | ⏳ | |
 
 ### Sub-20 Readiness Assessment (after Week 12 Thursday)
 
@@ -202,7 +205,7 @@
 
 | Start Date | End Date | Days Lost | Symptoms | Phase Impact | Phase Adjustment |
 |------------|----------|-----------|----------|--------------|-----------------|
-| 9 Apr 2026 | ongoing | TBD | Blocked nose, fatigue | Phase 1 W3 — Thu 4km tempo skipped (Day 1) | W4 Thu pace adjusted to 4:26/km (carries W3 step-up forward); monitor recovery before resuming quality |
+| 9 Apr 2026 | ~19 Apr 2026 | ~10 days | Blocked nose, fatigue → throat symptoms + headaches + disrupted sleep (daughter, 3am) | Phase 1 W3 Thu + W4 Thu + W4 Sun — 3 quality sessions lost. Gate week missed entirely. | Phase 1 extended one week (gate 26 Apr). Phase 2 shifted to 27 Apr. Phase 4 compressed from 2→1 week. |
 
 *Target: Zero entries in this table.*
 
@@ -216,15 +219,15 @@
 | 1 | 26-29 Mar | 13 | | | | |
 | 2 | 30 Mar-5 Apr | 25 | ~27km | 3 (Barry's + Tempo + Long) | 0 | |
 | 3 | 6-12 Apr | 28 | TBD | Barry's (7 Apr, data pending) + Tempo skipped (9 Apr — illness) + Long (12 Apr upcoming) | 1 illness day (9 Apr) | Tempo skipped. Long run still to come Sun 12 Apr |
-| 4 | 13-19 Apr | 30 | | | | |
-| 5 | 20-26 Apr | 32 | | | | |
-| 6 | 27 Apr-3 May | 34 | | | | |
-| 7 | 4-10 May | 33 | | | | |
-| 8 | 11-17 May | 32 | | | | |
-| 9 | 18-24 May | 35 | | | | |
-| 10 | 25-31 May | 36 | | | | |
-| 11 | 1-7 Jun | 32 | | | | |
-| 12 | 8-14 Jun | 28 | | | | |
-| 13 | 15-21 Jun | 25 | | | | |
-| 14 | 22-28 Jun | 15 | | | | |
+| 4 | 13-19 Apr | 30 | ~0 running | Barry's (data pending) + 2 skipped | 3-4 illness | Gate week missed — illness |
+| 4ext | 20-26 Apr | 12 | | | | Phase 1 gate extension week |
+| 5 | 27 Apr-3 May | 32 | | | | Phase 2 begins |
+| 6 | 4-10 May | 34 | | | | |
+| 7 | 11-17 May | 33 | | | | |
+| 8 | 18-24 May | 32 | | | | |
+| 9 | 25-31 May | 35 | | | | Phase 3 begins |
+| 10 | 1-7 Jun | 36 | | | | |
+| 11 | 8-14 Jun | 32 | | | | |
+| 12 | 15-21 Jun | 25 | | | | Phase 4 (1 week only) |
+| 13 | 22-28 Jun | 15 | | | | Phase 5 taper + race |
 | **Total** | | **~407km** | | | | |
