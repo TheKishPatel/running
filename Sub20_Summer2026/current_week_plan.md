@@ -62,10 +62,10 @@
 
 **Tuesday 21 Apr:** Effort: ___ | Avg HR: ___ | Notes: ___
 
-**Thursday 23 Apr:**
-- Splits: WU ___ / T1 ___ / T2 ___ / T3 ___ / T4 ___ / CD ___
-- Tempo avg: ___ | HR per km: ___ / ___ / ___ / ___ | Max: ___
-- Notes: ___
+**Thursday 23 Apr:** ✅ Done
+- Splits: WU 5:57 / T1 4:28 / T2 4:28 / T3 4:23 / T4 4:24 / CD 6:21
+- Tempo avg: 4:26/km | HR per km: 166 / 174 / 177 / 179 | Max: 184
+- Notes: Avg pace on target. No km1 blowup — first time this cycle. Second half pushed (km3-4 at 4:23-4:24) — drove HR above target. Drift 13 BPM. Gate tempo: partial ⚠️
 
 **Sunday 26 Apr:**
 - Splits: ___ | Avg pace: ___ | Avg HR: ___ | Max HR: ___

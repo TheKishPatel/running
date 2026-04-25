@@ -41,7 +41,7 @@
 | W4 | 16 Apr | Thu Tempo | 4km @ 4:26 | — | — | ⏭️ skipped | Illness — throat symptoms + headaches + disrupted sleep. Gate tempo carried forward to W4 ext (Thu 23 Apr) |
 | W4 | 19 Apr | Sun Long | 10km @ 5:45 | — | — | ⏭️ skipped | Illness recovery rest. Gate run carried forward to W4 ext (Sun 26 Apr) |
 | W4 ext | 21 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W4 ext | 23 Apr | Thu Tempo | 4km @ 4:26 | | | ⏳ | |
+| W4 ext | 23 Apr | Thu Tempo | 4km @ 4:26 | 4:26/km avg | 165 BPM avg / 184 max | ⚠️ done | No km1 blowup (first time). Splits: 4:28/4:28/4:23/4:24. HR per km: 166/174/177/179. Drift 13 BPM — exceeded target. Km3-4 too fast drove HR above zone. |
 | W4 ext | 26 Apr | Sun Long | 10km @ 5:45 | | | ⏳ | |
 
 ### Phase 1 Gate Criteria
@@ -90,7 +90,8 @@
 | W1 Fri (27 Mar) | 3km tempo | 4:25/km avg | 169 BPM avg / 176 max | Re-entry. Km2 too fast (4:21) caused km3 spike. HR drift 12 BPM. |
 | W2 Thu (2 Apr) | 3km tempo | 4:27/km avg | 166 BPM avg / 168 max | Under Barry's fatigue. Self-corrected after fast km1. HR drift 5 BPM — significant improvement. |
 | W2 Sun (5 Apr) | 9.08km easy long | 5:47/km avg | 141 BPM avg / 146 BPM max | W2 long run. Zone 2 dominant. Good HR control throughout. |
-| *W3 Thu (9 Apr)* | 4km tempo | | | |
+| *W3 Thu (9 Apr)* | 4km tempo | — | — | Skipped — illness |
+| W4 ext Thu (23 Apr) | 4km tempo | 4:26/km avg | 165 BPM avg / 184 max | No km1 blowup ✅. Splits 4:28/4:28/4:23/4:24 — second half too fast. Drift 13 BPM ❌ |
 | *W5 Thu (23 Apr)* | 5km tempo | | | |
 | *W7 Thu (7 May)* | 6km tempo | | | |
 | *W8 Thu (14 May)* | 2×3km | | | |
