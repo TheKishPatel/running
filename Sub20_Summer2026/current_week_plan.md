@@ -1,75 +1,63 @@
 # Current Week Plan
 
-*Last updated: 20 April 2026*
+*Last updated: 26 April 2026*
 
 ---
 
-## Phase 1 Gate Completion (W4 Extension)
-**Mon 20 Apr – Sun 26 Apr 2026**
+## Week 5: Phase 2 — Threshold Development
+**Mon 27 Apr – Sun 3 May 2026**
 
-**Context:** W4 gate week disrupted by illness — Thu 16 Apr tempo and Sun 19 Apr gate run both missed. Phase 1 gate not completed. This week finishes the gate. Phase 2 starts Mon 27 Apr.
-
-**Calendar note:** One week behind original schedule. Phase 4 (Race Specific) compresses from 2 weeks to 1 week (15–21 Jun). Still workable.
+**Objective:** Phase 2 opens. First step-up to 5km tempo. Establish the pacing discipline needed for the next four weeks of increasing pace and volume.
 
 ---
 
-### Tuesday 21 April — BARRY'S
+### Tuesday 28 April — BARRY'S
 
-6/10 effort. HR avg <155 BPM. Walking lunges only if VMO is still cautious — back to jumping lunges if it's been pain-free the last two sessions.
+6/10 effort. HR avg <155 BPM. VMO should be clear — return to jumping lunges if pain-free. If any doubt, one more session of walking lunges.
 
 ---
 
-### Thursday 23 April — GATE TEMPO
+### Thursday 30 April — TEMPO
 
 | Component | Detail |
 |-----------|--------|
 | Warmup | 1km @ 5:45/km |
-| Main set | **4km @ 4:26/km** |
+| Main set | **5km @ 4:22/km** |
 | Cooldown | 1km @ 5:45/km |
-| **Total** | **6km** |
+| **Total** | **7km** |
 
 **HR target:** 168-175 BPM  
-**Watch alert:** 4:30/km (nearest 0.10 below target)  
-**Even splits — 4:26 / 4:26 / 4:26 / 4:26.** This session has been missed twice (W3 illness, W4 illness). Set the watch alert, hold it from the first step. If km1 feels easy at 4:26, that is correct.
+**Watch alert:** 4:20/km (nearest 0.10 below 4:22)  
+**Even splits — 4:22 / 4:22 / 4:22 / 4:22 / 4:22.**
 
-**What good looks like:** All four kms 4:25-4:28, HR building 167→172-174, drift <6 BPM, finished feeling like there was one more km in the tank.
+Km1 was held correctly on Thursday 23 Apr for the first time. That continues. The issue was km3-4 creeping to 4:23 — at 4:22 target that same instinct tips you over, not under. Hold it flat all five. If it feels manageable at 4:22, that's correct.
+
+**What good looks like:** All five kms 4:21-4:24, HR building to 172-174 by km4-5, drift <6 BPM, finished with one more km in the tank.
 
 ---
 
-### Sunday 26 April — LONG RUN (Phase 1 Gate)
+### Sunday 3 May — LONG RUN
 
 | Component | Detail |
 |-----------|--------|
-| Total | **10km @ 5:45/km** |
+| Total | **10km — HR governed** |
 
-**HR target:** <150 BPM. Comfortable — not a grind. You ran 10km at 138 BPM avg on 12 Apr. Same approach.
-
----
-
-### Gate Criteria (after Sunday 26 Apr)
-
-- [x] 4km @ 4:26/km — ⚠️ avg correct, HR drifted in km3-4
-- [x] 10km easy — comfortable, HR <150 ✅ (144 avg / 153 max)
-- [x] 100% clear of illness ✅
-
-**✅ GATE PASSED — Phase 2 starts Mon 27 April**
+**HR target:** <150 BPM. No pace target. Let the aerobic engine run where it wants inside the HR ceiling. Your easy pace has been sitting around 5:31/km at 144 BPM — expect similar.
 
 ---
 
-### Week Log
+### Week 5 Log
 
-**Tuesday 21 Apr:** Effort: ___ | Avg HR: ___ | Notes: ___
+**Tuesday 28 Apr:** Effort: ___ | Avg HR: ___ | Notes: ___
 
-**Thursday 23 Apr:** ✅ Done
-- Splits: WU 5:57 / T1 4:28 / T2 4:28 / T3 4:23 / T4 4:24 / CD 6:21
-- Tempo avg: 4:26/km | HR per km: 166 / 174 / 177 / 179 | Max: 184
-- Notes: Avg pace on target. No km1 blowup — first time this cycle. Second half pushed (km3-4 at 4:23-4:24) — drove HR above target. Drift 13 BPM. Gate tempo: partial ⚠️
+**Thursday 30 Apr:**
+- Splits: WU ___ / T1 ___ / T2 ___ / T3 ___ / T4 ___ / T5 ___ / CD ___
+- Tempo avg: ___ | HR per km: ___ / ___ / ___ / ___ / ___ | Max: ___
+- Notes: ___
 
-**Sunday 26 Apr:** ✅ Done
-- Splits: 5:50 / 5:26 / 5:11 / 5:19 / 5:23 / 5:22 / 5:28 / 5:36 / 5:35 / 5:57
-- Avg pace: 5:31/km | Avg HR: 144 BPM | Max HR: 153 BPM
-- Zone 2: 49:12 | Zone 3: 0:38 | Zone 4+5: 0:00
-- Notes: Gate run PASSED ✅. HR controlled throughout — 144 avg, 153 max, zero Zone 4+5. Pace 14sec/km faster than target but HR governed correctly. Aerobic fitness continuing to develop.
+**Sunday 3 May:**
+- Splits: ___ | Avg pace: ___ | Avg HR: ___ | Max HR: ___
+- Notes: ___
 
 ---
 
@@ -88,3 +76,6 @@
 | W4 | 14 Apr | Barry's | 6/10 | — | — | ⏳ data pending |
 | W4 | 16 Apr | Tempo 4km | 4:26/km | — | — | ❌ Skipped — illness |
 | W4 | 19 Apr | Long 10km | 5:45/km | — | — | ❌ Skipped — rest |
+| W4x | 21 Apr | Barry's | 6/10 | — | — | ⏳ data pending |
+| W4x | 23 Apr | Tempo 4km | 4:26/km | 4:26 avg | 165/184 | ⚠️ Pace correct; HR drifted km3-4 |
+| W4x | 26 Apr | Long 10km | 5:45/km | 5:31 avg | 144/153 | ✅ Gate PASSED — Zone 2 dominant |
