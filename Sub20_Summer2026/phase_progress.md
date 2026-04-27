@@ -9,8 +9,8 @@
 | Phase | Weeks | Dates | Status | Gate Passed |
 |-------|-------|-------|--------|-------------|
 | Pre-training | — | Fri 20 – Wed 25 Mar | ✅ Complete | — |
-| Phase 1: Base Rebuild | 1-4+ext | Thu 26 Mar – Sun 26 Apr | 🔄 IN PROGRESS (gate ext.) | ⏳ pending 26 Apr |
-| Phase 2: Threshold Development | 5-8 | Mon 27 Apr – Sun 24 May | ⏳ Upcoming | — |
+| Phase 1: Base Rebuild | 1-4+ext | Thu 26 Mar – Sun 26 Apr | ✅ Complete | ✅ 26 Apr |
+| Phase 2: Threshold Development | 5-8 | Mon 27 Apr – Sun 24 May | 🔄 IN PROGRESS | — |
 | Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | ⏳ Upcoming | — |
 | Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ⏳ Upcoming ⚠️ 1 week only | — |
 | Phase 5: Taper | 13 | Mon 22 Jun – Sat 27 Jun | ⏳ Upcoming | — |
@@ -42,7 +42,7 @@
 | W4 | 19 Apr | Sun Long | 10km @ 5:45 | — | — | ⏭️ skipped | Illness recovery rest. Gate run carried forward to W4 ext (Sun 26 Apr) |
 | W4 ext | 21 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
 | W4 ext | 23 Apr | Thu Tempo | 4km @ 4:26 | 4:26/km avg | 165 BPM avg / 184 max | ⚠️ done | No km1 blowup (first time). Splits: 4:28/4:28/4:23/4:24. HR per km: 166/174/177/179. Drift 13 BPM — exceeded target. Km3-4 too fast drove HR above zone. |
-| W4 ext | 26 Apr | Sun Long | 10km @ 5:45 | | | ⏳ | |
+| W4 ext | 26 Apr | Sun Long | 10km @ 5:45 | 5:31/km avg | 144 BPM avg / 153 max | ✅ done | Gate run. Zone 2: 49:12, Zone 4+5: 0:00. Pace 14sec/km faster than target but HR completely controlled. Post-workout: 137→105→94 BPM. Gate PASSED. |
 
 ### Phase 1 Gate Criteria
 *Complete at end of W4 extension (Sun 26 Apr) before advancing to Phase 2*
@@ -55,9 +55,9 @@
 - [ ] Consistent pace discipline on easy runs
 
 **Phase 1 Gate Decision:**
-- Date assessed: 26 Apr 2026 (pending)
-- Gate passed: TBD
-- Notes: Strong aerobic evidence (W3 10km @ 138 BPM avg) suggests base is solid despite missed quality sessions
+- Date assessed: 26 Apr 2026
+- Gate passed: ✅ YES
+- Notes: 10km gate run at 144 BPM avg / 153 max — HR controlled, Zone 2 dominant (49:12). Tempo avg pace 4:26 met; HR drifted in second half (⚠️ HR control item to carry into Phase 2). Illness cleared. Phase 2 begins Mon 27 Apr.
 
 ---
 

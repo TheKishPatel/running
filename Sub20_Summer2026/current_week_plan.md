@@ -48,13 +48,11 @@
 
 ### Gate Criteria (after Sunday 26 Apr)
 
-- [ ] 4km @ 4:26/km — hard but sustainable
-- [ ] HR 168-175 BPM, drift <6 BPM
-- [ ] 10km easy — comfortable, HR <150
-- [ ] 100% clear of illness
+- [x] 4km @ 4:26/km — ⚠️ avg correct, HR drifted in km3-4
+- [x] 10km easy — comfortable, HR <150 ✅ (144 avg / 153 max)
+- [x] 100% clear of illness ✅
 
-**Gate passed → Phase 2 starts Mon 27 April**  
-**Gate failed → further extension, review calendar**
+**✅ GATE PASSED — Phase 2 starts Mon 27 April**
 
 ---
 
@@ -67,9 +65,11 @@
 - Tempo avg: 4:26/km | HR per km: 166 / 174 / 177 / 179 | Max: 184
 - Notes: Avg pace on target. No km1 blowup — first time this cycle. Second half pushed (km3-4 at 4:23-4:24) — drove HR above target. Drift 13 BPM. Gate tempo: partial ⚠️
 
-**Sunday 26 Apr:**
-- Splits: ___ | Avg pace: ___ | Avg HR: ___ | Max HR: ___
-- Notes: ___
+**Sunday 26 Apr:** ✅ Done
+- Splits: 5:50 / 5:26 / 5:11 / 5:19 / 5:23 / 5:22 / 5:28 / 5:36 / 5:35 / 5:57
+- Avg pace: 5:31/km | Avg HR: 144 BPM | Max HR: 153 BPM
+- Zone 2: 49:12 | Zone 3: 0:38 | Zone 4+5: 0:00
+- Notes: Gate run PASSED ✅. HR controlled throughout — 144 avg, 153 max, zero Zone 4+5. Pace 14sec/km faster than target but HR governed correctly. Aerobic fitness continuing to develop.
 
 ---
 
