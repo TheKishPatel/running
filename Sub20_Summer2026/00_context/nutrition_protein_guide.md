@@ -1,8 +1,8 @@
 # Protein Guide — Sub-20 5K Campaign
 
 **Last updated:** April 2026  
-**Body weight:** 66–72 kg (using 69 kg midpoint)  
-**Daily protein target:** 124g (1.8g/kg — upper end of endurance athlete range)
+**Body weight:** 67.5 kg (confirmed April 2026)  
+**Daily protein target:** 122g (1.8g/kg — upper end of endurance athlete range)
 
 ---
 
@@ -14,7 +14,7 @@
 | Lunch | ~40g | ⚠️ Main gap — needs attention |
 | Dinner | ~35g | ✅ Flexible (home cooked) |
 | Pre-bed | ~15g training / ~10g rest | ✅ Established protocol |
-| **Total** | **~120–126g** | |
+| **Total** | **~120–122g** ✓ | |
 
 ---
 
