@@ -50,10 +50,12 @@ Km1 was held correctly on Thursday 23 Apr for the first time. That continues. Th
 
 **Tuesday 28 Apr:** Effort: ___ | Avg HR: ___ | Notes: ___
 
-**Thursday 30 Apr:**
-- Splits: WU ___ / T1 ___ / T2 ___ / T3 ___ / T4 ___ / T5 ___ / CD ___
-- Tempo avg: ___ | HR per km: ___ / ___ / ___ / ___ / ___ | Max: ___
-- Notes: ___
+**Tuesday 5 May:** ❌ Skipped — illness still present (phlegmy cough)
+
+**Thursday 7 May:** ✅ Done (re-entry — W6 moved here)
+- Splits: WU 5:50 / T1 4:26 / T2 4:28 / T3 4:27 / T4 4:28 / CD 7:22
+- Tempo avg: 4:27/km | HR per km: 156 / 172 / 180 / 185 | Max: 188
+- Notes: 4km not 5km — correct conservative call. Post-illness re-entry day 11. Dry cough x5, stitch km3, cough-wretch end. HR reflects deconditioning not regression. Got it done. ⚠️
 
 **Sunday 3 May:**
 - Splits: ___ | Avg pace: ___ | Avg HR: ___ | Max HR: ___

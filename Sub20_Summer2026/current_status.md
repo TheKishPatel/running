@@ -68,7 +68,7 @@ The lesson from Thursday 23 Apr carries directly: the issue wasn't km1 — that 
 | **Sun 24 May** | Phase 2 ends — gate assessment |
 | **Mon 25 May** | Phase 3 begins — **zero alcohol from here** |
 | Thu 18 Jun | Race Rehearsal: 2×2000m @ 3:58/km |
-| **Sun 28 Jun** | **RACE DAY — Target: Sub-20:00** |
+| **Sat 27 Jun** | **RACE DAY — Target: Sub-20:00** |
 
 ---
 

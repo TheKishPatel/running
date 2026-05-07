@@ -13,8 +13,8 @@
 | Phase 2: Threshold Development | 5-8 | Mon 27 Apr – Sun 24 May | 🔄 IN PROGRESS | — |
 | Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | ⏳ Upcoming | — |
 | Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ⏳ Upcoming ⚠️ 1 week only | — |
-| Phase 5: Taper | 13 | Mon 22 Jun – Sat 27 Jun | ⏳ Upcoming | — |
-| **RACE DAY** | — | **Sun 28 Jun 2026** | ⏳ Upcoming | — |
+| Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ⏳ Upcoming | — |
+| **RACE DAY** | — | **Sat 27 Jun 2026** | ⏳ Upcoming | — |
 
 ⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) is now 1 week instead of 2. Phase 5 (Taper) unchanged.
 
@@ -69,18 +69,21 @@
 
 | Week | Date | Session | Planned | Actual Pace | Actual HR | Status | Notes |
 |------|------|---------|---------|-------------|-----------|--------|-------|
-| W5 | 28 Apr | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W5 | 30 Apr | Thu Tempo | 5km @ 4:22 | | | ⏳ | |
-| W5 | 3 May | Sun Long | 10km | | | ⏳ | |
-| W6 | 5 May | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W6 | 7 May | Thu Tempo | 5km @ 4:20 | | | ⏳ | |
-| W6 | 10 May | Sun Progressive | 11km | | | ⏳ | |
+| W5 | 28 Apr | Tue Barry's | 6/10 | — | — | ⏭️ skipped | Illness (phlegmy cough) |
+| W5 | 30 Apr | Thu Tempo | 5km @ 4:22 | — | — | ⏭️ skipped | Illness (phlegmy cough) |
+| W5 | 3 May | Sun Long | 10km | — | — | ⏭️ skipped | Illness (phlegmy cough) |
+| W6 | 5 May | Tue Barry's | 6/10 | — | — | ⏭️ skipped | Illness still present |
+| W6 | 7 May | Thu Tempo | 4km @ 4:24 (re-entry) | 4:27/km avg | 162 BPM avg / 188 max | ⚠️ done | Post-illness re-entry day 11. 4km not 5km. Drift 29 BPM (156→185) — illness deconditioning. Dry cough x5, stitch km3, cough-wretch end. Pace conservative (4:27). Got it done. |
+| W6 | 10 May | Sun Easy | 8-10km easy | | | ⏳ | |
 | W7 | 12 May | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W7 | 14 May | Thu Tempo | 6km @ 4:18 | | | ⏳ | |
-| W7 | 17 May | Sun Progressive | 12km | | | ⏳ | |
+| W7 | 14 May | Thu Tempo | 5km @ 4:22 | | | ⏳ | ← compressed progression |
+| W7 | 17 May | Sun Progressive | 10-11km | | | ⏳ | |
 | W8 | 19 May | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W8 | 21 May | Thu BREAKTHROUGH | 2×3km @ 4:15 | | | ⏳ | |
-| W8 | 24 May | Sun Sustained | 11km @ 5:35 | | | ⏳ | |
+| W8 | 21 May | Thu Tempo | 5km @ 4:20 | | | ⏳ | ← compressed progression |
+| W8 | 24 May | Sun Sustained | 11km | | | ⏳ | |
+| W9 | 26 May | Tue Barry's | 6/10 | — | — | ⏳ | |
+| W9 | 28 May | Thu BREAKTHROUGH | 2×3km @ 4:15 | | | ⏳ | ← pushed 1 week into Phase 3 |
+| W9 | 31 May | Sun Easy | 10km | | | ⏳ | |
 
 ### Threshold Progression Tracker
 
@@ -171,21 +174,21 @@
 ---
 
 ## Phase 5: Taper
-**Dates:** Mon 22 Jun – Sat 27 Jun 2026
+**Dates:** Mon 22 Jun – Fri 26 Jun 2026
 
 ### Sessions Completed
 
 | Date | Session | Planned | Status | Notes |
 |------|---------|---------|--------|-------|
 | Tue 23 Jun | Easy | 5km @ 6:00 | ⏳ | |
-| Thu 25 Jun | Sharpness | 4×400m @ 3:50 | ⏳ | |
+| Thu 25 Jun | Sharpness | 4×400m @ 3:50 | ⏳ | 2 days before race — standard |
 | Fri 26 Jun | Rest | Complete rest | ⏳ | |
-| Sat 27 Jun | Rest | Complete rest | ⏳ | |
+| **Sat 27 Jun** | **RACE** | **Sub-20:00** | ⏳ | Key sleep: Thu night |
 
 ---
 
 ## Race Day
-**Sunday 28 June 2026**
+**Saturday 27 June 2026**
 
 | Metric | Target | Actual |
 |--------|--------|--------|
@@ -207,6 +210,7 @@
 | Start Date | End Date | Days Lost | Symptoms | Phase Impact | Phase Adjustment |
 |------------|----------|-----------|----------|--------------|-----------------|
 | 9 Apr 2026 | ~19 Apr 2026 | ~10 days | Blocked nose, fatigue → throat symptoms + headaches + disrupted sleep (daughter, 3am) | Phase 1 W3 Thu + W4 Thu + W4 Sun — 3 quality sessions lost. Gate week missed entirely. | Phase 1 extended one week (gate 26 Apr). Phase 2 shifted to 27 Apr. Phase 4 compressed from 2→1 week. |
+| 28 Apr 2026 | ~7 May 2026 | ~10 days | Sore throat → phlegmy cough | Phase 2 W5 fully lost (3 sessions). W6 Tue Barry's skipped. W6 Thu: re-entry only (4km @ 4:27). | Phase 2 tempo progression compressed: 4:22 → 4:20 → 4:15 breakthrough pushed to 28 May. Phase 3 start nudged to ~1 Jun. |
 
 *Target: Zero entries in this table.*
 
