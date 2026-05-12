@@ -1,23 +1,23 @@
 # Current Week Plan
 
-*Last updated: 26 April 2026*
+*Last updated: 12 May 2026*
 
 ---
 
-## Week 5: Phase 2 — Threshold Development
-**Mon 27 Apr – Sun 3 May 2026**
+## Week 7: Phase 2 — First Proper Tempo
+**Mon 11 May – Sun 17 May 2026**
 
-**Objective:** Phase 2 opens. First step-up to 5km tempo. Establish the pacing discipline needed for the next four weeks of increasing pace and volume.
-
----
-
-### Tuesday 28 April — BARRY'S
-
-6/10 effort. HR avg <155 BPM. VMO should be clear — return to jumping lunges if pain-free. If any doubt, one more session of walking lunges.
+**Objective:** First full Phase 2 quality session. Two illness episodes have compressed the progression — this Thursday is where it properly begins.
 
 ---
 
-### Thursday 30 April — TEMPO
+### Tuesday 12 May — BARRY'S ✅
+
+Avg HR 138 BPM / Max 178 BPM. Zone 3: 9:44, Zone 4: 1:03. Good session — solid without overcooking it 48hrs before tempo.
+
+---
+
+### Thursday 14 May — TEMPO
 
 | Component | Detail |
 |-----------|--------|
@@ -27,37 +27,35 @@
 | **Total** | **7km** |
 
 **HR target:** 168-175 BPM  
-**Watch alert:** 4:20/km (nearest 0.10 below 4:22)  
+**Watch alert:** pace 4:20/km + HR 175 BPM  
 **Even splits — 4:22 / 4:22 / 4:22 / 4:22 / 4:22.**
 
-Km1 was held correctly on Thursday 23 Apr for the first time. That continues. The issue was km3-4 creeping to 4:23 — at 4:22 target that same instinct tips you over, not under. Hold it flat all five. If it feels manageable at 4:22, that's correct.
+Km1 held correctly on 23 Apr and 7 May — keep that going. The issue on both previous sessions was the second half drifting faster. At 4:22 the margin is narrow. If km3-4 start feeling easy, that's the trap — hold 4:22, don't chase it down. If HR alert goes off, ease 4-5 sec/km and hold there.
 
-**What good looks like:** All five kms 4:21-4:24, HR building to 172-174 by km4-5, drift <6 BPM, finished with one more km in the tank.
+**What good looks like:** All five kms 4:21-4:24, HR building to 172-174 by km4-5, drift <8 BPM, finished with something left.
 
 ---
 
-### Sunday 3 May — LONG RUN
+### Sunday 17 May — LONG RUN
 
 | Component | Detail |
 |-----------|--------|
-| Total | **10km — HR governed** |
+| Total | **10-11km — HR governed** |
 
-**HR target:** <150 BPM. No pace target. Let the aerobic engine run where it wants inside the HR ceiling. Your easy pace has been sitting around 5:31/km at 144 BPM — expect similar.
+**HR target:** <150 BPM. No pace target. Let it settle where it wants.
 
 ---
 
-### Week 5 Log
+### Week 7 Log
 
-**Tuesday 28 Apr:** Effort: ___ | Avg HR: ___ | Notes: ___
+**Tuesday 12 May:** ✅ Avg HR 138 / Max 178 / Zones: Z1 15:33, Z2 18:51, Z3 9:44, Z4 1:03
 
-**Tuesday 5 May:** ❌ Skipped — illness still present (phlegmy cough)
+**Thursday 14 May:**
+- Splits: WU ___ / T1 ___ / T2 ___ / T3 ___ / T4 ___ / T5 ___ / CD ___
+- Tempo avg: ___ | HR per km: ___ / ___ / ___ / ___ / ___ | Max: ___
+- Notes: ___
 
-**Thursday 7 May:** ✅ Done (re-entry — W6 moved here)
-- Splits: WU 5:50 / T1 4:26 / T2 4:28 / T3 4:27 / T4 4:28 / CD 7:22
-- Tempo avg: 4:27/km | HR per km: 156 / 172 / 180 / 185 | Max: 188
-- Notes: 4km not 5km — correct conservative call. Post-illness re-entry day 11. Dry cough x5, stitch km3, cough-wretch end. HR reflects deconditioning not regression. Got it done. ⚠️
-
-**Sunday 3 May:**
+**Sunday 17 May:**
 - Splits: ___ | Avg pace: ___ | Avg HR: ___ | Max HR: ___
 - Notes: ___
 
@@ -67,17 +65,13 @@ Km1 was held correctly on Thursday 23 Apr for the first time. That continues. Th
 
 | Week | Date | Session | Planned | Actual | HR | Result |
 |------|------|---------|---------|--------|----|--------|
-| W1 | 27 Mar | Tempo 3km | 4:30/km | 4:25 avg | 169/176 | ⚠️ HR drift 12 BPM; km2 too fast |
+| W1 | 27 Mar | Tempo 3km | 4:30/km | 4:25 avg | 169/176 | ⚠️ HR drift 12 BPM |
 | W1 | 29 Mar | Long 8km | 5:50/km | 5:43 avg | 144/147 | ✅ HR controlled |
-| W2 | 31 Mar | Barry's | 6/10 | — | — | ⚠️ VMO twinge (jumping lunges) |
-| W2 | 2 Apr | Tempo 3km | 4:28/km | 4:27 avg | 166/168 | ✅ Drift 5 BPM — big improvement |
+| W2 | 2 Apr | Tempo 3km | 4:28/km | 4:27 avg | 166/168 | ✅ Drift 5 BPM |
 | W2 | 5 Apr | Long 9km | 5:50/km | 5:47 avg | 141/146 | ✅ Zone 2 dominant |
-| W3 | 7 Apr | Barry's | 6/10 | — | — | ⏳ data pending |
-| W3 | 9 Apr | Tempo 4km | 4:26/km | — | — | ❌ Skipped — illness |
 | W3 | 12 Apr | Long 10km | 5:45/km | 5:37 avg | 138/144 | ✅ Best HR yet |
-| W4 | 14 Apr | Barry's | 6/10 | — | — | ⏳ data pending |
-| W4 | 16 Apr | Tempo 4km | 4:26/km | — | — | ❌ Skipped — illness |
-| W4 | 19 Apr | Long 10km | 5:45/km | — | — | ❌ Skipped — rest |
-| W4x | 21 Apr | Barry's | 6/10 | — | — | ⏳ data pending |
 | W4x | 23 Apr | Tempo 4km | 4:26/km | 4:26 avg | 165/184 | ⚠️ Pace correct; HR drifted km3-4 |
-| W4x | 26 Apr | Long 10km | 5:45/km | 5:31 avg | 144/153 | ✅ Gate PASSED — Zone 2 dominant |
+| W4x | 26 Apr | Long 10km | 5:45/km | 5:31 avg | 144/153 | ✅ Gate PASSED |
+| W5 | all | — | — | — | — | ❌ Illness (3 sessions lost) |
+| W6 | 7 May | Tempo 4km | 4:24/km | 4:27 avg | 162/188 | ⚠️ Re-entry post-illness |
+| W6 | 10 May | Long 8km | easy | ~5:46 avg | 134/161* | ✅ Aerobic solid (*watch error km1) |
