@@ -82,4 +82,5 @@ Commit after each turn that changes files — don't batch. If identity needs set
 
 - `/log-session` — analyze a session, update the log and status, flag issues.
 - `/weekly-plan` — generate the coming week's plan from last week's data.
+- `/this-week` — read back the current week's plan (read-only, no generation).
 - `/health-check` — apply the illness decision rules and update health files.
