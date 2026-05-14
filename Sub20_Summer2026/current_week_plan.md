@@ -50,10 +50,10 @@ Km1 held correctly on 23 Apr and 7 May — keep that going. The issue on both pr
 
 **Tuesday 12 May:** ✅ Avg HR 138 / Max 178 / Zones: Z1 15:33, Z2 18:51, Z3 9:44, Z4 1:03
 
-**Thursday 14 May:**
-- Splits: WU ___ / T1 ___ / T2 ___ / T3 ___ / T4 ___ / T5 ___ / CD ___
-- Tempo avg: ___ | HR per km: ___ / ___ / ___ / ___ / ___ | Max: ___
-- Notes: ___
+**Thursday 14 May:** ✅ Done
+- Splits: WU 5:48 / T1 4:26 / T2 4:31 / T3 4:37 / T4 4:37 / T5 4:32 / CD 7:18
+- Tempo avg: 4:33/km | HR per km: 168 / 176 / 174 / 174 / 173 | Max: 180
+- Notes: 5km completed. Poor sleep prior night. HR managed correctly — backed off at 176, settled to 174→173. First correct HR trajectory this cycle. Pace gap = sleep tax not fitness. ⚠️
 
 **Sunday 17 May:**
 - Splits: ___ | Avg pace: ___ | Avg HR: ___ | Max HR: ___

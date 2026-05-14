@@ -76,7 +76,7 @@
 | W6 | 7 May | Thu Tempo | 4km @ 4:24 (re-entry) | 4:27/km avg | 162 BPM avg / 188 max | ⚠️ done | Post-illness re-entry day 11. 4km not 5km. Drift 29 BPM (156→185) — illness deconditioning. Dry cough x5, stitch km3, cough-wretch end. Pace conservative (4:27). Got it done. |
 | W6 | 10 May | Sun Easy | 8-10km easy | ~5:46/km true avg | 134 BPM avg / 161 max (km1 watch error) | ✅ done | Watch HR misread km1 (155 BPM false). Real avg ~130-136 BPM from km2. Zone 2 dominant. Aerobic base solid. |
 | W7 | 12 May | Tue Barry's | 6/10 | — | — | ✅ done | 138 BPM avg / 178 max. Zone 3: 9:44, Zone 4: 1:03. Good effort, not excessive 2 days before tempo. |
-| W7 | 14 May | Thu Tempo | 5km @ 4:22 | | | ⏳ | ← first proper Phase 2 tempo |
+| W7 | 14 May | Thu Tempo | 5km @ 4:22 | 4:33/km avg | 161 BPM avg / 180 max | ⚠️ done | First full 5km Phase 2 tempo. Poor sleep. HR managed correctly: backed off at 176, settled 174→174→173 — best HR trajectory this cycle. Pace gap (4:33 vs 4:22) = sleep cost. Zone 4: 21:35, Zone 5: 0:00. Retry 4:22 next Thu. |
 | W7 | 17 May | Sun Progressive | 10-11km | | | ⏳ | |
 | W8 | 19 May | Tue Barry's | 6/10 | — | — | ⏳ | |
 | W8 | 21 May | Thu Tempo | 5km @ 4:20 | | | ⏳ | ← compressed progression |
