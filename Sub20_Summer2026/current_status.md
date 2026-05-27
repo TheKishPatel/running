@@ -1,14 +1,15 @@
 # Current Status
 
-*Last updated: 26 April 2026*
+*Last updated: 27 May 2026*
 
 ---
 
-## Status: PHASE 2 — THRESHOLD DEVELOPMENT | WEEK 5
+## Status: PHASE 3 — RACE-SPECIFIC | WEEK 9
 
-**Phase 1 gate: ✅ PASSED (26 Apr)**  
-**Phase 2 start: Mon 27 April 2026**  
-**Last completed run:** Gate long run (26 Apr) — 10km @ 5:31/km avg, HR 144 BPM avg / 153 max. Zone 2 dominant.
+**Phase 1 gate: ✅ PASSED (26 Apr)**
+**Phase 2 gate: ✅ PASSED (26 May — delayed from 24 May)**
+**Phase 3 start: Tue 27 May 2026 (delayed 2 days)**
+**Last completed run:** Phase 2 gate long run (26 May) — 10km @ 5:48/km avg, HR 142 BPM avg / 152 max. Zone 2 dominant (51:25).
 
 ---
 
@@ -18,11 +19,11 @@
 |--------|-------|------|
 | 5K PB | **20:59** | 8 March 2026 |
 | Race pace | 4:12/km avg | |
-| Threshold pace | ~4:26/km | (W4 ext tempo: 4:26 avg @ 165 BPM — first 4km session) |
-| Easy pace | 5:31/km @ 144 BPM | (gate long run 26 Apr) |
+| Threshold pace | ~4:33/km (sleep-impaired) | W7 tempo 14 May — est. 4:22-4:26 when rested |
+| Easy pace | 5:48/km @ 142 BPM | Phase 2 gate 26 May |
 | Morning resting HR baseline | <55 BPM | |
 
-**Fitness note:** Aerobic base development is clear. Easy pace has shifted from 5:43-5:47/km @ 138-144 BPM (Phase 1 W1-W2) to ~5:31/km at the same HR range. That's ~12-16 sec/km improvement in aerobic efficiency across 5 weeks. Threshold work has been limited by illness but the one completed 4km session confirms the tempo engine is running. Phase 2 will establish whether that threshold pace can be pushed to 4:15-4:18/km range.
+**Fitness note:** Aerobic efficiency has regressed from the Phase 1 gate peak. Phase 1 gate (26 Apr): 5:31/km @ 144 BPM. Phase 2 gate (26 May): 5:48/km @ 142 BPM — that's ~17sec/km slower at similar HR, approximately back to W2 levels (early April). Two illness episodes, a hip contusion, and camping in 33°C heat explain the regression. The threshold engine has not been properly tested — the one full 5km tempo (14 May) was sleep-impaired at 4:33 vs 4:22 target. Phase 3 must re-establish the aerobic base quickly and build threshold work before the taper.
 
 ---
 
@@ -30,30 +31,25 @@
 
 | Zone | Current | Target | Gap |
 |------|---------|--------|-----|
-| Easy | ~5:31/km @ 144 BPM | 5:30-5:40/km | Essentially there |
-| Threshold | ~4:26/km | 4:12-4:15/km | 11-14 sec/km |
+| Easy | ~5:48/km @ 142 BPM | 5:30-5:40/km | 8-18 sec/km (regressed) |
+| Threshold | ~4:22/km (est, rested) | 4:12-4:15/km | 7-10 sec/km |
 | VO2max | 4:05-4:10/km (est) | 3:58-4:03/km | 7 sec/km |
 | Race pace | 4:12/km | 4:00/km | 12 sec/km |
 
 ---
 
-## This Week (Week 5: Mon 27 Apr – Sun 3 May)
+## This Week (Week 9: Mon 25 May – Sun 31 May 2026)
 
 | Session | Date | Status |
 |---------|------|--------|
-| Barry's | Tue 28 Apr | ⏳ Upcoming |
-| Tempo (5km @ 4:22/km) | Thu 30 Apr | ⏳ Upcoming |
-| Long Run | Sun 3 May | ⏳ Upcoming — 10km |
+| Long Run (Phase 2 gate) | Tue 26 May | ✅ Done — 10km, 5:48/km, 142 BPM |
+| Tempo retry 5km @ 4:22/km | Thu 28 May | ⏳ Upcoming |
+| Barry's | — | ❌ Closed for refurb this week |
+| Easy shakeout | Sun 31 May | ⏳ Optional |
 
 ### Key Focus This Week
 
-**Barry's (Tue 28 Apr):** 6/10 effort. HR avg <155 BPM. VMO should be clear by now — jumping lunges if pain-free.
-
-**Thursday Tempo (Thu 30 Apr):** 5km @ 4:22/km. Phase 2 opens. Watch alert 4:20 (nearest below). HR target 168-175 BPM.
-
-The lesson from Thursday 23 Apr carries directly: the issue wasn't km1 — that was held correctly. It was km3-4 push to 4:23-4:24. At 4:22/km target there's less margin. Hold the pace even — don't let the second half accelerate. If km2-4 feel easy at 4:22, that's correct.
-
-**Sunday Long Run (Sun 3 May):** 10km. HR-governed. Same approach as always.
+**Thursday Tempo (Thu 28 May):** 5km @ 4:22/km. Third attempt. Sleep is the variable — this has only failed due to poor sleep. Good sleep Wednesday night is non-negotiable. HR target 168-175 BPM. Watch alert 4:20. Even splits — 4:22 every km.
 
 ---
 
@@ -61,45 +57,32 @@ The lesson from Thursday 23 Apr carries directly: the issue wasn't km1 — that 
 
 | Date | What |
 |------|------|
-| **Tue 28 Apr** | Barry's — W5 |
-| **Thu 30 Apr** | **5km Tempo @ 4:22/km — Phase 2 opens** |
-| Sun 3 May | Long run 10km |
-| Thu 21 May | Breakthrough: 2×3km @ 4:15/km |
-| **Sun 24 May** | Phase 2 ends — gate assessment |
-| **Mon 25 May** | Phase 3 begins — **zero alcohol from here** |
+| **Thu 28 May** | Tempo retry — 5km @ 4:22/km |
+| **Mon 25 May** | **ZERO ALCOHOL from here — already in effect** |
 | Thu 18 Jun | Race Rehearsal: 2×2000m @ 3:58/km |
 | **Sat 27 Jun** | **RACE DAY — Target: Sub-20:00** |
 
----
-
-## Phase 2 Calendar (27 Apr – 24 May)
-
-| Week | Thu Tempo | Target |
-|------|-----------|--------|
-| W5 | 30 Apr | 5km @ 4:22/km |
-| W6 | 7 May | 5km @ 4:20/km |
-| W7 | 14 May | 6km @ 4:18/km |
-| W8 | 21 May | 2×3km @ 4:15/km (breakthrough) |
+**Days to race: 31**
 
 ---
 
-## Carry-Forward Notes (Phase 1 → Phase 2)
+## Phase 3 Overview (25 May – 27 Jun)
 
-**What's working:**
-- Km1 discipline on tempos: finally held it Thursday 23 Apr. That's a genuine behaviour change.
-- Aerobic base: strong. Easy pace improving weekly at same HR — body adapting well.
-- HR recovery: excellent (Thursday: 133→112→104; Sunday: 137→105→94 in 2 mins).
+Phase 3 is compressed due to illness and injury disruptions in Phase 2. 5 weeks remain. Priority order:
 
-**What needs work:**
-- Even splits on tempo: km3-4 pushed to 4:23-4:24 on Thursday. Drove HR above target (177/179). At Phase 2 paces this margin narrows — even splits matter more.
-- Warmup HR: hitting 151 BPM on warmup km Thursday suggests either starting too fast or running too late at night. Both recent runs were at 23:00+.
+1. **Establish clean threshold** — nail 5km @ 4:22 this Thursday, then progress
+2. **Rebuild easy pace** — weekly long runs to restore aerobic efficiency
+3. **VO2max stimulus** — introduce intervals from Week 10-11
+4. **Race rehearsal** — 18 Jun: 2×2000m @ 3:58/km
+5. **Taper** — final week before 27 Jun
 
 ---
 
 ## Active Injury Flag
 
-**VMO/inner quad twinge — 31 March 2026**
-- Status: Should be resolved. Clear to return to jumping lunges at Barry's if pain-free.
+**Hip contusion — 20 May 2026 (lime bike fall)**
+- Status: Ran 10km on 26 May without reported issues — likely resolved.
+- Monitor: Any recurrence of pain during Thursday tempo, flag immediately.
 
 ---
 
@@ -107,7 +90,14 @@ The lesson from Thursday 23 Apr carries directly: the issue wasn't km1 — that 
 
 - Any throat or chest symptoms → neck check protocol
 - Morning resting HR >60 BPM → rest day
-- Tempo km3+ pace creeping below 4:20/km → it's too fast, back off
+- Tempo km3+ pace creeping below 4:20/km → too fast, back off
+- Aerobic regression needs to reverse within 2-3 weeks or race target is at risk
+
+---
+
+## Alcohol — Phase 3 Protocol
+
+Zero alcohol from Mon 25 May. Race is 31 days away. No exceptions.
 
 ---
 
