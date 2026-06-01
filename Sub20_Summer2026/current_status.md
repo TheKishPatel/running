@@ -9,7 +9,7 @@
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May — delayed from 24 May)**
 **Phase 3 start: Tue 27 May 2026 (delayed 2 days)**
-**Last completed run:** Phase 2 gate long run (26 May) — 10km @ 5:48/km avg, HR 142 BPM avg / 152 max. Zone 2 dominant (51:25).
+**Last completed run:** Tempo attempt (30 May) — 5km @ 4:31/km avg, HR 164 BPM avg / 179 max. Warmup HR elevated (151 BPM). km2 drift to 4:18 caused HR spike. Backed off from km3. Partial.
 
 ---
 

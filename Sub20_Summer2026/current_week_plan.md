@@ -50,9 +50,9 @@ This is the third attempt at 5km @ 4:22. Both previous failures were sleep-relat
 
 **Tuesday 26 May:** ✅ Phase 2 gate. 10km | 5:48/km | 142 BPM avg / 152 max | Z2 dominant (51:25)
 
-**Thursday 28 May:**
-- Splits: ___ | Tempo avg: ___ | HR per km: ___ | Max: ___
-- Notes: ___
+**Thursday 28 May:** ❌ Rest — elevated morning HR (58-71 BPM). Correct call.
+
+**Friday 30 May:** ⚠️ Tempo attempted. WU 5:51 151bpm | T1 4:20 158 | T2 4:18 167 | T3 4:26 176 | T4 4:33 177 | T5 5:00 170 | CD 6:20. Tempo avg 4:31/km. HR max 179. Elevated warmup HR (151) — incomplete recovery from Wed sleep disruption. T2 at 4:18 blew HR budget. Backed off at 176 — correct. 5km completed but not clean.
 
 **Sunday 31 May:**
 - Notes: ___
