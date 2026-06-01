@@ -1,60 +1,77 @@
 # Current Week Plan
 
-*Last updated: 27 May 2026*
+*Last updated: 1 Jun 2026*
 
 ---
 
-## Week 9: Phase 3 Week 1
-**Mon 25 May – Sun 31 May 2026**
+## Week 10: Phase 3 Week 2 — First Intervals
+**Mon 1 Jun – Sun 7 Jun 2026**
 
-**Objective:** Phase 2 gate completed. Phase 3 now active. Nail the first clean 5km @ 4:22/km tempo. Zero alcohol from here.
+**Objective:** First VO2max interval session of the campaign. 26 days to race. Barry's returns after refurb. Aerobic base maintenance Sunday.
 
----
-
-### Tuesday 26 May — PHASE 2 GATE LONG RUN ✅
-
-10km @ 5:48/km avg | HR 142 BPM avg / 152 max
-Zone 1: 4:32 / Zone 2: 51:25 / Zone 3: 1:07 / Zone 4: 0:00 / Zone 5: 0:00
-Post-workout: 140→113→102 BPM
-
-Gate criteria met. Phase 2 PASSED. Aerobic fitness has regressed to ~W2 levels (5:48/km @ 142 vs 5:31/km @ 144 at Phase 1 gate) — illness and injury cost ~17sec/km. Phase 3 needs to rebuild this.
+**Race countdown:** 26 days
 
 ---
 
-### Thursday 28 May — TEMPO
+### Tuesday 2 Jun — BARRY'S (Lower Body)
+
+**First session back after 2-week gap (gym refurb).** Treat as a return session.
+
+- Effort: 6/10
+- HR avg target: <155 BPM
+- **Substitute walking lunges for jumping lunges — no exceptions.** Gap of 2 weeks = same risk as post-illness return.
+- Hip was healing — any recurrence of pain, stop and report.
+
+---
+
+### Thursday 4 Jun — VO2max INTERVALS
 
 | Component | Detail |
 |-----------|--------|
-| Warmup | 1km @ 5:45/km |
-| Main set | **5km @ 4:22/km** |
+| Warmup | 1km @ 5:45/km — let HR settle before starting reps |
+| Main set | **6×800m @ 4:02/km** |
+| Recovery | 90 seconds jog between reps |
 | Cooldown | 1km @ 5:45/km |
-| **Total** | **7km** |
+| **Total** | **~7.5km** |
 
-**HR target:** 168-175 BPM
-**Watch alert:** pace 4:20/km + HR 175 BPM
-**Even splits — 4:22 / 4:22 / 4:22 / 4:22 / 4:22.**
+**HR target:** 177-182+ BPM (reaching into Zone 5 on final reps is correct)
+**Watch alerts:** pace 4:00/km (fast limit) + HR 183 BPM
 
-This is the third attempt at 5km @ 4:22. Both previous failures were sleep-related. Sleep Wednesday night is the key variable — 7+ hours is non-negotiable. The fitness is there (HR trajectory on 14 May was the best this cycle). Legs should be well-recovered from Tuesday's easy long run.
+**This is the first interval session of the entire cycle.** Pace target is 4:02/km — each 800m rep takes ~3:14. That's significantly harder than the tempos. Expected feel: Rep 1 = 7/10. Rep 4-5 = 8-9/10. Rep 6 = wretched. That is the correct stimulus.
 
-**What good looks like:** All five kms 4:21-4:24, HR building to 172-174 by km4-5, finished with something left.
+**Pacing discipline:** The km2 blowup pattern from tempos must not replicate. Rep 1 must be exactly 4:02/km — not 3:57. If watch alert fires (4:00/km), back off immediately. Better to run 4:04/km and complete 6 reps than blast rep 1 at 3:55 and fold by rep 4.
 
----
+**Recovery check between reps:** After 90s jog, HR should be dropping toward 155 BPM. If HR is still >165 BPM after 90s on reps 3+, extend recovery to 120s.
 
-### Sunday 31 May — EASY SHAKEOUT (optional)
-
-30-40 min, HR <140 BPM. No pace target. Only if legs feel good. Skip if tired.
+**What good looks like:** All 6 reps at 4:00-4:05/km, HR building across reps to 177-183, final rep feels wretched, post-session recovery reasonably quick (HR drops 20-30 BPM in 2 minutes).
 
 ---
 
-### Week 9 Log
+### Sunday 7 Jun — EASY LONG RUN
 
-**Tuesday 26 May:** ✅ Phase 2 gate. 10km | 5:48/km | 142 BPM avg / 152 max | Z2 dominant (51:25)
+| Component | Detail |
+|-----------|--------|
+| Warmup | 2km @ 6:00/km |
+| Main set | **8km @ 5:35/km** |
+| Cooldown | 1km @ 6:00/km |
+| **Total** | **11km** |
 
-**Thursday 28 May:** ❌ Rest — elevated morning HR (58-71 BPM). Correct call.
+**HR target:** <150 BPM throughout
+**Zone target:** Zone 2 dominant (133-150 BPM)
 
-**Friday 30 May:** ⚠️ Tempo attempted. WU 5:51 151bpm | T1 4:20 158 | T2 4:18 167 | T3 4:26 176 | T4 4:33 177 | T5 5:00 170 | CD 6:20. Tempo avg 4:31/km. HR max 179. Elevated warmup HR (151) — incomplete recovery from Wed sleep disruption. T2 at 4:18 blew HR budget. Backed off at 176 — correct. 5km completed but not clean.
+Target 5:35/km — 13 sec/km faster than the Phase 2 gate run (5:48/km), same HR budget. This should be achievable if aerobic fitness is tracking. HR governor: if approaching 148-150 BPM, ease off pace. Do not push to hold 5:35 if HR won't allow it.
 
-**Sunday 31 May:**
+---
+
+### Week 10 Log
+
+**Tuesday 2 Jun:**
+- Notes: ___
+
+**Thursday 4 Jun:**
+- Notes: ___
+
+**Sunday 7 Jun:**
 - Notes: ___
 
 ---
@@ -74,8 +91,8 @@ This is the third attempt at 5km @ 4:22. Both previous failures were sleep-relat
 | W6 | 7 May | Tempo 4km | 4:24/km | 4:27 avg | 162/188 | ⚠️ Re-entry post-illness |
 | W6 | 10 May | Long 8km | easy | ~5:46 avg | 134/161* | ✅ Aerobic solid (*watch error km1) |
 | W7 | 12 May | Barry's | — | — | 138/178 | ✅ Solid |
-| W7 | 14 May | Tempo 5km | 4:22/km | 4:33 avg | 161/180 | ⚠️ Sleep-impaired. Retry. |
-| W7 | 17 May | Long run | — | — | — | ❌ Missed (camping) |
+| W7 | 14 May | Tempo 5km | 4:22/km | 4:33 avg | 161/180 | ⚠️ Sleep-impaired. HR managed well. |
 | W8 | 21 May | Tempo | 4:22/km | — | — | ❌ Skipped (hip injury) |
-| W8 | 24 May | Long (P2 gate) | easy | — | — | ❌ Missed (camping) |
 | W9 | 26 May | Long 10km (P2 gate) | easy | 5:48 avg | 142/152 | ✅ Gate PASSED |
+| W9 | 28 May | Tempo | 4:22/km | REST | — | ❌ Elevated morning HR |
+| W9 | 30 May | Tempo (rescheduled) | 4:22/km | 4:31 avg | 164/179 | ⚠️ km2 at 4:18 blew HR budget |
