@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 1 Jun 2026*
+*Last updated: 4 Jun 2026*
 
 ---
 
@@ -9,7 +9,7 @@
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** Tempo attempt (30 May) — 5km @ 4:31/km avg, HR 164/179. km2 at 4:18 blew HR budget. 5th tempo without clean even splits.
+**Last completed run:** 6×800m intervals (4 Jun) — all reps done @ 4:07-4:10/km avg, HR 157 BPM avg / 178 max. Walked recovery to <140 BPM. Zone 5: 00:00. First interval session — baseline set.
 
 ---
 
@@ -33,7 +33,7 @@
 |------|---------|--------|-----|
 | Easy | ~5:48/km @ 142 BPM | 5:30-5:40/km | 8-18 sec/km |
 | Threshold | ~4:24/km est (rested) | 4:12-4:15/km | 9-12 sec/km |
-| VO2max | Not yet tested | 3:58-4:03/km | TBD |
+| VO2max | ~4:07-4:10/km @ 178 BPM (full recovery, W10) | 3:58-4:03/km | TBD — higher with jog recovery |
 | Race pace | 4:12/km | 4:00/km | 12 sec/km |
 
 ---
@@ -42,15 +42,15 @@
 
 | Session | Date | Status |
 |---------|------|--------|
-| Barry's (lower body) | Tue 2 Jun | ⏳ First session back — walking lunges |
-| **First intervals: 6×800m @ 4:02/km** | Thu 4 Jun | ⏳ Key session |
+| Barry's (lower body) | Tue 2 Jun | ✅ Done |
+| **6×800m intervals** | Thu 4 Jun | ⚠️ All reps done @ 4:07-4:10/km. Underpaced + walked recovery. Zone 5: 00:00. |
 | Easy Long 11km @ 5:35/km | Sun 7 Jun | ⏳ |
 
 ### Key Focus This Week
 
-**Thursday Intervals (Thu 4 Jun):** 6×800m @ 4:02/km with 90s jog recovery. This is the first VO2max session of the cycle — the most important session of Week 10. Each rep = ~3:14. Rep 1 must be controlled (4:02, not 3:57). Watch alert at 4:00/km. Expect wretched by rep 6 — that is the correct stimulus.
+**Sunday Long (Sun 7 Jun):** 11km @ 5:35/km, HR <150 BPM. Zone 2 dominant. Target 13 sec/km faster than Phase 2 gate at same HR budget. HR governs — if approaching 150, ease off pace.
 
-**Barry's discipline:** First session back after 2-week refurb gap. Walking lunges only — no jumping lunges. Same rule as returning from illness or travel.
+**Next quality session — Thu 11 Jun:** 5×1200m @ 4:02/km, **90s jog recovery** (not walk). Each rep = 4:50. Expect Zone 5 from rep 3-4. Three corrections vs last session: (1) jog recovery, (2) 4:02/km lap average, (3) end warmup with 200m at effort to prime HR sensor.
 
 ---
 
@@ -64,7 +64,7 @@
 | **Mon 22 Jun** | Taper begins |
 | **Sat 27 Jun** | **RACE DAY — Target: Sub-20:00** |
 
-**Days to race: 26**
+**Days to race: 23**
 
 ---
 
