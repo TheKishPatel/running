@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 4 Jun 2026*
+*Last updated: 7 Jun 2026*
 
 ---
 
@@ -9,7 +9,7 @@
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** 6×800m intervals (4 Jun) — all reps done @ 4:07-4:10/km avg, HR 157 BPM avg / 178 max. Walked recovery to <140 BPM. Zone 5: 00:00. First interval session — baseline set.
+**Last completed run:** Easy long run (7 Jun) — 11km @ 5:30/km main set, HR 137 BPM avg / 150 max. Zone 2: 47:00. Zone 3+: 00:00. Best aerobic efficiency of campaign.
 
 ---
 
@@ -23,7 +23,7 @@
 | Easy pace | 5:48/km @ 142 BPM | Phase 2 gate 26 May |
 | Morning resting HR baseline | <55 BPM | |
 
-**Fitness note:** Aerobic engine is intact — Phase 2 gate run at 142 BPM was solid. Threshold has been repeatedly stimulated (5 tempo sessions in Phase 2-3) but never with clean even splits due to km2 blowup pattern + sleep disruptions. The body has had the threshold training load; the pacing execution has been the problem, not the fitness. Phase 3 now pivots to VO2max work — first interval session Thursday 4 Jun.
+**Fitness note:** Aerobic regression from Phase 2 illness/injury fully reversed. Easy pace baseline is now 5:30/km @ 140 BPM (7 Jun) — faster than Phase 1 gate (5:31/km @ 144 BPM) at lower HR. This is the best aerobic efficiency reading of the campaign. Threshold has been stimulated across 5 sessions; VO2max block now underway. Two key sessions remain before race rehearsal (11 Jun intervals, 18 Jun race rehearsal).
 
 ---
 
@@ -31,7 +31,7 @@
 
 | Zone | Current | Target | Gap |
 |------|---------|--------|-----|
-| Easy | ~5:48/km @ 142 BPM | 5:30-5:40/km | 8-18 sec/km |
+| Easy | **5:30/km @ 140 BPM** (7 Jun — best of campaign) | 5:30-5:40/km | ✅ At target |
 | Threshold | ~4:24/km est (rested) | 4:12-4:15/km | 9-12 sec/km |
 | VO2max | ~4:07-4:10/km @ 178 BPM (full recovery, W10) | 3:58-4:03/km | TBD — higher with jog recovery |
 | Race pace | 4:12/km | 4:00/km | 12 sec/km |
@@ -43,8 +43,8 @@
 | Session | Date | Status |
 |---------|------|--------|
 | Barry's (lower body) | Tue 2 Jun | ✅ Done |
-| **6×800m intervals** | Thu 4 Jun | ⚠️ All reps done @ 4:07-4:10/km. Underpaced + walked recovery. Zone 5: 00:00. |
-| Easy Long 11km @ 5:35/km | Sun 7 Jun | ⏳ |
+| 6×800m intervals | Thu 4 Jun | ⚠️ All reps done @ 4:07-4:10/km. Underpaced + walked recovery. Zone 5: 00:00. |
+| Easy Long 11km @ 5:35/km | Sun 7 Jun | ✅ 11km @ 5:30/km main set, 137 BPM avg / 150 max. Best aerobic efficiency of campaign. |
 
 ### Key Focus This Week
 
@@ -64,7 +64,7 @@
 | **Mon 22 Jun** | Taper begins |
 | **Sat 27 Jun** | **RACE DAY — Target: Sub-20:00** |
 
-**Days to race: 23**
+**Days to race: 20**
 
 ---
 
