@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 18 March 2026*
+*Last updated: 1 Jun 2026*
 
 ---
 
@@ -10,8 +10,8 @@
 |-------|-------|-------|--------|-------------|
 | Pre-training | — | Fri 20 – Wed 25 Mar | ✅ Complete | — |
 | Phase 1: Base Rebuild | 1-4+ext | Thu 26 Mar – Sun 26 Apr | ✅ Complete | ✅ 26 Apr |
-| Phase 2: Threshold Development | 5-8 | Mon 27 Apr – Sun 24 May | 🔄 IN PROGRESS | — |
-| Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | ⏳ Upcoming | — |
+| Phase 2: Threshold Development | 5-8 | Mon 27 Apr – Sun 24 May | ✅ Complete | ✅ 26 May |
+| Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | 🔄 IN PROGRESS | — |
 | Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ⏳ Upcoming ⚠️ 1 week only | — |
 | Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ⏳ Upcoming | — |
 | **RACE DAY** | — | **Sat 27 Jun 2026** | ⏳ Upcoming | — |
@@ -109,9 +109,9 @@
 - [ ] Zero illness interruptions
 
 **Phase 2 Gate Decision:**
-- Date assessed: ___
-- Gate passed: YES / NO
-- Notes: ___
+- Date assessed: 26 May 2026
+- Gate passed: ✅ YES
+- Notes: Gate run 10km @ 5:48/km, 142 BPM avg / 152 max. Zone 2 dominant (51:25). HR criteria met. Aerobic efficiency regressed vs Phase 1 gate (~17sec/km slower at similar HR) due to illness and hip injury disruptions. Threshold work delivered multiple stimuli (W6 re-entry, W7 sleep-impaired, W9 partial) though clean 4:22/km session not achieved. Advancing to Phase 3 given race proximity — 26 days remain.
 
 ---
 
@@ -124,14 +124,15 @@
 
 | Week | Date | Session | Planned | Actual Pace | Actual HR | Status | Notes |
 |------|------|---------|---------|-------------|-----------|--------|-------|
-| W9 | 26 May | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W9 | 28 May | Thu Intervals | 6×800m @ 4:00 | | | ⏳ | |
-| W9 | 31 May | Sun Sustained | 12km @ 5:30 | | | ⏳ | |
-| W10 | 2 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W10 | 4 Jun | Thu Intervals | 5×1200m @ 4:02 | | | ⏳ | |
-| W10 | 7 Jun | Sun Sustained | 12km @ 5:30 | | | ⏳ | |
+| W9 | 26 May | Tue Long (P2 gate) | 10km easy | 5:48/km | 142/152 | ✅ done | Phase 2 gate PASSED |
+| W9 | 28 May | Thu Tempo | 5km @ 4:22 | REST | — | ❌ skipped | Elevated morning HR (58-71 BPM). Correct rest. |
+| W9 | 30 May | Fri Tempo (rescheduled) | 5km @ 4:22 | 4:31/km avg | 164/179 | ⚠️ partial | km2 at 4:18 blew HR budget. WU HR elevated (151). 5km completed. Same blowup pattern. |
+| W9 | — | Barry's | 6/10 | — | — | ❌ closed | Gym refurb all week |
+| W10 | 2 Jun | Tue Barry's | 6/10 | — | — | ⏳ | First session back — walking lunges |
+| W10 | 4 Jun | Thu Intervals | 6×800m @ 4:02 | | | ⏳ | First interval session — regressed from 5×1200m to 6×800m |
+| W10 | 7 Jun | Sun Easy Long | 11km @ 5:35 | | | ⏳ | |
 | W11 | 9 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W11 | 11 Jun | Thu Intervals | 4×1600m @ 4:03 | | | ⏳ | |
+| W11 | 11 Jun | Thu Intervals | 5×1200m @ 4:02 | | | ⏳ | |
 | W11 | 14 Jun | Sun Easy | 11km @ 5:35 | | | ⏳ | |
 
 ### Phase 3 Gate Criteria
