@@ -69,7 +69,7 @@ Pure aerobic maintenance 48h after a hard VO2max session — keep it genuinely e
 ### Week 11 Log
 
 **Tuesday 9 Jun:**
-- Notes: ___
+- Notes: Skipped — upset stomach (GI) in the morning. Health-driven, correct call. Rest day. Thursday 5×1200m being monitored (Wed checkpoint).
 
 **Thursday 11 Jun:**
 - Notes: ___

@@ -109,6 +109,12 @@ Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2ma
 
 ---
 
+## Active Health Flag
+
+**9 Jun — GI upset (upset stomach, morning).** Barry's (Tue 9 Jun) skipped — correct, health-driven. Not the respiratory neck-check trigger, so no mandatory multi-day rest; rest today and don't train while symptomatic. **Watch:** the last VO2max session (Thu 11 Jun 5×1200m). Wed checkpoint — if settled, eating normally, no systemic symptoms → Thursday proceeds; if unsettled or systemic signs appear → move to Fri 13 Jun. Monitor for fever/aches/throat/chest (would escalate to full illness protocol) and prioritise rehydration/refuel.
+
+---
+
 ## Red Flags to Monitor
 
 - Any throat or chest symptoms → neck check protocol
