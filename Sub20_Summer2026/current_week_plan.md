@@ -1,53 +1,57 @@
 # Current Week Plan
 
-*Last updated: 1 Jun 2026*
+*Last updated: 9 Jun 2026*
 
 ---
 
-## Week 10: Phase 3 Week 2 — First Intervals
-**Mon 1 Jun – Sun 7 Jun 2026**
+## Week 11: Phase 3 Week 3 — Last VO2max Session
+**Mon 8 Jun – Sun 14 Jun 2026**
 
-**Objective:** First VO2max interval session of the campaign. 26 days to race. Barry's returns after refurb. Aerobic base maintenance Sunday.
+**Objective:** The final true VO2max session of the campaign (5×1200m). Fix the two errors from last week's 6×800m — jog recovery and pace discipline. Aerobic maintenance Sunday. Next week is race-specific (Phase 4); after that, taper.
 
-**Race countdown:** 26 days
+**Race countdown:** 18 days (Sat 27 Jun)
 
 ---
 
-### Tuesday 2 Jun — BARRY'S (Lower Body)
+### Tuesday 9 Jun — BARRY'S (Lower Body)
 
-**First session back after 2-week gap (gym refurb).** Treat as a return session.
+**Second session back after the refurb gap.** Still inside the 2–3 session re-entry window.
 
 - Effort: 6/10
-- HR avg target: <155 BPM
-- **Substitute walking lunges for jumping lunges — no exceptions.** Gap of 2 weeks = same risk as post-illness return.
-- Hip was healing — any recurrence of pain, stop and report.
+- HR avg target: <155 BPM, majority Zone 2–3
+- **Substitute walking lunges for jumping lunges — still applies (session 2 back).**
+- Do NOT push — 5×1200m intervals are Thursday. This is conditioning, not a hard day.
+- Hip: monitor. Any recurrence → stop and report.
 
 ---
 
-### Thursday 4 Jun — VO2max INTERVALS
+### Thursday 11 Jun — VO2max INTERVALS (KEY SESSION)
 
 | Component | Detail |
 |-----------|--------|
-| Warmup | 1km @ 5:45/km — let HR settle before starting reps |
-| Main set | **6×800m @ 4:02/km** |
-| Recovery | 90 seconds jog between reps |
+| Warmup | 1km @ 5:45/km, then **200m @ 4:10–4:15/km** to prime the HR sensor |
+| Main set | **5×1200m @ 4:02/km** (each rep = 4:50) |
+| Recovery | **90 seconds jog** between reps — run it, do not walk |
 | Cooldown | 1km @ 5:45/km |
-| **Total** | **~7.5km** |
+| **Total** | **~9km** |
 
-**HR target:** 177-182+ BPM (reaching into Zone 5 on final reps is correct)
-**Watch alerts:** pace 4:00/km (fast limit) + HR 183 BPM
+**HR target:** building to 177–182+ BPM. Zone 5 expected on reps 4–5.
+**Watch alerts:** pace 4:00/km (fast limit) + HR 183 BPM.
 
-**This is the first interval session of the entire cycle.** Pace target is 4:02/km — each 800m rep takes ~3:14. That's significantly harder than the tempos. Expected feel: Rep 1 = 7/10. Rep 4-5 = 8-9/10. Rep 6 = wretched. That is the correct stimulus.
+**Three corrections vs last week's 6×800m:**
+1. **Jog recovery, not walk.** 90s easy jog regardless of HR. Reps start from ~155–160 BPM, not a fully-recovered 140. This is what drives HR into Zone 5 — the single biggest fix.
+2. **4:02/km lap average, not momentary.** Each 1200m must average 4:50. Last week ran 4:07–4:10 — that's the soft pace to beat.
+3. **Prime the sensor.** End the warmup with 200m at effort so HR is accurate from rep 1 (R1 was lost last week to optical lag from a 114-BPM warmup).
 
-**Pacing discipline:** The km2 blowup pattern from tempos must not replicate. Rep 1 must be exactly 4:02/km — not 3:57. If watch alert fires (4:00/km), back off immediately. Better to run 4:04/km and complete 6 reps than blast rep 1 at 3:55 and fold by rep 4.
+**Pacing discipline — the recurring risk.** Rep 1 must NOT be faster than 4:02/km. The blowup pattern (early rep too fast → HR maxes → fold) has derailed every quality session this cycle. Rep 1 should feel comfortably hard (7/10). If the 4:00/km alert fires, back off immediately.
 
-**Recovery check between reps:** After 90s jog, HR should be dropping toward 155 BPM. If HR is still >165 BPM after 90s on reps 3+, extend recovery to 120s.
+**What good looks like:** all 5 reps at 4:00–4:05/km, HR climbing into Zone 5 by rep 4, rep 5 wretched, recovery between reps incomplete (starts each rep elevated). **Completing 5 clean reps at 4:03–4:05 with Zone 5 reached beats blasting 3:58 and folding at rep 4.** The jog recovery is the new stimulus — let it do the work.
 
-**What good looks like:** All 6 reps at 4:00-4:05/km, HR building across reps to 177-183, final rep feels wretched, post-session recovery reasonably quick (HR drops 20-30 BPM in 2 minutes).
+**Recovery safety valve:** if HR is still >170 BPM after 90s jog on reps 3+ *and* you can't hold rep pace, extend that recovery to 120s. Otherwise hold 90s.
 
 ---
 
-### Sunday 7 Jun — EASY LONG RUN
+### Sunday 14 Jun — EASY LONG RUN
 
 | Component | Detail |
 |-----------|--------|
@@ -56,23 +60,30 @@
 | Cooldown | 1km @ 6:00/km |
 | **Total** | **11km** |
 
-**HR target:** <150 BPM throughout
-**Zone target:** Zone 2 dominant (133-150 BPM)
+**HR target:** <150 BPM throughout. Zone 2 dominant (133–150 BPM).
 
-Target 5:35/km — 13 sec/km faster than the Phase 2 gate run (5:48/km), same HR budget. This should be achievable if aerobic fitness is tracking. HR governor: if approaching 148-150 BPM, ease off pace. Do not push to hold 5:35 if HR won't allow it.
+Pure aerobic maintenance 48h after a hard VO2max session — keep it genuinely easy. HR is the governor. 5:30/km is acceptable **only if HR stays <145** (as on 7 Jun, 5:30 @ 140). If HR drifts toward 150, ease the pace. Do not turn this into a workout — the legs need to be fresh for the race-specific week that follows.
 
 ---
 
-### Week 10 Log
+### Week 11 Log
 
-**Tuesday 2 Jun:**
+**Tuesday 9 Jun:**
 - Notes: ___
 
-**Thursday 4 Jun:**
+**Thursday 11 Jun:**
 - Notes: ___
 
-**Sunday 7 Jun:**
+**Sunday 14 Jun:**
 - Notes: ___
+
+---
+
+## Looking Ahead
+
+- **Mon 15 – Sun 21 Jun:** Phase 4 (Race Specific, 1 week). Key session **Thu 18 Jun: 2×2000m @ 3:58/km** — the goal-pace rehearsal and the **decision gate** for sub-20 vs 20:30 (see `current_status.md`).
+- **Mon 22 Jun:** Taper begins.
+- **Sat 27 Jun:** RACE.
 
 ---
 
@@ -80,19 +91,7 @@ Target 5:35/km — 13 sec/km faster than the Phase 2 gate run (5:48/km), same HR
 
 | Week | Date | Session | Planned | Actual | HR | Result |
 |------|------|---------|---------|--------|----|--------|
-| W1 | 27 Mar | Tempo 3km | 4:30/km | 4:25 avg | 169/176 | ⚠️ HR drift 12 BPM |
-| W1 | 29 Mar | Long 8km | 5:50/km | 5:43 avg | 144/147 | ✅ HR controlled |
-| W2 | 2 Apr | Tempo 3km | 4:28/km | 4:27 avg | 166/168 | ✅ Drift 5 BPM |
-| W2 | 5 Apr | Long 9km | 5:50/km | 5:47 avg | 141/146 | ✅ Zone 2 dominant |
-| W3 | 12 Apr | Long 10km | 5:45/km | 5:37 avg | 138/144 | ✅ Best HR yet |
-| W4x | 23 Apr | Tempo 4km | 4:26/km | 4:26 avg | 165/184 | ⚠️ Pace correct; HR drifted km3-4 |
-| W4x | 26 Apr | Long 10km (P1 gate) | 5:45/km | 5:31 avg | 144/153 | ✅ Gate PASSED |
-| W5 | all | — | — | — | — | ❌ Illness (3 sessions lost) |
-| W6 | 7 May | Tempo 4km | 4:24/km | 4:27 avg | 162/188 | ⚠️ Re-entry post-illness |
-| W6 | 10 May | Long 8km | easy | ~5:46 avg | 134/161* | ✅ Aerobic solid (*watch error km1) |
-| W7 | 12 May | Barry's | — | — | 138/178 | ✅ Solid |
-| W7 | 14 May | Tempo 5km | 4:22/km | 4:33 avg | 161/180 | ⚠️ Sleep-impaired. HR managed well. |
-| W8 | 21 May | Tempo | 4:22/km | — | — | ❌ Skipped (hip injury) |
-| W9 | 26 May | Long 10km (P2 gate) | easy | 5:48 avg | 142/152 | ✅ Gate PASSED |
-| W9 | 28 May | Tempo | 4:22/km | REST | — | ❌ Elevated morning HR |
-| W9 | 30 May | Tempo (rescheduled) | 4:22/km | 4:31 avg | 164/179 | ⚠️ km2 at 4:18 blew HR budget |
+| W9 | 30 May | Tempo 5km | 4:22/km | 4:31 avg | 164/179 | ⚠️ km2 at 4:18 blew HR budget |
+| W10 | 2 Jun | Barry's (lower) | 6/10 | — | no data | ✅ First back, walking lunges |
+| W10 | 4 Jun | 6×800m | 4:02/km | 4:07–4:10/km | 157/178 | ⚠️ Underpaced, walked recovery, Zone 5 not reached |
+| W10 | 7 Jun | Easy Long 11km | 5:35/km | 5:30/km main set | 137/150 | ✅ Best aerobic efficiency of campaign |

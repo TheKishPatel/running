@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 1 Jun 2026*
+*Last updated: 9 Jun 2026*
 
 ---
 
@@ -128,12 +128,12 @@
 | W9 | 28 May | Thu Tempo | 5km @ 4:22 | REST | — | ❌ skipped | Elevated morning HR (58-71 BPM). Correct rest. |
 | W9 | 30 May | Fri Tempo (rescheduled) | 5km @ 4:22 | 4:31/km avg | 164/179 | ⚠️ partial | km2 at 4:18 blew HR budget. WU HR elevated (151). 5km completed. Same blowup pattern. |
 | W9 | — | Barry's | 6/10 | — | — | ❌ closed | Gym refurb all week |
-| W10 | 2 Jun | Tue Barry's | 6/10 | — | — | ⏳ | First session back — walking lunges |
-| W10 | 4 Jun | Thu Intervals | 6×800m @ 4:02 | | | ⏳ | First interval session — regressed from 5×1200m to 6×800m |
-| W10 | 7 Jun | Sun Easy Long | 11km @ 5:35 | | | ⏳ | |
-| W11 | 9 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W11 | 11 Jun | Thu Intervals | 5×1200m @ 4:02 | | | ⏳ | |
-| W11 | 14 Jun | Sun Easy | 11km @ 5:35 | | | ⏳ | |
+| W10 | 2 Jun | Tue Barry's | 6/10 | — | no data | ✅ done | First session back after refurb — walking lunges. No watch. |
+| W10 | 4 Jun | Thu Intervals | 6×800m @ 4:02 | 4:07–4:10/km | 157/178 | ⚠️ partial | All 6 reps done. Underpaced + walked recovery. Zone 5 not reached (max 178). First VO2max of cycle. |
+| W10 | 7 Jun | Sun Easy Long | 11km @ 5:35 | 5:30/km main set | 137/150 | ✅ done | Best aerobic efficiency of campaign. Zone 2: 47:00, Zone 3+: 0:00. |
+| W11 | 9 Jun | Tue Barry's | 6/10 | — | — | ⏳ | Second session back — walking lunges. Don't overcook before Thu. |
+| W11 | 11 Jun | Thu Intervals | 5×1200m @ 4:02 | | | ⏳ | Last VO2max session. Jog recovery (not walk) + pace discipline + sensor prime. |
+| W11 | 14 Jun | Sun Easy | 11km @ 5:35 | | | ⏳ | Aerobic maintenance, HR <150. |
 
 ### Phase 3 Gate Criteria
 
@@ -231,9 +231,9 @@
 | 6 | 4-10 May | 34 | | | | |
 | 7 | 11-17 May | 33 | | | | |
 | 8 | 18-24 May | 32 | | | | |
-| 9 | 25-31 May | 35 | | | | Phase 3 begins |
-| 10 | 1-7 Jun | 36 | | | | |
-| 11 | 8-14 Jun | 32 | | | | |
+| 9 | 25-31 May | 35 | ~27km | 2 (P2 gate long + Fri tempo); Barry's closed (refurb) | 0 | Phase 3 begins. Thu tempo → rest (elevated AM HR). |
+| 10 | 1-7 Jun | 36 | ~19km run | 3 (Barry's + 6×800m + 11km long) | 0 | First intervals (soft). Best aerobic long run of campaign. |
+| 11 | 8-14 Jun | 32 | | | | Last VO2max week (5×1200m). |
 | 12 | 15-21 Jun | 25 | | | | Phase 4 (1 week only) |
 | 13 | 22-28 Jun | 15 | | | | Phase 5 taper + race |
 | **Total** | | **~407km** | | | | |
