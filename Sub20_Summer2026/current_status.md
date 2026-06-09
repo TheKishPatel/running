@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 7 Jun 2026*
+*Last updated: 9 Jun 2026*
 
 ---
 
@@ -62,9 +62,22 @@
 | **Thu 11 Jun** | Intervals W11 — 5×1200m @ 4:02/km |
 | **Thu 18 Jun** | Race Rehearsal: 2×2000m @ 3:58/km |
 | **Mon 22 Jun** | Taper begins |
-| **Sat 27 Jun** | **RACE DAY — Target: Sub-20:00** |
+| **Sat 27 Jun** | **RACE DAY — Primary: Sub-20:00 | Secondary: 20:30** |
 
-**Days to race: 20**
+**Days to race: 18**
+
+---
+
+## Goal & Decision Point
+
+**Primary: sub-20:00. Secondary: 20:30.** Race date is fixed (Sat 27 Jun).
+
+**Decision gate — Thu 18 Jun race rehearsal (2×2000m):**
+- At/near 3:58–4:02/km, effort ≤8/10, controlled → **hold sub-20**.
+- Completed but 9–10/10 / breaking down → **race 20:30**.
+- Cannot complete reps at goal pace → **~20:30–21:00, run on feel**.
+
+Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2max session (6×800m, 4 Jun) ran 4:07–4:10/km without reaching Zone 5. Aerobic base is strong and improving — the speed/threshold case for a clean 4:00/km is not there yet. The 18 Jun rehearsal is the call. Full rationale: `07_decisions/decision_log.md`.
 
 ---
 
@@ -102,6 +115,8 @@
 - Morning resting HR >60 BPM → rest day (as per 28 May — correct decision)
 - Interval rep 1 pace faster than 3:58/km → back off immediately
 - Recovery HR still >165 BPM after 90s jog → extend to 120s
+
+**Tracking note:** Morning resting HR and sleep are not yet logged (no bed-wearable). The `Resting_HR_Morning` / `Sleep_Hours` / `Sleep_Quality` columns stay blank by design until a device is sourced. Illness governance remains symptom-based per CLAUDE.md.
 
 ---
 
