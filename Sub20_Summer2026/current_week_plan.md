@@ -71,11 +71,11 @@ Pure aerobic maintenance 48h after a hard VO2max session — keep it genuinely e
 **Tuesday 9 Jun:**
 - Notes: Skipped — upset stomach (GI) in the morning. Health-driven, correct call. Rest day. Thursday 5×1200m being monitored (Wed checkpoint).
 
-**Thursday 11 Jun:**
-- Notes: ___
+**Thursday 11 Jun → moved to Friday 12 Jun:**
+- Notes: 5×1200m attempted, **DNF after 3 reps.** 4:11/4:09/4:06, rep-avg HR 163/163/171. Bottled — "lost my head", felt very hard. Ran carrying phlegm + nasal drip, post-GI-upset, on broken sleep. Submaximal HR at stop → not a fitness ceiling; an invalid (compromised) session. See session analysis.
 
-**Sunday 14 Jun:**
-- Notes: ___
+**Sunday 14 Jun — REST by default (illness):**
+- Notes: Phlegm/nasal-drip complete-rest trigger active. Rest unless waking 100% clear, in which case very easy 5km @ 6:00/km only.
 
 ---
 

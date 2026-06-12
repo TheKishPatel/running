@@ -9,7 +9,7 @@
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** Easy long run (7 Jun) — 11km @ 5:30/km main set, HR 137 BPM avg / 150 max. Zone 2: 47:00. Zone 3+: 00:00. Best aerobic efficiency of campaign.
+**Last completed run:** VO2max intervals (12 Jun, moved from Thu) — 5×1200m @ 4:02/km prescribed, **bottled after 3 reps (DNF).** Reps 4:11/4:09/4:06, rep-avg HR 163/163/171. Ran under 4 stacked stressors (phlegm/nasal drip, GI upset, poor sleep, low motivation). Not a valid fitness read — HR was submaximal at stop (171 avg vs Zone 5 181+), so this was not a fitness ceiling. See `03_session_analyses/2026-06-12_intervals_5x1200m_DNF.md`.
 
 ---
 
@@ -109,9 +109,18 @@ Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2ma
 
 ---
 
-## Active Health Flag
+## Active Health Flag — ILLNESS, COMPLETE-REST TRIGGER
 
-**9 Jun — GI upset (upset stomach, morning).** Barry's (Tue 9 Jun) skipped — correct, health-driven. Not the respiratory neck-check trigger, so no mandatory multi-day rest; rest today and don't train while symptomatic. **Watch:** the last VO2max session (Thu 11 Jun 5×1200m). Wed checkpoint — if settled, eating normally, no systemic symptoms → Thursday proceeds; if unsettled or systemic signs appear → move to Fri 13 Jun. Monitor for fever/aches/throat/chest (would escalate to full illness protocol) and prioritise rehydration/refuel.
+**12 Jun — phlegm + 2-week nasal drip. This is the CLAUDE.md complete-rest trigger (cough/phlegm → rest until 100% symptom-free).**
+
+Timeline: GI upset Tue 9 Jun (Barry's skipped — correct). Nasal drip ongoing ~2 weeks. Woke 12 Jun with phlegm. Ran the 5×1200m anyway and bottled after 3 (DNF) — should not have run hard while carrying phlegm.
+
+**Directive — hard training STOPS until 100% symptom-free:**
+- **Sun 14 Jun long run → REST by default.** Only a very easy 5km @ 6:00/km if waking genuinely clear (no phlegm, no drip); abort if any symptom appears.
+- No quality sessions until phlegm/drip fully clear for 24h+, then test run (5km @ 6:00, HR <145) before resuming.
+- **Do NOT repeat Feb 2026:** trained through phlegm (21 Feb 3×1600m), symptoms worsened, lost 3+ weeks. Illness is the #1 determinant of this campaign.
+
+**Stake:** Thu 18 Jun race rehearsal (2×2000m) is the fitness read + sub-20/20:30 decision gate. It needs a clear, rested athlete. If the bug lingers past ~Mon 16 Jun, the rehearsal and the sub-20 goal are both at risk — 20:30 fallback becomes the likely call. 15 days to race; aggressive rest now preserves the most options.
 
 ---
 

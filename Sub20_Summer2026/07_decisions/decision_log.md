@@ -4,6 +4,28 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-06-12 — Illness shutdown: stop hard training until symptom-free
+
+**Trigger:** Woke with phlegm; nasal drip ongoing ~2 weeks. Per CLAUDE.md, cough/phlegm
+→ complete rest until 100% symptom-free. GI upset earlier in the week (Tue 9 Jun).
+
+**Decision:**
+- Hard training stops. Sun 14 Jun long run → rest by default (very easy 5km @ 6:00 only
+  if waking fully clear).
+- The DNF 5×1200m (12 Jun, 3/5 reps) is **not** treated as a fitness verdict — HR was
+  submaximal at the stop (171 avg vs Zone 5 181+), reps accelerated, power steady. It was
+  a compromised session (phlegm + GI + broken sleep + low motivation), not a fitness wall.
+- No make-up of the missed reps. VO2max block is effectively complete.
+- Explicitly avoiding the Feb-2026 error (trained through phlegm 21 Feb → lost 3+ weeks).
+
+**Consequences / watch:**
+- The 18 Jun 2×2000m rehearsal remains the fitness read and the sub-20/20:30 gate, to be
+  run rested and clear. If symptoms persist past ~16 Jun, the rehearsal and sub-20 are at
+  risk and 20:30 becomes the likely call. 15 days to race; aggressive rest preserves options.
+- Return-to-quality requires 24h+ symptom-free then a clean test run (5km @ 6:00, HR <145).
+
+---
+
 ## 2026-06-09 — Race date confirmed + dual goal set + repo reconciliation
 
 **Race date: Saturday 27 June 2026 (fixed).**
