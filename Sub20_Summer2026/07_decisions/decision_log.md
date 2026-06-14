@@ -4,6 +4,27 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-06-14 — Illness worsening: rehearsal cancelled, sub-20 under review
+
+**Status:** Phlegm + cough increasing through Sun 14 Jun (chest involvement). No fever/aches.
+Sunday long run skipped — correct. Likely the Fri 12 Jun hard session triggered the
+escalation (post-exercise immune window) — mirrors 21 Feb 2026.
+
+**Decisions:**
+- **Thu 18 Jun race rehearsal (2×2000m) cancelled.** Will not run hard 4 days into a
+  worsening chest infection. This removes the fitness read and the sub-20/20:30 gate.
+- **Sub-20 for 27 Jun treated as realistically off.** Even a fast recovery consumes the
+  race-specific week; no sharpening before race day.
+- **Race goal decided on recovery timeline, once symptom-free** — not now:
+  - clears ≤~17–18 Jun → salvage 27 Jun as controlled ~20:30–21:00 on feel;
+  - clears ~20–22 Jun → 27 Jun = tune-up, target a later sub-20;
+  - not clear by ~22 Jun → DNS/defer.
+- Complete rest; return only via test run (5km @ 6:00, HR <145) after 24h+ symptom-free.
+
+**Open question for athlete:** is there a backup July 5K? Determines salvage vs. defer.
+
+---
+
 ## 2026-06-12 — Illness shutdown: stop hard training until symptom-free
 
 **Trigger:** Woke with phlegm; nasal drip ongoing ~2 weeks. Per CLAUDE.md, cough/phlegm

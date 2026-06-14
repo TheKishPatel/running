@@ -74,8 +74,8 @@ Pure aerobic maintenance 48h after a hard VO2max session — keep it genuinely e
 **Thursday 11 Jun → moved to Friday 12 Jun:**
 - Notes: 5×1200m attempted, **DNF after 3 reps.** 4:11/4:09/4:06, rep-avg HR 163/163/171. Bottled — "lost my head", felt very hard. Ran carrying phlegm + nasal drip, post-GI-upset, on broken sleep. Submaximal HR at stop → not a fitness ceiling; an invalid (compromised) session. See session analysis.
 
-**Sunday 14 Jun — REST by default (illness):**
-- Notes: Phlegm/nasal-drip complete-rest trigger active. Rest unless waking 100% clear, in which case very easy 5km @ 6:00/km only.
+**Sunday 14 Jun — SKIPPED (illness worsening):**
+- Notes: Phlegm + cough increasing. Complete rest — correct. No running until clearing. 18 Jun rehearsal off; race goal under review (see current_status.md).
 
 ---
 

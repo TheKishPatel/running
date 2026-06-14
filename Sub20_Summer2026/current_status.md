@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 9 Jun 2026*
+*Last updated: 14 Jun 2026*
 
 ---
 
@@ -64,18 +64,15 @@
 | **Mon 22 Jun** | Taper begins |
 | **Sat 27 Jun** | **RACE DAY — Primary: Sub-20:00 | Secondary: 20:30** |
 
-**Days to race: 18**
+**Days to race: 13**
 
 ---
 
-## Goal & Decision Point
+## Goal & Decision Point — UNDER REVIEW (illness)
 
-**Primary: sub-20:00. Secondary: 20:30.** Race date is fixed (Sat 27 Jun).
+**As of 14 Jun: sub-20 realistically off for 27 Jun due to worsening illness.** The 18 Jun rehearsal (decision gate) is cancelled. The race goal is now decided by recovery timeline (see Active Health Flag): salvage 27 Jun as a controlled ~20:30–21:00, drop to a tune-up and target a later sub-20, or DNS/defer. **Final call made once symptom-free.** Do not run the rehearsal or any quality session until cleared.
 
-**Decision gate — Thu 18 Jun race rehearsal (2×2000m):**
-- At/near 3:58–4:02/km, effort ≤8/10, controlled → **hold sub-20**.
-- Completed but 9–10/10 / breaking down → **race 20:30**.
-- Cannot complete reps at goal pace → **~20:30–21:00, run on feel**.
+*(Original pre-illness gate, retained for reference — Thu 18 Jun 2×2000m: ≤8/10 controlled → hold sub-20; 9–10/10 → 20:30; can't complete → ~20:30–21:00.)*
 
 Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2max session (6×800m, 4 Jun) ran 4:07–4:10/km without reaching Zone 5. Aerobic base is strong and improving — the speed/threshold case for a clean 4:00/km is not there yet. The 18 Jun rehearsal is the call. Full rationale: `07_decisions/decision_log.md`.
 
@@ -109,18 +106,22 @@ Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2ma
 
 ---
 
-## Active Health Flag — ILLNESS, COMPLETE-REST TRIGGER
+## Active Health Flag — ILLNESS, WORSENING (complete rest)
 
-**12 Jun — phlegm + 2-week nasal drip. This is the CLAUDE.md complete-rest trigger (cough/phlegm → rest until 100% symptom-free).**
+**14 Jun — phlegm + cough INCREASING. Chest involvement. Complete rest, no running at all until symptoms are clearing, not worsening.** No fever/body aches (reads viral chest/URTI, not systemic).
 
-Timeline: GI upset Tue 9 Jun (Barry's skipped — correct). Nasal drip ongoing ~2 weeks. Woke 12 Jun with phlegm. Ran the 5×1200m anyway and bottled after 3 (DNF) — should not have run hard while carrying phlegm.
+Timeline: ~2-week nasal drip → GI upset Tue 9 Jun (Barry's skipped) → woke 12 Jun with phlegm → ran 5×1200m anyway (DNF) → phlegm + cough increasing through Sun 14 Jun. Most likely the Fri hard session tipped a smouldering URTI into symptomatic chest involvement (post-exercise immune "open window") — same as 21 Feb 2026.
 
-**Directive — hard training STOPS until 100% symptom-free:**
-- **Sun 14 Jun long run → REST by default.** Only a very easy 5km @ 6:00/km if waking genuinely clear (no phlegm, no drip); abort if any symptom appears.
-- No quality sessions until phlegm/drip fully clear for 24h+, then test run (5km @ 6:00, HR <145) before resuming.
-- **Do NOT repeat Feb 2026:** trained through phlegm (21 Feb 3×1600m), symptoms worsened, lost 3+ weeks. Illness is the #1 determinant of this campaign.
+**Directive:**
+- **Complete rest.** No running (not even easy) while symptoms increasing. Sun 14 Jun skipped — correct.
+- **Return protocol:** symptoms must stop increasing, then 24h+ fully symptom-free → test run 5km @ 6:00/km, HR <145, no symptoms during or 2h after → easy running only, rebuild before any intensity.
+- **Do NOT repeat Feb 2026** (trained through phlegm → lost 3+ weeks). Illness is the #1 determinant of this campaign.
 
-**Stake:** Thu 18 Jun race rehearsal (2×2000m) is the fitness read + sub-20/20:30 decision gate. It needs a clear, rested athlete. If the bug lingers past ~Mon 16 Jun, the rehearsal and the sub-20 goal are both at risk — 20:30 fallback becomes the likely call. 15 days to race; aggressive rest now preserves the most options.
+**Race impact (13 days out):**
+- **Thu 18 Jun rehearsal (2×2000m) is OFF** — won't run hard 4 days into a worsening chest infection. Loses the fitness read + decision gate.
+- **Sub-20 realistically gone** for 27 Jun — even a fast recovery eats the entire race-specific week. Goal under review; decided once symptom-free.
+- Live framework: clears ≤~17–18 Jun → salvage 27 Jun as controlled ~20:30–21:00; clears ~20–22 Jun → 27 Jun = tune-up, target a later sub-20; not clear by ~22 Jun → DNS/defer.
+- **Open question:** is there a backup July 5K to pivot to? Determines salvage-vs-defer.
 
 ---
 
