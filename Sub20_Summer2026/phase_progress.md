@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 9 Jun 2026*
+*Last updated: 15 Jun 2026*
 
 ---
 
@@ -11,10 +11,11 @@
 | Pre-training | — | Fri 20 – Wed 25 Mar | ✅ Complete | — |
 | Phase 1: Base Rebuild | 1-4+ext | Thu 26 Mar – Sun 26 Apr | ✅ Complete | ✅ 26 Apr |
 | Phase 2: Threshold Development | 5-8 | Mon 27 Apr – Sun 24 May | ✅ Complete | ✅ 26 May |
-| Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | 🔄 IN PROGRESS | — |
-| Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ⏳ Upcoming ⚠️ 1 week only | — |
-| Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ⏳ Upcoming | — |
-| **RACE DAY** | — | **Sat 27 Jun 2026** | ⏳ Upcoming | — |
+| Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | ⚠️ Cut short (illness) | — |
+| Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ❌ Lost to illness | — |
+| Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ❌ N/A — race deferred | — |
+| **RACE DAY (27 Jun)** | — | **DEFERRED (illness)** | ❌ Not raced as goal | — |
+| **New target race** | TBD | **~late July 2026 (choose once recovering)** | ⏳ Pending | — |
 
 ⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) is now 1 week instead of 2. Phase 5 (Taper) unchanged.
 
@@ -212,6 +213,7 @@
 |------------|----------|-----------|----------|--------------|-----------------|
 | 9 Apr 2026 | ~19 Apr 2026 | ~10 days | Blocked nose, fatigue → throat symptoms + headaches + disrupted sleep (daughter, 3am) | Phase 1 W3 Thu + W4 Thu + W4 Sun — 3 quality sessions lost. Gate week missed entirely. | Phase 1 extended one week (gate 26 Apr). Phase 2 shifted to 27 Apr. Phase 4 compressed from 2→1 week. |
 | 28 Apr 2026 | ~7 May 2026 | ~10 days | Sore throat → phlegmy cough | Phase 2 W5 fully lost (3 sessions). W6 Tue Barry's skipped. W6 Thu: re-entry only (4km @ 4:27). | Phase 2 tempo progression compressed: 4:22 → 4:20 → 4:15 breakthrough pushed to 28 May. Phase 3 start nudged to ~1 Jun. |
+| ~1 Jun 2026 (nasal drip) → acute from 12 Jun | ongoing (as of 15 Jun) | TBD | ~2-wk nasal drip → GI upset (9 Jun) → phlegm (12 Jun) → cough + phlegm increasing, chest involvement (no fever/aches). Hard 5×1200m on 12 Jun (DNF) likely tipped it acute. | W11 intervals DNF (3/5). W11 Sun long skipped. 18 Jun rehearsal cancelled. Phase 4 + taper lost. | **27 Jun race deferred.** Sub-20 goal moved to a new target race ~late July (TBD). Recover fully, then build a clean run-in off existing base. |
 
 *Target: Zero entries in this table.*
 

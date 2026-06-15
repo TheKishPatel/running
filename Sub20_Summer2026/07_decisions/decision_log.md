@@ -4,6 +4,28 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-06-15 — DECIDED: defer the 27 Jun race; target a later sub-20
+
+**Inputs:** Cough/phlegm still climbing Mon 15 Jun (day 4, no peak). No backup race on
+27 Jun; athlete comfortable finding a new target.
+
+**Decision: do not race 27 Jun as a goal effort — defer the sub-20 to a later race
+(~late July, TBD).**
+- Earliest realistic symptom-free ~20–23 Jun → race day would be 3–4 days into a cautious
+  return off a chest infection. No goal time available; a max 5K on recovering lungs risks
+  relapse (Feb-2026 pattern). No upside to racing it.
+- 27 Jun may be jogged socially only.
+- **Recovery first**, then pick a target race ~4–6 weeks out and build a clean,
+  uninterrupted sharpening block off the existing aerobic base (5:30/km @ 140, 7 Jun —
+  best of campaign). This is the run-in the campaign never got.
+- **Do not select the race or plan training until symptoms are clearly easing.**
+
+**Why this is the right call:** the base is intact (illness interrupts sharpening, not
+aerobic fitness); there is no sunk cost (replacement race available); racing sick has
+historically cost this athlete weeks. Deferral preserves both health and the goal.
+
+---
+
 ## 2026-06-14 — Illness worsening: rehearsal cancelled, sub-20 under review
 
 **Status:** Phlegm + cough increasing through Sun 14 Jun (chest involvement). No fever/aches.

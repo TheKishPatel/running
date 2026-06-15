@@ -1,10 +1,12 @@
 # Current Status
 
-*Last updated: 14 Jun 2026*
+*Last updated: 15 Jun 2026*
 
 ---
 
-## Status: PHASE 3 — VO2MAX & SPEED | WEEK 10
+## Status: ILLNESS — TRAINING PAUSED | 27 JUN RACE DEFERRED
+
+**Decision (15 Jun): 27 Jun race deferred. Sub-20 goal moved to a later race (~late July, TBD once recovering).** No backup race on 27 Jun and none needed — athlete will target a new date. Complete rest until illness clears.
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
@@ -58,21 +60,18 @@
 
 | Date | What |
 |------|------|
-| **Thu 4 Jun** | First intervals — 6×800m @ 4:02/km |
-| **Thu 11 Jun** | Intervals W11 — 5×1200m @ 4:02/km |
-| **Thu 18 Jun** | Race Rehearsal: 2×2000m @ 3:58/km |
-| **Mon 22 Jun** | Taper begins |
-| **Sat 27 Jun** | **RACE DAY — Primary: Sub-20:00 | Secondary: 20:30** |
-
-**Days to race: 13**
+| Thu 18 Jun | ~~Race Rehearsal 2×2000m~~ — CANCELLED (illness) |
+| Sat 27 Jun | ~~RACE DAY~~ — DEFERRED (illness). Social jog only, if anything. |
+| When symptoms ease 24h+ | Test run 5km @ 6:00/km, HR <145 — gate to resume easy running |
+| TBD (late July) | New target race — choose once recovering, then build run-in |
 
 ---
 
-## Goal & Decision Point — UNDER REVIEW (illness)
+## Goal & Decision Point — DECIDED: DEFER (15 Jun)
 
-**As of 14 Jun: sub-20 realistically off for 27 Jun due to worsening illness.** The 18 Jun rehearsal (decision gate) is cancelled. The race goal is now decided by recovery timeline (see Active Health Flag): salvage 27 Jun as a controlled ~20:30–21:00, drop to a tune-up and target a later sub-20, or DNS/defer. **Final call made once symptom-free.** Do not run the rehearsal or any quality session until cleared.
+**27 Jun is no longer the goal race.** Illness still climbing on day 4 with no peak yet → earliest symptom-free ~20–23 Jun → race day would be 3–4 days into a cautious return off a chest infection. No goal time is available, and a maximal 5K on recovering lungs risks relapse (the Feb-2026 pattern). No backup race on 27 Jun; athlete is comfortable choosing a new target.
 
-*(Original pre-illness gate, retained for reference — Thu 18 Jun 2×2000m: ≤8/10 controlled → hold sub-20; 9–10/10 → 20:30; can't complete → ~20:30–21:00.)*
+**Plan:** recover fully → pick a target race ~4–6 weeks out (late July, TBD) → build a clean, uninterrupted sharpening block off the existing aerobic base (the run-in this campaign never got). 27 Jun may be jogged socially only — not as a goal effort. **Do not pick the new race or plan training until symptoms are clearly easing.**
 
 Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2max session (6×800m, 4 Jun) ran 4:07–4:10/km without reaching Zone 5. Aerobic base is strong and improving — the speed/threshold case for a clean 4:00/km is not there yet. The 18 Jun rehearsal is the call. Full rationale: `07_decisions/decision_log.md`.
 
