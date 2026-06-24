@@ -4,6 +4,28 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-06-24 — Illness cleared: 27 Jun reinstated as a sub-21 tune-up
+
+**Inputs:** Symptoms gone by Wed 24 Jun. Clean post-illness re-entry run 21 Jun (5km @
+6:16/km on Mersea beach, HR 142–151 Zone 2, no symptom return). 3 days to race; ~25°C
+forecast.
+
+**Decision: run 27 Jun as a controlled sub-21 tune-up, NOT the deferred sub-20.**
+- Sub-21 (4:12/km) is PB-grade and sub-maximal — a low-risk fitness check 5–6 days
+  post-illness, unlike the maximal sub-20 grind we shelved.
+- **Sub-20 goal stays on a later race (~late July, TBD)**, chosen after Saturday, built on
+  the existing aerobic base.
+- Run on HR, not pace: km1 ≤170 → build → hard ceiling 183. Abort to easy tempo on any
+  chest symptom or heat distress. Heat adds 5–8 bpm for given pace; respect the ceiling.
+- Mini-taper Wed–Fri (easy + strides, hydrate); abort race if symptoms return.
+
+**Why reinstate vs. stay deferred:** the 15 Jun deferral was correct *while illness was
+climbing*. It cleared faster than the worst case, and a sub-max tune-up is genuinely useful
+(fitness read + confidence) at acceptable risk — distinct from racing an all-out sub-20 on
+recovering lungs, which we still won't do.
+
+---
+
 ## 2026-06-15 — DECIDED: defer the 27 Jun race; target a later sub-20
 
 **Inputs:** Cough/phlegm still climbing Mon 15 Jun (day 4, no peak). No backup race on

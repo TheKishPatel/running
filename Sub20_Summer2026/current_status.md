@@ -1,17 +1,17 @@
 # Current Status
 
-*Last updated: 15 Jun 2026*
+*Last updated: 24 Jun 2026*
 
 ---
 
-## Status: ILLNESS — TRAINING PAUSED | 27 JUN RACE DEFERRED
+## Status: ILLNESS CLEARED | SUB-21 TUNE-UP RACE SAT 27 JUN | SUB-20 → LATE JULY
 
-**Decision (15 Jun): 27 Jun race deferred. Sub-20 goal moved to a later race (~late July, TBD once recovering).** No backup race on 27 Jun and none needed — athlete will target a new date. Complete rest until illness clears.
+**Illness cleared** (symptom-free by Wed 24 Jun; clean re-entry run 21 Jun). **Sat 27 Jun reinstated as a controlled sub-21 tune-up** (not the deferred sub-20). **Sub-20 goal remains on a later race (~late July, TBD).** Abort the race if any cough/phlegm/chest returns before Saturday.
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** VO2max intervals (12 Jun, moved from Thu) — 5×1200m @ 4:02/km prescribed, **bottled after 3 reps (DNF).** Reps 4:11/4:09/4:06, rep-avg HR 163/163/171. Ran under 4 stacked stressors (phlegm/nasal drip, GI upset, poor sleep, low motivation). Not a valid fitness read — HR was submaximal at stop (171 avg vs Zone 5 181+), so this was not a fitness ceiling. See `03_session_analyses/2026-06-12_intervals_5x1200m_DNF.md`.
+**Last completed run:** Post-illness re-entry (21 Jun) — 5km @ 6:16/km on Mersea Island stony beach, HR 142–151 (Zone 2), no symptoms during/after. Soft surface (low power 180–204W) explains slow pace + elevated HR; not a fitness read. Cleared to resume.
 
 ---
 
@@ -60,18 +60,19 @@
 
 | Date | What |
 |------|------|
-| Thu 18 Jun | ~~Race Rehearsal 2×2000m~~ — CANCELLED (illness) |
-| Sat 27 Jun | ~~RACE DAY~~ — DEFERRED (illness). Social jog only, if anything. |
-| When symptoms ease 24h+ | Test run 5km @ 6:00/km, HR <145 — gate to resume easy running |
-| TBD (late July) | New target race — choose once recovering, then build run-in |
+| Wed 24 – Fri 26 Jun | Easy + strides mini-taper; hydrate hard for heat (see week plan) |
+| **Sat 27 Jun** | **RACE — sub-21 tune-up**, ~25°C. Run on HR (≤170 km1 → 183 ceiling). |
+| TBD (late July) | **Sub-20 goal race** — choose after Saturday, then build clean run-in |
 
 ---
 
-## Goal & Decision Point — DECIDED: DEFER (15 Jun)
+## Goal & Decision Point — REVISED (24 Jun): 27 Jun = sub-21 tune-up; sub-20 → late July
 
-**27 Jun is no longer the goal race.** Illness still climbing on day 4 with no peak yet → earliest symptom-free ~20–23 Jun → race day would be 3–4 days into a cautious return off a chest infection. No goal time is available, and a maximal 5K on recovering lungs risks relapse (the Feb-2026 pattern). No backup race on 27 Jun; athlete is comfortable choosing a new target.
+**Illness cleared, so 27 Jun is back on — as a controlled sub-21 tune-up, not the deferred sub-20.** Sub-21 (4:12/km) is your PB-grade, sub-maximal effort: a low-risk fitness check 5–6 days post-illness, not the VO2max grind sub-20 demands. **The sub-20 goal stays on a clean later race (~late July, TBD)** built off the existing aerobic base.
 
-**Plan:** recover fully → pick a target race ~4–6 weeks out (late July, TBD) → build a clean, uninterrupted sharpening block off the existing aerobic base (the run-in this campaign never got). 27 Jun may be jogged socially only — not as a goal effort. **Do not pick the new race or plan training until symptoms are clearly easing.**
+Run Saturday on HR, not pace (band in `current_week_plan.md`), in ~25°C. Abort to easy tempo if any chest symptom or heat distress. A smart 21:0x beats a blown 20:5x or a relapse.
+
+*(Superseded — 15 Jun defer decision: with illness then still climbing, 27 Jun was shelved entirely. Recovery by 22–24 Jun reopened it as a tune-up.)*
 
 Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2max session (6×800m, 4 Jun) ran 4:07–4:10/km without reaching Zone 5. Aerobic base is strong and improving — the speed/threshold case for a clean 4:00/km is not there yet. The 18 Jun rehearsal is the call. Full rationale: `07_decisions/decision_log.md`.
 
@@ -105,7 +106,11 @@ Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2ma
 
 ---
 
-## Active Health Flag — ILLNESS, WORSENING (complete rest)
+## Active Health Flag — ILLNESS RESOLVED (monitor)
+
+**24 Jun — symptoms cleared.** Cough/phlegm gone; clean re-entry run 21 Jun with no symptom return during or after. Cleared to resume and to run Sat 27 Jun as a controlled (sub-max) tune-up. **Monitor:** any return of cough/phlegm/chest tightness → race off, back to easy rebuild. First quality/VO2max work waits for the late-July build, not before.
+
+<details><summary>Prior illness timeline (resolved)</summary>
 
 **14 Jun — phlegm + cough INCREASING. Chest involvement. Complete rest, no running at all until symptoms are clearing, not worsening.** No fever/body aches (reads viral chest/URTI, not systemic).
 
@@ -120,7 +125,10 @@ Timeline: ~2-week nasal drip → GI upset Tue 9 Jun (Barry's skipped) → woke 1
 - **Thu 18 Jun rehearsal (2×2000m) is OFF** — won't run hard 4 days into a worsening chest infection. Loses the fitness read + decision gate.
 - **Sub-20 realistically gone** for 27 Jun — even a fast recovery eats the entire race-specific week. Goal under review; decided once symptom-free.
 - Live framework: clears ≤~17–18 Jun → salvage 27 Jun as controlled ~20:30–21:00; clears ~20–22 Jun → 27 Jun = tune-up, target a later sub-20; not clear by ~22 Jun → DNS/defer.
-- **Open question:** is there a backup July 5K to pivot to? Determines salvage-vs-defer.
+
+*Resolution: cleared ~22–24 Jun → 27 Jun run as a sub-21 tune-up; sub-20 → late July.*
+
+</details>
 
 ---
 

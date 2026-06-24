@@ -14,8 +14,8 @@
 | Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | ⚠️ Cut short (illness) | — |
 | Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ❌ Lost to illness | — |
 | Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ❌ N/A — race deferred | — |
-| **RACE DAY (27 Jun)** | — | **DEFERRED (illness)** | ❌ Not raced as goal | — |
-| **New target race** | TBD | **~late July 2026 (choose once recovering)** | ⏳ Pending | — |
+| **27 Jun (tune-up)** | — | **Sub-21 tune-up** (illness cleared 24 Jun) | ⏳ Race day | — |
+| **Sub-20 goal race** | TBD | **~late July 2026 (choose after 27 Jun)** | ⏳ Pending | — |
 
 ⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) is now 1 week instead of 2. Phase 5 (Taper) unchanged.
 
