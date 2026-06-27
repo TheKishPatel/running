@@ -39,6 +39,8 @@
 
 **Km1 discipline:** go out at 4:12, NOT 4:05, even feeling great — your fade pattern (Parkrun 4:04→4:19) is exactly the heat trap.
 
+**✅ Race result (27 Jun):** 5K ~22:21 in ~30°C, taken easy. Opened 4:11/km @ 293W (threshold power) then eased to 4:38–4:41 @ ~260W as heat bit. HR feed invalid (sensor undercount). Well-judged controlled tune-up — not a fitness verdict, but leg speed + engine intact 6 days post-illness. Full analysis: `03_session_analyses/2026-06-27_race_5k_tuneup.md`.
+
 ### Sun 28 Jun — REST or easy shakeout
 - Recover. Next: choose the late-July goal race and build the clean run-in.
 

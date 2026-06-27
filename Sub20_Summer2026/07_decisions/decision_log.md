@@ -4,6 +4,22 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-06-27 — Tune-up done; pivot to late-July sub-20 build
+
+**Result:** 5K ~22:21 in ~30°C, eased by design (opened 4:11/km @ 293W, faded to ~4:40 @
+260W). HR feed invalid (sensor undercount — same as 8 Mar). Controlled, well-judged; no
+symptoms. Not a fitness verdict (heat + easing + bad HR), but power shows leg speed +
+threshold intact 6 days post-illness.
+
+**Decisions / next:**
+- Sub-20 goal proceeds to a **clean late-July race (date TBD — athlete to choose).**
+- Build a full uninterrupted run-in off the existing base: easy rebuild → threshold →
+  VO2max → race-specific → taper (~4–5 weeks).
+- **Use a chest-strap HR monitor for the goal race** (optical undercounts badly in races).
+- This week: easy/recovery; watch for any post-race symptom flare.
+
+---
+
 ## 2026-06-24 — Illness cleared: 27 Jun reinstated as a sub-21 tune-up
 
 **Inputs:** Symptoms gone by Wed 24 Jun. Clean post-illness re-entry run 21 Jun (5km @

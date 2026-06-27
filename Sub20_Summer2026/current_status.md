@@ -1,17 +1,17 @@
 # Current Status
 
-*Last updated: 24 Jun 2026*
+*Last updated: 27 Jun 2026*
 
 ---
 
-## Status: ILLNESS CLEARED | SUB-21 TUNE-UP RACE SAT 27 JUN | SUB-20 → LATE JULY
+## Status: TUNE-UP RACE DONE (~22:21, ~30°C) | NEXT: SUB-20 BUILD → LATE JULY
 
-**Illness cleared** (symptom-free by Wed 24 Jun; clean re-entry run 21 Jun). **Sat 27 Jun reinstated as a controlled sub-21 tune-up** (not the deferred sub-20). **Sub-20 goal remains on a later race (~late July, TBD).** Abort the race if any cough/phlegm/chest returns before Saturday.
+**Illness cleared; 27 Jun tune-up done.** 5K ~22:21 in extreme heat (~30°C felt), taken easy by design — a controlled effort, not a fitness verdict. **Sub-20 goal now moves to a clean late-July race (TBD) with a proper uninterrupted run-in.** No symptoms during/after the race.
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** Post-illness re-entry (21 Jun) — 5km @ 6:16/km on Mersea Island stony beach, HR 142–151 (Zone 2), no symptoms during/after. Soft surface (low power 180–204W) explains slow pace + elevated HR; not a fitness read. Cleared to resume.
+**Last completed run:** Sub-21 tune-up race (27 Jun) — 5K ~22:21, ~30°C. Opened 4:11/km @ 293W (threshold power) then eased to 4:38–4:41 @ ~260W as heat bit. HR feed invalid (sensor undercount, same as 8 Mar). Read via power/pace — leg speed + engine intact 6 days post-illness. See `03_session_analyses/2026-06-27_race_5k_tuneup.md`.
 
 ---
 
@@ -60,19 +60,21 @@
 
 | Date | What |
 |------|------|
-| Wed 24 – Fri 26 Jun | Easy + strides mini-taper; hydrate hard for heat (see week plan) |
-| **Sat 27 Jun** | **RACE — sub-21 tune-up**, ~25°C. Run on HR (≤170 km1 → 183 ceiling). |
-| TBD (late July) | **Sub-20 goal race** — choose after Saturday, then build clean run-in |
+| ✅ Sat 27 Jun | Tune-up race done — 5K ~22:21, ~30°C, eased. Engine intact post-illness. |
+| Wk of 30 Jun | Easy rebuild week; **choose the July goal race date** |
+| **TBD (late July)** | **Sub-20 goal race** — clean run-in: easy → threshold → VO2max → race-specific → taper |
 
 ---
 
-## Goal & Decision Point — REVISED (24 Jun): 27 Jun = sub-21 tune-up; sub-20 → late July
+## Goal & Decision Point — NEXT: choose late-July goal race, build clean run-in
 
-**Illness cleared, so 27 Jun is back on — as a controlled sub-21 tune-up, not the deferred sub-20.** Sub-21 (4:12/km) is your PB-grade, sub-maximal effort: a low-risk fitness check 5–6 days post-illness, not the VO2max grind sub-20 demands. **The sub-20 goal stays on a clean later race (~late July, TBD)** built off the existing aerobic base.
+**27 Jun tune-up done (~22:21, ~30°C, eased).** The sub-20 goal is intact and now targets a **clean late-July 5K (date TBD)** with the uninterrupted sharpening block this campaign never had.
 
-Run Saturday on HR, not pace (band in `current_week_plan.md`), in ~25°C. Abort to easy tempo if any chest symptom or heat distress. A smart 21:0x beats a blown 20:5x or a relapse.
+**Open decision (athlete):** pick the July race date. Then build: easy rebuild → threshold → VO2max → race-specific → taper (~4–5 weeks). Engine confirmed ready (7 Jun easy 5:30/km @ 140; 27 Jun opened sub-21 pace at threshold power post-illness).
 
-*(Superseded — 15 Jun defer decision: with illness then still climbing, 27 Jun was shelved entirely. Recovery by 22–24 Jun reopened it as a tune-up.)*
+**Equipment note:** use a chest-strap HR monitor for the goal race — the optical watch undercounts HR badly in races (8 Mar and 27 Jun both read ~25–35 bpm low).
+
+*(History: pre-illness gate was an 18 Jun 2×2000m rehearsal; lost to illness. 15 Jun deferred 27 Jun; 24 Jun reinstated it as a sub-21 tune-up; run 27 Jun.)*
 
 Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2max session (6×800m, 4 Jun) ran 4:07–4:10/km without reaching Zone 5. Aerobic base is strong and improving — the speed/threshold case for a clean 4:00/km is not there yet. The 18 Jun rehearsal is the call. Full rationale: `07_decisions/decision_log.md`.
 
