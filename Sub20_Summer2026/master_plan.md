@@ -4,9 +4,13 @@
 **Goal:** Sub-20:00 5K (19:59 or better)
 **Plan Period Start:** Friday 20 March 2026
 **Week 1 Training Start:** Thursday 26 March 2026
-**Target Race Date:** Sunday 28 June 2026
+**Target Race Date:** Saturday 27 June 2026
 **Plan Duration:** 14 weeks
 **Starting Fitness:** 20:59 5K (March 8, 2026)
+
+---
+
+> **⚠️ Baseline document — not the live schedule.** Two illness blocks (Apr, late-Apr/May) shifted the calendar ~1 week and compressed Phase 4 to a single week. The week numbers, dates, and session sequence below are the **original pre-illness design**. The **authoritative live tracker is `phase_progress.md`**; current week targets live in `current_week_plan.md` and status in `current_status.md`. Where this document and those disagree, the operational files win.
 
 ---
 
@@ -316,7 +320,7 @@
 ---
 
 ## Phase 5: Taper (Week 14)
-**Dates:** Mon 22 Jun – Sun 28 Jun 2026
+**Dates:** Mon 22 Jun – Sat 27 Jun 2026
 **Volume:** 15-20km
 **Focus:** Arrive fresh, rested, sharp — zero risk-taking
 
@@ -326,10 +330,9 @@
 |-----|------|---------|--------|
 | Tue | 23 Jun | Easy | 5km @ 6:00/km. HR <145 BPM. Should feel ridiculously comfortable |
 | Wed | 24 Jun | Rest | Complete rest |
-| Thu | 25 Jun | Sharpness | 1km warmup @ 6:00 / **4×400m @ 3:50/km** (walk 2min between reps — full recovery) / 1km cooldown. Total: ~4km. HR: 165-175 BPM. Should feel sharp and springy, NOT tired |
-| Fri | 26 Jun | Rest | Complete rest. Light walk/stretch if desired |
-| Sat | 27 Jun | Rest | Complete rest. Short walk OK. Hydrate. Early bed |
-| **Sun** | **28 Jun** | **RACE DAY** | **TARGET: Sub-20:00** |
+| Thu | 25 Jun | Sharpness | 1km warmup @ 6:00 / **4×400m @ 3:50/km** (walk 2min between reps — full recovery) / 1km cooldown. Total: ~4km. HR: 165-175 BPM. Should feel sharp and springy, NOT tired. 2 days before race — standard. |
+| Fri | 26 Jun | Rest | Complete rest. Short walk OK. Hydrate. Early bed. Key sleep night. |
+| **Sat** | **27 Jun** | **RACE DAY** | **TARGET: Sub-20:00 (secondary: 20:30)** |
 
 **Total ~15km**
 
@@ -437,5 +440,5 @@ Before advancing to the next phase, verify:
 
 *Plan created: 18 March 2026*
 *Athlete current PB: 20:59 (March 8, 2026)*
-*Target: Sub-20:00 | Race date: Sunday 28 June 2026*
+*Target: Sub-20:00 | Race date: Saturday 27 June 2026*
 *"Sub-20 is realistic. Execute the plan, stay healthy, race smart."*

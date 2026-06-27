@@ -59,7 +59,7 @@ Progression:
 - Update every session: `Sub20_Summer2026/training_log.csv`, `Sub20_Summer2026/current_status.md`.
 - Generate weekly: weekly summary in `Sub20_Summer2026/02_training_log/weekly_summaries/`, and `Sub20_Summer2026/current_week_plan.md`.
 - Generate as needed: session analyses in `Sub20_Summer2026/03_session_analyses/`, decision logs in `Sub20_Summer2026/07_decisions/`.
-- New session uploads land in `Sub20_Summer2026/08_inbox/`.
+- Session data is provided inline (pasted into chat), not via a drop folder — process it with `/log-session`.
 
 ## Workflow discipline
 

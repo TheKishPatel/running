@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 1 Jun 2026*
+*Last updated: 15 Jun 2026*
 
 ---
 
@@ -11,10 +11,11 @@
 | Pre-training | — | Fri 20 – Wed 25 Mar | ✅ Complete | — |
 | Phase 1: Base Rebuild | 1-4+ext | Thu 26 Mar – Sun 26 Apr | ✅ Complete | ✅ 26 Apr |
 | Phase 2: Threshold Development | 5-8 | Mon 27 Apr – Sun 24 May | ✅ Complete | ✅ 26 May |
-| Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | 🔄 IN PROGRESS | — |
-| Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ⏳ Upcoming ⚠️ 1 week only | — |
-| Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ⏳ Upcoming | — |
-| **RACE DAY** | — | **Sat 27 Jun 2026** | ⏳ Upcoming | — |
+| Phase 3: VO2max & Speed | 9-11 | Mon 25 May – Sun 14 Jun | ⚠️ Cut short (illness) | — |
+| Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ❌ Lost to illness | — |
+| Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ❌ N/A — race deferred | — |
+| **27 Jun (tune-up)** | — | **Sub-21 tune-up — DONE: 5K ~22:21, ~30°C, eased** | ✅ Completed | n/a (tune-up) |
+| **Sub-20 goal race** | TBD | **~late July 2026 (choose date; build clean run-in)** | ⏳ Pending | — |
 
 ⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) is now 1 week instead of 2. Phase 5 (Taper) unchanged.
 
@@ -128,12 +129,12 @@
 | W9 | 28 May | Thu Tempo | 5km @ 4:22 | REST | — | ❌ skipped | Elevated morning HR (58-71 BPM). Correct rest. |
 | W9 | 30 May | Fri Tempo (rescheduled) | 5km @ 4:22 | 4:31/km avg | 164/179 | ⚠️ partial | km2 at 4:18 blew HR budget. WU HR elevated (151). 5km completed. Same blowup pattern. |
 | W9 | — | Barry's | 6/10 | — | — | ❌ closed | Gym refurb all week |
-| W10 | 2 Jun | Tue Barry's | 6/10 | — | — | ⏳ | First session back — walking lunges |
-| W10 | 4 Jun | Thu Intervals | 6×800m @ 4:02 | | | ⏳ | First interval session — regressed from 5×1200m to 6×800m |
-| W10 | 7 Jun | Sun Easy Long | 11km @ 5:35 | | | ⏳ | |
-| W11 | 9 Jun | Tue Barry's | 6/10 | — | — | ⏳ | |
-| W11 | 11 Jun | Thu Intervals | 5×1200m @ 4:02 | | | ⏳ | |
-| W11 | 14 Jun | Sun Easy | 11km @ 5:35 | | | ⏳ | |
+| W10 | 2 Jun | Tue Barry's | 6/10 | — | no data | ✅ done | First session back after refurb — walking lunges. No watch. |
+| W10 | 4 Jun | Thu Intervals | 6×800m @ 4:02 | 4:07–4:10/km | 157/178 | ⚠️ partial | All 6 reps done. Underpaced + walked recovery. Zone 5 not reached (max 178). First VO2max of cycle. |
+| W10 | 7 Jun | Sun Easy Long | 11km @ 5:35 | 5:30/km main set | 137/150 | ✅ done | Best aerobic efficiency of campaign. Zone 2: 47:00, Zone 3+: 0:00. |
+| W11 | 9 Jun | Tue Barry's | 6/10 | — | — | ⏳ | Second session back — walking lunges. Don't overcook before Thu. |
+| W11 | 11 Jun | Thu Intervals | 5×1200m @ 4:02 | | | ⏳ | Last VO2max session. Jog recovery (not walk) + pace discipline + sensor prime. |
+| W11 | 14 Jun | Sun Easy | 11km @ 5:35 | | | ⏳ | Aerobic maintenance, HR <150. |
 
 ### Phase 3 Gate Criteria
 
@@ -212,6 +213,7 @@
 |------------|----------|-----------|----------|--------------|-----------------|
 | 9 Apr 2026 | ~19 Apr 2026 | ~10 days | Blocked nose, fatigue → throat symptoms + headaches + disrupted sleep (daughter, 3am) | Phase 1 W3 Thu + W4 Thu + W4 Sun — 3 quality sessions lost. Gate week missed entirely. | Phase 1 extended one week (gate 26 Apr). Phase 2 shifted to 27 Apr. Phase 4 compressed from 2→1 week. |
 | 28 Apr 2026 | ~7 May 2026 | ~10 days | Sore throat → phlegmy cough | Phase 2 W5 fully lost (3 sessions). W6 Tue Barry's skipped. W6 Thu: re-entry only (4km @ 4:27). | Phase 2 tempo progression compressed: 4:22 → 4:20 → 4:15 breakthrough pushed to 28 May. Phase 3 start nudged to ~1 Jun. |
+| ~1 Jun 2026 (nasal drip) → acute from 12 Jun | ongoing (as of 15 Jun) | TBD | ~2-wk nasal drip → GI upset (9 Jun) → phlegm (12 Jun) → cough + phlegm increasing, chest involvement (no fever/aches). Hard 5×1200m on 12 Jun (DNF) likely tipped it acute. | W11 intervals DNF (3/5). W11 Sun long skipped. 18 Jun rehearsal cancelled. Phase 4 + taper lost. | **27 Jun race deferred.** Sub-20 goal moved to a new target race ~late July (TBD). Recover fully, then build a clean run-in off existing base. |
 
 *Target: Zero entries in this table.*
 
@@ -231,9 +233,9 @@
 | 6 | 4-10 May | 34 | | | | |
 | 7 | 11-17 May | 33 | | | | |
 | 8 | 18-24 May | 32 | | | | |
-| 9 | 25-31 May | 35 | | | | Phase 3 begins |
-| 10 | 1-7 Jun | 36 | | | | |
-| 11 | 8-14 Jun | 32 | | | | |
+| 9 | 25-31 May | 35 | ~27km | 2 (P2 gate long + Fri tempo); Barry's closed (refurb) | 0 | Phase 3 begins. Thu tempo → rest (elevated AM HR). |
+| 10 | 1-7 Jun | 36 | ~19km run | 3 (Barry's + 6×800m + 11km long) | 0 | First intervals (soft). Best aerobic long run of campaign. |
+| 11 | 8-14 Jun | 32 | | | | Last VO2max week (5×1200m). |
 | 12 | 15-21 Jun | 25 | | | | Phase 4 (1 week only) |
 | 13 | 22-28 Jun | 15 | | | | Phase 5 taper + race |
 | **Total** | | **~407km** | | | | |

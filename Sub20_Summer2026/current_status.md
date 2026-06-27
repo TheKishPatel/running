@@ -1,15 +1,17 @@
 # Current Status
 
-*Last updated: 7 Jun 2026*
+*Last updated: 27 Jun 2026*
 
 ---
 
-## Status: PHASE 3 — VO2MAX & SPEED | WEEK 10
+## Status: TUNE-UP RACE DONE (~22:21, ~30°C) | NEXT: SUB-20 BUILD → LATE JULY
+
+**Illness cleared; 27 Jun tune-up done.** 5K ~22:21 in extreme heat (~30°C felt), taken easy by design — a controlled effort, not a fitness verdict. **Sub-20 goal now moves to a clean late-July race (TBD) with a proper uninterrupted run-in.** No symptoms during/after the race.
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** Easy long run (7 Jun) — 11km @ 5:30/km main set, HR 137 BPM avg / 150 max. Zone 2: 47:00. Zone 3+: 00:00. Best aerobic efficiency of campaign.
+**Last completed run:** Sub-21 tune-up race (27 Jun) — 5K ~22:21, ~30°C. Opened 4:11/km @ 293W (threshold power) then eased to 4:38–4:41 @ ~260W as heat bit. HR feed invalid (sensor undercount, same as 8 Mar). Read via power/pace — leg speed + engine intact 6 days post-illness. See `03_session_analyses/2026-06-27_race_5k_tuneup.md`.
 
 ---
 
@@ -58,13 +60,23 @@
 
 | Date | What |
 |------|------|
-| **Thu 4 Jun** | First intervals — 6×800m @ 4:02/km |
-| **Thu 11 Jun** | Intervals W11 — 5×1200m @ 4:02/km |
-| **Thu 18 Jun** | Race Rehearsal: 2×2000m @ 3:58/km |
-| **Mon 22 Jun** | Taper begins |
-| **Sat 27 Jun** | **RACE DAY — Target: Sub-20:00** |
+| ✅ Sat 27 Jun | Tune-up race done — 5K ~22:21, ~30°C, eased. Engine intact post-illness. |
+| Wk of 30 Jun | Easy rebuild week; **choose the July goal race date** |
+| **TBD (late July)** | **Sub-20 goal race** — clean run-in: easy → threshold → VO2max → race-specific → taper |
 
-**Days to race: 20**
+---
+
+## Goal & Decision Point — NEXT: choose late-July goal race, build clean run-in
+
+**27 Jun tune-up done (~22:21, ~30°C, eased).** The sub-20 goal is intact and now targets a **clean late-July 5K (date TBD)** with the uninterrupted sharpening block this campaign never had.
+
+**Open decision (athlete):** pick the July race date. Then build: easy rebuild → threshold → VO2max → race-specific → taper (~4–5 weeks). Engine confirmed ready (7 Jun easy 5:30/km @ 140; 27 Jun opened sub-21 pace at threshold power post-illness).
+
+**Equipment note:** use a chest-strap HR monitor for the goal race — the optical watch undercounts HR badly in races (8 Mar and 27 Jun both read ~25–35 bpm low).
+
+*(History: pre-illness gate was an 18 Jun 2×2000m rehearsal; lost to illness. 15 Jun deferred 27 Jun; 24 Jun reinstated it as a sub-21 tune-up; run 27 Jun.)*
+
+Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2max session (6×800m, 4 Jun) ran 4:07–4:10/km without reaching Zone 5. Aerobic base is strong and improving — the speed/threshold case for a clean 4:00/km is not there yet. The 18 Jun rehearsal is the call. Full rationale: `07_decisions/decision_log.md`.
 
 ---
 
@@ -96,12 +108,40 @@
 
 ---
 
+## Active Health Flag — ILLNESS RESOLVED (monitor)
+
+**24 Jun — symptoms cleared.** Cough/phlegm gone; clean re-entry run 21 Jun with no symptom return during or after. Cleared to resume and to run Sat 27 Jun as a controlled (sub-max) tune-up. **Monitor:** any return of cough/phlegm/chest tightness → race off, back to easy rebuild. First quality/VO2max work waits for the late-July build, not before.
+
+<details><summary>Prior illness timeline (resolved)</summary>
+
+**14 Jun — phlegm + cough INCREASING. Chest involvement. Complete rest, no running at all until symptoms are clearing, not worsening.** No fever/body aches (reads viral chest/URTI, not systemic).
+
+Timeline: ~2-week nasal drip → GI upset Tue 9 Jun (Barry's skipped) → woke 12 Jun with phlegm → ran 5×1200m anyway (DNF) → phlegm + cough increasing through Sun 14 Jun. Most likely the Fri hard session tipped a smouldering URTI into symptomatic chest involvement (post-exercise immune "open window") — same as 21 Feb 2026.
+
+**Directive:**
+- **Complete rest.** No running (not even easy) while symptoms increasing. Sun 14 Jun skipped — correct.
+- **Return protocol:** symptoms must stop increasing, then 24h+ fully symptom-free → test run 5km @ 6:00/km, HR <145, no symptoms during or 2h after → easy running only, rebuild before any intensity.
+- **Do NOT repeat Feb 2026** (trained through phlegm → lost 3+ weeks). Illness is the #1 determinant of this campaign.
+
+**Race impact (13 days out):**
+- **Thu 18 Jun rehearsal (2×2000m) is OFF** — won't run hard 4 days into a worsening chest infection. Loses the fitness read + decision gate.
+- **Sub-20 realistically gone** for 27 Jun — even a fast recovery eats the entire race-specific week. Goal under review; decided once symptom-free.
+- Live framework: clears ≤~17–18 Jun → salvage 27 Jun as controlled ~20:30–21:00; clears ~20–22 Jun → 27 Jun = tune-up, target a later sub-20; not clear by ~22 Jun → DNS/defer.
+
+*Resolution: cleared ~22–24 Jun → 27 Jun run as a sub-21 tune-up; sub-20 → late July.*
+
+</details>
+
+---
+
 ## Red Flags to Monitor
 
 - Any throat or chest symptoms → neck check protocol
 - Morning resting HR >60 BPM → rest day (as per 28 May — correct decision)
 - Interval rep 1 pace faster than 3:58/km → back off immediately
 - Recovery HR still >165 BPM after 90s jog → extend to 120s
+
+**Tracking note:** Morning resting HR and sleep are not yet logged (no bed-wearable). The `Resting_HR_Morning` / `Sleep_Hours` / `Sleep_Quality` columns stay blank by design until a device is sourced. Illness governance remains symptom-based per CLAUDE.md.
 
 ---
 
