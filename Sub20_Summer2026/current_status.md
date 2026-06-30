@@ -4,9 +4,13 @@
 
 ---
 
-## Status: TUNE-UP RACE DONE (~22:21, ~30°C) | NEXT: SUB-20 BUILD → LATE JULY
+## Status: BUILD TO GOAL RACE — SAT 25 JULY 2026 | WEEK A of 4
 
-**Illness cleared; 27 Jun tune-up done.** 5K ~22:21 in extreme heat (~30°C felt), taken easy by design — a controlled effort, not a fitness verdict. **Sub-20 goal now moves to a clean late-July race (TBD) with a proper uninterrupted run-in.** No symptoms during/after the race.
+**Goal race set: Sat 25 Jul 2026 (28 days out).** Clean 4-week build off the strongest base of the campaign. Full plan: `build_plan_Jul2026.md`; this week: `current_week_plan.md` (Week A).
+
+**Goal:** Primary **PB / sub-20:30** (realistic); **sub-20:00** the stretch, decided at the **16 Jul rehearsal** (3×1600m @ 4:00). Threshold was never executed below ~4:24 this cycle — 4 weeks sharpens the base into a PB; sub-20 is the ceiling, not the expectation.
+
+**Days to race: 28**
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
@@ -60,21 +64,27 @@
 
 | Date | What |
 |------|------|
-| ✅ Sat 27 Jun | Tune-up race done — 5K ~22:21, ~30°C, eased. Engine intact post-illness. |
-| Wk of 30 Jun | Easy rebuild week; **choose the July goal race date** |
-| **TBD (late July)** | **Sub-20 goal race** — clean run-in: easy → threshold → VO2max → race-specific → taper |
+| ✅ Sat 27 Jun | Tune-up race — 5K ~22:21, ~30°C, eased. Engine intact post-illness. |
+| Thu 2 Jul | Tempo 4km @ 4:20 (threshold restart) |
+| Thu 9 Jul | VO2max 5×1000m @ 4:02, 90s jog |
+| **Thu 16 Jul** | **Race-pace rehearsal 3×1600m @ 4:00 — sub-20 vs PB decision gate** (chest strap) |
+| Thu 23 Jul | Sharpness 4×400m @ 3:50 |
+| **Sat 25 Jul** | **GOAL RACE** — pacing per 16 Jul gate |
 
 ---
 
-## Goal & Decision Point — NEXT: choose late-July goal race, build clean run-in
+## Goal & Decision Point — Goal race Sat 25 Jul; gate Thu 16 Jul
 
-**27 Jun tune-up done (~22:21, ~30°C, eased).** The sub-20 goal is intact and now targets a **clean late-July 5K (date TBD)** with the uninterrupted sharpening block this campaign never had.
+**Race chosen: Sat 25 Jul 2026.** 4-week build underway (`build_plan_Jul2026.md`).
 
-**Open decision (athlete):** pick the July race date. Then build: easy rebuild → threshold → VO2max → race-specific → taper (~4–5 weeks). Engine confirmed ready (7 Jun easy 5:30/km @ 140; 27 Jun opened sub-21 pace at threshold power post-illness).
+**Decision gate — Thu 16 Jul, 3×1600m @ 4:00/km (chest strap):**
+- Controlled, ≤8/10, even, recovers → **sub-20 ON** (race 4:02→3:54).
+- Completed but a grind (9–10/10) → **PB**, race ~4:05/km even (≈20:25).
+- Can't hold 4:00 → race by feel, target sub-20:59 PB.
 
-**Equipment note:** use a chest-strap HR monitor for the goal race — the optical watch undercounts HR badly in races (8 Mar and 27 Jun both read ~25–35 bpm low).
+**Equipment:** chest-strap HR for the rehearsal + race — optical watch undercounts ~25–35 bpm in races (8 Mar, 27 Jun).
 
-*(History: pre-illness gate was an 18 Jun 2×2000m rehearsal; lost to illness. 15 Jun deferred 27 Jun; 24 Jun reinstated it as a sub-21 tune-up; run 27 Jun.)*
+*(History: original 18 Jun rehearsal + 27 Jun goal race lost to illness; 27 Jun run as a sub-21 tune-up instead. Goal re-pointed to 25 Jul.)*
 
 Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2max session (6×800m, 4 Jun) ran 4:07–4:10/km without reaching Zone 5. Aerobic base is strong and improving — the speed/threshold case for a clean 4:00/km is not there yet. The 18 Jun rehearsal is the call. Full rationale: `07_decisions/decision_log.md`.
 

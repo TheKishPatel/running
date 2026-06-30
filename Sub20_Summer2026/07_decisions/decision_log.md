@@ -4,6 +4,25 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-06-27 (later) — Goal race chosen: Sat 25 July 2026
+
+**Race:** Sat 25 Jul 2026, 4-week build. Plan written to `build_plan_Jul2026.md`; Week A set.
+
+**Goal framing (honest):**
+- Primary realistic: **PB / sub-20:30** (20:1x–20:2x). Stretch: **sub-20**, decided at the
+  16 Jul rehearsal (3×1600m @ 4:00).
+- Threshold never executed below ~4:24 this cycle; 4 weeks sharpens the base into a PB, it
+  does not rebuild threshold 10 sec/km. Sub-20 is the ceiling, not the expectation.
+
+**Block:** A (re-entry + threshold restart) → B (VO2max intro 5×1000m) → C (peak + 16 Jul
+3×1600m gate) → D (taper + race). Barry's walking lunges weeks A–B (illness gap).
+
+**Carry-overs:** HR-governed with conservative km1/rep1 (km2-blowup pattern); jog recoveries
+not walk; chest strap for rehearsal + race (optical undercounts ~25–35 bpm in races);
+illness = full stop.
+
+---
+
 ## 2026-06-27 — Tune-up done; pivot to late-July sub-20 build
 
 **Result:** 5K ~22:21 in ~30°C, eased by design (opened 4:11/km @ 293W, faded to ~4:40 @
