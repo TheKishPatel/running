@@ -1,51 +1,59 @@
 # Current Week Plan
 
-*Last updated: 24 Jun 2026*
+*Last updated: 27 Jun 2026*
 
 ---
 
-## Week 12 (Mon 22 – Sun 28 Jun) — RETURN + SUB-21 TUNE-UP RACE
+## Build Week A (Mon 29 Jun – Sun 5 Jul) — Re-entry + threshold restart
+**Goal race: Sat 25 July 2026 (4 weeks out). Full block: `build_plan_Jul2026.md`.**
 
-**Illness cleared (symptom-free by Wed 24 Jun, confirmed by a clean post-illness re-entry run 21 Jun).** Sat 27 Jun is back ON — but as a **controlled sub-21 tune-up**, not the deferred sub-20. The sub-20 goal stays on a **later race (~late July, TBD)**. Saturday is a fitness check + confidence builder off the illness, not the prize.
-
-**Abort clause:** any return of cough/phlegm/chest tightness before Saturday → race off, resume easy rebuild.
-
----
-
-### Wed 24 Jun — EASY
-- 5km @ 5:50–6:00/km, **HR <150.** Confirm breathing is clean on normal ground. *(Skip if already run today.)*
-
-### Thu 25 Jun — EASY + STRIDES
-- 4km easy @ ~5:50/km + **4×100m strides** (relaxed, fast turnover, full recovery). Primes race legs without fatigue. Nothing harder — still days off illness.
-
-### Fri 26 Jun — REST / SHAKEOUT
-- Rest, or 15-min shakeout + 2 strides.
-- **Hydrate + electrolytes hard today** (heat prep for Saturday). Lay out kit, plan logistics.
-
-### Sat 27 Jun — RACE (sub-21 tune-up), ~25°C
-**Goal pace ~4:10/km (≈20:50). HR governs, not pace.**
-
-| Km | Pace | HR target | Effort |
-|----|------|-----------|--------|
-| 1 | 4:12 | ≤170 | 6–7/10 — resist the gun |
-| 2 | 4:10 | 172–176 | 7/10 |
-| 3 | 4:10 | 175–179 | 8/10 |
-| 4 | 4:09 | 178–181 | 8–9/10 |
-| 5 | empty it | up to 183 | 9/10 |
-
-**Heat:** HR runs 5–8 bpm high for the same effort in 25°C — don't panic if it feels controlled, but respect the ceiling (thermal strain is real).
-
-**Hard ceiling 183. Abort to controlled tempo (HR <175, ~4:25/km), bin the time, finish easy if:** HR pinned >183 before km3, pace bleeding while HR maxed, any chest symptom, or heat-sickness (dizzy, chills, goosebumps).
-
-**Km1 discipline:** go out at 4:12, NOT 4:05, even feeling great — your fade pattern (Parkrun 4:04→4:19) is exactly the heat trap.
-
-**✅ Race result (27 Jun):** 5K ~22:21 in ~30°C, taken easy. Opened 4:11/km @ 293W (threshold power) then eased to 4:38–4:41 @ ~260W as heat bit. HR feed invalid (sensor undercount). Well-judged controlled tune-up — not a fitness verdict, but leg speed + engine intact 6 days post-illness. Full analysis: `03_session_analyses/2026-06-27_race_5k_tuneup.md`.
-
-### Sun 28 Jun — REST or easy shakeout
-- Recover. Next: choose the late-July goal race and build the clean run-in.
+**Objective:** Re-establish rhythm after illness + the hot tune-up, and restart threshold work conservatively. Ease in, but get moving — the block is short.
 
 ---
 
-## Campaign Note
+### Tue 30 Jun — BARRY'S (Lower Body)
+- 6/10 effort, HR avg <155 BPM, majority Zone 2–3.
+- **First session back after the illness gap → substitute walking lunges for jumping lunges.**
+- No overcooking — Thursday tempo is the week's quality.
 
-Aerobic base pre-illness was the best of the campaign (7 Jun: 5:30/km @ 140). Illness interrupted the sharpening, not the engine. Saturday reads where fitness sits post-illness; the uninterrupted sub-20 build starts after, targeting late July.
+### Thu 2 Jul — TEMPO (threshold restart)
+| Component | Detail |
+|-----------|--------|
+| Warmup | 1km @ 5:45/km |
+| Main set | **4km @ 4:20/km** |
+| Cooldown | 1km @ 5:45/km |
+| Total | 6km |
+
+- HR target 168–176. **Even splits — km1 at 4:20, not 4:14.**
+- Watch alert at 4:16/km (fast limit). The km2 blowup wrecked every tempo this cycle — do not repeat.
+- HR-governed: if HR >178 or it feels >8/10, ease to 4:24/km. Controlled beats blown.
+
+### Sun 5 Jul — EASY LONG
+| Component | Detail |
+|-----------|--------|
+| Warmup | 2km @ 6:00/km |
+| Main set | **7km @ 5:35/km** |
+| Cooldown | 1km @ 6:00/km |
+| Total | 10km |
+
+- HR <150 throughout, Zone 2 dominant. Rebuild aerobic volume. HR governs — ease pace if drifting to 150.
+
+### Optional — Easy
+- 4–5km @ 6:00/km midweek (Wed or Sat) only if recovered. Skip if tired.
+
+**Target volume ~28–30km.**
+
+---
+
+### Week A Log
+**Tue 30 Jun:** ___
+**Thu 2 Jul:** ___
+**Sun 5 Jul:** ___
+
+---
+
+## Standing rules this block
+1. HR governs pace; conservative km1/rep1 every quality session.
+2. Jog recoveries on intervals, never walk.
+3. Chest-strap HR for the 16 Jul rehearsal and the race (watch undercounts in races).
+4. Any cough/phlegm/sore throat → complete rest. Illness is what cost the original race.

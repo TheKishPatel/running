@@ -15,7 +15,10 @@
 | Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ❌ Lost to illness | — |
 | Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ❌ N/A — race deferred | — |
 | **27 Jun (tune-up)** | — | **Sub-21 tune-up — DONE: 5K ~22:21, ~30°C, eased** | ✅ Completed | n/a (tune-up) |
-| **Sub-20 goal race** | TBD | **~late July 2026 (choose date; build clean run-in)** | ⏳ Pending | — |
+| Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | 🔄 Week A | — |
+| **GOAL RACE** | — | **Sat 25 Jul 2026** | ⏳ Upcoming | — |
+
+> **Live plan = `build_plan_Jul2026.md`** (4-week block to the 25 Jul race). Goal: PB / sub-20:30 primary, sub-20 stretch (gate: 16 Jul 3×1600m @ 4:00).
 
 ⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) is now 1 week instead of 2. Phase 5 (Taper) unchanged.
 
