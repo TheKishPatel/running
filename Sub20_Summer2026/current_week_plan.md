@@ -47,7 +47,7 @@
 
 ### Week A Log
 **Tue 30 Jun:** ___
-**Thu 2 Jul:** ___
+**Thu 2 Jul:** ✅ Tempo 4km @ 4:20/km — dead on target. Clean descending shape 4:27→4:23→4:19→4:13, T1 slowest rep. First tempo without the km2 blowup in 6 attempts. HR 156→179 (max 182), Zone 4: 11:18.
 **Sun 5 Jul:** ___
 
 ---
