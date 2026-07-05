@@ -47,8 +47,8 @@
 
 ### Week A Log
 **Tue 30 Jun:** ___
-**Thu 2 Jul:** ___
-**Sun 5 Jul:** ___
+**Thu 2 Jul:** ✅ Tempo 4km @ 4:20/km — dead on target. Clean descending shape 4:27→4:23→4:19→4:13, T1 slowest rep. First tempo without the km2 blowup in 6 attempts. HR 156→179 (max 182), Zone 4: 11:18.
+**Sun 5 Jul:** ✅ Easy Long 10km — HR-governed, 100% Zone 2 (avg 142, max 150, zero Zone 3+). Main set ~5:19/km @ 142bpm = best aerobic efficiency of the campaign (11sec/km faster than 7 Jun best for +2bpm). Recovery 141→93 in 2min.
 
 ---
 

@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 27 Jun 2026*
+*Last updated: 5 Jul 2026*
 
 ---
 
@@ -10,12 +10,14 @@
 
 **Goal:** Primary **PB / sub-20:30** (realistic); **sub-20:00** the stretch, decided at the **16 Jul rehearsal** (3×1600m @ 4:00). Threshold was never executed below ~4:24 this cycle — 4 weeks sharpens the base into a PB; sub-20 is the ceiling, not the expectation.
 
-**Days to race: 28**
+**Days to race: 20**
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** Sub-21 tune-up race (27 Jun) — 5K ~22:21, ~30°C. Opened 4:11/km @ 293W (threshold power) then eased to 4:38–4:41 @ ~260W as heat bit. HR feed invalid (sensor undercount, same as 8 Mar). Read via power/pace — leg speed + engine intact 6 days post-illness. See `03_session_analyses/2026-06-27_race_5k_tuneup.md`.
+**Last completed run:** Easy Long 10km (Sun 5 Jul) — **best aerobic efficiency of the campaign.** Ran on HR alert: 100% Zone 2, max 150, zero Zone 3+. Main set (km3–9) ~5:19/km @ ~142 BPM = 11 sec/km faster than the 7 Jun best (5:30 @ 140) for +2 BPM. Pace 16 sec/km over the 5:35 target but HR never left Zone 2 → fitness, not indiscipline. See `03_session_analyses/2026-07-05_easy_long_10km_aerobic_pb.md`.
+
+**Prior:** Tempo 4km @ 4:20 (Thu 2 Jul) — best-executed tempo of the campaign. Dead on 4:20/km, clean descending shape (4:27→4:13), first tempo without the km2 blowup in 6 attempts. First clean threshold below 4:24 this cycle. Two consecutive clean, well-governed quality days.
 
 ---
 
@@ -25,8 +27,8 @@
 |--------|-------|------|
 | 5K PB | **20:59** | 8 March 2026 |
 | Race pace | 4:12/km avg | |
-| Threshold pace | ~4:24/km (est, rested — never cleanly executed) | Multiple attempts W6-W9 |
-| Easy pace | 5:48/km @ 142 BPM | Phase 2 gate 26 May |
+| Threshold pace | **4:20/km (4km, clean descending — first clean execution)** | 2 Jul 2026 |
+| Easy pace | **5:19/km @ 142 BPM (main set) — best of campaign** | 5 Jul 2026 |
 | Morning resting HR baseline | <55 BPM | |
 
 **Fitness note:** Aerobic regression from Phase 2 illness/injury fully reversed. Easy pace baseline is now 5:30/km @ 140 BPM (7 Jun) — faster than Phase 1 gate (5:31/km @ 144 BPM) at lower HR. This is the best aerobic efficiency reading of the campaign. Threshold has been stimulated across 5 sessions; VO2max block now underway. Two key sessions remain before race rehearsal (11 Jun intervals, 18 Jun race rehearsal).
@@ -37,8 +39,8 @@
 
 | Zone | Current | Target | Gap |
 |------|---------|--------|-----|
-| Easy | **5:30/km @ 140 BPM** (7 Jun — best of campaign) | 5:30-5:40/km | ✅ At target |
-| Threshold | ~4:24/km est (rested) | 4:12-4:15/km | 9-12 sec/km |
+| Easy | **5:19/km @ 142 BPM** (5 Jul — best of campaign, 100% Zone 2) | 5:30-5:40/km | ✅ Beyond target |
+| Threshold | **4:20/km (2 Jul, 4km clean, 4:13 close)** | 4:12-4:15/km | 5-8 sec/km |
 | VO2max | ~4:07-4:10/km @ 178 BPM (full recovery, W10) | 3:58-4:03/km | TBD — higher with jog recovery |
 | Race pace | 4:12/km | 4:00/km | 12 sec/km |
 
@@ -102,13 +104,15 @@ Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2ma
 
 ---
 
-## Recurring Flag: km2 Blowup Pattern
+## Recurring Flag: km2 Blowup Pattern — ✅ BROKEN (2 Jul), keep watching
 
-5 tempo sessions, same issue: km2 goes 4-9 sec/km too fast → HR budget blown → session derailed. Root cause: pace instinct is too aggressive in km2 once warmed from km1.
+5 tempo sessions (Mar–May), same issue: km2 goes 4-9 sec/km too fast → HR budget blown → session derailed. Root cause: pace instinct is too aggressive in km2 once warmed from km1.
+
+**2 Jul tempo broke it for the first time:** T1 was the SLOWEST rep (4:27, 7sec/km under target), splits descended cleanly to a 4:13 close, HR staircased with no early spike. The correction landed — but it's one session, not yet a trend. Keep the conservative-km1 discipline locked in.
 
 **For interval work, this becomes:** Rep 1 going 5-10 sec/km too fast → HR max too early → unable to complete full set.
 
-**Mitigation:** Watch alert at 4:00/km (fast limit) for Thursday intervals. First rep should feel almost easy (7/10). Rep 6 should feel wretched. Do not be tempted to "test" fitness on rep 1.
+**Mitigation:** Watch alert at 4:00/km (fast limit) for Thursday intervals. First rep should feel almost easy (7/10). Last rep should feel wretched. Do not be tempted to "test" fitness on rep 1 — same as the 2 Jul tempo.
 
 ---
 
