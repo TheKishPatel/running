@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 2 Jul 2026*
+*Last updated: 5 Jul 2026*
 
 ---
 
@@ -10,12 +10,14 @@
 
 **Goal:** Primary **PB / sub-20:30** (realistic); **sub-20:00** the stretch, decided at the **16 Jul rehearsal** (3×1600m @ 4:00). Threshold was never executed below ~4:24 this cycle — 4 weeks sharpens the base into a PB; sub-20 is the ceiling, not the expectation.
 
-**Days to race: 23**
+**Days to race: 20**
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** Tempo 4km @ 4:20 (Thu 2 Jul) — **best-executed tempo of the campaign.** Main set dead on 4:20/km with a clean descending shape (4:27→4:23→4:19→4:13), T1 the slowest rep — **first time the km2 blowup pattern didn't appear in 6 tempo attempts.** HR staircased cleanly 156→179 (max 182), Zone 4: 11:18. First clean threshold execution below 4:24 this cycle. See `03_session_analyses/2026-07-02_tempo_4km_threshold_restart.md`.
+**Last completed run:** Easy Long 10km (Sun 5 Jul) — **best aerobic efficiency of the campaign.** Ran on HR alert: 100% Zone 2, max 150, zero Zone 3+. Main set (km3–9) ~5:19/km @ ~142 BPM = 11 sec/km faster than the 7 Jun best (5:30 @ 140) for +2 BPM. Pace 16 sec/km over the 5:35 target but HR never left Zone 2 → fitness, not indiscipline. See `03_session_analyses/2026-07-05_easy_long_10km_aerobic_pb.md`.
+
+**Prior:** Tempo 4km @ 4:20 (Thu 2 Jul) — best-executed tempo of the campaign. Dead on 4:20/km, clean descending shape (4:27→4:13), first tempo without the km2 blowup in 6 attempts. First clean threshold below 4:24 this cycle. Two consecutive clean, well-governed quality days.
 
 ---
 
@@ -26,7 +28,7 @@
 | 5K PB | **20:59** | 8 March 2026 |
 | Race pace | 4:12/km avg | |
 | Threshold pace | **4:20/km (4km, clean descending — first clean execution)** | 2 Jul 2026 |
-| Easy pace | 5:48/km @ 142 BPM | Phase 2 gate 26 May |
+| Easy pace | **5:19/km @ 142 BPM (main set) — best of campaign** | 5 Jul 2026 |
 | Morning resting HR baseline | <55 BPM | |
 
 **Fitness note:** Aerobic regression from Phase 2 illness/injury fully reversed. Easy pace baseline is now 5:30/km @ 140 BPM (7 Jun) — faster than Phase 1 gate (5:31/km @ 144 BPM) at lower HR. This is the best aerobic efficiency reading of the campaign. Threshold has been stimulated across 5 sessions; VO2max block now underway. Two key sessions remain before race rehearsal (11 Jun intervals, 18 Jun race rehearsal).
@@ -37,7 +39,7 @@
 
 | Zone | Current | Target | Gap |
 |------|---------|--------|-----|
-| Easy | **5:30/km @ 140 BPM** (7 Jun — best of campaign) | 5:30-5:40/km | ✅ At target |
+| Easy | **5:19/km @ 142 BPM** (5 Jul — best of campaign, 100% Zone 2) | 5:30-5:40/km | ✅ Beyond target |
 | Threshold | **4:20/km (2 Jul, 4km clean, 4:13 close)** | 4:12-4:15/km | 5-8 sec/km |
 | VO2max | ~4:07-4:10/km @ 178 BPM (full recovery, W10) | 3:58-4:03/km | TBD — higher with jog recovery |
 | Race pace | 4:12/km | 4:00/km | 12 sec/km |
