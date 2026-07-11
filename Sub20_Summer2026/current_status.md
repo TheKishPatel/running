@@ -8,7 +8,7 @@
 
 **Goal race set: Sat 25 Jul 2026 (16 days out).** Full plan: `build_plan_Jul2026.md`; this week: `current_week_plan.md` (Week B, revised).
 
-**⚠️ 9 Jul — acute GI illness (food poisoning).** Bad oysters Tue 7 Jul evening → vomiting, GI symptoms Tue night/Wed, overnight shivers, poor sleep. Thu ~70% body. **Thu VO2max postponed.** Recovery-first week: rest Fri, easy test run Sat, VO2max only if clean (Sun) else easy long. The **Thu 16 Jul race-pace rehearsal is protected**. Not the URTI/chest pattern — self-limiting, but no hard work while depleted (12 Jun lesson). See health flag below.
+**⚠️ 9 Jul — acute GI illness (food poisoning).** Bad oysters Tue 7 Jul evening → vomiting, GI symptoms Tue night/Wed, overnight shivers, poor sleep. Thu ~70% body. Rest Thu–Sat (Sat test deferred — 30°C, no cool window). **Sun 12 Jul = return test run** (easy 5km @ 6:00, HR <145). **Intro VO2max dropped this week** — can't be the first run back and would crowd the gate. The **Thu 16 Jul race-pace rehearsal is the protected session and the top-end reintroduction**. Not the URTI/chest pattern — self-limiting, but no hard work while depleted (12 Jun lesson). See health flag below.
 
 **Goal:** Primary **PB / sub-20:30** (realistic); **sub-20:00** the stretch, decided at the **16 Jul rehearsal** (3×1600m @ 4:00). Threshold was never executed below ~4:24 this cycle — 4 weeks sharpens the base into a PB; sub-20 is the ceiling, not the expectation.
 

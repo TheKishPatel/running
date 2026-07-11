@@ -23,22 +23,23 @@
 ### Thu 9 Jul — VO2max ❌ POSTPONED (illness)
 - 5×1000m @ 4:02 not run. See return structure below.
 
-### Fri 10 Jul — REST (default)
-- Complete rest. Keep rebuilding food + electrolytes.
-- **Only** if you wake clearly better (no GI symptoms, Thursday's food sat fine): easy 3–4km @ 6:00/km, HR <145. Judge it in the morning — default is rest.
+### Fri 10 Jul — REST
+- Complete rest. Rehydration + electrolytes + rebuilding food.
 
-### Sat 11 Jul — EASY TEST RUN (return protocol)
+### Sat 11 Jul — REST
+- Heat (30°C, no cool window) → test run deferred rather than forced on a depleted gut. Correct call — the test isn't time-critical.
+
+### Sun 12 Jul — EASY TEST RUN (return protocol, first run back)
 | Component | Detail |
 |-----------|--------|
 | Session | **5km @ 6:00/km, HR <145 BPM** |
 
-- This is the return-to-training test. Must be **symptom-free during and for 2h after**. Clean → cleared to resume. Any GI return, lightheadedness or unusual HR → back to rest.
+- First run since the food poisoning → this is the return test, **not** a workout. Must be **symptom-free during and for 2h after** to clear.
+- **Coolest slot available** (Sunday AM). Heat inflates HR-for-pace, so you'll be slower than 6:00 at <145 — HR governs, don't chase pace. Judge the test by **symptoms** (GI, nausea, dizziness), not the HR number. Abort on any GI return, lightheadedness, or going chilly.
 
-### Sun 12 Jul — CONDITIONAL
-- **If Sat test clean and body ≥90%:** move the VO2max here — 1km WU @ 5:45 + 200m primer @ 4:10 / **5×1000m @ 4:02/km, 90s JOG recovery** / 1km CD. Trim to **4×1000m** if legs are flat. Rep 1 @ 4:02 not faster (alert 4:00); HR build to 178–182+. Jog recoveries, never walk.
-- **If not fully right:** easy long **8–10km @ 5:35/km, HR <150** (Zone 2, HR-governed). VO2max is dropped this week — the 16 Jul rehearsal reintroduces top-end. Do not force the intervals.
-
-**Rationale for the ordering:** VO2max earliest Sunday, never Saturday — a max session ~1 day after "feeling okay" is too soon; the Saturday easy run has to clear you first. If VO2max lands Sunday, the long run is the session sacrificed — the aerobic base is already campaign-best, so that's the cheap loss.
+### ❌ VO2max — DROPPED this week
+- Not run tomorrow: a max session cannot be the first run back after food poisoning, and 30°C kills the signal anyway. Jamming it into Mon/Tue would run it straight into the Thu 16 Jul gate — not worth the risk.
+- **The Thu 16 Jul race-pace rehearsal is the reintroduction to top-end.** One intro session lost; aerobic base and the gate both intact.
 
 ---
 
@@ -46,9 +47,9 @@
 **Tue 7 Jul:** ✅ Barry's (lower) — 138 avg / 175 max, on target. Food poisoning that evening.
 **Wed 8 Jul:** Rest — GI recovery.
 **Thu 9 Jul:** ❌ VO2max postponed — food poisoning (~70% body).
-**Fri 10 Jul:** ___
-**Sat 11 Jul:** ___
-**Sun 12 Jul:** ___
+**Fri 10 Jul:** Rest — GI recovery, rehydration.
+**Sat 11 Jul:** Rest — test run deferred (30°C, no cool window).
+**Sun 12 Jul:** Return test run planned — easy 5km @ 6:00, HR <145. VO2max dropped this week.
 
 ---
 
