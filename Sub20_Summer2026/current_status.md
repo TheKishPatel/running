@@ -124,9 +124,11 @@ Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2ma
 
 ---
 
-## Active Health Flag — 🟠 ACUTE GI ILLNESS (food poisoning), 9 Jul
+## Active Health Flag — 🟢 GI ILLNESS RESOLVING, 12 Jul (return test clean)
 
-**Tue 7 Jul evening — food poisoning (bad oysters).** Vomiting on the way home, bowel movements Tue night + Wed AM, overnight shivers + gas, poor sleep. Wed 8 Jul: rest, rehydration, simple food. Thu 9 Jul: ~70% body / 50% mental.
+**Sun 12 Jul return test clean.** 5km easy, HR 127 avg / 139 max (100% Zone 1–2, under the <145 cap), recovery 128→90→82 — no lingering systemic cost. Cleared to resume **pending symptom-free 2h post-run**. Then back on plan → 16 Jul gate. Monitor for any GI recurrence.
+
+**Tue 7 Jul evening — food poisoning (bad oysters).** Vomiting on the way home, bowel movements Tue night + Wed AM, overnight shivers + gas, poor sleep. Wed 8 Jul: rest, rehydration, simple food. Thu 9 Jul: ~70% body / 50% mental. Rest Thu–Sat (Sat test deferred, 30°C).
 
 **Nature:** acute, self-limiting GI illness — **distinct from the campaign's URTI/chest pattern** (no respiratory involvement, not contagious-progressive). Main training risks are dehydration, electrolyte loss and glycogen depletion, not a smouldering infection. Recovery typically faster than the chest illnesses once the gut settles.
 

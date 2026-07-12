@@ -49,7 +49,16 @@
 **Thu 9 Jul:** ❌ VO2max postponed — food poisoning (~70% body).
 **Fri 10 Jul:** Rest — GI recovery, rehydration.
 **Sat 11 Jul:** Rest — test run deferred (30°C, no cool window).
-**Sun 12 Jul:** Return test run planned — easy 5km @ 6:00, HR <145. VO2max dropped this week.
+**Sun 12 Jul:** ✅ Return test — 5km, 127 avg / 139 max, 100% Zone 1–2, recovery 128→90→82. Clean. Cleared pending symptom-free 2h post. VO2max dropped this week.
+
+---
+
+### Run-in to the gate (Week C)
+- **Mon 13 Jul:** easy 5–6km @ 5:40, HR <150 (one aerobic run with more turnover before the gate).
+- **Tue 14 Jul:** Barry's (lower) 6/10 — back to jumping lunges unless legs off. Controlled — gate is Thursday.
+- **Wed 15 Jul:** rest.
+- **Thu 16 Jul:** race-pace rehearsal 3×1600m @ 4:00, **chest strap** — sub-20 vs PB decision gate.
+- Context: off an illness-disrupted, low-volume fortnight — the gate reads what it reads; a rough gate is not a fitness verdict, but race day (25 Jul) means we pace off what it shows.
 
 ---
 
