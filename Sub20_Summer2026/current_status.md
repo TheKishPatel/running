@@ -1,21 +1,23 @@
 # Current Status
 
-*Last updated: 5 Jul 2026*
+*Last updated: 9 Jul 2026*
 
 ---
 
-## Status: BUILD TO GOAL RACE — SAT 25 JULY 2026 | WEEK A of 4
+## Status: BUILD TO GOAL RACE — SAT 25 JULY 2026 | WEEK B of 4 ⚠️ FOOD POISONING
 
-**Goal race set: Sat 25 Jul 2026 (28 days out).** Clean 4-week build off the strongest base of the campaign. Full plan: `build_plan_Jul2026.md`; this week: `current_week_plan.md` (Week A).
+**Goal race set: Sat 25 Jul 2026 (16 days out).** Full plan: `build_plan_Jul2026.md`; this week: `current_week_plan.md` (Week B, revised).
+
+**⚠️ 9 Jul — acute GI illness (food poisoning).** Bad oysters Tue 7 Jul evening → vomiting, GI symptoms Tue night/Wed, overnight shivers, poor sleep. Thu ~70% body. Rest Thu–Sat (Sat test deferred — 30°C, no cool window). **Sun 12 Jul = return test run** (easy 5km @ 6:00, HR <145). **Intro VO2max dropped this week** — can't be the first run back and would crowd the gate. The **Thu 16 Jul race-pace rehearsal is the protected session and the top-end reintroduction**. Not the URTI/chest pattern — self-limiting, but no hard work while depleted (12 Jun lesson). See health flag below.
 
 **Goal:** Primary **PB / sub-20:30** (realistic); **sub-20:00** the stretch, decided at the **16 Jul rehearsal** (3×1600m @ 4:00). Threshold was never executed below ~4:24 this cycle — 4 weeks sharpens the base into a PB; sub-20 is the ceiling, not the expectation.
 
-**Days to race: 20**
+**Days to race: 16**
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last completed run:** Easy Long 10km (Sun 5 Jul) — **best aerobic efficiency of the campaign.** Ran on HR alert: 100% Zone 2, max 150, zero Zone 3+. Main set (km3–9) ~5:19/km @ ~142 BPM = 11 sec/km faster than the 7 Jun best (5:30 @ 140) for +2 BPM. Pace 16 sec/km over the 5:35 target but HR never left Zone 2 → fitness, not indiscipline. See `03_session_analyses/2026-07-05_easy_long_10km_aerobic_pb.md`.
+**Last session:** Barry's lower (Tue 7 Jul) — 138 avg / 175 max, on target, not overcooked (lunchtime, pre-illness). **Last run:** Easy Long 10km (Sun 5 Jul) — **best aerobic efficiency of the campaign.** Ran on HR alert: 100% Zone 2, max 150, zero Zone 3+. Main set (km3–9) ~5:19/km @ ~142 BPM = 11 sec/km faster than the 7 Jun best (5:30 @ 140) for +2 BPM. Pace 16 sec/km over the 5:35 target but HR never left Zone 2 → fitness, not indiscipline. See `03_session_analyses/2026-07-05_easy_long_10km_aerobic_pb.md`.
 
 **Prior:** Tempo 4km @ 4:20 (Thu 2 Jul) — best-executed tempo of the campaign. Dead on 4:20/km, clean descending shape (4:27→4:13), first tempo without the km2 blowup in 6 attempts. First clean threshold below 4:24 this cycle. Two consecutive clean, well-governed quality days.
 
@@ -122,7 +124,24 @@ Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2ma
 
 ---
 
-## Active Health Flag — ILLNESS RESOLVED (monitor)
+## Active Health Flag — 🟢 GI ILLNESS RESOLVING, 12 Jul (return test clean)
+
+**Sun 12 Jul return test clean.** 5km easy, HR 127 avg / 139 max (100% Zone 1–2, under the <145 cap), recovery 128→90→82 — no lingering systemic cost. Cleared to resume **pending symptom-free 2h post-run**. Then back on plan → 16 Jul gate. Monitor for any GI recurrence.
+
+**Tue 7 Jul evening — food poisoning (bad oysters).** Vomiting on the way home, bowel movements Tue night + Wed AM, overnight shivers + gas, poor sleep. Wed 8 Jul: rest, rehydration, simple food. Thu 9 Jul: ~70% body / 50% mental. Rest Thu–Sat (Sat test deferred, 30°C).
+
+**Nature:** acute, self-limiting GI illness — **distinct from the campaign's URTI/chest pattern** (no respiratory involvement, not contagious-progressive). Main training risks are dehydration, electrolyte loss and glycogen depletion, not a smouldering infection. Recovery typically faster than the chest illnesses once the gut settles.
+
+**Directive:**
+- **No hard/quality session while compromised.** Thu 9 Jul VO2max postponed — correct. The 12 Jun DNF is the lesson: quality on a depleted body = negative-value session + setback.
+- **Return protocol:** rest Fri 10 Jul (or trivial easy jog only if clearly better) → easy test run Sat 11 Jul (5km @ 6:00, HR <145), symptom-free during + 2h after → cleared to resume.
+- **VO2max:** not before Sun 12 Jul, and only if the Sat test is clean and body ≥90%. Otherwise drop it this week and let the 16 Jul rehearsal reintroduce top-end.
+- **Protected session:** Thu 16 Jul race-pace rehearsal (sub-20 decision gate) — nothing this week may compromise it.
+- **Monitor:** any fever, blood in stool, ongoing vomiting or symptoms past ~48h from onset → medical review, not a training question.
+
+---
+
+## Prior Health Flag — URTI ILLNESS RESOLVED (monitor)
 
 **24 Jun — symptoms cleared.** Cough/phlegm gone; clean re-entry run 21 Jun with no symptom return during or after. Cleared to resume and to run Sat 27 Jun as a controlled (sub-max) tune-up. **Monitor:** any return of cough/phlegm/chest tightness → race off, back to easy rebuild. First quality/VO2max work waits for the late-July build, not before.
 

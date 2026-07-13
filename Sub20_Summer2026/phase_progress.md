@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 15 Jun 2026*
+*Last updated: 6 Jul 2026*
 
 ---
 
@@ -15,12 +15,40 @@
 | Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ❌ Lost to illness | — |
 | Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ❌ N/A — race deferred | — |
 | **27 Jun (tune-up)** | — | **Sub-21 tune-up — DONE: 5K ~22:21, ~30°C, eased** | ✅ Completed | n/a (tune-up) |
-| Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | 🔄 Week A | — |
+| Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | 🔄 Week B | — |
 | **GOAL RACE** | — | **Sat 25 Jul 2026** | ⏳ Upcoming | — |
 
 > **Live plan = `build_plan_Jul2026.md`** (4-week block to the 25 Jul race). Goal: PB / sub-20:30 primary, sub-20 stretch (gate: 16 Jul 3×1600m @ 4:00).
 
 ⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) is now 1 week instead of 2. Phase 5 (Taper) unchanged.
+
+---
+
+## Build to Goal Race (25 Jul) — Weeks A–D
+**Dates:** Mon 29 Jun – Sat 25 Jul 2026. **Live plan: `build_plan_Jul2026.md`.**
+**Goal:** PB / sub-20:30 primary; sub-20 stretch, decided at the 16 Jul rehearsal (Week C).
+
+### Sessions Completed
+
+| Week | Date | Session | Planned | Actual Pace | Actual HR | Status | Notes |
+|------|------|---------|---------|-------------|-----------|--------|-------|
+| A | 30 Jun | Tue Barry's | 6/10, walking lunges | — | — | ⚠️ no data | Not logged |
+| A | 2 Jul | Thu Tempo | 4km @ 4:20 | 4:20/km | 163/182 | ✅ done | **First clean threshold of cycle.** Descending 4:27→4:23→4:19→4:13, T1 slowest — km2 blowup broken. Z4 11:18. |
+| A | 5 Jul | Sun Easy Long | 10km @ 5:35 | 5:19/km main set | 142/150 | ✅ done | **New best aerobic efficiency of campaign** — 11 sec/km faster than 7 Jun best at +2 BPM. 100% Zone 2. |
+| B | 7 Jul | Tue Barry's | 6/10, walking lunges | | | ⏳ | 2nd lower back in post-illness window |
+| B | 9 Jul | Thu VO2max | 5×1000m @ 4:02, 90s jog | | | ⏳ | First clean VO2max of build. Jog recovery + rep-1 discipline. |
+| B | 12 Jul | Sun Long | 11–12km @ 5:30 + 2km @ 4:45 | | | ⏳ | Aerobic + steady finish, HR <150/155 |
+| C | 14 Jul | Tue Barry's | 6/10 (normal — window over) | | | ⏳ | Return to jumping lunges |
+| C | 16 Jul | Thu Race-pace rehearsal | 3×1600m @ 4:00, chest strap | | | ⏳ | **Sub-20 vs PB decision gate** |
+| C | 19 Jul | Sun Easy | 10km @ 5:35 | | | ⏳ | Start easing |
+| D | 21–25 Jul | Taper + race | 4×400m @ 3:50 (23 Jul); RACE 25 Jul | | | ⏳ | Pacing per 16 Jul gate |
+
+### Build Assessment (through Week A)
+- **Threshold:** clean 4:20/km execution (2 Jul) — first below 4:24 this cycle, km2 blowup broken. Still 5–8 sec/km off the 4:12–4:15 sub-20 threshold band.
+- **Aerobic:** campaign-best efficiency (5:19/km @ 142, 5 Jul). Base is the strongest of the cycle.
+- **VO2max:** untested clean — the open question. Week B intervals are the first valid read.
+- **Illness:** none since re-entry. Monitor per standing rules.
+- **Progression call:** two clean quality days support advancing to VO2max intro as planned (build plan Week B). No acceleration beyond plan — intervals not yet executed cleanly with jog recovery, so hold 4:02/km with rep-1 discipline rather than chasing 3:58.
 
 ---
 

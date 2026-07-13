@@ -1,59 +1,69 @@
 # Current Week Plan
 
-*Last updated: 27 Jun 2026*
+*Last updated: 9 Jul 2026*
 
 ---
 
-## Build Week A (Mon 29 Jun – Sun 5 Jul) — Re-entry + threshold restart
-**Goal race: Sat 25 July 2026 (4 weeks out). Full block: `build_plan_Jul2026.md`.**
+## Build Week B (Mon 6 Jul – Sun 12 Jul) — Threshold holds, VO2max intro *(revised — food poisoning)*
+**Goal race: Sat 25 July 2026 (16 days out). Full block: `build_plan_Jul2026.md`.**
 
-**Objective:** Re-establish rhythm after illness + the hot tune-up, and restart threshold work conservatively. Ease in, but get moving — the block is short.
+**Objective (revised 9 Jul):** Food poisoning (bad oysters, Tue 7 Jul dinner) knocked out the Thursday VO2max. Week pivots to recovery-first. **The intro VO2max is the lowest-priority remaining key session; the Thu 16 Jul race-pace rehearsal — the sub-20 decision gate — is protected and nothing this week may compromise it.** Return to running only when GI has settled and rehydration is complete, evidenced by a clean easy run.
 
 ---
 
-### Tue 30 Jun — BARRY'S (Lower Body)
-- 6/10 effort, HR avg <155 BPM, majority Zone 2–3.
-- **First session back after the illness gap → substitute walking lunges for jumping lunges.**
-- No overcooking — Thursday tempo is the week's quality.
+### Tue 7 Jul — BARRY'S (Lower Body) ✅ DONE
+- 138 BPM avg / 175 max. Z1 18:31 / Z2 16:52 / Z3 12:06 / Z4 1:54 / Z5 0:00. On target (avg <155, majority Zone 2–3, not overcooked).
+- Lunchtime session — clean data point, **before** the evening food poisoning.
 
-### Thu 2 Jul — TEMPO (threshold restart)
+### ⚠️ Tue 7 Jul evening — FOOD POISONING (acute GI)
+- Bad oysters at dinner → vomiting on the way home; bowel movements Tue night + Wed AM; overnight shivers + gas; poor sleep.
+- Wed 8 Jul: full rest, rehydration, simple food. Thu 9 Jul: ~70% body / 50% mental.
+- Acute GI illness (not the campaign's URTI/chest pattern) — self-limiting, but leaves you depleted and dehydrated. No hard session while compromised (the 12 Jun lesson: quality on a compromised body = DNF + setback).
+
+### Thu 9 Jul — VO2max ❌ POSTPONED (illness)
+- 5×1000m @ 4:02 not run. See return structure below.
+
+### Fri 10 Jul — REST
+- Complete rest. Rehydration + electrolytes + rebuilding food.
+
+### Sat 11 Jul — REST
+- Heat (30°C, no cool window) → test run deferred rather than forced on a depleted gut. Correct call — the test isn't time-critical.
+
+### Sun 12 Jul — EASY TEST RUN (return protocol, first run back)
 | Component | Detail |
 |-----------|--------|
-| Warmup | 1km @ 5:45/km |
-| Main set | **4km @ 4:20/km** |
-| Cooldown | 1km @ 5:45/km |
-| Total | 6km |
+| Session | **5km @ 6:00/km, HR <145 BPM** |
 
-- HR target 168–176. **Even splits — km1 at 4:20, not 4:14.**
-- Watch alert at 4:16/km (fast limit). The km2 blowup wrecked every tempo this cycle — do not repeat.
-- HR-governed: if HR >178 or it feels >8/10, ease to 4:24/km. Controlled beats blown.
+- First run since the food poisoning → this is the return test, **not** a workout. Must be **symptom-free during and for 2h after** to clear.
+- **Coolest slot available** (Sunday AM). Heat inflates HR-for-pace, so you'll be slower than 6:00 at <145 — HR governs, don't chase pace. Judge the test by **symptoms** (GI, nausea, dizziness), not the HR number. Abort on any GI return, lightheadedness, or going chilly.
 
-### Sun 5 Jul — EASY LONG
-| Component | Detail |
-|-----------|--------|
-| Warmup | 2km @ 6:00/km |
-| Main set | **7km @ 5:35/km** |
-| Cooldown | 1km @ 6:00/km |
-| Total | 10km |
-
-- HR <150 throughout, Zone 2 dominant. Rebuild aerobic volume. HR governs — ease pace if drifting to 150.
-
-### Optional — Easy
-- 4–5km @ 6:00/km midweek (Wed or Sat) only if recovered. Skip if tired.
-
-**Target volume ~28–30km.**
+### ❌ VO2max — DROPPED this week
+- Not run tomorrow: a max session cannot be the first run back after food poisoning, and 30°C kills the signal anyway. Jamming it into Mon/Tue would run it straight into the Thu 16 Jul gate — not worth the risk.
+- **The Thu 16 Jul race-pace rehearsal is the reintroduction to top-end.** One intro session lost; aerobic base and the gate both intact.
 
 ---
 
-### Week A Log
-**Tue 30 Jun:** ___
-**Thu 2 Jul:** ✅ Tempo 4km @ 4:20/km — dead on target. Clean descending shape 4:27→4:23→4:19→4:13, T1 slowest rep. First tempo without the km2 blowup in 6 attempts. HR 156→179 (max 182), Zone 4: 11:18.
-**Sun 5 Jul:** ✅ Easy Long 10km — HR-governed, 100% Zone 2 (avg 142, max 150, zero Zone 3+). Main set ~5:19/km @ 142bpm = best aerobic efficiency of the campaign (11sec/km faster than 7 Jun best for +2bpm). Recovery 141→93 in 2min.
+### Week B Log
+**Tue 7 Jul:** ✅ Barry's (lower) — 138 avg / 175 max, on target. Food poisoning that evening.
+**Wed 8 Jul:** Rest — GI recovery.
+**Thu 9 Jul:** ❌ VO2max postponed — food poisoning (~70% body).
+**Fri 10 Jul:** Rest — GI recovery, rehydration.
+**Sat 11 Jul:** Rest — test run deferred (30°C, no cool window).
+**Sun 12 Jul:** ✅ Return test — 5km, 127 avg / 139 max, 100% Zone 1–2, recovery 128→90→82. Clean. Cleared pending symptom-free 2h post. VO2max dropped this week.
+
+---
+
+### Run-in to the gate (Week C)
+- **Mon 13 Jul:** easy 5–6km @ 5:40, HR <150 (one aerobic run with more turnover before the gate).
+- **Tue 14 Jul:** Barry's (lower) 6/10 — back to jumping lunges unless legs off. Controlled — gate is Thursday.
+- **Wed 15 Jul:** rest.
+- **Thu 16 Jul:** race-pace rehearsal 3×1600m @ 4:00, **chest strap** — sub-20 vs PB decision gate.
+- Context: off an illness-disrupted, low-volume fortnight — the gate reads what it reads; a rough gate is not a fitness verdict, but race day (25 Jul) means we pace off what it shows.
 
 ---
 
 ## Standing rules this block
 1. HR governs pace; conservative km1/rep1 every quality session.
-2. Jog recoveries on intervals, never walk.
+2. Jog recoveries on intervals, never walk — the specific fix for the moved VO2max.
 3. Chest-strap HR for the 16 Jul rehearsal and the race (watch undercounts in races).
-4. Any cough/phlegm/sore throat → complete rest. Illness is what cost the original race.
+4. Any cough/phlegm/sore throat → complete rest. GI illness → return only once settled + rehydrated + a clean easy run. The 16 Jul gate is protected.
