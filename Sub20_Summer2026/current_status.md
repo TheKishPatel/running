@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 9 Jul 2026*
+*Last updated: 13 Jul 2026*
 
 ---
 
@@ -17,7 +17,7 @@
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last session:** Barry's lower (Tue 7 Jul) — 138 avg / 175 max, on target, not overcooked (lunchtime, pre-illness). **Last run:** Easy Long 10km (Sun 5 Jul) — **best aerobic efficiency of the campaign.** Ran on HR alert: 100% Zone 2, max 150, zero Zone 3+. Main set (km3–9) ~5:19/km @ ~142 BPM = 11 sec/km faster than the 7 Jun best (5:30 @ 140) for +2 BPM. Pace 16 sec/km over the 5:35 target but HR never left Zone 2 → fitness, not indiscipline. See `03_session_analyses/2026-07-05_easy_long_10km_aerobic_pb.md`.
+**Last run:** Easy pre-gate turnover 5km (Mon 13 Jul) — HR governed, 140 avg / 149 max, under the <150 cap, **100% Zone 1–2, zero Zone 3+.** Conservative km1 (5:56 @ 132), settled 5:09–5:41; avg 5:29/km (11 sec/km over the 5:40 target, HR held Zone 2 → fitness not indiscipline). km2–3 at 5:09–5:11 @ 141–143 BPM — consistent with the campaign's best aerobic efficiency (5 Jul: 5:19 @ 142). Recovery 132→92→90 in 2 min, no lingering illness cost, no GI symptoms. First turnover since the return test cleared — run-in on track. **Prior run:** Sun 12 Jul return test (clean, 127 avg / 139 max). **Last Barry's:** Tue 7 Jul lower — 138 avg / 175 max, on target.
 
 **Prior:** Tempo 4km @ 4:20 (Thu 2 Jul) — best-executed tempo of the campaign. Dead on 4:20/km, clean descending shape (4:27→4:13), first tempo without the km2 blowup in 6 attempts. First clean threshold below 4:24 this cycle. Two consecutive clean, well-governed quality days.
 
@@ -124,9 +124,11 @@ Evidence basis: threshold not yet executed below 4:31/km this cycle; first VO2ma
 
 ---
 
-## Active Health Flag — 🟢 GI ILLNESS RESOLVING, 12 Jul (return test clean)
+## Active Health Flag — 🟢 GI ILLNESS RESOLVED, 13 Jul (turnover run clean)
 
-**Sun 12 Jul return test clean.** 5km easy, HR 127 avg / 139 max (100% Zone 1–2, under the <145 cap), recovery 128→90→82 — no lingering systemic cost. Cleared to resume **pending symptom-free 2h post-run**. Then back on plan → 16 Jul gate. Monitor for any GI recurrence.
+**Mon 13 Jul turnover run clean.** 5km with pace pickup, HR 140 avg / 149 max (100% Zone 1–2), recovery 132→92→90, no GI symptoms during or after. Second consecutive clean run post-illness — confirms the 12 Jul clearance held under faster turnover. **Cleared, back on plan → 16 Jul gate.** Monitor for any GI recurrence.
+
+**Sun 12 Jul return test clean.** 5km easy, HR 127 avg / 139 max (100% Zone 1–2, under the <145 cap), recovery 128→90→82 — no lingering systemic cost. Cleared to resume pending symptom-free 2h post-run.
 
 **Tue 7 Jul evening — food poisoning (bad oysters).** Vomiting on the way home, bowel movements Tue night + Wed AM, overnight shivers + gas, poor sleep. Wed 8 Jul: rest, rehydration, simple food. Thu 9 Jul: ~70% body / 50% mental. Rest Thu–Sat (Sat test deferred, 30°C).
 
