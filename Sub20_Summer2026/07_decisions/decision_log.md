@@ -4,6 +4,35 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-07-16 — GATE RESULT: sub-20 off, race 25 Jul for a PB
+
+**Session:** 3×1600m @ 4:00/km gate. Ran **4:10 / 4:07 / 4:18** (could not hold 4:00 on
+any rep, positive fade), RPE **9–10/10** with retch/wrenching near the end; wanted to quit
+after rep 2. Optical watch used (chest strap mandated, not worn) → HR undercounts 25–35 bpm
+on hard efforts, so unusable; **power is the honest read: 288/287/279 W = at/above 2 Jul
+threshold power (271–281 W), fading.** At threshold-plus wattage the athlete produced
+4:07–4:18, not 4:00.
+
+**Decision: sub-20 is OFF for 25 Jul. Race a PB.**
+- Race **~4:08–4:10/km, even or slight negative split → ~20:40–20:50** (PB vs 20:59).
+  **Sub-20:30 the stretch** if cool + rested. **Do NOT open at 4:00** (rep 3 shows the
+  blow-up). **Chest strap mandatory** on race day.
+
+**Recorded caveat — not a clean fitness verdict:** 5–6h sleep (history: ~11 sec/km cost,
+14 May), off an illness-disrupted low-volume fortnight, threshold never executed below 4:20
+this cycle, intro VO2max dropped. The 4:00 speed was never built. Per plan rule, a rough
+gate isn't a fitness verdict — but race pacing goes off what the gate showed. Pace
+conservative; let him outrun it.
+
+**Positives:** completed all 3 reps off a wrecked fortnight; jog recoveries executed
+(207→176→143 m); went to the ceiling (max 180 + retch = genuine max effort, no toughness
+deficit). Full analysis: `03_session_analyses/2026-07-16_gate_3x1600_racepace.md`.
+
+**Run-in:** protect sleep (biggest controllable — gate was on 5–6h); easy + strides;
+4×400m @ 3:50 sharpness Thu 23 Jul; light taper; race Sat 25 Jul.
+
+---
+
 ## 2026-06-27 (later) — Goal race chosen: Sat 25 July 2026
 
 **Race:** Sat 25 Jul 2026, 4-week build. Plan written to `build_plan_Jul2026.md`; Week A set.

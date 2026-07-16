@@ -1,23 +1,23 @@
 # Current Status
 
-*Last updated: 13 Jul 2026*
+*Last updated: 16 Jul 2026*
 
 ---
 
-## Status: BUILD TO GOAL RACE — SAT 25 JULY 2026 | WEEK B of 4 ⚠️ FOOD POISONING
+## Status: BUILD TO GOAL RACE — SAT 25 JULY 2026 | GATE PASSED THROUGH → PB TARGET
 
-**Goal race set: Sat 25 Jul 2026 (16 days out).** Full plan: `build_plan_Jul2026.md`; this week: `current_week_plan.md` (Week B, revised).
+**Goal race: Sat 25 Jul 2026 (9 days out).** Full plan: `build_plan_Jul2026.md`.
 
-**⚠️ 9 Jul — acute GI illness (food poisoning).** Bad oysters Tue 7 Jul evening → vomiting, GI symptoms Tue night/Wed, overnight shivers, poor sleep. Thu ~70% body. Rest Thu–Sat (Sat test deferred — 30°C, no cool window). **Sun 12 Jul = return test run** (easy 5km @ 6:00, HR <145). **Intro VO2max dropped this week** — can't be the first run back and would crowd the gate. The **Thu 16 Jul race-pace rehearsal is the protected session and the top-end reintroduction**. Not the URTI/chest pattern — self-limiting, but no hard work while depleted (12 Jun lesson). See health flag below.
+**🎯 16 Jul GATE RUN — sub-20 OFF, race a PB.** 3×1600m @ 4:00 target: ran **4:10 / 4:07 / 4:18** (couldn't hold 4:00 on any rep, positive fade), RPE 9–10/10 with retch/wrenching near the end. Per the pre-set gate criteria (*can't hold 4:00 + a grind*), **sub-20 is off for 25 Jul; target a PB.** Optical watch used (chest strap mandated) → HR untrustworthy; **power is the honest read**: reps 288/287/279w = at/above threshold power (271–281w), fading. **Caveat — not a clean fitness verdict:** 5–6h sleep, off an illness-disrupted low-volume fortnight, threshold never below 4:20 this cycle, intro VO2max dropped. Full analysis: `03_session_analyses/2026-07-16_gate_3x1600_racepace.md`; decision: `07_decisions/decision_log.md`.
 
-**Goal:** Primary **PB / sub-20:30** (realistic); **sub-20:00** the stretch, decided at the **16 Jul rehearsal** (3×1600m @ 4:00). Threshold was never executed below ~4:24 this cycle — 4 weeks sharpens the base into a PB; sub-20 is the ceiling, not the expectation.
+**Goal (decided at the gate):** **PB.** Race **~4:08–4:10/km even/negative split → ~20:40–20:50** (PB vs 20:59). **Sub-20:30 the stretch** if cool + rested. Sub-20:00 not supported by the gate. **Do NOT open at 4:00** — that is exactly how rep 3 broke down. **Chest strap mandatory on race day.**
 
-**Days to race: 16**
+**Days to race: 9**
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
 **Phase 3 start: 25 May 2026**
-**Last run:** Easy pre-gate turnover 5km (Mon 13 Jul) — HR governed, 140 avg / 149 max, under the <150 cap, **100% Zone 1–2, zero Zone 3+.** Conservative km1 (5:56 @ 132), settled 5:09–5:41; avg 5:29/km (11 sec/km over the 5:40 target, HR held Zone 2 → fitness not indiscipline). km2–3 at 5:09–5:11 @ 141–143 BPM — consistent with the campaign's best aerobic efficiency (5 Jul: 5:19 @ 142). Recovery 132→92→90 in 2 min, no lingering illness cost, no GI symptoms. First turnover since the return test cleared — run-in on track. **Prior run:** Sun 12 Jul return test (clean, 127 avg / 139 max). **Last Barry's:** Tue 7 Jul lower — 138 avg / 175 max, on target.
+**Last session:** 16 Jul GATE (3×1600m). Reps 4:10 / 4:07 / 4:18 vs 4:00 target — couldn't hold 4:00, positive fade, 9–10/10 grind, retch near the end. Optical HR untrustworthy (max 180 shown); power 288/287/279w = threshold-plus, fading. **Verdict: sub-20 off, PB on.** 5–6h sleep + illness-disrupted fortnight = not a clean fitness read, but race pacing goes off what the gate showed. **Prior run:** Mon 13 Jul pre-gate turnover 5km — HR governed 140/149, 100% Zone 1–2, recovery 132→92→90, clean (health flag resolved). **Prior:** Sun 12 Jul return test clean (127/139). **Last Barry's:** Tue 7 Jul lower — 138/175, on target.
 
 **Prior:** Tempo 4km @ 4:20 (Thu 2 Jul) — best-executed tempo of the campaign. Dead on 4:20/km, clean descending shape (4:27→4:13), first tempo without the km2 blowup in 6 attempts. First clean threshold below 4:24 this cycle. Two consecutive clean, well-governed quality days.
 
@@ -71,9 +71,9 @@
 | ✅ Sat 27 Jun | Tune-up race — 5K ~22:21, ~30°C, eased. Engine intact post-illness. |
 | Thu 2 Jul | Tempo 4km @ 4:20 (threshold restart) |
 | Thu 9 Jul | VO2max 5×1000m @ 4:02, 90s jog |
-| **Thu 16 Jul** | **Race-pace rehearsal 3×1600m @ 4:00 — sub-20 vs PB decision gate** (chest strap) |
+| ✅ Thu 16 Jul | Gate 3×1600m — ran 4:10/4:07/4:18, 9–10/10. **Result: sub-20 off, PB target.** |
 | Thu 23 Jul | Sharpness 4×400m @ 3:50 |
-| **Sat 25 Jul** | **GOAL RACE** — pacing per 16 Jul gate |
+| **Sat 25 Jul** | **GOAL RACE — PB attempt, ~4:08–4:10/km even, chest strap** |
 
 ---
 
@@ -81,10 +81,10 @@
 
 **Race chosen: Sat 25 Jul 2026.** 4-week build underway (`build_plan_Jul2026.md`).
 
-**Decision gate — Thu 16 Jul, 3×1600m @ 4:00/km (chest strap):**
-- Controlled, ≤8/10, even, recovers → **sub-20 ON** (race 4:02→3:54).
-- Completed but a grind (9–10/10) → **PB**, race ~4:05/km even (≈20:25).
-- Can't hold 4:00 → race by feel, target sub-20:59 PB.
+**Decision gate — Thu 16 Jul, 3×1600m @ 4:00/km — ✅ RUN, RESULT: PB (sub-20 off):**
+- ~~Controlled, ≤8/10, even, recovers → sub-20 ON (race 4:02→3:54).~~ Not met.
+- ~~Completed but a grind (9–10/10) → PB, race ~4:05/km even (≈20:25).~~ Partially met.
+- **ACTUAL: completed all 3 but couldn't hold 4:00 (ran 4:10/4:07/4:18) AND a 9–10/10 grind** → between the last two rows. **Call: PB, race ~4:08–4:10/km even/neg → ~20:40–20:50; sub-20:30 stretch.** Sub-20 off.
 
 **Equipment:** chest-strap HR for the rehearsal + race — optical watch undercounts ~25–35 bpm in races (8 Mar, 27 Jun).
 
