@@ -1,18 +1,18 @@
 # Current Status
 
-*Last updated: 16 Jul 2026*
+*Last updated: 25 Jul 2026*
 
 ---
 
-## Status: BUILD TO GOAL RACE — SAT 25 JULY 2026 | GATE PASSED THROUGH → PB TARGET
+## Status: 🏁 GOAL RACE COMPLETE (Sat 25 Jul) — ~21:27 in 24°C sun, heat-limited, PB intact (20:59)
 
-**Goal race: Sat 25 Jul 2026 (9 days out).** Full plan: `build_plan_Jul2026.md`.
+**Result: ~21:27, 4:17/km avg, 24°C SUNNY. Not a PB — 20:59 stands.** The deficit is **heat, not fitness**: the 16 Jul gate put good-conditions race pace at 4:08–4:10/km; a 24°C sunny 5K costs ~7–9 sec/km → ~4:16–4:18, and he averaged 4:17. **Ran to his heat-adjusted ceiling.** Splits 4:12 / 4:16 / 4:22 / 4:16 / 4:21. **Opened with discipline (4:12, not the feared km1 blow-up)** after the gate rep-3 fade + hot Thu 400s; km2 drifted, km3 sagged in the heat, **km4 regathered (4:16) — fought back rather than unravelled.** No chest strap (mandated) → no race HR; carry to future races.
 
-**🎯 16 Jul GATE RUN — sub-20 OFF, race a PB.** 3×1600m @ 4:00 target: ran **4:10 / 4:07 / 4:18** (couldn't hold 4:00 on any rep, positive fade), RPE 9–10/10 with retch/wrenching near the end. Per the pre-set gate criteria (*can't hold 4:00 + a grind*), **sub-20 is off for 25 Jul; target a PB.** Optical watch used (chest strap mandated) → HR untrustworthy; **power is the honest read**: reps 288/287/279w = at/above threshold power (271–281w), fading. **Caveat — not a clean fitness verdict:** 5–6h sleep, off an illness-disrupted low-volume fortnight, threshold never below 4:20 this cycle, intro VO2max dropped. Full analysis: `03_session_analyses/2026-07-16_gate_3x1600_racepace.md`; decision: `07_decisions/decision_log.md`.
+**Campaign verdict:** currently a **~20:45 / low-21 runner, conditions-dependent.** Sub-20 correctly ruled out at the gate; the cool-day PB was there and the weather took it. Raced to his ceiling in heat off a build **gutted twice by illness (URTI, then food poisoning)** — the fitness survived a broken block, which is the harder win.
 
-**Goal (decided at the gate):** **PB.** Race **~4:08–4:10/km even/negative split → ~20:40–20:50** (PB vs 20:59). **Sub-20:30 the stretch** if cool + rested. Sub-20:00 not supported by the gate. **Do NOT open at 4:00** — that is exactly how rep 3 broke down. **Chest strap mandatory on race day.**
+**Next:** debrief + choose a cool-weather target (autumn) for the PB / sub-20:30 that conditions denied here. See `07_decisions/decision_log.md` for the race decision trail.
 
-**Days to race: 9**
+**16 Jul GATE (for the record):** 3×1600m @ 4:00 → ran 4:10/4:07/4:18, 9–10/10 grind → sub-20 off, PB target. Power 288/287/279w = threshold-plus, fading. Analysis: `03_session_analyses/2026-07-16_gate_3x1600_racepace.md`.
 
 **Phase 1 gate: ✅ PASSED (26 Apr)**
 **Phase 2 gate: ✅ PASSED (26 May)**
@@ -72,8 +72,8 @@
 | Thu 2 Jul | Tempo 4km @ 4:20 (threshold restart) |
 | Thu 9 Jul | VO2max 5×1000m @ 4:02, 90s jog |
 | ✅ Thu 16 Jul | Gate 3×1600m — ran 4:10/4:07/4:18, 9–10/10. **Result: sub-20 off, PB target.** |
-| Thu 23 Jul | Sharpness 4×400m @ 3:50 |
-| **Sat 25 Jul** | **GOAL RACE — PB attempt, ~4:08–4:10/km even, chest strap** |
+| ✅ Thu 23 Jul | Sharpness 4×400m — legs sharp (329–337w), ran reps hot |
+| ✅ **Sat 25 Jul** | **GOAL RACE — ~21:27, 24°C sun, heat-limited. Not a PB (20:59 intact).** |
 
 ---
 

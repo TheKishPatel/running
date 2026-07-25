@@ -4,6 +4,32 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-07-25 — GOAL RACE: ~21:27 in 24°C sun, heat-limited, PB intact
+
+**Result:** ~21:27, 4:17/km avg, 24°C **sunny**. Splits 4:12 / 4:16 / 4:22 / 4:16 / 4:21.
+No chest strap (mandated) → no race HR. **Not a PB (20:59 stands).**
+
+**Read: the deficit is heat, not fitness.** Gate-derived good-conditions pace was 4:08–4:10/km;
+a 24°C sunny 5K costs a non-heat-adapted runner ~7–9 sec/km → ~4:16–4:18. He averaged 4:17
+— i.e., ran **to his heat-adjusted ceiling.** Not an underperformance.
+
+**Pacing:** opened 4:12 — **disciplined**, avoiding the week's #1 risk (a km1 blow-up after the
+gate rep-3 fade + hot Thu 400s). km2 drifted to 4:16 rather than settling, km3 sagged to 4:22
+as the heat bit, **km4 regathered to 4:16 (fought back, didn't unravel)**, km5 4:21 to the line.
+Lesson for next race: past the opener, lock **effort** and refuse the mid-race sag (found that
+gear in km4, one km late). And **wear the chest strap** — a second race with no HR.
+
+**Campaign verdict:** currently a **~20:45 / low-21 runner, conditions-dependent.** Sub-20 was
+correctly ruled out at the gate; the cool-day PB existed and the weather took it. This block was
+**gutted twice by illness (URTI in June, food poisoning in July)** — that the fitness still raced
+to its ceiling in the heat is the real result.
+
+**Next:** target a **cool-weather 5K (autumn)** for the PB / sub-20:30 the conditions denied.
+Build off this base — no illness interruptions is the single biggest lever. Decide the race and
+a fresh block when ready.
+
+---
+
 ## 2026-07-16 — GATE RESULT: sub-20 off, race 25 Jul for a PB
 
 **Session:** 3×1600m @ 4:00/km gate. Ran **4:10 / 4:07 / 4:18** (could not hold 4:00 on
