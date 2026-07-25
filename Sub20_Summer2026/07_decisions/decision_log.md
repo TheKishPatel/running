@@ -4,6 +4,61 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-07-25 — GOAL RACE: ~21:27 in 24°C sun, heat-limited, PB intact
+
+**Result:** ~21:27, 4:17/km avg, 24°C **sunny**. Splits 4:12 / 4:16 / 4:22 / 4:16 / 4:21.
+No chest strap (mandated) → no race HR. **Not a PB (20:59 stands).**
+
+**Read: the deficit is heat, not fitness.** Gate-derived good-conditions pace was 4:08–4:10/km;
+a 24°C sunny 5K costs a non-heat-adapted runner ~7–9 sec/km → ~4:16–4:18. He averaged 4:17
+— i.e., ran **to his heat-adjusted ceiling.** Not an underperformance.
+
+**Pacing:** opened 4:12 — **disciplined**, avoiding the week's #1 risk (a km1 blow-up after the
+gate rep-3 fade + hot Thu 400s). km2 drifted to 4:16 rather than settling, km3 sagged to 4:22
+as the heat bit, **km4 regathered to 4:16 (fought back, didn't unravel)**, km5 4:21 to the line.
+Lesson for next race: past the opener, lock **effort** and refuse the mid-race sag (found that
+gear in km4, one km late). And **wear the chest strap** — a second race with no HR.
+
+**Campaign verdict:** currently a **~20:45 / low-21 runner, conditions-dependent.** Sub-20 was
+correctly ruled out at the gate; the cool-day PB existed and the weather took it. This block was
+**gutted twice by illness (URTI in June, food poisoning in July)** — that the fitness still raced
+to its ceiling in the heat is the real result.
+
+**Next:** target a **cool-weather 5K (autumn)** for the PB / sub-20:30 the conditions denied.
+Build off this base — no illness interruptions is the single biggest lever. Decide the race and
+a fresh block when ready.
+
+---
+
+## 2026-07-16 — GATE RESULT: sub-20 off, race 25 Jul for a PB
+
+**Session:** 3×1600m @ 4:00/km gate. Ran **4:10 / 4:07 / 4:18** (could not hold 4:00 on
+any rep, positive fade), RPE **9–10/10** with retch/wrenching near the end; wanted to quit
+after rep 2. Optical watch used (chest strap mandated, not worn) → HR undercounts 25–35 bpm
+on hard efforts, so unusable; **power is the honest read: 288/287/279 W = at/above 2 Jul
+threshold power (271–281 W), fading.** At threshold-plus wattage the athlete produced
+4:07–4:18, not 4:00.
+
+**Decision: sub-20 is OFF for 25 Jul. Race a PB.**
+- Race **~4:08–4:10/km, even or slight negative split → ~20:40–20:50** (PB vs 20:59).
+  **Sub-20:30 the stretch** if cool + rested. **Do NOT open at 4:00** (rep 3 shows the
+  blow-up). **Chest strap mandatory** on race day.
+
+**Recorded caveat — not a clean fitness verdict:** 5–6h sleep (history: ~11 sec/km cost,
+14 May), off an illness-disrupted low-volume fortnight, threshold never executed below 4:20
+this cycle, intro VO2max dropped. The 4:00 speed was never built. Per plan rule, a rough
+gate isn't a fitness verdict — but race pacing goes off what the gate showed. Pace
+conservative; let him outrun it.
+
+**Positives:** completed all 3 reps off a wrecked fortnight; jog recoveries executed
+(207→176→143 m); went to the ceiling (max 180 + retch = genuine max effort, no toughness
+deficit). Full analysis: `03_session_analyses/2026-07-16_gate_3x1600_racepace.md`.
+
+**Run-in:** protect sleep (biggest controllable — gate was on 5–6h); easy + strides;
+4×400m @ 3:50 sharpness Thu 23 Jul; light taper; race Sat 25 Jul.
+
+---
+
 ## 2026-06-27 (later) — Goal race chosen: Sat 25 July 2026
 
 **Race:** Sat 25 Jul 2026, 4-week build. Plan written to `build_plan_Jul2026.md`; Week A set.
