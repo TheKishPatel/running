@@ -8,7 +8,7 @@
 
 **Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (42 days out). Full block: `big_half_block_Sep2026.md`.**
 
-**Objective:** Raced a maximal 5K on Sat 25 Jul. This week is **recovery, not training** — nothing hard, no quality session. Its only jobs are to absorb the race, get a 4th running day into the week, and put 12 km on the clock so that week 2 can start the real ramp from a moving base.
+**Objective:** Raced a maximal 5K on Sat 25 Jul. This week is **recovery, not training** — nothing hard, no quality session. Its only jobs are to absorb the race and put 12 km on the clock so week 2 starts the real ramp from a moving base. Three runs this week; the 4th weekly run (Wed easy) starts week 2.
 
 **Context:** longest run ever logged is 11 km (7 Jun). The half is 21.1 km. Endurance is the gap, not speed — six weeks of long-run progression is the whole block.
 
