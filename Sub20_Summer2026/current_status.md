@@ -95,7 +95,9 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 | Date | What |
 |------|------|
 | ✅ Sat 25 Jul | 5K goal race — ~21:27, 24°C, heat-limited. PB (20:59) intact. |
-| Tue 28 Jul | Barry's lower — **walking lunges (21-day gap)** |
+| ✅ Tue 28 Jul | Barry's lower, walking lunges — 125/168, under cap but light |
+| ✅ Wed 29 Jul | Barry's upper, social — 133/168, unrestricted |
+| Thu 30 Jul | Easy 6 km + 4 strides |
 | Sun 2 Aug | Long 12 km — ramp begins |
 | Thu 6 Aug | Threshold 5 km @ 4:18 — quality returns |
 | Thu 13 Aug | **VO2max 5×1000 @ 4:02** — the session illness took twice |
@@ -121,7 +123,9 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 
 ## Active Flags
 
-**⚠️ Barry's lunge flag — ACTIVE.** Last lower-body Barry's was **Tue 7 Jul → 21-day gap.** Walking lunges Tue 28 Jul and Tue 4 Aug. Normal from Tue 11 Aug. Precedent: 31 Mar VMO/inner-quad twinge, caused by exactly this pattern.
+**⚠️ Barry's lunge flag — 1 of 2 DONE.** Walking lunges executed Tue 28 Jul (125 avg / 168 max — clean, no VMO issue reported). **One more: Tue 4 Aug.** Normal from Tue 11 Aug. Precedent: 31 Mar VMO/inner-quad twinge from exactly this pattern (21-day gap → jumping lunges).
+
+**Barry's intensity note — watch for the opposite problem.** Tue 28 Jul came in at **125 avg with 30:06 in Zone 1** — well under the <155 cap, but below a useful conditioning stimulus. Partly the walking-lunge substitution (jumping lunges drive the HR), partly a soft session. Correct for a recovery week 3 days post-race. **From Tue 4 Aug the target is the 7 Jul profile: 135–140 avg, meaningful Zone 2–3.** The historical flag was Barry's being too hard (8–9/10); the current risk is the reverse.
 
 **🟢 GI illness (food poisoning, 7 Jul) — RESOLVED 13 Jul.** Two consecutive clean runs post-illness, no recurrence through the 25 Jul race.
 

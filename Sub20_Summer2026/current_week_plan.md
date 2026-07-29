@@ -59,11 +59,11 @@ Longest run since 7 Jun and the first step of the ramp (12 → 14 → 16 → 18)
 ---
 
 ### Week 1 Log
-**Sun 26 Jul:** ⏳ Rest — post-race.
-**Mon 27 Jul:** ⏳ Rest.
-**Tue 28 Jul:** ⏳ Barry's (lower) — walking lunges.
-**Wed 29 Jul:** ⏳ Barry's (upper) — social.
-**Thu 30 Jul:** ⏳ Easy 6 km + 4 strides.
+**Sun 26 Jul:** ✅ Rest — post-race.
+**Mon 27 Jul:** ✅ Rest.
+**Tue 28 Jul:** ✅ Barry's (lower), walking lunges — **125 avg / 168 max**, Z1 30:06 / Z2 12:39 / Z3 1:31 / Z4 0:05 / Z5 0:00. Well under the <155 cap but **lighter than intended** (vs 7 Jul: 138 avg, Z3 12:06). Correct for a recovery week; 4 Aug should return to the 7 Jul profile.
+**Wed 29 Jul:** ✅ Barry's (upper), social — **133 avg / 168 max**, Z1 29:12 / Z2 13:04 / Z3 12:14 / Z4 0:09 / Z5 0:00. Post 147→126. **Harder than Tuesday's lower session** (Z3 12:14 vs 1:31). Unrestricted, no flag.
+**Thu 30 Jul:** ⏳ Easy 6 km + 4 strides. **Unaffected — combined Z4 across both Barry's = 14 s, Z5 zero.**
 **Fri 31 Jul:** ⏳ Rest.
 **Sat 1 Aug:** ⏳ Easy 6 km.
 **Sun 2 Aug:** ⏳ Long 12 km.
