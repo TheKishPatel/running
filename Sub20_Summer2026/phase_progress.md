@@ -40,7 +40,7 @@
 |----|------|---------|---------|--------|----|--------|-------|
 | 1 | 28 Jul | Tue Barry's (lower) | 6/10, HR <155 | ~44:20 | 125/168 | ✅ done | Walking lunges (21-day gap). Z1 30:06 / Z2 12:39 / Z3 1:31 / Z4 0:05. **Under cap but light** — vs 7 Jul (138 avg, Z3 12:06). Fine for recovery week; 4 Aug → 7 Jul profile. |
 | 1 | 29 Jul | Wed Barry's (upper) | Social, unrestricted | ~54:40 | 133/168 | ✅ done | Z1 29:12 / Z2 13:04 / Z3 12:14 / Z4 0:09. Post 147→126. **Harder than Tue's lower** (Z3 12:14 vs 1:31). No flag. |
-| 1 | 30 Jul | Thu Easy + strides | 6 km @ 5:45 + 4×20 s | | | ⏳ | Recovery week — not a quality session |
+| 1 | 30 Jul | Thu Easy + strides | 6 km @ 5:45 + 4×20 s | 5 km @ 5:38 | 143/179 | ✅ done | Trimmed 6→5 km (poor sleep, 20°C, 5 d post-race) — correct. Main set on target, drift 5 bpm, cap touched km5 not breached. Post 102→94→94. **⚠️ Strides ran 3:57→3:28→3:09→2:50 vs flat 3:30–3:40; max 179.** |
 | 1 | 1 Aug | Sat Easy | 6 km @ 5:50, HR <145 | | | ⏳ | Day before long run — deliberately easy |
 | 1 | 2 Aug | **Sun Long** | **12 km @ 5:40, HR <150** | | | ⏳ | Ramp begins. Chest strap. |
 | 2 | 4 Aug | Tue Barry's (lower) | 6/10 | | | ⏳ | Walking lunges — 2nd back |
