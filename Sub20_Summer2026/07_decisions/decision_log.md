@@ -4,6 +4,31 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-08-02 — Data integrity: `training_log.csv` malformed rows repaired
+
+**Found:** 10 of 40 rows did not parse at the header's 23 columns — 8 had fields silently
+shifted into the wrong columns, so any programmatic read of those sessions returned wrong
+values (e.g. 4 Jun's Notes sat in `Alcohol_Drinks`, its Conditions in `Notes`). Pre-existing;
+predates the half block.
+
+**Three causes, all repaired without altering content:**
+1. **Unquoted comma split `Outcome` in two** (+1 col) — 26 Apr, 27 Jun, 2 Jul, 5 Jul, 25 Jul.
+   The two halves were rejoined with the comma restored.
+2. **Missing field** (−1 col) — 27/29 Mar missing `Conditions`; 4/7 Jun missing
+   `Sleep_Quality_1_10`. An empty field was inserted at the correct position, restoring
+   alignment of `Notes` / `Conditions` / `Outcome` / `Phase_Target_Met`.
+3. **One surplus blank** before `Alcohol_Drinks` (+1 col) — 2 Jun. Removed.
+
+**Verification:** all 40 rows now parse at 23 columns; exactly 10 lines changed in the diff;
+the file's alphanumeric content is character-identical before and after (23,745 chars), so no
+value was lost, reworded or re-attributed — only delimiters and quoting changed.
+
+**Cause and prevention:** free-text `Outcome` values containing commas were written unquoted.
+All future appends quote every free-text field. Structure is validated (row count + column
+count + content-preservation check) after each append.
+
+---
+
 ## 2026-07-25 (later) — NEW GOAL: The Big Half, Sun 6 Sep 2026. Dual-goal block agreed.
 
 **Athlete has entered The Big Half (21.1 km, Sun 6 Sep 2026)** and wants to keep progressing at
