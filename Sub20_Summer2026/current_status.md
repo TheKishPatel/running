@@ -123,6 +123,8 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 
 ## Active Flags
 
+**🟡 RESTING HR 63 (Sat 1 Aug) — SECOND READING PENDING.** Baseline <55; standing rule is >60 → rest day (28 May precedent). **Not called as a rest day**, because every other marker from that session contradicts it: solo 5 km at 5:29/km @ 138 (best HR-for-pace in a fortnight), post-workout 97→87→**70** (best recovery in the log), 8 seconds total in Zone 3+. Caveats: first ever logged reading, no personal baseline in this measurement method, 7 days off a maximal race, two Barry's sessions that week. **Sun 2 Aug run is gated on the re-measure — ≤58 run 12 km / 59–62 cap at 10 km HR <145 / ≥63 easy 8 km / any throat-cough-phlegm = complete rest regardless.** Full gate table in `current_week_plan.md`. If it stays ≥60 across several days, treat as the early-illness signal it is and stop, per `CLAUDE.md`.
+
 **⚠️ Barry's lunge flag — 1 of 2 DONE.** Walking lunges executed Tue 28 Jul (125 avg / 168 max — clean, no VMO issue reported). **One more: Tue 4 Aug.** Normal from Tue 11 Aug. Precedent: 31 Mar VMO/inner-quad twinge from exactly this pattern (21-day gap → jumping lunges).
 
 **Barry's intensity note — watch for the opposite problem.** Tue 28 Jul came in at **125 avg with 30:06 in Zone 1** — well under the <155 cap, but below a useful conditioning stimulus. Partly the walking-lunge substitution (jumping lunges drive the HR), partly a soft session. Correct for a recovery week 3 days post-race. **From Tue 4 Aug the target is the 7 Jul profile: 135–140 avg, meaningful Zone 2–3.** The historical flag was Barry's being too hard (8–9/10); the current risk is the reverse.
@@ -133,7 +135,12 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 
 **🟢 Hip contusion — RESOLVED.** No issues through the July block. Monitor as long-run volume rises.
 
-**Recurring: aggressive-open pattern — REAPPEARED 30 Jul.** Broken once on the 2 Jul tempo (T1 slowest, clean descending), then back on the 23 Jul 400s (3 of 4 reps 12–19 sec/km hot), and again on the 30 Jul strides: **3:57 → 3:28 → 3:09 → 2:50/km** against a flat 3:30–3:40 prescription, max HR 179 on a recovery-week run. Cost was near zero each time; the pattern is the problem, not the sessions. **Not fixed — managed.** Conservative km1/rep1 stays mandatory and is written into the race plan (4:55/km for the first 5 km). **Correction for strides: stride 4 matches stride 1. Flat, not ascending.**
+**⚠️ Recurring: overspeed pattern — THREE CONSECUTIVE SESSIONS.** Broken once on the 2 Jul tempo (T1 slowest, clean descending), then:
+- **23 Jul** 400s — 3 of 4 reps 12–19 sec/km hot
+- **30 Jul** strides — escalated 3:57 → 3:28 → 3:09 → **2:50/km** against a flat 3:30–3:40 prescription, max HR 179 on a recovery-week run
+- **1 Aug** easy run — **5:29/km vs 5:50 prescribed (21 sec/km fast)**, km3 at 5:16, on the one day the prescription explicitly said *"deliberately easy, day before a long run"*
+
+Physiological cost has been near zero every time — HR held, no session compromised. **The pattern is the problem, not the sessions.** The HR-governed defence works while runs are short; **at Week 4 (18 km inside a 40 km week) a 20 sec/km Saturday overspeed is what breaks the Sunday.** Conservative km1/rep1 stays mandatory and is written into the race plan (4:55/km for the first 5 km). **Strides correction: stride 4 matches stride 1 — flat, not ascending.**
 
 **🆕 HR sensor — Wahoo TICKR acquired (30 Jul).** Worn alongside the Apple Watch; source unconfirmed. Evidence points strongly to the strap being the recorded feed — optical has never tracked short hard efforts (4 Jun rep 1 untracked; 16 Jul read 156–165 on maximal 1600s = 25–35 bpm undercount), and the 30 Jul 20-second strides produced a clean 179. **Confirm via Health → Heart → Heart Rate → Show All Data (each sample names its source) before the 18 km and race day.** This closes the three-race no-usable-HR problem if it holds.
 
@@ -147,7 +154,7 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 - Calf/achilles soreness persisting >48 h → the volume ramp is too fast, flatten it
 - Long run HR drifting >150 → slow down, the run is not the workout
 
-**Tracking note — OPEN ITEM, now closable.** `Resting_HR_Morning` and `Sleep_Hours` have been blank all campaign, previously justified as "no bed-wearable." **The Apple Watch already collects both.** These are the two data points that would actually change decisions: sleep is a documented ~11 sec/km factor (14 May, and again 30 Jul), and a rising morning resting HR is the earliest illness warning available — illness being the #1 risk to this block. **Ask: report morning resting HR + hours slept with each session.** No export pipeline needed; workout data continues via screenshots, which is sufficient. Illness governance remains symptom-based regardless.
+**Tracking note — NOW BEING LOGGED (from 1 Aug).** `Resting_HR_Morning` and `Sleep_Hours` were blank all campaign, previously justified as "no bed-wearable." The Apple Watch already collects both, and the athlete began reporting them on 1 Aug (63 bpm / 7 h). **Keep reporting both with every session** — sleep is a documented ~11 sec/km factor (14 May, 30 Jul) and rising resting HR is the earliest illness warning available. No export pipeline needed; workout data continues via screenshots. **Caveat on interpretation:** Apple's "resting HR" is a daily computed value, not a true waking pulse, and may not be directly comparable to the <55 baseline in the March context doc. **A personal baseline needs ~2 weeks of readings before single values carry much weight — read the trend, not the point.**
 
 ---
 
