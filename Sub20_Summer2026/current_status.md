@@ -123,7 +123,10 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 
 ## Active Flags
 
-**🟡 RESTING HR 63 (Sat 1 Aug) — SECOND READING PENDING.** Baseline <55; standing rule is >60 → rest day (28 May precedent). **Not called as a rest day**, because every other marker from that session contradicts it: solo 5 km at 5:29/km @ 138 (best HR-for-pace in a fortnight), post-workout 97→87→**70** (best recovery in the log), 8 seconds total in Zone 3+. Caveats: first ever logged reading, no personal baseline in this measurement method, 7 days off a maximal race, two Barry's sessions that week. **Sun 2 Aug run is gated on the re-measure — ≤58 run 12 km / 59–62 cap at 10 km HR <145 / ≥63 easy 8 km / any throat-cough-phlegm = complete rest regardless.** Full gate table in `current_week_plan.md`. If it stays ≥60 across several days, treat as the early-illness signal it is and stop, per `CLAUDE.md`.
+**🟢 RESTING HR — FLAG WITHDRAWN (1 Aug). Actual reading 52, at baseline.**
+Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initially flagged was **Apple Health's daily computed resting HR — not a measurement.** Apple derives that figure algorithmically from inactive periods across the whole day, runs systematically higher than a seated reading, and lags a day; **it is not comparable to the <55 baseline, which came from direct measurement.** Comparing them was an error. The 52 agrees with everything else in the session (5:29/km @ 138, post-workout 97→87→**70**, 8 s total in Zone 3+). Sunday's 12 km proceeded as planned.
+
+**📋 PROTOCOL — resting HR measurement.** `Resting_HR_Morning` = **seated chest-strap reading, taken before getting up and moving.** That is the governing number against the <55 baseline and the >60 rest-day rule. Apple's daily figure may be tracked alongside **as a trend only** — a drift from 63 → 70 over several days still signals something; the absolute value never gets compared to 55. Third independent point in favour of the TICKR (it also caught the 30 Jul 20-second strides at 179, which optical cannot do).
 
 **⚠️ Barry's lunge flag — 1 of 2 DONE.** Walking lunges executed Tue 28 Jul (125 avg / 168 max — clean, no VMO issue reported). **One more: Tue 4 Aug.** Normal from Tue 11 Aug. Precedent: 31 Mar VMO/inner-quad twinge from exactly this pattern (21-day gap → jumping lunges).
 

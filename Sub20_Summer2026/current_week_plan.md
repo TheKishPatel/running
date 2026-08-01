@@ -47,7 +47,7 @@ Not a quality session. Strides keep the neuromuscular sharpness from the 23 Jul 
 
 **Deliberately easy — this is the day before a long run.** The Sat/Sun back-to-back is the point: it teaches the legs to run tired, which is what the last 6 km of a half feels like. Running this at 5:20 defeats it.
 
-### Sun 2 Aug — LONG RUN ⚠️ *gated on morning resting HR*
+### Sun 2 Aug — LONG RUN
 | Component | Detail |
 |-----------|--------|
 | Session | **12 km @ 5:40/km** |
@@ -56,16 +56,9 @@ Not a quality session. Strides keep the neuromuscular sharpness from the 23 Jul 
 
 Longest run since 7 Jun and the first step of the ramp (12 → 14 → 16 → 18). Conservative km1 (6:00–6:10). If HR approaches 150, slow down — pace is not the objective on this run, time on feet is.
 
-**⚠️ Gate — re-measure resting HR before running (63 on Sat 1 Aug vs <55 baseline):**
+**✅ Gate cleared — resting HR flag withdrawn.** The Sat 1 Aug seated TICKR reading was **52** (baseline <55). The 63 that triggered the gate was **Apple Health's daily computed resting HR, not a measurement** — an algorithmic estimate from inactive periods across the whole day, systematically higher than a seated reading and not comparable to the <55 baseline. 52 agrees with the rest of the session (5:29/km @ 138, post-workout 97→87→70). **Run the 12 km as planned.**
 
-| Reading | Action |
-|---------|--------|
-| **≤58** | Run the 12 km as planned |
-| **59–62** | Run it, but **cap at 10 km, HR <145** |
-| **≥63** | **Easy 8 km @ 6:00/km** — the ramp can wait a week |
-| **Any throat / cough / phlegm** | **Complete rest**, regardless of the number |
-
-Not treated as an automatic rest day despite crossing the >60 threshold: Saturday's session contradicted it on every other marker (best HR-for-pace in a fortnight, 70 bpm at 2 min post-run, 8 seconds total in Zone 3+). One reading, no personal baseline in this measurement method, 7 days off a maximal race. **The second reading decides it.**
+**Standing rule going forward:** resting HR = **seated chest-strap reading before getting up**. That is the number governed against <55 and the >60 rest-day rule. Apple's daily figure is a trend line only. Any throat / cough / phlegm still means complete rest regardless of any number.
 
 ---
 
@@ -76,8 +69,8 @@ Not treated as an automatic rest day despite crossing the >60 threshold: Saturda
 **Wed 29 Jul:** ✅ Barry's (upper), social — **133 avg / 168 max**, Z1 29:12 / Z2 13:04 / Z3 12:14 / Z4 0:09 / Z5 0:00. Post 147→126. **Harder than Tuesday's lower session** (Z3 12:14 vs 1:31). Unrestricted, no flag.
 **Thu 30 Jul:** ✅ Easy **5 km** (trimmed from 6) + 4 strides — **5:38/km @ 143 avg**, splits 133→145→146→148→150, drift 5 bpm. Cap touched at km5, never breached. Trim was correct (poor sleep, 20°C, 5 days post-race). Post 102→94→94, best in the log. **⚠️ Strides escalated 3:57→3:28→3:09→2:50/km vs the flat 3:30–3:40 prescription; max HR 179.** Cost near zero (80 s work, Z4 0:28) but it's the recurring pattern.
 **Fri 31 Jul:** ✅ Rest.
-**Sat 1 Aug:** ✅ Easy 6.30 km — solo 5 km at **5:29/km @ ~138**, 9 sec/km faster than Thu at 5 bpm lower. Post **97→87→70** (best in the log). Last 1.3 km with daughter @ 111–124 bpm — Zone 1 bonus. **⚠️ Resting HR 63** (baseline <55). **⚠️ 21 sec/km fast vs the 5:50 prescription — 3rd consecutive pace flag.**
-**Sun 2 Aug:** ⏳ Long 12 km — **gated on the morning resting HR reading, see below.**
+**Sat 1 Aug:** ✅ Easy 6.30 km — solo 5 km at **5:29/km @ ~138**, 9 sec/km faster than Thu at 5 bpm lower. Post **97→87→70** (best in the log). Last 1.3 km with daughter @ 111–124 bpm — Zone 1 bonus. **Resting HR 52** (seated TICKR; baseline <55) — the 63 first reported was Apple's daily computed figure, not a measurement. **⚠️ 21 sec/km fast vs the 5:50 prescription — 3rd consecutive pace flag.**
+**Sun 2 Aug:** ⏳ Long 12 km — resting-HR gate cleared (52 seated), run as planned.
 
 **Planned volume: ~24 km running.**
 
