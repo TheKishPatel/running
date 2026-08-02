@@ -17,7 +17,7 @@
 | **27 Jun (tune-up)** | — | **Sub-21 tune-up — DONE: 5K ~22:21, ~30°C, eased** | ✅ Completed | n/a (tune-up) |
 | Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | ✅ Complete | Gate 16 Jul: sub-20 off |
 | **5K GOAL RACE** | — | **Sat 25 Jul 2026 — ~21:27, 24°C, heat-limited. PB (20:59) intact** | ✅ Complete | n/a |
-| **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | 🔄 **Week 1** | — |
+| **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | 🔄 **Week 2** (W1 ✅ complete) | — |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — target 1:42** | ⏳ Upcoming | — |
 | 5K sharpening block | — | ~Sep–Oct (post-half) | ⏳ Planned | — |
 
@@ -42,7 +42,7 @@
 | 1 | 29 Jul | Wed Barry's (upper) | Social, unrestricted | ~54:40 | 133/168 | ✅ done | Z1 29:12 / Z2 13:04 / Z3 12:14 / Z4 0:09. Post 147→126. **Harder than Tue's lower** (Z3 12:14 vs 1:31). No flag. |
 | 1 | 30 Jul | Thu Easy + strides | 6 km @ 5:45 + 4×20 s | 5 km @ 5:38 | 143/179 | ✅ done | Trimmed 6→5 km (poor sleep, 20°C, 5 d post-race) — correct. Main set on target, drift 5 bpm, cap touched km5 not breached. Post 102→94→94. **⚠️ Strides ran 3:57→3:28→3:09→2:50 vs flat 3:30–3:40; max 179.** |
 | 1 | 1 Aug | Sat Easy | 6 km @ 5:50, HR <145 | 5:29 (solo 5 km) | 138/151 | ✅ done | 9 sec/km faster than Thu at 5 bpm lower — Thursday's HR confirmed as sleep, not fitness. Post 97→87→**70** (best in log). **Resting HR 52 (seated strap)** — the 63 first reported was Apple's daily computed figure, not a measurement. **⚠️ 21 sec/km fast — 3rd pace flag.** |
-| 1 | 2 Aug | **Sun Long** | **12 km @ 5:40, HR <150** | | | ⏳ | Ramp begins. Chest strap. Resting-HR gate cleared (52 seated). |
+| 1 | 2 Aug | **Sun Long** | **12 km @ 5:40, HR <150** | ~5:36 (derived) | 136/152 | ✅ done | **LONGEST RUN OF THE CAMPAIGN** (beats 11 km, 7 Jun). Z1 18:37 / Z2 47:36 / Z3 0:59 / Z4+5 0:00 = **99.1% Zone 1–2**. Post 138→98→90. RHR 52 (2nd consecutive). Further than 7 Jun/19 Jul at the same HR. *Splits not captured.* |
 | 2 | 4 Aug | Tue Barry's (lower) | 6/10 | | | ⏳ | Walking lunges — 2nd back |
 | 2 | 5 Aug | Wed Easy | 6 km @ 5:45 | | | ⏳ | |
 | 2 | 6 Aug | **Thu Threshold** | **5 km @ 4:18**, HR 168–176 | | | ⏳ | Quality returns. Alert 4:14, conservative km1. |
@@ -72,7 +72,7 @@
 
 | Wk | Dates | Planned km | Actual km | Notes |
 |----|-------|-----------|-----------|-------|
-| 1 | 27 Jul – 2 Aug | ~24 | | Recovery + re-entry after the 25 Jul race |
+| 1 | 27 Jul – 2 Aug | ~24 | **~24.5** | ✅ Recovery + re-entry after the 25 Jul race. On plan. |
 | 2 | 3 – 9 Aug | ~34 | | Quality returns |
 | 3 | 10 – 16 Aug | ~37 | | First >90 min run |
 | 4 | 17 – 23 Aug | **~40** | | **Peak — more than has ever actually been run** |

@@ -1,15 +1,17 @@
 # Current Status
 
-*Last updated: 25 Jul 2026*
+*Last updated: 2 Aug 2026*
 
 ---
 
-## Status: 🎯 NEW GOAL — The Big Half, Sun 6 Sep 2026 (21.1 km). 6-week block starts Mon 27 Jul.
+## Status: 🏃 HALF BLOCK — WEEK 2 of 6. The Big Half, Sun 6 Sep 2026 (21.1 km).
+
+**Week 1 ✅ complete, fully on plan (~24.5 km).** Closed with the **longest run of the campaign — 12 km at 136/152, 99.1% Zone 1–2** — beating the 11 km that had stood since 7 Jun. Resting HR 52 on consecutive days. **Week 2 is the first real test: threshold returns Thu 6 Aug, and the long run steps to 14 km.**
 
 **5K goal race complete (Sat 25 Jul): ~21:27, 4:17/km, 24°C sunny. Not a PB — 20:59 stands.** Deficit was **heat, not fitness** — gate-derived good-conditions pace was 4:08–4:10/km, a 24°C sunny 5K costs ~7–9 sec/km, he averaged 4:17. Ran to his heat-adjusted ceiling. Opened disciplined (4:12), km3 sagged in the heat, **km4 regathered — fought back rather than unravelled.**
 
 **New target: half marathon, Sun 6 Sep 2026. Six clean weeks, Mon 27 Jul → Sun 6 Sep.**
-Live plan: **`big_half_block_Sep2026.md`**. Week 1 detail: `current_week_plan.md`.
+Live plan: **`big_half_block_Sep2026.md`**. Current week detail: `current_week_plan.md`.
 
 **Half-marathon target: 1:42–1:45 (4:50–4:58/km). Stretch 1:40. Race pace 4:50/km.**
 
@@ -24,12 +26,12 @@ Live plan: **`big_half_block_Sep2026.md`**. Week 1 detail: `current_week_plan.md
 | Aerobic efficiency | 5:19/km @ 142 BPM (5 Jul) | ✅ Strong — best of campaign |
 | Threshold | 4:20/km for 4 km, clean descending (2 Jul) | ✅ Solid |
 | 5K fitness | ~20:45–21:00 good conditions | ✅ |
-| **Longest run ever logged** | **11.0 km** (7 Jun 2026) | ❌ **The gap** |
-| Runs per week (last 6 wks) | 2–3 | ❌ Needs a 4th |
-| Actual weekly volume (last 6 wks) | 15–24 km | ❌ Needs to reach ~40 |
+| **Longest run** | **12.0 km** (2 Aug 2026) — was 11.0 km since 7 Jun | 🔄 **The gap, now closing.** Ramp 12→14→16→18 |
+| Runs per week | 3 in W1; **4 from W2** | 🔄 4th run added |
+| Actual weekly volume | W1 ~24.5 km (on plan) → building to ~40 | 🔄 On track |
 | HM distance experience | None | ❌ |
 
-**Riegel off 20:59 gives 1:36:30 — that assumes an endurance base that does not exist.** With an 11 km ceiling and a 6-week ramp: **1:42–1:45 realistic**, 1:40 stretch, **~1:50+ with a collapsing last 5 km if nothing changes.** The gap is durability, not speed. Six weeks closes most of it, not all.
+**Riegel off 20:59 gives 1:36:30 — that assumes an endurance base that does not exist.** With an 11 km ceiling at the block's start and a 6-week ramp: **1:42–1:45 realistic**, 1:40 stretch, **~1:50+ with a collapsing last 5 km if nothing changes.** The gap is durability, not speed. Six weeks closes most of it, not all.
 
 ---
 
@@ -41,8 +43,8 @@ Live plan: **`big_half_block_Sep2026.md`**. Week 1 detail: `current_week_plan.md
 | Most recent 5K | ~21:27 (24°C, heat-limited) | 25 July 2026 |
 | Threshold pace | **4:20/km (4 km, clean descending)** | 2 Jul 2026 |
 | Easy pace | **5:19/km @ 142 BPM (main set) — best of campaign** | 5 Jul 2026 |
-| Longest run | **11.0 km** | 7 Jun 2026 |
-| Morning resting HR baseline | <55 BPM | |
+| Longest run | **12.0 km** | 2 Aug 2026 |
+| Morning resting HR (seated strap) | **52 BPM** (1 & 2 Aug, consistent) | 2 Aug 2026 |
 
 ---
 
@@ -98,8 +100,10 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 | ✅ Tue 28 Jul | Barry's lower, walking lunges — 125/168, under cap but light |
 | ✅ Wed 29 Jul | Barry's upper, social — 133/168, unrestricted |
 | ✅ Thu 30 Jul | Easy 5 km (trimmed) + strides — 5:38/km @ 143, on target. Strides escalated. |
-| Sun 2 Aug | Long 12 km — ramp begins. **Clean HR read.** Chest strap. |
-| Thu 6 Aug | Threshold 5 km @ 4:18 — quality returns |
+| ✅ **Sun 2 Aug** | **Long 12 km — LONGEST RUN OF THE CAMPAIGN.** 136/152, 99.1% Zone 1–2. RHR 52. |
+| Tue 4 Aug | Barry's lower — **walking lunges, 2nd and last** |
+| **Thu 6 Aug** | **Threshold 5 km @ 4:18 — first quality session of the block** |
+| Sun 9 Aug | Long 14 km — rung two |
 | Thu 13 Aug | **VO2max 5×1000 @ 4:02** — the session illness took twice |
 | Sun 16 Aug | 16 km — **first run over 90 min ever. Practise gels.** |
 | Sun 23 Aug | **18 km — peak long run** |

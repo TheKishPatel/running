@@ -1,95 +1,102 @@
 # Current Week Plan
 
-*Last updated: 25 Jul 2026*
+*Last updated: 2 Aug 2026*
 
 ---
 
-## Half Block Week 1 (Mon 27 Jul – Sun 2 Aug) — Recovery + re-entry
+## Half Block Week 2 (Mon 3 – Sun 9 Aug) — Quality returns, volume steps up
 
-**Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (42 days out). Full block: `big_half_block_Sep2026.md`.**
+**Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (35 days out). Full block: `big_half_block_Sep2026.md`.**
 
-**Objective:** Raced a maximal 5K on Sat 25 Jul. This week is **recovery, not training** — nothing hard, no quality session. Its only jobs are to absorb the race and put 12 km on the clock so week 2 starts the real ramp from a moving base. Three runs this week; the 4th weekly run (Wed easy) starts week 2.
+**Objective:** Week 1 was recovery. This is the first real training week of the block, and it does two new things at once: **threshold work returns on Thursday** (first quality session since the 25 Jul race) and **the long run steps to 14 km**. Volume rises from ~24.5 km to ~34 km, and a **4th weekly run** enters the pattern on Wednesday.
 
-**Context:** longest run ever logged is 11 km (7 Jun). The half is 21.1 km. Endurance is the gap, not speed — six weeks of long-run progression is the whole block.
+**Coming off:** Week 1 complete and fully on plan. The 12 km on Sun 2 Aug was the longest run of the campaign — 136 avg / 152 max, **99.1% Zone 1–2**, post-run 138→98→90. Resting HR 52 on consecutive days. Nothing is limiting the step up.
 
 ---
 
-### Sun 26 Jul — REST
-Day after the race. Complete rest. Walk is fine.
+### Mon 3 Aug — REST
 
-### Mon 27 Jul — REST
-
-### Tue 28 Jul — BARRY'S (Lower Body)
+### Tue 4 Aug — BARRY'S (Lower Body)
 | Component | Detail |
 |-----------|--------|
 | Effort | 6/10. HR avg **<155**, majority Zone 2–3, Zone 5 zero |
-| ⚠️ Lunges | **WALKING LUNGES, not jumping** |
+| ⚠️ Lunges | **WALKING LUNGES — 2nd and final session** |
 
-**Why walking lunges:** last lower-body Barry's was **Tue 7 Jul — a 21-day gap.** This is exactly the 31 Mar setup (break in attendance → jumping lunges → VMO/inner quad twinge). Walking lunges this session and the next. Normal from Tue 11 Aug.
+**Two things to get right:**
+- **Last walking-lunge session.** Normal jumping lunges resume Tue 11 Aug. This closes out the 21-day-gap protection.
+- **Aim higher than last week.** Tue 28 Jul came in at **125 avg with 30:06 in Zone 1** — under the cap, but below a useful conditioning stimulus. **Target the 7 Jul profile: ~138 avg, meaningful Zone 2–3, Zone 4 under 2 min.** The historical flag was Barry's being too hard; right now the risk is the reverse, and lower-body conditioning is what holds the legs together at 16–18 km.
 
-### Wed 29 Jul — BARRY'S (Upper Body) — social, with sister
-Unrestricted per standing rules. No leg cost, **does not affect Thursday** — Thursday's run stays on Thursday. Attend freely.
-
-### Thu 30 Jul — EASY + STRIDES
+### Wed 5 Aug — EASY *(the new 4th run)*
 | Component | Detail |
 |-----------|--------|
 | Session | **6 km @ 5:45/km, HR <150** |
-| Then | **4 × 20 s strides**, full walk-back recovery |
 
-Not a quality session. Strides keep the neuromuscular sharpness from the 23 Jul 400s alive at zero fatigue cost. Quality returns Thu 6 Aug (5 km @ 4:18).
+This run exists to add volume, nothing else. Day after Barry's and two days before threshold — **there is no version of this run that should feel like work.**
 
-### Fri 31 Jul — REST
+### Thu 6 Aug — THRESHOLD ⭐ *first quality session of the block*
+| Component | Detail |
+|-----------|--------|
+| Warm-up | 1.5 km @ 5:45/km |
+| **Main set** | **5 km @ 4:18/km** |
+| Cool-down | 1 km @ 6:00/km |
+| HR | **168–176 BPM** |
+| Watch alert | **4:14/km fast limit** |
 
-### Sat 1 Aug — EASY
+**Total ~7.5 km.**
+
+**This is the session the whole block runs on.** Threshold is the primary engine for both the half and the 5K, and 4:18 is 2 sec/km faster than the 2 Jul benchmark (4:20, the only clean threshold execution of the campaign).
+
+**Execution — km1 decides this session:**
+- **Open at 4:20, not 4:18.** The 2 Jul tempo worked precisely because T1 was the *slowest* rep. Every tempo that failed this campaign failed because km2 went 4–9 sec/km too fast and blew the HR budget.
+- Splits should descend or hold flat: **4:20 → 4:18 → 4:18 → 4:17 → 4:16.**
+- **If HR exceeds 178, ease to 4:22** and hold. HR governs.
+- Seated resting HR before you go. Below 8 h sleep with a hard session is the one combination worth moving a day for — the 14 May tempo cost ~11 sec/km on poor sleep.
+
+### Fri 7 Aug — REST
+
+### Sat 8 Aug — EASY
 | Component | Detail |
 |-----------|--------|
 | Session | **6 km @ 5:50/km, HR <145** |
 
-**Deliberately easy — this is the day before a long run.** The Sat/Sun back-to-back is the point: it teaches the legs to run tired, which is what the last 6 km of a half feels like. Running this at 5:20 defeats it.
+**Prescribed 5:50 means 5:50.** Last Saturday ran 5:29 — 21 sec/km fast, the third overspeed session in a row. It cost nothing then because the long run was 12 km. Tomorrow's is 14 km, and the tolerance narrows every week from here.
 
-### Sun 2 Aug — LONG RUN
+### Sun 9 Aug — LONG RUN · **14 km**
 | Component | Detail |
 |-----------|--------|
-| Session | **12 km @ 5:40/km** |
+| Session | **14 km @ 5:40/km** |
 | HR | **<150 — hard cap** |
 | Kit | **Chest strap** |
 
-Longest run since 7 Jun and the first step of the ramp (12 → 14 → 16 → 18). Conservative km1 (6:00–6:10). If HR approaches 150, slow down — pace is not the objective on this run, time on feet is.
+Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:00–6:10. **The 12 km was executed almost perfectly — repeat that shape, just longer.** If HR reaches 150, slow down; time on feet is the objective, not pace.
 
-**✅ Gate cleared — resting HR flag withdrawn.** The Sat 1 Aug seated TICKR reading was **52** (baseline <55). The 63 that triggered the gate was **Apple Health's daily computed resting HR, not a measurement** — an algorithmic estimate from inactive periods across the whole day, systematically higher than a seated reading and not comparable to the <55 baseline. 52 agrees with the rest of the session (5:29/km @ 138, post-workout 97→87→70). **Run the 12 km as planned.**
-
-**Standing rule going forward:** resting HR = **seated chest-strap reading before getting up**. That is the number governed against <55 and the >60 rest-day rule. Apple's daily figure is a trend line only. Any throat / cough / phlegm still means complete rest regardless of any number.
+**Report:** seated resting HR + hours slept, and the **splits screenshot** (last week's failed to upload twice — typing the per-km pace/HR works just as well).
 
 ---
 
-### Week 1 Log
-**Sun 26 Jul:** ✅ Rest — post-race.
-**Mon 27 Jul:** ✅ Rest.
-**Tue 28 Jul:** ✅ Barry's (lower), walking lunges — **125 avg / 168 max**, Z1 30:06 / Z2 12:39 / Z3 1:31 / Z4 0:05 / Z5 0:00. Well under the <155 cap but **lighter than intended** (vs 7 Jul: 138 avg, Z3 12:06). Correct for a recovery week; 4 Aug should return to the 7 Jul profile.
-**Wed 29 Jul:** ✅ Barry's (upper), social — **133 avg / 168 max**, Z1 29:12 / Z2 13:04 / Z3 12:14 / Z4 0:09 / Z5 0:00. Post 147→126. **Harder than Tuesday's lower session** (Z3 12:14 vs 1:31). Unrestricted, no flag.
-**Thu 30 Jul:** ✅ Easy **5 km** (trimmed from 6) + 4 strides — **5:38/km @ 143 avg**, splits 133→145→146→148→150, drift 5 bpm. Cap touched at km5, never breached. Trim was correct (poor sleep, 20°C, 5 days post-race). Post 102→94→94, best in the log. **⚠️ Strides escalated 3:57→3:28→3:09→2:50/km vs the flat 3:30–3:40 prescription; max HR 179.** Cost near zero (80 s work, Z4 0:28) but it's the recurring pattern.
-**Fri 31 Jul:** ✅ Rest.
-**Sat 1 Aug:** ✅ Easy 6.30 km — solo 5 km at **5:29/km @ ~138**, 9 sec/km faster than Thu at 5 bpm lower. Post **97→87→70** (best in the log). Last 1.3 km with daughter @ 111–124 bpm — Zone 1 bonus. **Resting HR 52** (seated TICKR; baseline <55) — the 63 first reported was Apple's daily computed figure, not a measurement. **⚠️ 21 sec/km fast vs the 5:50 prescription — 3rd consecutive pace flag.**
-**Sun 2 Aug:** ⏳ Long 12 km — resting-HR gate cleared (52 seated), run as planned.
+### Week 2 Log
+**Mon 3 Aug:** ⏳ Rest.
+**Tue 4 Aug:** ⏳ Barry's (lower) — walking lunges, final session. Target ~138 avg.
+**Wed 5 Aug:** ⏳ Easy 6 km.
+**Thu 6 Aug:** ⏳ **Threshold 5 km @ 4:18.**
+**Fri 7 Aug:** ⏳ Rest.
+**Sat 8 Aug:** ⏳ Easy 6 km @ 5:50.
+**Sun 9 Aug:** ⏳ **Long 14 km.**
 
-**Planned volume: ~24 km running.**
+**Planned volume: ~34 km across 4 runs + 1 Barry's.**
 
 ---
 
-### Looking ahead — Week 2 (Mon 3 – Sun 9 Aug)
-- **Tue 4 Aug:** Barry's (lower) 6/10 — walking lunges, 2nd session back.
-- **Wed 5 Aug:** easy 6 km @ 5:45, HR <150.
-- **Thu 6 Aug:** **threshold 5 km @ 4:18/km** — quality returns. Watch alert 4:14, conservative km1.
-- **Sat 8 Aug:** easy 6 km @ 5:50.
-- **Sun 9 Aug:** **long 14 km @ 5:40**, HR <150.
-- Volume ~34 km.
+### Week 2 gate → Week 3
+**14 km completed at HR <150, no soreness lasting beyond 48 h → progress to 16 km.** If either fails, repeat 14 km rather than progressing. Week 3 is the first run over 90 minutes and the first gel practice, so the base has to be genuinely there.
 
 ---
 
 ## Standing rules this block
 1. **No third hard day.** Tue Barry's + Thu quality is two. The Sunday long run stays aerobic — **HR 150 is a hard cap**, not a target.
-2. **On runs ≥14 km, slower is correct.** The habitual 10–15 sec/km overspeed is affordable on a 5 km run and is not affordable on a 16 km one — it costs the next quality session.
-3. **Illness = full stop.** Sore throat / cough / phlegm → complete rest per `CLAUDE.md`. Volume is rising ~60%; risk rises with it.
-4. **Chest strap on every long run and race day.** Three races now with no usable HR.
-5. **Barry's stays.** Lower-body consistency is what holds the legs together at 18 km. Walking lunges through 4 Aug.
-6. **Hold, don't chase.** If a week feels wrong, repeat it rather than progress. The table is a plan, not a debt.
+2. **On runs ≥14 km, slower is correct.** From this week the long runs are long enough that a 10–15 sec/km overspeed costs the following quality session. **⚠️ Three consecutive overspeed sessions on the record (23 Jul, 30 Jul, 1 Aug) — this is the live flag of the block.**
+3. **Illness = full stop.** Sore throat / cough / phlegm → complete rest per `CLAUDE.md`. Volume is rising ~40% this week alone.
+4. **Resting HR = seated chest-strap reading before getting up.** That is the number governed against <55 and the >60 rest-day rule. Apple's daily figure is a trend line only.
+5. **Chest strap on every long run and race day.**
+6. **Barry's stays.** Walking lunges Tue 4 Aug, then normal from 11 Aug.
+7. **Hold, don't chase.** If the week reads wrong, repeat it rather than progress. The table is a plan, not a debt.
