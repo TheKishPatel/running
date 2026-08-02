@@ -147,6 +147,8 @@ Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initial
 - **30 Jul** strides — escalated 3:57 → 3:28 → 3:09 → **2:50/km** against a flat 3:30–3:40 prescription, max HR 179 on a recovery-week run
 - **1 Aug** easy run — **5:29/km vs 5:50 prescribed (21 sec/km fast)**, km3 at 5:16, on the one day the prescription explicitly said *"deliberately easy, day before a long run"*
 
+**BROKEN ON 2 AUG:** the 12 km long run opened at **6:16 — slower than the prescribed 6:00–6:10** — and came in 4 sec/km off target overall, i.e. noise. The correction has landed once, on the session where it mattered most. Flag stays live until it holds across a full week.
+
 Physiological cost has been near zero every time — HR held, no session compromised. **The pattern is the problem, not the sessions.** The HR-governed defence works while runs are short; **at Week 4 (18 km inside a 40 km week) a 20 sec/km Saturday overspeed is what breaks the Sunday.** Conservative km1/rep1 stays mandatory and is written into the race plan (4:55/km for the first 5 km). **Strides correction: stride 4 matches stride 1 — flat, not ascending.**
 
 **🆕 HR sensor — Wahoo TICKR acquired (30 Jul).** Worn alongside the Apple Watch; source unconfirmed. Evidence points strongly to the strap being the recorded feed — optical has never tracked short hard efforts (4 Jun rep 1 untracked; 16 Jul read 156–165 on maximal 1600s = 25–35 bpm undercount), and the 30 Jul 20-second strides produced a clean 179. **Confirm via Health → Heart → Heart Rate → Show All Data (each sample names its source) before the 18 km and race day.** This closes the three-race no-usable-HR problem if it holds.

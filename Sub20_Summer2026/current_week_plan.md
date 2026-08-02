@@ -10,7 +10,7 @@
 
 **Objective:** Week 1 was recovery. This is the first real training week of the block, and it does two new things at once: **threshold work returns on Thursday** (first quality session since the 25 Jul race) and **the long run steps to 14 km**. Volume rises from ~24.5 km to ~34 km, and a **4th weekly run** enters the pattern on Wednesday.
 
-**Coming off:** Week 1 complete and fully on plan. The 12 km on Sun 2 Aug was the longest run of the campaign — 136 avg / 152 max, **99.1% Zone 1–2**, post-run 138→98→90. Resting HR 52 on consecutive days. Nothing is limiting the step up.
+**Coming off:** Week 1 complete and fully on plan. The 12 km on Sun 2 Aug was the longest run of the campaign — 5:36/km, 136 avg / 152 max, **99.1% Zone 1–2**, post-run 138→98→90. **km1 6:16 = a genuinely conservative opener, and HR went flat at 145 for the final 3 km at steady pace and power. Pw:HR decoupling 4.3%.** Resting HR 52 on consecutive days. Nothing is limiting the step up.
 
 ---
 
@@ -68,9 +68,11 @@ This run exists to add volume, nothing else. Day after Barry's and two days befo
 | HR | **<150 — hard cap** |
 | Kit | **Chest strap** |
 
-Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:00–6:10. **The 12 km was executed almost perfectly — repeat that shape, just longer.** If HR reaches 150, slow down; time on feet is the objective, not pace.
+Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:00–6:10 — **6:16 last week was ideal, do that again.** If HR reaches 150, slow down; time on feet is the objective, not pace.
 
-**Report:** seated resting HR + hours slept, and the **splits screenshot** (last week's failed to upload twice — typing the per-km pace/HR works just as well).
+**One change from last week:** the 12 km negative-split, drifting 5:39 → 5:27. Fine over that distance. **Over 14 km, hold 5:40 rather than letting it creep** — the pattern to break before 16 and 18 km is finishing fast because you drifted, rather than because you chose to.
+
+**Report:** seated resting HR + hours slept, and the per-km splits. Screenshots have failed to upload three times running — **typing the numbers works fine.**
 
 ---
 
@@ -94,7 +96,7 @@ Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:
 
 ## Standing rules this block
 1. **No third hard day.** Tue Barry's + Thu quality is two. The Sunday long run stays aerobic — **HR 150 is a hard cap**, not a target.
-2. **On runs ≥14 km, slower is correct.** From this week the long runs are long enough that a 10–15 sec/km overspeed costs the following quality session. **⚠️ Three consecutive overspeed sessions on the record (23 Jul, 30 Jul, 1 Aug) — this is the live flag of the block.**
+2. **On runs ≥14 km, slower is correct.** From this week the long runs are long enough that a 10–15 sec/km overspeed costs the following quality session. **⚠️ Three consecutive overspeed sessions (23 Jul, 30 Jul, 1 Aug) — then broken on the 2 Aug 12 km (km1 6:16, 4 sec/km off target). Flag stays live but the correction has landed once.**
 3. **Illness = full stop.** Sore throat / cough / phlegm → complete rest per `CLAUDE.md`. Volume is rising ~40% this week alone.
 4. **Resting HR = seated chest-strap reading before getting up.** That is the number governed against <55 and the >60 rest-day rule. Apple's daily figure is a trend line only.
 5. **Chest strap on every long run and race day.**

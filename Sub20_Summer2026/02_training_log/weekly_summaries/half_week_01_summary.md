@@ -12,7 +12,7 @@
 | Wed 29 Jul | Barry's (upper), social | 133 avg / 168 max. Z3 12:14. Post 147→126 |
 | Thu 30 Jul | Easy 5 km (trimmed from 6) + 4 strides | 5:38/km @ 143. Post 102→94→94 |
 | Sat 1 Aug | Easy 6.30 km | Solo 5 km at 5:29/km @ ~138. Post 97→87→**70** |
-| Sun 2 Aug | **Long 12 km** | **136 avg / 152 max, 99.1% Zone 1–2.** Post 138→98→90 |
+| Sun 2 Aug | **Long 12 km** | **5:36/km, 136 avg / 152 max, 99.1% Zone 1–2.** km1 6:16. Post 138→98→90 |
 
 **Volume: ~24.5 km across 3 runs + 2 Barry's** (planned ~24 km).
 
@@ -22,21 +22,23 @@
 
 **1. The long-run ceiling moved for the first time since 7 Jun.** 12 km beats the 11 km that had stood as the campaign's longest run. Executed at 136/152 with **only 59 seconds above 150** across 67 minutes — the cap was exceeded by 2 bpm at the very end, which is ordinary cardiac drift, not indiscipline.
 
-**2. Aerobic fitness is intact and reads normal-to-good post-race.**
+**2. The 12 km showed steady state, which is the quality the half actually asks for.** HR climbed 117→143 through km9 then went **completely flat at 145 for km10–12** while pace held 5:29/5:28/5:27 and power held 218/221/218 W. **Pw:HR decoupling 4.3%** — under the 5% mark for well-developed aerobic endurance at that duration. Counterweight: km4 and km12 were both 5:27/km at ~217 W but 13 bpm apart, so drift was real; the decisive point is that it flattened rather than ran away.
+
+**3. Aerobic fitness is intact and reads normal-to-good post-race.**
 
 | Long run | Pace | HR |
 |----------|------|-----|
 | 7 Jun — 11 km | 5:39/km | 137 / 150 |
 | 19 Jul — 9.66 km | 5:36/km | 137 / 150 |
-| **2 Aug — 12 km** | ~5:36/km | **136 / 152** |
+| **2 Aug — 12 km** | **5:36/km** | **136 / 152** |
 
 Further than either, at the same heart rate.
 
-**3. Thursday's elevated HR was correctly diagnosed.** Thu 30 Jul read 5:38/km @ 143 — high for the pace. Attributed to poor sleep, 20°C and 5 days post-race rather than fitness. Saturday confirmed it: **5:29/km @ 138, nine sec/km faster at five bpm lower.**
+**4. Thursday's elevated HR was correctly diagnosed.** Thu 30 Jul read 5:38/km @ 143 — high for the pace. Attributed to poor sleep, 20°C and 5 days post-race rather than fitness. Saturday confirmed it: **5:29/km @ 138, nine sec/km faster at five bpm lower.**
 
-**4. Recovery markers are excellent throughout.** Post-run traces of 102→94→94, 97→87→**70**, and 138→98→90 after 67 minutes. The 70 bpm at two minutes is the best figure in the log.
+**5. Recovery markers are excellent throughout.** Post-run traces of 102→94→94, 97→87→**70**, and 138→98→90 after 67 minutes. The 70 bpm at two minutes is the best figure in the log.
 
-**5. Resting HR baseline established at 52** (seated chest strap, 1 and 2 Aug). See the correction below.
+**6. Resting HR baseline established at 52** (seated chest strap, 1 and 2 Aug). See the correction below.
 
 ---
 
@@ -47,7 +49,7 @@ Further than either, at the same heart rate.
 - **30 Jul** strides — escalated 3:57 → 3:28 → 3:09 → **2:50/km** against a flat 3:30–3:40 prescription; max HR 179 on a recovery-week run
 - **1 Aug** easy run — **5:29/km vs 5:50 prescribed**, on the one day the prescription said *"deliberately easy, day before a long run"*
 
-Physiological cost has been near zero each time and no session was compromised. **The pattern is the problem, not the sessions.** The HR-governed defence works while runs are short; from Week 2 the long runs are long enough that a Saturday overspeed costs the Sunday. Notably, the 12 km itself was *not* overspeed — 99.1% Zone 1–2 — so the discipline is available when it matters.
+Physiological cost has been near zero each time and no session was compromised. **The pattern is the problem, not the sessions.** The HR-governed defence works while runs are short; from Week 2 the long runs are long enough that a Saturday overspeed costs the Sunday. **Notably the 12 km broke the run: km1 was 6:16, slower than the prescribed 6:00–6:10 opener, and overall pace was 4 sec/km off target — noise, not indiscipline.** The discipline is available when it matters, on the session where it mattered most.
 
 **⚠️ Barry's intensity has inverted.** Tue 28 Jul came in at 125 avg with **30:06 in Zone 1** — under the <155 cap but below a useful conditioning stimulus. Partly the walking-lunge substitution (jumping lunges drive the HR), partly a soft session. Correct for a recovery week; **from 4 Aug the target is the 7 Jul profile (~138 avg, meaningful Zone 2–3).** The historical flag was Barry's being too hard at 8–9/10 — the current risk is the reverse.
 
