@@ -138,9 +138,11 @@ Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initial
 
 **🟢 Barry's intensity — CORRECTED (4 Aug).** Tue 28 Jul was too light: **125 avg, 30:06 in Zone 1, Zone 2–3 only 32% of the session.** Tue 4 Aug returned to profile: **135 avg, Zone 2 19:17 + Zone 3 07:22 = 64% of a 41:44 session, Zone 1 halved to 15:05.** Just below the 7 Jul reference (138 avg, Z3 12:06) and correctly placed between "too light" and the historical too-hard flag. **Zone 4 and Zone 5 zero, max 165** — no third hard day created. Hold this profile from 11 Aug with jumping lunges back in, which will add HR on their own; the <155 cap is the ceiling.
 
-**📉 Post-workout recovery, 4 Aug — watch, do not act.** 123→115→109 = **14 bpm over 2 min**, the flattest trace since 28 Jul and well off the 40–48 bpm drops after runs (2 Aug: 138→98→90). Discounted for now: Barry's ends with mobility rather than a hard stop, absolute values are low, and the session produced zero Zone 4. **Recheck after Tue 11 Aug; only meaningful if it repeats alongside something else (resting HR, HR-for-pace).**
+**📉 Post-workout recovery, 4 Aug — noted, not a flag.** 123→115→109 = **14 bpm over 2 min**, the flattest trace since 28 Jul and well off the 40–48 bpm drops after runs (2 Aug: 138→98→90). Discounted: Barry's ends with mobility rather than a hard stop, absolute values are low, the session produced zero Zone 4, **and resting HR came in at 52 the same morning** — nothing systemic behind it.
 
-**⚠️ Resting HR + sleep NOT REPORTED on 4 Aug** — first miss since the protocol was set on 1 Aug. Both are required with every session. Resting HR is the earliest illness warning available and weekly volume rises ~40% this week.
+**🟢 RESTING HR 52 — THIRD consecutive reading (1, 2, 4 Aug).** Baseline (<55) firmly established by direct seated TICKR measurement. Apple's daily computed 63 definitively dismissed as non-comparable.
+
+**⚠️ SLEEP TREND — 7.0 → 6.5 → 6.0 h, three straight nights under 8.** Immaterial for Barry's and for Wed's easy 6 km. **Material for Thu 6 Aug:** sleep is a documented ~11 sec/km factor on threshold work (14 May tempo), and 5 km @ 4:18 is the session the block runs on. Two nights to bank sleep. **If Thursday morning reads under ~6 h with resting HR up, move the threshold to Fri and shift the easy run — cheaper than executing it flat.**
 
 **🟢 GI illness (food poisoning, 7 Jul) — RESOLVED 13 Jul.** Two consecutive clean runs post-illness, no recurrence through the 25 Jul race.
 
