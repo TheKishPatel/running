@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 6 Jul 2026*
+*Last updated: 25 Jul 2026*
 
 ---
 
@@ -15,12 +15,79 @@
 | Phase 4: Race Specific | 12 | Mon 15 Jun – Sun 21 Jun | ❌ Lost to illness | — |
 | Phase 5: Taper | 13 | Mon 22 Jun – Fri 26 Jun | ❌ N/A — race deferred | — |
 | **27 Jun (tune-up)** | — | **Sub-21 tune-up — DONE: 5K ~22:21, ~30°C, eased** | ✅ Completed | n/a (tune-up) |
-| Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | 🔄 Week B | — |
-| **GOAL RACE** | — | **Sat 25 Jul 2026** | ⏳ Upcoming | — |
+| Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | ✅ Complete | Gate 16 Jul: sub-20 off |
+| **5K GOAL RACE** | — | **Sat 25 Jul 2026 — ~21:27, 24°C, heat-limited. PB (20:59) intact** | ✅ Complete | n/a |
+| **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | 🔄 **Week 2** (W1 ✅ complete) | — |
+| **THE BIG HALF** | — | **Sun 6 Sep 2026 — target 1:42** | ⏳ Upcoming | — |
+| 5K sharpening block | — | ~Sep–Oct (post-half) | ⏳ Planned | — |
 
-> **Live plan = `build_plan_Jul2026.md`** (4-week block to the 25 Jul race). Goal: PB / sub-20:30 primary, sub-20 stretch (gate: 16 Jul 3×1600m @ 4:00).
+> **Live plan = `big_half_block_Sep2026.md`** (6-week block to the 6 Sep half marathon).
+> Target 1:42–1:45, stretch 1:40, race pace 4:50/km. Then a 4-week 5K sharpening block →
+> cool-weather 5K early-to-mid Oct for the PB the heat took on 25 Jul.
 
-⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) is now 1 week instead of 2. Phase 5 (Taper) unchanged.
+⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) was compressed to 1 week and then lost to illness. The 25 Jul build (A–D) replaced Phases 4–5.
+
+---
+
+## Half Block — The Big Half, Sun 6 Sep 2026
+**Dates:** Mon 27 Jul – Sun 6 Sep 2026. **Live plan: `big_half_block_Sep2026.md`.**
+**Goal:** 1:42–1:45 (4:50–4:58/km); stretch 1:40. **Race pace 4:50/km.**
+**The gap being closed:** longest run ever logged is 11.0 km (7 Jun) off 2–3 runs and 15–24 km/week. Endurance, not speed.
+
+### Sessions
+
+| Wk | Date | Session | Planned | Actual | HR | Status | Notes |
+|----|------|---------|---------|--------|----|--------|-------|
+| 1 | 28 Jul | Tue Barry's (lower) | 6/10, HR <155 | ~44:20 | 125/168 | ✅ done | Walking lunges (21-day gap). Z1 30:06 / Z2 12:39 / Z3 1:31 / Z4 0:05. **Under cap but light** — vs 7 Jul (138 avg, Z3 12:06). Fine for recovery week; 4 Aug → 7 Jul profile. |
+| 1 | 29 Jul | Wed Barry's (upper) | Social, unrestricted | ~54:40 | 133/168 | ✅ done | Z1 29:12 / Z2 13:04 / Z3 12:14 / Z4 0:09. Post 147→126. **Harder than Tue's lower** (Z3 12:14 vs 1:31). No flag. |
+| 1 | 30 Jul | Thu Easy + strides | 6 km @ 5:45 + 4×20 s | 5 km @ 5:38 | 143/179 | ✅ done | Trimmed 6→5 km (poor sleep, 20°C, 5 d post-race) — correct. Main set on target, drift 5 bpm, cap touched km5 not breached. Post 102→94→94. **⚠️ Strides ran 3:57→3:28→3:09→2:50 vs flat 3:30–3:40; max 179.** |
+| 1 | 1 Aug | Sat Easy | 6 km @ 5:50, HR <145 | 5:29 (solo 5 km) | 138/151 | ✅ done | 9 sec/km faster than Thu at 5 bpm lower — Thursday's HR confirmed as sleep, not fitness. Post 97→87→**70** (best in log). **Resting HR 52 (seated strap)** — the 63 first reported was Apple's daily computed figure, not a measurement. **⚠️ 21 sec/km fast — 3rd pace flag.** |
+| 1 | 2 Aug | **Sun Long** | **12 km @ 5:40, HR <150** | 5:36 (km3–12: 5:31) | 136/152 | ✅ done | **LONGEST RUN OF THE CAMPAIGN** (beats 11 km, 7 Jun). **km1 6:16 = conservative opener, pace flag does not apply.** HR flat at 145 for km10–12 at steady pace/power = steady state found. **Pw:HR decoupling 4.3%.** 99.1% Zone 1–2. Post 138→98→90. RHR 52 (2nd consecutive). vs 7 Jun km10: 9 sec/km faster at identical HR. |
+| 2 | 4 Aug | Tue Barry's (lower) | 6/10 | | | ⏳ | Walking lunges — 2nd back |
+| 2 | 5 Aug | Wed Easy | 6 km @ 5:45 | | | ⏳ | |
+| 2 | 6 Aug | **Thu Threshold** | **5 km @ 4:18**, HR 168–176 | | | ⏳ | Quality returns. Alert 4:14, conservative km1. |
+| 2 | 8 Aug | Sat Easy | 6 km @ 5:50 | | | ⏳ | |
+| 2 | 9 Aug | **Sun Long** | **14 km @ 5:40, HR <150** | | | ⏳ | |
+| 3 | 11 Aug | Tue Barry's (lower) | 6/10 | | | ⏳ | Lunge window over — normal session |
+| 3 | 12 Aug | Wed Easy | 6 km @ 5:45 | | | ⏳ | |
+| 3 | 13 Aug | **Thu VO2max** | **5×1000 m @ 4:02, 90 s jog** | | | ⏳ | The session illness took twice. Jog recovery, rep 1 at 4:02. |
+| 3 | 15 Aug | Sat Easy | 6 km @ 5:50 | | | ⏳ | |
+| 3 | 16 Aug | **Sun Long + HM pace** | **16 km** — 13 @ 5:40 + 3 @ 4:55 | | | ⏳ | **First run >90 min ever. Gels at 45/75 min.** |
+| 4 | 18 Aug | Tue Barry's (lower) | 6/10 | | | ⏳ | |
+| 4 | 19 Aug | Wed Easy | 7 km @ 5:45 | | | ⏳ | |
+| 4 | 20 Aug | **Thu Threshold ext** | **2×3 km @ 4:15, 3 min jog** | | | ⏳ | Rep 2 must not be slower than rep 1 |
+| 4 | 22 Aug | Sat Easy | 6 km @ 5:50 | | | ⏳ | |
+| 4 | 23 Aug | **Sun Long — PEAK** | **18 km @ 5:40, HR <150** | | | ⏳ | ~1 h 40 on feet = race duration. Gels. Chest strap. |
+| 5 | 25 Aug | Tue Barry's (lower) | 6/10 | | | ⏳ | |
+| 5 | 26 Aug | Wed Easy | 6 km @ 5:45 | | | ⏳ | |
+| 5 | 27 Aug | **Thu HM-pace prog** | **8 km**: 4 @ 5:20 → 4 @ 4:50 | | | ⏳ | Finishing at race pace on tired legs |
+| 5 | 29 Aug | Sat Easy | 5 km @ 5:50 | | | ⏳ | |
+| 5 | 30 Aug | **Sun Long + HM pace** | **14 km** — 4 @ 5:40 / 6 @ 4:50 / 4 @ 5:40 | | | ⏳ | Final read. **Record HR at 4:50/km.** |
+| 6 | 1 Sep | Tue Barry's | Upper preferred; if lower, 5/10 no plyos | | | ⏳ | Do not skip |
+| 6 | 3 Sep | Thu Sharpness | 4×400 m @ 3:50, full recovery | | | ⏳ | Sharp, not tired |
+| 6 | 5 Sep | Sat Shakeout | 20 min @ 6:00 + 2 strides, or rest | | | ⏳ | Key sleep night |
+| 6 | **6 Sep** | **RACE — 21.1 km** | **4:55 → 4:50 → 4:45. Target 1:42** | | | ⏳ | **Chest strap. Gels 45/75 min. Never faster than 4:50 in the first 5 km.** |
+
+### Planned Volume
+
+| Wk | Dates | Planned km | Actual km | Notes |
+|----|-------|-----------|-----------|-------|
+| 1 | 27 Jul – 2 Aug | ~24 | **~24.5** | ✅ Recovery + re-entry after the 25 Jul race. On plan. |
+| 2 | 3 – 9 Aug | ~34 | | Quality returns |
+| 3 | 10 – 16 Aug | ~37 | | First >90 min run |
+| 4 | 17 – 23 Aug | **~40** | | **Peak — more than has ever actually been run** |
+| 5 | 24 – 30 Aug | ~34 | | Volume down, specificity up |
+| 6 | 31 Aug – 6 Sep | ~30 | | Taper + race (21.1 km) |
+| **Total** | | **~199 km** | | |
+
+### Block Gates
+
+- **End of Week 2:** 14 km completed at HR <150, no soreness lasting >48 h → progress to 16 km. If either fails, repeat 14 km.
+- **End of Week 3:** 16 km completed, gels tolerated, 5×1000 m @ 4:02 executed with jog recoveries → progress to 18 km.
+- **End of Week 4 (the real gate):** 18 km completed at HR <150 without a pace collapse in the last 4 km → 1:42 target confirmed. A grind or a fade → target moves to 1:45–1:48 and the race is run on effort.
+- **End of Week 5:** 6 km @ 4:50/km inside a 14 km run should feel controlled (7/10), not a grind. If it's a grind, race at 4:58/km.
+
+**Hold, don't chase:** if any week reads wrong — HR elevated at easy pace, motivation gone, persistent soreness — **repeat the week rather than progress.** The table is a plan, not a debt.
 
 ---
 

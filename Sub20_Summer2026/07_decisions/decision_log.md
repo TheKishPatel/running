@@ -4,6 +4,82 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-08-02 — Data integrity: `training_log.csv` malformed rows repaired
+
+**Found:** 10 of 40 rows did not parse at the header's 23 columns — 8 had fields silently
+shifted into the wrong columns, so any programmatic read of those sessions returned wrong
+values (e.g. 4 Jun's Notes sat in `Alcohol_Drinks`, its Conditions in `Notes`). Pre-existing;
+predates the half block.
+
+**Three causes, all repaired without altering content:**
+1. **Unquoted comma split `Outcome` in two** (+1 col) — 26 Apr, 27 Jun, 2 Jul, 5 Jul, 25 Jul.
+   The two halves were rejoined with the comma restored.
+2. **Missing field** (−1 col) — 27/29 Mar missing `Conditions`; 4/7 Jun missing
+   `Sleep_Quality_1_10`. An empty field was inserted at the correct position, restoring
+   alignment of `Notes` / `Conditions` / `Outcome` / `Phase_Target_Met`.
+3. **One surplus blank** before `Alcohol_Drinks` (+1 col) — 2 Jun. Removed.
+
+**Verification:** all 40 rows now parse at 23 columns; exactly 10 lines changed in the diff;
+the file's alphanumeric content is character-identical before and after (23,745 chars), so no
+value was lost, reworded or re-attributed — only delimiters and quoting changed.
+
+**Cause and prevention:** free-text `Outcome` values containing commas were written unquoted.
+All future appends quote every free-text field. Structure is validated (row count + column
+count + content-preservation check) after each append.
+
+---
+
+## 2026-07-25 (later) — NEW GOAL: The Big Half, Sun 6 Sep 2026. Dual-goal block agreed.
+
+**Athlete has entered The Big Half (21.1 km, Sun 6 Sep 2026)** and wants to keep progressing at
+5K. Both are on. Block written to `big_half_block_Sep2026.md`; Week 1 in `current_week_plan.md`.
+
+**Readiness read — the engine is fine, the endurance is not.** Aerobic efficiency is
+campaign-best (5:19/km @ 142 BPM, 5 Jul), threshold 4:20/km clean (2 Jul). But the
+**longest run ever logged is 11.0 km** (7 Jun) — not "not recently", never, across the entire
+Oct 2025 – Jul 2026 record — off **2–3 runs and 15–24 km/week**. Riegel off the 20:59 PB gives
+1:36:30 and is not usable: it assumes a base that doesn't exist.
+
+**Target: 1:42–1:45 (4:50–4:58/km). Stretch 1:40. Race pace 4:50/km.** Threshold at 4:20 puts
+HM pace at threshold +25–30 sec/km given the thin base. Doing nothing different = ~1:50+ with
+the last 5 km collapsing.
+
+**Decision: run both goals off one block, not two.** 5K and HM share threshold as the primary
+engine. What gets parked is ~6 weeks of top-end VO2max, which returns in 3 weeks; aerobic base
+takes months. **Sequence: half (6 Sep) → 4-week 5K sharpening block → cool-weather 5K,
+early-to-mid Oct** for the PB/sub-20:30 the heat denied on 25 Jul.
+
+**Why this is not a compromise:** the sub-20 campaign stalled at 4:00/km with threshold never
+executed below 4:20 and volume at 20–25 km/week against a planned 35–40. **Low volume is the
+one plausible ceiling that has never been tested.** This block forces the base the campaign
+never had. The route to sub-20 goes through the half, not around it.
+
+**Structure:** Mon rest / Tue Barry's lower / **Wed easy (new 4th run)** / Thu quality /
+Fri rest / Sat easy / Sun long. Long run steps **12 → 14 → 16 → 18 km**, peak 23 Aug
+(~1 h 40 on feet = race duration). **No 21 km training run.** Volume 24 → 40 km peak → taper.
+
+**Governing constraint — no third hard day.** Tue Barry's + Thu quality is already two.
+**Sunday long run HR 150 is a hard cap, not a target.** If the long run becomes an effort it
+is a third hard day plus Barry's, and the illness record says what follows.
+
+**Risks recorded:** (1) illness — 5 episodes this campaign, volume rising ~60%, weeks 4–5 the
+vulnerable window; (2) injury from the 11→18 km ramp plus a 4th run — **hold volume flat rather
+than progress if anything reads wrong**; (3) the habitual 10–15 sec/km overspeed, affordable on
+5 km and not on 16; (4) never fuelled a run >90 min — gels practised on the 16 and 18 km runs;
+(5) aggressive opens (4:04 parkrun, gate rep 3, 3 of 4 reps hot on 23 Jul) — race plan mandates
+4:55/km for the first 5 km.
+
+**Barry's Wednesday question (athlete, social upper-body session with sister, Wed 29 Jul):**
+**keep Thursday's run on Thursday.** Upper-body Barry's is unrestricted per `CLAUDE.md` and
+costs the legs nothing. Rule for the block: a *lower*-body Wednesday would move Thursday to
+Friday; an upper-body one does not.
+
+**Flag raised in the same turn:** last lower-body Barry's was **7 Jul → 21-day gap** by Tue
+28 Jul. **Walking lunges 28 Jul and 4 Aug**, normal from 11 Aug — the 31 Mar VMO twinge came
+from exactly this pattern.
+
+---
+
 ## 2026-07-25 — GOAL RACE: ~21:27 in 24°C sun, heat-limited, PB intact
 
 **Result:** ~21:27, 4:17/km avg, 24°C **sunny**. Splits 4:12 / 4:16 / 4:22 / 4:16 / 4:21.
