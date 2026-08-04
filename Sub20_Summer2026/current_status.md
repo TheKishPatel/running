@@ -1,12 +1,14 @@
 # Current Status
 
-*Last updated: 2 Aug 2026*
+*Last updated: 4 Aug 2026*
 
 ---
 
 ## Status: 🏃 HALF BLOCK — WEEK 2 of 6. The Big Half, Sun 6 Sep 2026 (21.1 km).
 
 **Week 1 ✅ complete, fully on plan (~24.5 km).** Closed with the **longest run of the campaign — 12 km at 136/152, 99.1% Zone 1–2** — beating the 11 km that had stood since 7 Jun. Resting HR 52 on consecutive days. **Week 2 is the first real test: threshold returns Thu 6 Aug, and the long run steps to 14 km.**
+
+**Week 2 so far:** Tue 4 Aug Barry's lower ✅ **135 avg / 165 max, Zone 2–3 = 64% of the session, Zone 4 zero.** The 28 Jul lightness is corrected and no third hard day was created — **Thursday's threshold is unaffected.** Lunge protocol closed (2 of 2). **Next: Wed 5 Aug easy 6 km, then Thu 6 Aug threshold 5 km @ 4:18 — the session the block runs on.**
 
 **5K goal race complete (Sat 25 Jul): ~21:27, 4:17/km, 24°C sunny. Not a PB — 20:59 stands.** Deficit was **heat, not fitness** — gate-derived good-conditions pace was 4:08–4:10/km, a 24°C sunny 5K costs ~7–9 sec/km, he averaged 4:17. Ran to his heat-adjusted ceiling. Opened disciplined (4:12), km3 sagged in the heat, **km4 regathered — fought back rather than unravelled.**
 
@@ -101,7 +103,7 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 | ✅ Wed 29 Jul | Barry's upper, social — 133/168, unrestricted |
 | ✅ Thu 30 Jul | Easy 5 km (trimmed) + strides — 5:38/km @ 143, on target. Strides escalated. |
 | ✅ **Sun 2 Aug** | **Long 12 km — LONGEST RUN OF THE CAMPAIGN.** 136/152, 99.1% Zone 1–2. RHR 52. |
-| Tue 4 Aug | Barry's lower — **walking lunges, 2nd and last** |
+| ✅ Tue 4 Aug | Barry's lower — **135/165, Z2–3 64%, Z4 zero. Lunge protocol complete.** |
 | **Thu 6 Aug** | **Threshold 5 km @ 4:18 — first quality session of the block** |
 | Sun 9 Aug | Long 14 km — rung two |
 | Thu 13 Aug | **VO2max 5×1000 @ 4:02** — the session illness took twice |
@@ -132,9 +134,13 @@ Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initial
 
 **📋 PROTOCOL — resting HR measurement.** `Resting_HR_Morning` = **seated chest-strap reading, taken before getting up and moving.** That is the governing number against the <55 baseline and the >60 rest-day rule. Apple's daily figure may be tracked alongside **as a trend only** — a drift from 63 → 70 over several days still signals something; the absolute value never gets compared to 55. Third independent point in favour of the TICKR (it also caught the 30 Jul 20-second strides at 179, which optical cannot do).
 
-**⚠️ Barry's lunge flag — 1 of 2 DONE.** Walking lunges executed Tue 28 Jul (125 avg / 168 max — clean, no VMO issue reported). **One more: Tue 4 Aug.** Normal from Tue 11 Aug. Precedent: 31 Mar VMO/inner-quad twinge from exactly this pattern (21-day gap → jumping lunges).
+**🟢 Barry's lunge flag — CLOSED (4 Aug). 2 of 2 done.** Walking lunges Tue 28 Jul (125/168) and Tue 4 Aug (135/165), no VMO or inner-quad symptoms reported at either. **Normal jumping lunges resume Tue 11 Aug.** Precedent retired: the 31 Mar VMO twinge came from exactly the pattern this protocol was built to avoid (21-day gap → jumping lunges). *Note: the 4 Aug substitution is assumed per plan, not explicitly confirmed by the athlete.*
 
-**Barry's intensity note — watch for the opposite problem.** Tue 28 Jul came in at **125 avg with 30:06 in Zone 1** — well under the <155 cap, but below a useful conditioning stimulus. Partly the walking-lunge substitution (jumping lunges drive the HR), partly a soft session. Correct for a recovery week 3 days post-race. **From Tue 4 Aug the target is the 7 Jul profile: 135–140 avg, meaningful Zone 2–3.** The historical flag was Barry's being too hard (8–9/10); the current risk is the reverse.
+**🟢 Barry's intensity — CORRECTED (4 Aug).** Tue 28 Jul was too light: **125 avg, 30:06 in Zone 1, Zone 2–3 only 32% of the session.** Tue 4 Aug returned to profile: **135 avg, Zone 2 19:17 + Zone 3 07:22 = 64% of a 41:44 session, Zone 1 halved to 15:05.** Just below the 7 Jul reference (138 avg, Z3 12:06) and correctly placed between "too light" and the historical too-hard flag. **Zone 4 and Zone 5 zero, max 165** — no third hard day created. Hold this profile from 11 Aug with jumping lunges back in, which will add HR on their own; the <155 cap is the ceiling.
+
+**📉 Post-workout recovery, 4 Aug — watch, do not act.** 123→115→109 = **14 bpm over 2 min**, the flattest trace since 28 Jul and well off the 40–48 bpm drops after runs (2 Aug: 138→98→90). Discounted for now: Barry's ends with mobility rather than a hard stop, absolute values are low, and the session produced zero Zone 4. **Recheck after Tue 11 Aug; only meaningful if it repeats alongside something else (resting HR, HR-for-pace).**
+
+**⚠️ Resting HR + sleep NOT REPORTED on 4 Aug** — first miss since the protocol was set on 1 Aug. Both are required with every session. Resting HR is the earliest illness warning available and weekly volume rises ~40% this week.
 
 **🟢 GI illness (food poisoning, 7 Jul) — RESOLVED 13 Jul.** Two consecutive clean runs post-illness, no recurrence through the 25 Jul race.
 
