@@ -90,7 +90,7 @@ Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:
 ### Week 2 Log
 **Mon 3 Aug:** ⏳ Rest.
 **Tue 4 Aug:** ✅ Barry's (lower) — **135 avg / 165 max. Z1 15:05 / Z2 19:17 / Z3 07:22 / Z4 00:00.** Target hit; Zone 2–3 = 64% vs 32% on 28 Jul. Lunge protocol complete.
-**Wed 5 Aug:** ⏳ Easy 6 km.
+**Wed 5 Aug:** ✅ Easy 6.04 km — **5:46/km vs 5:45 target, 139 avg / 150 max, Zone 3 zero, post-run 131→96→96.** Run as the diagnostic against a 59 morning RHR; it cleared Thursday. RHR 59, sleep 6 h.
 **Thu 6 Aug:** ⏳ **Threshold 5 km @ 4:18.**
 **Fri 7 Aug:** ⏳ Rest.
 **Sat 8 Aug:** ⏳ Easy 6 km @ 5:50.
