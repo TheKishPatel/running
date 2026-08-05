@@ -46,6 +46,17 @@ This run exists to add volume, nothing else. Day after Barry's and two days befo
 
 **This is the session the whole block runs on.** Threshold is the primary engine for both the half and the 5K, and 4:18 is 2 sec/km faster than the 2 Jul benchmark (4:20, the only clean threshold execution of the campaign).
 
+**⚠️ Go / trim / stop — decided Wed 5 Aug off a resting HR of 59. Read Thursday's own numbers, then apply:**
+
+| Thu 6 Aug morning | Action |
+|---|---|
+| RHR ≤55, no symptoms | **5 km @ 4:18 as prescribed.** |
+| RHR 56–60, no symptoms | **Trim to 4 km @ 4:18**, same execution rules. |
+| RHR >60 | **Complete rest.** Sunday's 14 km stays. |
+| Throat / cough / phlegm | **Complete rest** per `CLAUDE.md`. Overrides the above. |
+
+**The session does not move to Friday.** Friday→Sunday leaves one day before the 14 km gate; Thursday→Sunday leaves two. Trim the session, don't shift the day.
+
 **Execution — km1 decides this session:**
 - **Open at 4:20, not 4:18.** The 2 Jul tempo worked precisely because T1 was the *slowest* rep. Every tempo that failed this campaign failed because km2 went 4–9 sec/km too fast and blew the HR budget.
 - Splits should descend or hold flat: **4:20 → 4:18 → 4:18 → 4:17 → 4:16.**

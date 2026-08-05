@@ -291,3 +291,42 @@ log stay blank by design, not oversight. Illness remains the top risk — sympto
 rest rules (CLAUDE.md) still govern.
 
 ---
+
+## 5 Aug 2026 — Resting HR 59 on Wed morning: Thursday threshold protocol
+
+**Situation.** Wed 5 Aug morning resting HR **59**, against three consecutive seated
+TICKR readings of **52** (1, 2, 4 Aug). +7 bpm, ~13% above a firmly established
+baseline — but **under the >60 rest-day rule**. Sleep declining: 7.0 → 6.5 → 6.0 h.
+No symptoms reported. Tue 4 Aug Barry's was the first genuine lower-body conditioning
+stimulus in four weeks (135 avg, Zone 2–3 = 64% vs 32% on 28 Jul).
+
+**Read.** A +7 bpm morning reading the day after the hardest lower-body session since
+7 Jul, on 6 h sleep, is an expected training response before it is an illness signal.
+It is not dismissed — it needs a second data point, not a decision made on one.
+
+**Decision 1 — Wed 5 Aug easy 6 km: RUN IT, as the diagnostic.**
+5:45/km, HR <150, strictly HR-governed. Its only job is volume, and the HR-for-pace
+read is the cheapest corroborating evidence available. Reference: 5:36/km @ 137 (19 Jul),
+5:29/km @ 138 (1 Aug). If HR at 5:45/km sits ≥8–10 bpm above that line, the 59 is real.
+
+**Decision 2 — the threshold does NOT move to Friday. Correction to the 4 Aug note.**
+Fri 7 Aug is rest; Sat 8 easy; **Sun 9 is the 14 km — the Week 2 gate.** Threshold on
+Thursday leaves two days before it; on Friday, one. **Protecting the Sunday outranks
+protecting Thursday's full 5 km** — the 14 km gates progression to 16 km, and four more
+quality sessions remain in the block. Trimming the threshold is the correct lever,
+not shifting the day.
+
+**Thursday morning ladder (decided in advance, off Thu's own numbers):**
+| Thu 6 Aug reading | Action |
+|---|---|
+| RHR ≤55, no symptoms | **Threshold as prescribed — 5 km @ 4:18/km.** Open at 4:20. |
+| RHR 56–60, no symptoms | **Trim to 4 km @ 4:18/km**, same execution rules. Still a progression on the 2 Jul benchmark (4 km @ 4:20). |
+| RHR >60 | **Complete rest.** Standing rule, no negotiation. Sunday 14 km stays. |
+| Any throat / cough / phlegm, any severity | **Complete rest** per `CLAUDE.md`. Overrides every row above. |
+
+**Open — measurement source.** The 59 must be confirmed as a **seated chest-strap
+reading**, not Apple's daily computed figure. That distinction already produced one
+withdrawn flag (63 on 1 Aug). Apple's number is a trend line only and is never compared
+against the <55 baseline.
+
+---
