@@ -336,3 +336,32 @@ above applies unchanged. Added in-run abort for the Wed 6 km: **HR 150 at 5:45/k
 the run short, and Thursday becomes complete rest rather than a trim.**
 
 ---
+
+## 5 Aug 2026 — Saturday unavailable (childcare): cancel the easy run, keep threshold on Thursday
+
+**Situation.** Athlete has his kids all day Sat 8 Aug and cannot run. Proposed: rest
+Thursday, move the threshold to Friday, rest Saturday, long run Sunday.
+
+**Decision. Threshold stays Thursday. Saturday's easy 6 km is cancelled, not relocated.**
+
+Revised week: Mon rest / Tue Barry's ✅ / Wed easy 6 km ✅ / **Thu threshold** / Fri rest /
+Sat rest / **Sun 14 km**. Volume ~27.5 km, down from ~34 planned, up from ~24.5 in Week 1.
+
+**Rationale.**
+1. **Spacing to the gate.** Fri quality → Sun 14 km is one day; Thu → Sun is two. The Week 2
+   gate is *14 km completed at HR <150*. Threshold legs 36 h out raise Sunday's HR and risk
+   failing a gate that would otherwise pass — the cost of which is repeating 14 km instead
+   of progressing to 16 km, i.e. a lost week of the ramp with 32 days to the race.
+2. **Easy volume is the cheapest thing in the week.** 6 km of Zone 2 against the block's
+   first quality session and the ramp's second rung is not a close call.
+3. **The proposal's one real benefit — an extra night's sleep before quality, with sleep at
+   6.0 h for four nights — is purchasable more cheaply by sleeping tonight.**
+4. **Net: the revised week is better than the original.** Two clear days before the 14 km
+   where the plan had one rest day plus an easy run.
+
+**Contingency.** If Thursday's morning numbers trigger the rest row (RHR >60, or any
+throat/cough/phlegm), **the threshold is dropped for the week rather than rolled to Friday**
+— same spacing logic, and Week 3's VO2max session is 7 days out. Sunday's long run then
+becomes the week's only stimulus and stays strictly aerobic.
+
+---

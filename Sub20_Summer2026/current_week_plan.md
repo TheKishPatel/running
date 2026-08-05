@@ -57,6 +57,8 @@ This run exists to add volume, nothing else. Day after Barry's and two days befo
 
 **The session does not move to Friday.** Friday→Sunday leaves one day before the 14 km gate; Thursday→Sunday leaves two. Trim the session, don't shift the day.
 
+**If Thursday comes back as REST, the threshold is dropped for the week — it does not roll to Friday.** Week 3's VO2max session is 7 days out and one missed threshold in a six-week block is recoverable; failing the 14 km gate and repeating instead of progressing to 16 km is not. In that case Sunday's long run is the week's only stimulus and stays strictly aerobic.
+
 **Execution — km1 decides this session:**
 - **Open at 4:20, not 4:18.** The 2 Jul tempo worked precisely because T1 was the *slowest* rep. Every tempo that failed this campaign failed because km2 went 4–9 sec/km too fast and blew the HR budget.
 - Splits should descend or hold flat: **4:20 → 4:18 → 4:18 → 4:17 → 4:16.**
@@ -65,12 +67,13 @@ This run exists to add volume, nothing else. Day after Barry's and two days befo
 
 ### Fri 7 Aug — REST
 
-### Sat 8 Aug — EASY
-| Component | Detail |
-|-----------|--------|
-| Session | **6 km @ 5:50/km, HR <145** |
+### Sat 8 Aug — REST *(changed 5 Aug — kids all day, no run possible)*
 
-**Prescribed 5:50 means 5:50.** Last Saturday ran 5:29 — 21 sec/km fast, the third overspeed session in a row. It cost nothing then because the long run was 12 km. Tomorrow's is 14 km, and the tolerance narrows every week from here.
+**Original: easy 6 km @ 5:50. Cancelled, not moved.** Easy volume is the most replaceable thing in the week and there is nowhere to put it that doesn't cost more than it's worth.
+
+**The threshold does NOT move to Friday to fill the gap.** Fri quality → Sun 14 km leaves one day; Thu → Sun leaves two. **The week's gate is "14 km at HR <150"** — threshold legs 36 h out push Sunday's HR up and risk failing a gate that would otherwise pass, which costs progression to 16 km. Losing 6 km of Zone 2 costs nothing by comparison.
+
+**Net effect: Thu quality → Fri rest → Sat rest → Sun long. Two clear days before the 14 km, where the original plan had one rest day and an easy run. This is a better week than the one it replaces.**
 
 ### Sun 9 Aug — LONG RUN · **14 km**
 | Component | Detail |
@@ -93,10 +96,10 @@ Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:
 **Wed 5 Aug:** ✅ Easy 6.04 km — **5:46/km vs 5:45 target, 139 avg / 150 max, Zone 3 zero, post-run 131→96→96.** Run as the diagnostic against a 59 morning RHR; it cleared Thursday. RHR 59, sleep 6 h.
 **Thu 6 Aug:** ⏳ **Threshold 5 km @ 4:18.**
 **Fri 7 Aug:** ⏳ Rest.
-**Sat 8 Aug:** ⏳ Easy 6 km @ 5:50.
+**Sat 8 Aug:** ⏳ **Rest — kids all day (changed 5 Aug, was easy 6 km).**
 **Sun 9 Aug:** ⏳ **Long 14 km.**
 
-**Planned volume: ~34 km across 4 runs + 1 Barry's.**
+**Revised volume: ~27.5 km across 3 runs + 1 Barry's** (was ~34 km / 4 runs). Still a step up on Week 1's ~24.5 km. **The 14 km is untouched — the gate is intact.**
 
 ---
 
