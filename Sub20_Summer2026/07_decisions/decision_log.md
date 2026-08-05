@@ -330,3 +330,9 @@ withdrawn flag (63 on 1 Aug). Apple's number is a trend line only and is never c
 against the <55 baseline.
 
 ---
+**Resolved 5 Aug (same day):** the 59 is confirmed as a **seated Wahoo TICKR reading,
+no symptoms**. Directly comparable to the 52s — the flag stands as amber and the ladder
+above applies unchanged. Added in-run abort for the Wed 6 km: **HR 150 at 5:45/km → cut
+the run short, and Thursday becomes complete rest rather than a trim.**
+
+---
