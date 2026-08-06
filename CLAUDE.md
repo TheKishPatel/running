@@ -47,6 +47,12 @@ Progression:
 - Adapt aggressively only on a genuine, data-supported breakthrough.
 - Never rush progression without supporting data.
 
+Session prescription — data capture:
+- **Warm-ups and cool-downs are always whole kilometres.** Never prescribe 1.5 km, 0.5 km, or any fraction. A fractional warm-up offsets every auto-split for the rest of the run: the first rep is contaminated with warm-up data and every split after it straddles two segments, which makes the session unreadable.
+- Prescribe main sets in whole kilometres so the auto-splits line up with the work.
+- For any session with reps shorter than 1 km (400s, 800s, strides), auto-splits cannot work — prescribe it as a **structured watch workout** and say so in the plan.
+- Full protocol: `Sub20_Summer2026/data_capture_protocol.md`. Read it before writing any quality session into a plan.
+
 ## Athlete data
 
 - Body weight: 67.5 kg (confirmed April 2026).

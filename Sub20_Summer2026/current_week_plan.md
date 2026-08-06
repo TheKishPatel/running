@@ -36,13 +36,15 @@ This run exists to add volume, nothing else. Day after Barry's and two days befo
 ### Thu 6 Aug — THRESHOLD ⭐ *first quality session of the block*
 | Component | Detail |
 |-----------|--------|
-| Warm-up | 1.5 km @ 5:45/km |
-| **Main set** | **5 km @ 4:18/km** |
+| Warm-up | **2 km @ 5:45/km** *(corrected 6 Aug from 1.5 km — see below)* |
+| **Main set** | **4 km @ 4:18/km** *(trimmed from 5 km)* |
 | Cool-down | 1 km @ 6:00/km |
 | HR | **168–176 BPM** |
 | Watch alert | **4:14/km fast limit** |
 
-**Total ~7.5 km.**
+**Total 7 km.**
+
+**Splits now map straight onto the session: km1–2 warm-up, km3–6 = reps 1–4, km7 cool-down.** The 1.5 km warm-up would have put half of rep 1 inside watch-km2 and left every split after it straddling two paces — rep 1 is the single most important number in a threshold session and it would have been unrecoverable. **Hold warm-up pace until the km2 beep, then go.** Full rules in `data_capture_protocol.md`.
 
 **This is the session the whole block runs on.** Threshold is the primary engine for both the half and the 5K, and 4:18 is 2 sec/km faster than the 2 Jul benchmark (4:20, the only clean threshold execution of the campaign).
 
