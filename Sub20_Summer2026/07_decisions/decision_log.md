@@ -365,3 +365,36 @@ throat/cough/phlegm), **the threshold is dropped for the week rather than rolled
 becomes the week's only stimulus and stays strictly aerobic.
 
 ---
+
+## 6 Aug 2026 — Unstable resting HR reading: run the threshold, trimmed to 4 km
+
+**Situation.** Thursday morning. Sleep **7.5–8 h with one wakeup** — best of the week, first
+at target after 7.0 / 6.5 / 6.0 / 6.0. Resting HR **would not settle: 52/56 up to the mid-60s,
+no consistent value.** No symptoms.
+
+**Decision. Threshold goes ahead — main set 4 km @ 4:18/km, not 5 km.**
+
+**Rationale.**
+1. **Sleep was the dominant variable and it resolved.** The ~11 sec/km short-sleep penalty
+   (14 May tempo) does not apply today.
+2. **The ladder cannot be read** — there is no number to place in it. **Unresolved uncertainty
+   takes the middle row, not the optimistic one.** The ladder was set in advance precisely to
+   keep this decision out of the moment.
+3. **The range including 52 is informative.** An athlete incubating something does not touch
+   baseline at all. Combined with Wednesday's clean diagnostic (139 @ 5:46, Zone 3 zero,
+   post-run 131→96→96) there is no illness signal here.
+4. **4 km @ 4:18 is still a progression** on the 2 Jul benchmark (4 km @ 4:20) and is the first
+   quality session in 12 days. Sunday's 14 km gate outranks the fifth kilometre.
+
+**Measurement finding — the reading itself is the problem, not the athlete.** A seated strap
+reading swinging 52 → mid-60s is instrument/method noise: dry electrodes for the first 30–90 s,
+and respiratory sinus arrhythmia (beat-to-beat variation with the breath, larger in trained
+athletes). **Protocol v2 recorded in `current_status.md`: wet the contacts, settle 2 minutes,
+record a 60-second AVERAGE with the range noted, and compare only the average to the <55
+baseline.** This retroactively weakens the 5 Aug 59, which may have been an unstable
+instantaneous read rather than a real elevation.
+
+**In-session override (outranks any morning number).** If km1 at 4:20/km costs HR above 176,
+abandon the main set and jog home. Real-time HR-for-pace beats a morning reading.
+
+---

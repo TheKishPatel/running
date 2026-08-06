@@ -132,7 +132,15 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 **🟢 RESTING HR — FLAG WITHDRAWN (1 Aug). Actual reading 52, at baseline.**
 Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initially flagged was **Apple Health's daily computed resting HR — not a measurement.** Apple derives that figure algorithmically from inactive periods across the whole day, runs systematically higher than a seated reading, and lags a day; **it is not comparable to the <55 baseline, which came from direct measurement.** Comparing them was an error. The 52 agrees with everything else in the session (5:29/km @ 138, post-workout 97→87→**70**, 8 s total in Zone 3+). Sunday's 12 km proceeded as planned.
 
-**📋 PROTOCOL — resting HR measurement.** `Resting_HR_Morning` = **seated chest-strap reading, taken before getting up and moving.** That is the governing number against the <55 baseline and the >60 rest-day rule. Apple's daily figure may be tracked alongside **as a trend only** — a drift from 63 → 70 over several days still signals something; the absolute value never gets compared to 55. Third independent point in favour of the TICKR (it also caught the 30 Jul 20-second strides at 179, which optical cannot do).
+**📋 PROTOCOL v2 — resting HR measurement (revised 6 Aug).** The 6 Aug reading swung **52/56 up to the mid-60s with no stable value** — that is a *measurement* problem, not a physiological one, and a single instantaneous number off the strap display is not usable. Two likely causes, both benign: **dry electrodes** (straps read erratically for the first 30–90 s until contact moistens) and **respiratory sinus arrhythmia** — beat-to-beat HR swinging with the breath, which is larger in trained athletes with high vagal tone and can span 10+ bpm. **Revised method:**
+1. Wet the strap contacts before fitting.
+2. Sit or lie still for **2 minutes** before recording anything — do not read the settling period.
+3. Record a **60-second average**, not the instantaneous figure. Log the range alongside it.
+4. **The averaged number is what gets compared to the <55 baseline and the >60 rest-day rule.** A range that includes 52 is not an elevated resting HR.
+
+**This retroactively weakens the 5 Aug 59** — it may have been an unstable instantaneous read rather than a true elevation. Wednesday's run (139 @ 5:46, post-run 131→96→96) is the stronger evidence and it was clean.
+
+**Superseded v1:** `Resting_HR_Morning` = seated chest-strap reading taken before getting up and moving. That is the governing number against the <55 baseline and the >60 rest-day rule. Apple's daily figure may be tracked alongside **as a trend only** — a drift from 63 → 70 over several days still signals something; the absolute value never gets compared to 55. Third independent point in favour of the TICKR (it also caught the 30 Jul 20-second strides at 179, which optical cannot do).
 
 **🟢 Barry's lunge flag — CLOSED (4 Aug). 2 of 2 done.** Walking lunges Tue 28 Jul (125/168) and Tue 4 Aug (135/165), no VMO or inner-quad symptoms reported at either. **Normal jumping lunges resume Tue 11 Aug.** Precedent retired: the 31 Mar VMO twinge came from exactly the pattern this protocol was built to avoid (21-day gap → jumping lunges). *Note: the 4 Aug substitution is assumed per plan, not explicitly confirmed by the athlete.*
 

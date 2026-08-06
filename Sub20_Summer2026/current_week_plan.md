@@ -46,14 +46,13 @@ This run exists to add volume, nothing else. Day after Barry's and two days befo
 
 **This is the session the whole block runs on.** Threshold is the primary engine for both the half and the 5K, and 4:18 is 2 sec/km faster than the 2 Jul benchmark (4:20, the only clean threshold execution of the campaign).
 
-**⚠️ Go / trim / stop — decided Wed 5 Aug off a resting HR of 59. Read Thursday's own numbers, then apply:**
+**✅ RESOLVED Thu 6 Aug morning — RUN IT, TRIMMED TO 4 km @ 4:18/km.**
 
-| Thu 6 Aug morning | Action |
-|---|---|
-| RHR ≤55, no symptoms | **5 km @ 4:18 as prescribed.** |
-| RHR 56–60, no symptoms | **Trim to 4 km @ 4:18**, same execution rules. |
-| RHR >60 | **Complete rest.** Sunday's 14 km stays. |
-| Throat / cough / phlegm | **Complete rest** per `CLAUDE.md`. Overrides the above. |
+Sleep **7.5–8 h, one wakeup** — the best of the week and the first at target after four nights of 6.0–7.0. That was the dominant variable and it resolved the right way. Resting HR gave **no stable value (52/56 to mid-60s)**, so the ladder cannot be read cleanly — and **unresolved uncertainty takes the middle row, not the optimistic one.** The range including 52 matters: an athlete going down with something does not touch baseline at all.
+
+**Main set 4 km, not 5.** Still a progression on the 2 Jul benchmark (4 km @ 4:20), first quality in 12 days, and Sunday's 14 km gate outranks the extra kilometre.
+
+*Original ladder, superseded: RHR ≤55 → 5 km; 56–60 → 4 km; >60 → rest; any throat/cough/phlegm → rest per `CLAUDE.md` (this last row still stands and overrides everything).*
 
 **The session does not move to Friday.** Friday→Sunday leaves one day before the 14 km gate; Thursday→Sunday leaves two. Trim the session, don't shift the day.
 
