@@ -8,7 +8,7 @@
 
 **Week 1 ✅ complete, fully on plan (~24.5 km).** Closed with the **longest run of the campaign — 12 km at 136/152, 99.1% Zone 1–2** — beating the 11 km that had stood since 7 Jun. Resting HR 52 on consecutive days. **Week 2 is the first real test: threshold returns Thu 6 Aug, and the long run steps to 14 km.**
 
-**Week 2 so far:** Tue 4 Aug Barry's lower ✅ 135/165, Zone 2–3 = 64%, Zone 4 zero — the 28 Jul lightness corrected, lunge protocol closed. Wed 5 Aug easy 6 km ✅ **5:46/km vs 5:45 prescribed, 139 avg / 150 max, Zone 3 zero, post-run 131→96→96.** Run as the diagnostic against a 59 morning resting HR — **it cleared Thursday.** **Next: Thu 6 Aug threshold — 5 km @ 4:18 if morning RHR ≤55, 4 km @ 4:18 if 56–60.** Sleep is now the governing variable: **four straight nights under 8 h (7.0 → 6.5 → 6.0 → 6.0).**
+**Week 2 so far:** Tue 4 Aug Barry's lower ✅ 135/165, Zone 2–3 = 64%, Zone 4 zero — the 28 Jul lightness corrected, lunge protocol closed. Wed 5 Aug easy 6 km ✅ **5:46/km vs 5:45 prescribed, 139 avg / 150 max, Zone 3 zero, post-run 131→96→96.** Run as the diagnostic against a 59 morning resting HR — **it cleared Thursday.** Thu 6 Aug threshold ✅ **4 km @ 4:23/km @ 169 — completed but under-pressed** (4:18 prescribed, HR at the bottom of the 168–176 band). **Threshold is flat vs 2 Jul, not improved.** Full read: `03_session_analyses/2026-08-06_threshold_4km_block_first_quality.md`. **Next: Fri + Sat rest, then Sun 9 Aug 14 km — the week's gate.**
 
 **5K goal race complete (Sat 25 Jul): ~21:27, 4:17/km, 24°C sunny. Not a PB — 20:59 stands.** Deficit was **heat, not fitness** — gate-derived good-conditions pace was 4:08–4:10/km, a 24°C sunny 5K costs ~7–9 sec/km, he averaged 4:17. Ran to his heat-adjusted ceiling. Opened disciplined (4:12), km3 sagged in the heat, **km4 regathered — fought back rather than unravelled.**
 
@@ -43,7 +43,7 @@ Live plan: **`big_half_block_Sep2026.md`**. Current week detail: `current_week_p
 |--------|-------|------|
 | 5K PB | **20:59** | 8 March 2026 |
 | Most recent 5K | ~21:27 (24°C, heat-limited) | 25 July 2026 |
-| Threshold pace | **4:20/km (4 km, clean descending)** | 2 Jul 2026 |
+| Threshold pace | **4:20–4:23/km for 4 km @ ~169–170 BPM** — 6 Aug matched 2 Jul at equal power, **no improvement in 5 weeks** | 2 Jul / 6 Aug 2026 |
 | Easy pace | **5:19/km @ 142 BPM (main set) — best of campaign** | 5 Jul 2026 |
 | Longest run | **12.0 km** | 2 Aug 2026 |
 | Morning resting HR (seated strap) | **52 BPM** (1 & 2 Aug, consistent) | 2 Aug 2026 |
@@ -169,7 +169,13 @@ Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initial
 - **2 Aug** 12 km long run — opened **6:16**, slower than the prescribed 6:00–6:10; 4 sec/km off target overall, i.e. noise.
 - **5 Aug** easy 6 km — **5:46/km against 5:45 prescribed. 1 sec/km.** Conservative km1 at 5:58, Zone 3 zero, cap touched exactly and never breached. The most precisely executed easy run of the campaign, on a day the instruction was to slow down rather than hold pace if HR demanded it.
 
-**Sat 8 Aug is the third and final confirmation. Hold it there and the flag is withdrawn.**
+**Sat 8 Aug is now a rest day (childcare), so the third confirmation moves to Sun 9 Aug's 14 km.**
+
+**🔄 NEW — OPPOSITE PROBLEM, 6 Aug: first UNDER-target session of the campaign.** Threshold ran **4:23 vs 4:18 prescribed at 169 bpm — the bottom of the 168–176 band, ~7 bpm of headroom unused.** Reads as over-correction after three weeks of slow-down instruction. **The distinction to hold: pace discipline governs easy runs and the opening rep of a quality set. On the body of a threshold set the prescribed pace IS the target and HR is the ceiling, not the aim.** Next threshold: target 4:20 with the **final km required at 4:14–4:16** — finish faster rather than start faster.
+
+**📋 STRUCTURED WATCH WORKOUTS ARE NOW STANDARD** for every multi-intensity session. First use on 6 Aug returned a clean Work aggregate (4 km / 4:23 / 169) even though the 1.5 km warm-up wrecked the km splits exactly as predicted. **Thu 13 Aug VO2max 5×1000 must be built this way** — sub-km recoveries make auto-splits useless. Rules: `data_capture_protocol.md`.
+
+**⚠️ WATCH ZONE TABLE UNRELIABLE (6 Aug).** Zones summed to 21:19 against a 32:52 workout and showed **Zone 4 = 00:00 despite a 179 max and a 169-avg work block.** The missing 11:33 reconciles the total exactly and is almost certainly Zone 4. **Cross-check zone totals against workout duration before trusting them.**
 
 Physiological cost has been near zero every time — HR held, no session compromised. **The pattern is the problem, not the sessions.** The HR-governed defence works while runs are short; **at Week 4 (18 km inside a 40 km week) a 20 sec/km Saturday overspeed is what breaks the Sunday.** Conservative km1/rep1 stays mandatory and is written into the race plan (4:55/km for the first 5 km). **Strides correction: stride 4 matches stride 1 — flat, not ascending.**
 

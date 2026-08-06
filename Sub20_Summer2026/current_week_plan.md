@@ -95,7 +95,7 @@ Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:
 **Mon 3 Aug:** ⏳ Rest.
 **Tue 4 Aug:** ✅ Barry's (lower) — **135 avg / 165 max. Z1 15:05 / Z2 19:17 / Z3 07:22 / Z4 00:00.** Target hit; Zone 2–3 = 64% vs 32% on 28 Jul. Lunge protocol complete.
 **Wed 5 Aug:** ✅ Easy 6.04 km — **5:46/km vs 5:45 target, 139 avg / 150 max, Zone 3 zero, post-run 131→96→96.** Run as the diagnostic against a 59 morning RHR; it cleared Thursday. RHR 59, sleep 6 h.
-**Thu 6 Aug:** ⏳ **Threshold 5 km @ 4:18.**
+**Thu 6 Aug:** ✅ **Threshold — 4 km @ 4:23/km @ 169 bpm, 272–275 w** (4:18 prescribed). Completed but under-pressed; HR at the bottom of the band. Splits 4:26 → 4:23 → 4:21, descending and controlled. Sleep 7.75 h. Structured watch workout — first use, worked.
 **Fri 7 Aug:** ⏳ Rest.
 **Sat 8 Aug:** ⏳ **Rest — kids all day (changed 5 Aug, was easy 6 km).**
 **Sun 9 Aug:** ⏳ **Long 14 km.**
