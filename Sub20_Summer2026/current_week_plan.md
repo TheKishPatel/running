@@ -83,6 +83,8 @@ Sleep **7.5–8 h, one wakeup** — the best of the week and the first at target
 | HR | **<150 — hard cap** |
 | Kit | **Chest strap** |
 
+**🚫 THE 14 KM DOES NOT HAPPEN IN AFTERNOON HEAT.** 16:30–18:00 at 30°C is the worst window of the day — peak air temperature plus direct solar load, on a runner with no heat adaptation. The 25 Jul race cost 7–9 sec/km at **24°C over 5 km**; this is 6°C hotter over nearly three times the distance. That is a heat-illness exposure, not a slow run. **If the morning window is missed, the long run moves to the next morning at 06:00 — it does not get run hot.**
+
 **🌡️ HEAT PLAN — added 8 Aug. Sunday peaks at 32°C. Start at 06:00 and the heat is a non-issue.**
 
 | Time | Temp | Humidity |
