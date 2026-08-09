@@ -83,7 +83,32 @@ Sleep **7.5–8 h, one wakeup** — the best of the week and the first at target
 | HR | **<150 — hard cap** |
 | Kit | **Chest strap** |
 
+**🌡️ HEAT PLAN — added 8 Aug. Sunday peaks at 32°C. Start at 06:00 and the heat is a non-issue.**
+
+| Time | Temp | Humidity |
+|---|---|---|
+| **05:00** | **18.7°C** | 36% |
+| **06:00** | **18.6°C** | 36% |
+| **07:00** | 19.9°C | 34% |
+| 08:00 | 20.9°C | 33% |
+| 09:00 | 22.1°C | 31% |
+| 10:00 | 24.9°C | 25% |
+
+Sunrise 05:36. Breeze ~16 km/h. **A 06:00 start finishes ~07:20 at ~20°C** — the same conditions as the 30 Jul run, and 4°C cooler than the 25 Jul race. Recent starts have been 06:26–06:43, so this is a 30-minute shift, not a new habit.
+
+- **Before 07:00 start:** run as prescribed below.
+- **07:00–08:30 start:** run it, but expect 5:50–6:00/km at the same HR cap. The cap still governs.
+- **After 09:00:** do not run 14 km. Move it to **Mon 10 Aug at 06:00** (a rest day — the only cost is three days to Thursday's VO2max instead of four).
+
+**Adjusted target: HR <150 is the session. Expect 5:45–5:50/km, not 5:40.** At 19–21°C with no heat adaptation the cost is ~5–8 sec/km. Do not chase 5:40 — running the prescribed pace at a breached HR cap fails the gate, running 5:50 under it passes.
+
+**Hydration — first run of the campaign where this is mandatory.** 500 ml with electrolyte on waking; carry ~500 ml for the run. Humidity at 33–36% is low, which cools well but hides how much you're losing.
+
+**Stop immediately** for dizziness, chills, goosebumps, headache, or a heart rate that keeps climbing while pace falls. Heat illness is not a push-through.
+
 Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:00–6:10 — **6:16 last week was ideal, do that again.** If HR reaches 150, slow down; time on feet is the objective, not pace.
+
+**Gate clarification:** the gate is *14 km at HR <150, no soreness beyond 48 h*. **It says nothing about pace.** 14 km completed at 5:55/km under the cap passes and progresses you to 16 km.
 
 **One change from last week:** the 12 km negative-split, drifting 5:39 → 5:27. Fine over that distance. **Over 14 km, hold 5:40 rather than letting it creep** — the pattern to break before 16 and 18 km is finishing fast because you drifted, rather than because you chose to.
 
