@@ -76,7 +76,9 @@ Sleep **7.5–8 h, one wakeup** — the best of the week and the first at target
 
 **Net effect: Thu quality → Fri rest → Sat rest → Sun long. Two clear days before the 14 km, where the original plan had one rest day and an easy run. This is a better week than the one it replaces.**
 
-### Sun 9 Aug — LONG RUN · **14 km**
+### Sun 9 Aug — REST *(changed 8 Aug — long run moved to Mon 10 Aug 06:00, heat)*
+
+### Mon 10 Aug — LONG RUN · **14 km** · 06:00 start
 | Component | Detail |
 |-----------|--------|
 | Session | **14 km @ 5:40/km** |
@@ -114,7 +116,21 @@ Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:
 
 **One change from last week:** the 12 km negative-split, drifting 5:39 → 5:27. Fine over that distance. **Over 14 km, hold 5:40 rather than letting it creep** — the pattern to break before 16 and 18 km is finishing fast because you drifted, rather than because you chose to.
 
-**Report:** seated resting HR + hours slept, and the per-km splits. Screenshots have failed to upload three times running — **typing the numbers works fine.**
+**Expected duration: 80–83 minutes** (~1 h 20 – 1 h 23). Built as km1 at 6:05 then 5:45–5:50 for the remaining 13 km. Reference: 12 km took 67:19 on 2 Aug; +2 km at 5:50 is +11:40, plus a few seconds/km of heat. **Budget 1 h 30 door to door.** If it comes in under 79 minutes you ran it too fast for the conditions.
+
+**Monday peaks at 26°C — 6°C cooler than Sunday.** A 06:00 start should be ~15–17°C, better conditions than Sunday morning would have given.
+
+**Report:** seated resting HR (60-second average per protocol v2) + hours slept, and the per-km splits. Screenshots have failed to upload three times running — **typing the numbers works fine.**
+
+---
+
+### ⚠️ Knock-on: Tue 11 Aug Barry's — keep walking lunges one more session
+
+The 14 km now lands ~20 hours before Tuesday's lower-body class instead of two days. **Tue 11 Aug was scheduled as the return to normal jumping lunges** — the first in five weeks.
+
+**Don't stack those.** `CLAUDE.md`: jumping lunges are the highest-risk movement after an attendance gap, and plyometrics get modified when the legs are already fatigued from a long run. Both conditions now apply at once.
+
+**Barry's still happens — never skip it.** Walking lunges for one more session, **jumping lunges resume Tue 18 Aug.** Everything else in the class unmodified, HR <155.
 
 ---
 
@@ -125,7 +141,8 @@ Rung two of 12 → 14 → 16 → 18. ~80 minutes on feet. Conservative km1 at 6:
 **Thu 6 Aug:** ✅ **Threshold — 4 km @ 4:23/km @ 169 bpm, 272–275 w** (4:18 prescribed). Completed but under-pressed; HR at the bottom of the band. Splits 4:26 → 4:23 → 4:21, descending and controlled. Sleep 7.75 h. Structured watch workout — first use, worked.
 **Fri 7 Aug:** ⏳ Rest.
 **Sat 8 Aug:** ⏳ **Rest — kids all day (changed 5 Aug, was easy 6 km).**
-**Sun 9 Aug:** ⏳ **Long 14 km.**
+**Sun 9 Aug:** ⏳ **Rest** — 30°C, long run moved.
+**Mon 10 Aug:** ⏳ **Long 14 km @ 06:00** *(moved from Sun 9 Aug — heat)*. Expect 80–83 min.
 
 **Revised volume: ~27.5 km across 3 runs + 1 Barry's** (was ~34 km / 4 runs). Still a step up on Week 1's ~24.5 km. **The 14 km is untouched — the gate is intact.**
 
