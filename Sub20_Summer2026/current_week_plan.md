@@ -142,7 +142,7 @@ The 14 km now lands ~20 hours before Tuesday's lower-body class instead of two d
 **Fri 7 Aug:** ⏳ Rest.
 **Sat 8 Aug:** ⏳ **Rest — kids all day (changed 5 Aug, was easy 6 km).**
 **Sun 9 Aug:** ⏳ **Rest** — 30°C, long run moved.
-**Mon 10 Aug:** ⏳ **Long 14 km @ 06:00** *(moved from Sun 9 Aug — heat)*. Expect 80–83 min.
+**Mon 10 Aug:** ✅ **Long 14 km @ 06:00 — 80:05, 5:43/km, HR peak 150. LONGEST RUN OF THE CAMPAIGN.** Gate passed on distance and cap; soreness check Wed 12 Aug. km1 6:37 (best opener yet), but crept 5:44 → 5:33 → 5:30. RHR range 50–61, sleep 7.5 h.
 
 **Revised volume: ~27.5 km across 3 runs + 1 Barry's** (was ~34 km / 4 runs). Still a step up on Week 1's ~24.5 km. **The 14 km is untouched — the gate is intact.**
 

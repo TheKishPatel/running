@@ -10,6 +10,8 @@
 
 **Week 2 so far:** Tue 4 Aug Barry's lower ✅ 135/165, Zone 2–3 = 64%, Zone 4 zero — the 28 Jul lightness corrected, lunge protocol closed. Wed 5 Aug easy 6 km ✅ **5:46/km vs 5:45 prescribed, 139 avg / 150 max, Zone 3 zero, post-run 131→96→96.** Run as the diagnostic against a 59 morning resting HR — **it cleared Thursday.** Thu 6 Aug threshold ✅ **4 km @ 4:23/km @ 169 — completed but under-pressed** (4:18 prescribed, HR at the bottom of the 168–176 band). **Threshold is flat vs 2 Jul, not improved.** Full read: `03_session_analyses/2026-08-06_threshold_4km_block_first_quality.md`. **14 km MOVED to Mon 10 Aug 06:00** — Sunday peaked at 32°C and the only usable window was the morning, which was missed. Monday tops out at 26°C, so a 06:00 start gives ~15–17°C, better than Sunday would have. **Knock-on: Tue 11 Aug Barry's keeps walking lunges one more session** — the 14 km now sits ~20 h before class, and Tuesday was to be the first jumping-lunge session in five weeks. Jumping lunges resume Tue 18 Aug.
 
+**✅ Mon 10 Aug — 14 km COMPLETE, LONGEST RUN OF THE CAMPAIGN. 80:05, 5:43/km, HR peak 150.** **GATE PASSED** on distance and the HR cap; **48 h soreness check due Wed 12 Aug** closes it. km1 6:37 = the most conservative opener yet. **But the creep repeated: 5:44 → 5:33 → 5:30 across the run, and that — not the distance — is what pushed HR to the cap.** Full read: `03_session_analyses/2026-08-10_long_14km_gate.md`.
+
 **5K goal race complete (Sat 25 Jul): ~21:27, 4:17/km, 24°C sunny. Not a PB — 20:59 stands.** Deficit was **heat, not fitness** — gate-derived good-conditions pace was 4:08–4:10/km, a 24°C sunny 5K costs ~7–9 sec/km, he averaged 4:17. Ran to his heat-adjusted ceiling. Opened disciplined (4:12), km3 sagged in the heat, **km4 regathered — fought back rather than unravelled.**
 
 **New target: half marathon, Sun 6 Sep 2026. Six clean weeks, Mon 27 Jul → Sun 6 Sep.**
@@ -28,7 +30,7 @@ Live plan: **`big_half_block_Sep2026.md`**. Current week detail: `current_week_p
 | Aerobic efficiency | 5:19/km @ 142 BPM (5 Jul) | ✅ Strong — best of campaign |
 | Threshold | 4:20/km for 4 km, clean descending (2 Jul) | ✅ Solid |
 | 5K fitness | ~20:45–21:00 good conditions | ✅ |
-| **Longest run** | **12.0 km** (2 Aug 2026) — was 11.0 km since 7 Jun | 🔄 **The gap, now closing.** Ramp 12→14→16→18 |
+| **Longest run** | **14.0 km** (10 Aug 2026) — 12.0 km on 2 Aug, 11.0 km before that | 🔄 **Closing on schedule.** 14 ✅ → 16 → 18 |
 | Runs per week | 3 in W1; **4 from W2** | 🔄 4th run added |
 | Actual weekly volume | W1 ~24.5 km (on plan) → building to ~40 | 🔄 On track |
 | HM distance experience | None | ❌ |
@@ -45,7 +47,7 @@ Live plan: **`big_half_block_Sep2026.md`**. Current week detail: `current_week_p
 | Most recent 5K | ~21:27 (24°C, heat-limited) | 25 July 2026 |
 | Threshold pace | **4:20–4:23/km for 4 km @ ~169–170 BPM** — 6 Aug matched 2 Jul at equal power, **no improvement in 5 weeks** | 2 Jul / 6 Aug 2026 |
 | Easy pace | **5:19/km @ 142 BPM (main set) — best of campaign** | 5 Jul 2026 |
-| Longest run | **12.0 km** | 2 Aug 2026 |
+| Longest run | **14.0 km** (80:05, 5:43/km, HR peak 150) | 10 Aug 2026 |
 | Morning resting HR (seated strap) | **52 BPM** (1 & 2 Aug, consistent) | 2 Aug 2026 |
 
 ---
