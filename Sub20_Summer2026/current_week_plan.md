@@ -171,11 +171,34 @@ The 14 km now lands ~20 hours before Tuesday's lower-body class instead of two d
 
 Reference line: 5:46/km @ 139 (5 Aug), 5:36/km @ 137 (19 Jul). At 6:00/km expect **132–136**.
 
-### Thu 13 Aug — VO2max 5×1000 @ 4:02 — **decide off Thursday's numbers**
+**✅ RESULT: 5.0 km @ 6:01/km, 133 avg / 144 max, Zone 3 zero, post-run 136→92→84. GATE PASSED — 16 km is on for Sunday.** HR landed dead centre of the predicted 132–136 band and stayed flat (133/135/135/133) with power at 200–202 w. Post-run recovery of 44 bpm in the first minute is the sharpest trace in the log bar 1 Aug. **No residual systemic fatigue** — the heaviness was local DOMS and did not survive contact with the run.
 
-**Build it as a structured watch workout** — 1000 m reps with sub-km recoveries cannot be captured by auto-splits. `data_capture_protocol.md`.
+### Thu 13 Aug — VO2max · **4×1000 @ 4:08/km** *(revised from 5×1000 @ 4:02)*
 
-**Honest flag before it arrives:** the 6 Aug threshold came in at **4:23 against 4:18**, and threshold is flat versus 2 Jul. **5×1000 @ 4:02 is 21 sec/km faster than a threshold that has not moved in five weeks.** Expect to set that target off Wednesday's run and Thursday's resting HR, not off the block table written three weeks ago.
+| Component | Detail |
+|-----------|--------|
+| Warm-up | **2 km @ 5:45/km** |
+| **Main set** | **4 × 1000 m @ 4:08/km**, 2:30 jog recovery |
+| Cool-down | **1 km @ 6:00/km** |
+| HR | Reps into **170–180**; recovery jog should drop below 140 |
+| Format | **Structured watch workout — mandatory** |
+
+**Total ~8 km.**
+
+**Why 4:08 and not 4:02.** The 4:02 in the block table is a legacy number from the abandoned sub-20 5K goal. The evidence says otherwise: threshold sits at **4:23 and has not moved since 2 Jul**, and good-conditions 5K pace is **4:08–4:10**. For 1000 m reps, 5K pace *is* the VO2max stimulus — 4:02 would be closer to 3K pace off a threshold that declined to improve. **4:08 is the honest target and still a real session.**
+
+**Why 4 reps and not 5.** This week already contains **both** a 14 km (Mon) and a 16 km (Sun) because the long run moved. Four reps keeps Thursday at ~8 km instead of ~9.5 km and protects Sunday, which is the week's actual objective — **the first run over 90 minutes ever.**
+
+**Execution — rep 1 is the slowest, again:**
+- Open at **4:10**, then 4:08 → 4:08 → 4:06.
+- **Abort to 3 reps if:** rep 3 needs more than 4:12, or HR fails to drop below 140 during a recovery jog.
+- Structured workout, no exceptions — sub-km recoveries make auto-splits useless.
+
+**Report resting HR and sleep before you go.** Any throat/cough/phlegm → complete rest, overrides everything.
+
+### ⚠️ Week 3 volume — flag
+
+Mon 14 + Wed 5 + Thu 8 + Sun 16 = **~43 km across 4 runs**, against ~37 km planned and a Week 4 peak of 40 km. That is a consequence of the long run moving to Monday, which was the right call for the heat but leaves two long runs in one week. **Week 4 should hold rather than progress if anything reads wrong on Sunday** — `CLAUDE.md` standing rule 7.
 
 ---
 
