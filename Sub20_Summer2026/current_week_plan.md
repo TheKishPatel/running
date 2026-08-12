@@ -148,6 +148,37 @@ The 14 km now lands ~20 hours before Tuesday's lower-body class instead of two d
 
 ---
 
+## Week 3 in progress (Mon 10 – Sun 16 Aug) — *full plan not yet generated, run `/weekly-plan`*
+
+**Mon 10 Aug:** ✅ Long 14 km — 80:05, 5:43/km, 138/155.
+**Tue 11 Aug:** ✅ Barry's lower — 133/168, Z2–3 58%, Z4 0:09. Walking lunges + all plyometrics modified. **Lunge protocol complete; jumping lunges resume Tue 18 Aug.**
+
+### Wed 12 Aug — EASY 5 km · **the gate decider**
+| Component | Detail |
+|-----------|--------|
+| Session | **5 km @ 6:00/km** *(trimmed from 6 km @ 5:45)* |
+| HR | **<145** |
+
+**Trimmed and slowed deliberately.** 48 h post-14 km with heaviness still present, 24 h post-Barry's, and VO2max tomorrow. This is a recovery run, not a volume run — the 30 Jul precedent (6 km → 5 km for the same reasons) was the right call and this is the same situation.
+
+**This run is the functional soreness test, and it decides Sunday.** The Wednesday-morning reading is confounded — Barry's was yesterday and its DOMS peaks today, which is exactly why the run is the better instrument.
+
+| Reading | Verdict |
+|---|---|
+| Heaviness eases within the first 2 km, HR ~132–136 at 6:00/km | **Absorbed. Gate passes → 16 km Sun 16 Aug.** |
+| Heaviness persists past 2 km, or HR ≥145 at 6:00/km | Systemic fatigue. **Repeat 14 km on Sunday.** |
+| Anything sharp or localised in calf or achilles | **Stop the run.** Injury rules, not soreness rules. |
+
+Reference line: 5:46/km @ 139 (5 Aug), 5:36/km @ 137 (19 Jul). At 6:00/km expect **132–136**.
+
+### Thu 13 Aug — VO2max 5×1000 @ 4:02 — **decide off Thursday's numbers**
+
+**Build it as a structured watch workout** — 1000 m reps with sub-km recoveries cannot be captured by auto-splits. `data_capture_protocol.md`.
+
+**Honest flag before it arrives:** the 6 Aug threshold came in at **4:23 against 4:18**, and threshold is flat versus 2 Jul. **5×1000 @ 4:02 is 21 sec/km faster than a threshold that has not moved in five weeks.** Expect to set that target off Wednesday's run and Thursday's resting HR, not off the block table written three weeks ago.
+
+---
+
 ### Week 2 gate → Week 3
 **14 km completed at HR <150, no soreness lasting beyond 48 h → progress to 16 km.** If either fails, repeat 14 km rather than progressing. Week 3 is the first run over 90 minutes and the first gel practice, so the base has to be genuinely there.
 
