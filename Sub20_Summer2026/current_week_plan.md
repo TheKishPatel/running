@@ -173,7 +173,30 @@ Reference line: 5:46/km @ 139 (5 Aug), 5:36/km @ 137 (19 Jul). At 6:00/km expect
 
 **✅ RESULT: 5.0 km @ 6:01/km, 133 avg / 144 max, Zone 3 zero, post-run 136→92→84. GATE PASSED — 16 km is on for Sunday.** HR landed dead centre of the predicted 132–136 band and stayed flat (133/135/135/133) with power at 200–202 w. Post-run recovery of 44 bpm in the first minute is the sharpest trace in the log bar 1 Aug. **No residual systemic fatigue** — the heaviness was local DOMS and did not survive contact with the run.
 
-### Thu 13 Aug — VO2max · **4×1000 @ 4:08/km** *(revised from 5×1000 @ 4:02)*
+### 🛑 Thu 13 Aug — CANCELLED. COMPLETE REST.
+
+**Resting HR 62 — above the >60 rest-day threshold.** Sleep severely disrupted (teething infant, ~10 wakings). Two independent inputs, both pointing the same way, on the hardest session of the block so far. **The rule doesn't ask why the number is high, and it shouldn't.**
+
+**The VO2max is dropped for the week, not moved to Friday** — same call as 5 Aug. Friday quality leaves one day before the long run; Thursday leaves three. **Sunday's 16 km is the first run over 90 minutes ever and it outranks a VO2max session with four weeks of block remaining.**
+
+**Revised Week 3: Mon 14 + Wed 5 + Sun 16 = ~35 km across 3 runs**, against ~37 planned. The volume target survives — the dropped session was the smallest of the three.
+
+**Fri 14 Aug — rest.**
+
+**Sat 15 Aug — optional easy 4–5 km @ 6:00/km, HR <140. Conditional:** only if resting HR is back to ≤55 and you've slept. Otherwise rest. Nothing about Saturday is worth spending on.
+
+**Sun 16 Aug — decide off Sunday morning's numbers:**
+
+| Sunday morning | Session |
+|---|---|
+| RHR ≤55, slept | **16 km as planned** |
+| RHR 56–60 | **14 km** — repeat the rung rather than progress |
+| RHR >60 | **Complete rest.** Hold at 14 km next week |
+| Throat / cough / phlegm | **Complete rest**, overrides everything |
+
+---
+
+### ~~Thu 13 Aug — VO2max · 4×1000 @ 4:08/km~~ *(prescription retained for reference — not run)*
 
 | Component | Detail |
 |-----------|--------|
