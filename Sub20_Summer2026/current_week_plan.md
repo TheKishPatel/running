@@ -185,14 +185,29 @@ Reference line: 5:46/km @ 139 (5 Aug), 5:36/km @ 137 (19 Jul). At 6:00/km expect
 
 **Sat 15 Aug — optional easy 4–5 km @ 6:00/km, HR <140. Conditional:** only if resting HR is back to ≤55 and you've slept. Otherwise rest. Nothing about Saturday is worth spending on.
 
-**Sun 16 Aug — decide off Sunday morning's numbers:**
+### ✅ Sun 16 Aug — LONG RUN · **16 km** · GREEN LIGHT
 
-| Sunday morning | Session |
+**Resting HR 49 — the lowest reading of the campaign, below the 52 baseline. Sleep 7 h.** Thursday's 62 was sleep, not illness: three days of rest turned it round by 13 bpm. Nothing is limiting this run.
+
+**Conditions: 16.4°C at 06:00, 64% humidity, light 8 km/h wind, 26°C peak later.** Cooler than Monday. **No heat adjustment — run the prescribed paces.**
+
+| Segment | Target |
 |---|---|
-| RHR ≤55, slept | **16 km as planned** |
-| RHR 56–60 | **14 km** — repeat the rung rather than progress |
-| RHR >60 | **Complete rest.** Hold at 14 km next week |
-| Throat / cough / phlegm | **Complete rest**, overrides everything |
+| km1 | **6:00–6:10** conservative opener |
+| **km2–13** | **5:40/km, HR <150 hard cap** |
+| **km14–16** | **4:55/km — half-marathon race pace** |
+| Kit | Chest strap. Carry fluid |
+| Fuel | **Gel at 45 min and 75 min — practise, don't discover on race day** |
+
+**Expected duration ~90 minutes. This is the first run over 90 minutes you have ever done, and that — not the pace — is the point.**
+
+**⛔ The fast finish is conditional and must be earned.** At 13 km, check HR:
+- **HR ≤150 and pace has held near 5:40** → take the last 3 km at 4:55.
+- **HR above 150, or km2–13 has crept below 5:35** → **skip the fast finish. Run 16 km easy and finish at 5:40.**
+
+**This is the whole test.** Both long runs so far crept — 2 Aug 5:39 → 5:27, 10 Aug 5:44 → 5:33 → 5:30 — and each time the drift, not the distance, is what pushed HR to the cap. **The only way to have 3 km at 4:55 available at km14 is to not spend it between km6 and km13.** A finish that happens because you drifted there is not the session; a finish you choose is.
+
+**Post-run report:** splits, the Heart Rate screen (avg, max, zones, post-workout trace), how the gels sat, and the 24 h / 48 h soreness readings.
 
 ---
 
