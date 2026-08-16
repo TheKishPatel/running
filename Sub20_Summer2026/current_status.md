@@ -14,7 +14,9 @@
 
 **✅ 24 h check (Tue 11 Aug, pre-Barry's): dull heaviness, diffuse, no injury twinges, nothing localised or one-sided. Textbook normal DOMS after a longest-ever run — passes.** **⚠️ 48 h check (Wed 12 Aug): heaviness in legs AND feet, unchanged or slightly worse, still no twinges or localisation.** Soreness has NOT cleared at 48 h — but the reading is confounded exactly as predicted: Barry's lower body was 24 h ago and its DOMS peaks this morning. **🛑 Thu 13 Aug — VO2max CANCELLED, COMPLETE REST. Resting HR 62 (>60 rest-day rule) plus a badly broken night (teething infant, ~10 wakings).** Dropped for the week rather than rolled to Friday — Sunday's 16 km outranks it. Week 3 revised to ~35 km across 3 runs. **Second consecutive compromised quality session** (6 Aug threshold under-pressed, 13 Aug cancelled); the long-run ramp is on schedule and that is what 6 Sep needs, so the thin quality stimulus is a cost to the **October 5K**, not the half.
 
-**✅ Sun 16 Aug GREEN LIGHT — resting HR 49, the LOWEST OF THE CAMPAIGN and below the 52 baseline; sleep 7 h.** Thursday's 62 was sleep, not illness — three days of rest turned it round 13 bpm. Conditions 16.4°C / 64% humidity at 06:00, no heat adjustment needed. **16 km with the last 3 km at 4:55, conditional on HR ≤150 and pace held near 5:40 through km13 — otherwise the fast finish is dropped and the run finishes easy.**
+**✅ Sun 16 Aug GREEN LIGHT — resting HR 49, the LOWEST OF THE CAMPAIGN and below the 52 baseline; sleep 7 h.** Thursday's 62 was sleep, not illness — three days of rest turned it round 13 bpm. Conditions 16.4°C / 64% humidity at 06:00, no heat adjustment needed. **✅ RESULT — BEST SESSION OF THE BLOCK. 17.23 km; 16 km in 89:27. km2–13 at 5:42 vs 5:40 prescribed (drift 5 sec/km against 14 on 10 Aug — THE CREEP IS BROKEN). HR 147 at km13, so the finish was earned. km14–16 at 4:52 @ 161 bpm / 246 w — race pace at ~89% of threshold power, Zone 4 zero.** Full read: `03_session_analyses/2026-08-16_long_16km_hm_pace_finish.md`.
+
+**📌 ATHLETE RECORD CORRECTED (16 Aug): 5–6 previous half marathons, gels used before.** Earlier entries claiming no HM experience and framing 16 km as the first run over 90 minutes were wrong and were repeated across several prescriptions. 16 km is the longest run of THIS CAMPAIGN. The remaining gap to 6 Sep is time on feet beyond 16 km — a training-state question, not an experience one.
 
 **✅ GATE CLOSED — PASSED.** The functional test settled it: Wed 12 Aug 5.0 km @ **6:01/km, 133 avg / 144 max, Zone 3 zero, post-run 136→92→84**. HR landed dead centre of the predicted 132–136 band and stayed flat across 30 minutes at 200–202 w. **44 bpm recovery in the first minute is the sharpest trace in the log bar 1 Aug.** No residual systemic fatigue — the heaviness was local DOMS and did not survive contact with the run. Wednesday trimmed to 5 km @ 6:00/km, HR <145, as a recovery run and a diagnostic. **Wed 12 Aug resting HR: 52–58 over the minute (~55 mid).** Elevated on the 52/52/52 run but the floor is still 52, no symptoms — consistent with 48 h post-longest-run plus Barry's, not with illness. **Measurement is also improving: a 6 bpm spread against 11 bpm on 6 Aug**, so protocol v2 is working; still want the single 60-second average rather than the range. **Heaviness confirms the walking-lunge call for today, and extends it: modify every plyometric element in the class, not just lunges** — jump squats, box jumps, jumping anything. Barry's still happens, HR <155. km1 6:37 = the most conservative opener yet. **But the creep repeated: 5:44 → 5:33 → 5:30 across the run, and that — not the distance — is what pushed HR to the cap.** Full read: `03_session_analyses/2026-08-10_long_14km_gate.md`.
 
@@ -36,12 +38,12 @@ Live plan: **`big_half_block_Sep2026.md`**. Current week detail: `current_week_p
 | Aerobic efficiency | 5:19/km @ 142 BPM (5 Jul) | ✅ Strong — best of campaign |
 | Threshold | 4:20/km for 4 km, clean descending (2 Jul) | ✅ Solid |
 | 5K fitness | ~20:45–21:00 good conditions | ✅ |
-| **Longest run** | **14.0 km** (10 Aug 2026) — 12.0 km on 2 Aug, 11.0 km before that | 🔄 **Closing on schedule.** 14 ✅ → 16 → 18 |
+| **Longest run *this campaign*** | **16.0 km** (16 Aug 2026) with the last 3 km at 4:52/km — 14.0 km on 10 Aug, 12.0 km on 2 Aug | 🔄 **On schedule.** 14 ✅ → 16 ✅ → 18 |
 | Runs per week | 3 in W1; **4 from W2** | 🔄 4th run added |
 | Actual weekly volume | W1 ~24.5 km (on plan) → building to ~40 | 🔄 On track |
-| HM distance experience | None | ❌ |
+| HM distance experience | **5–6 half marathons completed previously; gels used and tolerated** *(corrected 16 Aug — earlier 'none' was wrong)* | ✅ Knows the distance, the fuelling and how to pace it |
 
-**Riegel off 20:59 gives 1:36:30 — that assumes an endurance base that does not exist.** With an 11 km ceiling at the block's start and a 6-week ramp: **1:42–1:45 realistic**, 1:40 stretch, **~1:50+ with a collapsing last 5 km if nothing changes.** The gap is durability, not speed. Six weeks closes most of it, not all.
+**Riegel off 20:59 gives 1:36:30 — still too fast for the current endurance base.** But the 16 Aug session moved this materially: **4:52/km held for 3 km at 161 BPM and 246 w after 13 km of running** is race pace at a sub-threshold cost, and the athlete has **5–6 previous half marathons** behind him, so distance, fuelling and race pacing are known rather than unknown. **1:42 now looks like the working target rather than the optimistic end of a range, with 1:40 a live stretch.** Holding at **1:42–1:45 with 1:40 stretch** until the 18 km on 23 Aug confirms it — one 3 km segment is evidence, not proof. The remaining gap is time on feet beyond 16 km, not pace and not experience.
 
 ---
 
@@ -53,8 +55,9 @@ Live plan: **`big_half_block_Sep2026.md`**. Current week detail: `current_week_p
 | Most recent 5K | ~21:27 (24°C, heat-limited) | 25 July 2026 |
 | Threshold pace | **4:20–4:23/km for 4 km @ ~169–170 BPM** — 6 Aug matched 2 Jul at equal power, **no improvement in 5 weeks** | 2 Jul / 6 Aug 2026 |
 | Easy pace | **5:19/km @ 142 BPM (main set) — best of campaign** | 5 Jul 2026 |
-| Longest run | **14.0 km** (80:05, 5:43/km, HR peak 150) | 10 Aug 2026 |
-| Morning resting HR (seated strap) | **52 BPM** (1 & 2 Aug, consistent) | 2 Aug 2026 |
+| Longest run (this campaign) | **16.0 km** in 89:27 — km2–13 at 5:42 @ ~139, km14–16 at **4:52 @ 161 / 246 w** | 16 Aug 2026 |
+| **HM race pace evidence** | **4:52/km @ 161 BPM, 246 w, off 13 km of prior running** — ~89% of threshold power, HR well below the 168–176 threshold band | 16 Aug 2026 |
+| Morning resting HR (seated strap) | **49 BPM** — lowest of the campaign; baseline band 49–55 | 16 Aug 2026 |
 
 ---
 
