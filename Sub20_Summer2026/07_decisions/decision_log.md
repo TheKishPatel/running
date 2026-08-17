@@ -291,3 +291,110 @@ log stay blank by design, not oversight. Illness remains the top risk — sympto
 rest rules (CLAUDE.md) still govern.
 
 ---
+
+## 5 Aug 2026 — Resting HR 59 on Wed morning: Thursday threshold protocol
+
+**Situation.** Wed 5 Aug morning resting HR **59**, against three consecutive seated
+TICKR readings of **52** (1, 2, 4 Aug). +7 bpm, ~13% above a firmly established
+baseline — but **under the >60 rest-day rule**. Sleep declining: 7.0 → 6.5 → 6.0 h.
+No symptoms reported. Tue 4 Aug Barry's was the first genuine lower-body conditioning
+stimulus in four weeks (135 avg, Zone 2–3 = 64% vs 32% on 28 Jul).
+
+**Read.** A +7 bpm morning reading the day after the hardest lower-body session since
+7 Jul, on 6 h sleep, is an expected training response before it is an illness signal.
+It is not dismissed — it needs a second data point, not a decision made on one.
+
+**Decision 1 — Wed 5 Aug easy 6 km: RUN IT, as the diagnostic.**
+5:45/km, HR <150, strictly HR-governed. Its only job is volume, and the HR-for-pace
+read is the cheapest corroborating evidence available. Reference: 5:36/km @ 137 (19 Jul),
+5:29/km @ 138 (1 Aug). If HR at 5:45/km sits ≥8–10 bpm above that line, the 59 is real.
+
+**Decision 2 — the threshold does NOT move to Friday. Correction to the 4 Aug note.**
+Fri 7 Aug is rest; Sat 8 easy; **Sun 9 is the 14 km — the Week 2 gate.** Threshold on
+Thursday leaves two days before it; on Friday, one. **Protecting the Sunday outranks
+protecting Thursday's full 5 km** — the 14 km gates progression to 16 km, and four more
+quality sessions remain in the block. Trimming the threshold is the correct lever,
+not shifting the day.
+
+**Thursday morning ladder (decided in advance, off Thu's own numbers):**
+| Thu 6 Aug reading | Action |
+|---|---|
+| RHR ≤55, no symptoms | **Threshold as prescribed — 5 km @ 4:18/km.** Open at 4:20. |
+| RHR 56–60, no symptoms | **Trim to 4 km @ 4:18/km**, same execution rules. Still a progression on the 2 Jul benchmark (4 km @ 4:20). |
+| RHR >60 | **Complete rest.** Standing rule, no negotiation. Sunday 14 km stays. |
+| Any throat / cough / phlegm, any severity | **Complete rest** per `CLAUDE.md`. Overrides every row above. |
+
+**Open — measurement source.** The 59 must be confirmed as a **seated chest-strap
+reading**, not Apple's daily computed figure. That distinction already produced one
+withdrawn flag (63 on 1 Aug). Apple's number is a trend line only and is never compared
+against the <55 baseline.
+
+---
+**Resolved 5 Aug (same day):** the 59 is confirmed as a **seated Wahoo TICKR reading,
+no symptoms**. Directly comparable to the 52s — the flag stands as amber and the ladder
+above applies unchanged. Added in-run abort for the Wed 6 km: **HR 150 at 5:45/km → cut
+the run short, and Thursday becomes complete rest rather than a trim.**
+
+---
+
+## 5 Aug 2026 — Saturday unavailable (childcare): cancel the easy run, keep threshold on Thursday
+
+**Situation.** Athlete has his kids all day Sat 8 Aug and cannot run. Proposed: rest
+Thursday, move the threshold to Friday, rest Saturday, long run Sunday.
+
+**Decision. Threshold stays Thursday. Saturday's easy 6 km is cancelled, not relocated.**
+
+Revised week: Mon rest / Tue Barry's ✅ / Wed easy 6 km ✅ / **Thu threshold** / Fri rest /
+Sat rest / **Sun 14 km**. Volume ~27.5 km, down from ~34 planned, up from ~24.5 in Week 1.
+
+**Rationale.**
+1. **Spacing to the gate.** Fri quality → Sun 14 km is one day; Thu → Sun is two. The Week 2
+   gate is *14 km completed at HR <150*. Threshold legs 36 h out raise Sunday's HR and risk
+   failing a gate that would otherwise pass — the cost of which is repeating 14 km instead
+   of progressing to 16 km, i.e. a lost week of the ramp with 32 days to the race.
+2. **Easy volume is the cheapest thing in the week.** 6 km of Zone 2 against the block's
+   first quality session and the ramp's second rung is not a close call.
+3. **The proposal's one real benefit — an extra night's sleep before quality, with sleep at
+   6.0 h for four nights — is purchasable more cheaply by sleeping tonight.**
+4. **Net: the revised week is better than the original.** Two clear days before the 14 km
+   where the plan had one rest day plus an easy run.
+
+**Contingency.** If Thursday's morning numbers trigger the rest row (RHR >60, or any
+throat/cough/phlegm), **the threshold is dropped for the week rather than rolled to Friday**
+— same spacing logic, and Week 3's VO2max session is 7 days out. Sunday's long run then
+becomes the week's only stimulus and stays strictly aerobic.
+
+---
+
+## 6 Aug 2026 — Unstable resting HR reading: run the threshold, trimmed to 4 km
+
+**Situation.** Thursday morning. Sleep **7.5–8 h with one wakeup** — best of the week, first
+at target after 7.0 / 6.5 / 6.0 / 6.0. Resting HR **would not settle: 52/56 up to the mid-60s,
+no consistent value.** No symptoms.
+
+**Decision. Threshold goes ahead — main set 4 km @ 4:18/km, not 5 km.**
+
+**Rationale.**
+1. **Sleep was the dominant variable and it resolved.** The ~11 sec/km short-sleep penalty
+   (14 May tempo) does not apply today.
+2. **The ladder cannot be read** — there is no number to place in it. **Unresolved uncertainty
+   takes the middle row, not the optimistic one.** The ladder was set in advance precisely to
+   keep this decision out of the moment.
+3. **The range including 52 is informative.** An athlete incubating something does not touch
+   baseline at all. Combined with Wednesday's clean diagnostic (139 @ 5:46, Zone 3 zero,
+   post-run 131→96→96) there is no illness signal here.
+4. **4 km @ 4:18 is still a progression** on the 2 Jul benchmark (4 km @ 4:20) and is the first
+   quality session in 12 days. Sunday's 14 km gate outranks the fifth kilometre.
+
+**Measurement finding — the reading itself is the problem, not the athlete.** A seated strap
+reading swinging 52 → mid-60s is instrument/method noise: dry electrodes for the first 30–90 s,
+and respiratory sinus arrhythmia (beat-to-beat variation with the breath, larger in trained
+athletes). **Protocol v2 recorded in `current_status.md`: wet the contacts, settle 2 minutes,
+record a 60-second AVERAGE with the range noted, and compare only the average to the <55
+baseline.** This retroactively weakens the 5 Aug 59, which may have been an unstable
+instantaneous read rather than a real elevation.
+
+**In-session override (outranks any morning number).** If km1 at 4:20/km costs HR above 176,
+abandon the main set and jog home. Real-time HR-for-pace beats a morning reading.
+
+---
