@@ -1,10 +1,18 @@
 # Current Status
 
-*Last updated: 4 Aug 2026*
+*Last updated: 17 Aug 2026*
 
 ---
 
-## Status: 🏃 HALF BLOCK — WEEK 2 of 6. The Big Half, Sun 6 Sep 2026 (21.1 km).
+## Status: 🏃 HALF BLOCK — **WEEK 4 of 6: PEAK WEEK.** The Big Half, Sun 6 Sep 2026 (21.1 km, 20 days out).
+
+**Weeks 1–3 complete. Both gates passed.** Long-run ramp on schedule: **12 → 14 → 16 ✅ → 18 (Sun 23 Aug).** Week 4 is ~40.5 km across 4 runs, the biggest ever run, and **Sunday's 18 km is the block's real gate** — HR <150 with no pace collapse in the last 4 km confirms 1:42; a grind or a fade moves the target to 1:45–1:48.
+
+**The block's headline finding (16 Aug):** 3 km at **4:52/km, 161 bpm, 246 w off 13 km of prior running** — half-marathon race pace at ~89% of threshold power with zero Zone 4 time. **The long-run creep is broken** (5 sec/km drift over 12 km, against 14 on 10 Aug). **The weak point is quality:** two consecutive Thursdays compromised — 6 Aug under-pressed at 4:23 vs 4:18, 13 Aug cancelled on a resting HR of 62. That cost lands on the October 5K, not the half.
+
+---
+
+### Superseded weekly detail below (Weeks 1–3)
 
 **Week 1 ✅ complete, fully on plan (~24.5 km).** Closed with the **longest run of the campaign — 12 km at 136/152, 99.1% Zone 1–2** — beating the 11 km that had stood since 7 Jun. Resting HR 52 on consecutive days. **Week 2 is the first real test: threshold returns Thu 6 Aug, and the long run steps to 14 km.**
 
