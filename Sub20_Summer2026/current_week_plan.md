@@ -33,6 +33,8 @@ Profile to hit: the 4 Aug / 11 Aug shape — **133–135 avg, Zone 2–3 around 
 
 Longest easy run of the block. Three days after the 16 km and two days before threshold — **volume, not effort.** Three consecutive easy runs have landed within 1 sec/km of prescription; that flag is closed and this should be routine.
 
+**Report the 60-second seated resting HR Wednesday morning — it sets Thursday.** Precedent: 5 Aug 59 → proceed, 6 Aug unstable → trim, 13 Aug 62 → cancel. Expected HR band at 5:45/km is **138–145**. **And sleep tonight** — 6 h on the night of 17–18 Aug, and Thursday is the block's third attempt at a quality session that lands.
+
 ### Thu 20 Aug — THRESHOLD, EXTENDED ⭐
 | Component | Detail |
 |-----------|--------|
@@ -87,7 +89,7 @@ Both previous Saturdays were lost — childcare on 8 Aug, rest on 15 Aug. **If S
 
 ### Week 4 Log
 **Mon 17 Aug:** ✅ Rest. *24 h check after the 16 km: muscle ache in places, no injury signals — normal.*
-**Tue 18 Aug:** ✅ Barry's (lower) — **jumping lunges resumed, protocol closed.** **131 avg / 172 max**, Z1 21:58 / Z2 14:01 / Z3 08:15 / Z4 01:02 / Z5 00:00. Avg 4 bpm under the ~135 profile; **max and Zone 4 both the highest of the block and both under the 7 Jul pre-gap reference (175 / 1:54)** — plyometrics back in, controlled. No third hard day: Z4 = 2.3% of the session. **⚠️ 48 h soreness reading not reported — that is the gate on Sunday's 18 km. Needed before Thursday.**
+**Tue 18 Aug:** ✅ Barry's (lower) — **jumping lunges resumed, protocol closed.** **131 avg / 172 max**, Z1 21:58 / Z2 14:01 / Z3 08:15 / Z4 01:02 / Z5 00:00. Avg 4 bpm under the ~135 profile; **max and Zone 4 both the highest of the block and both under the 7 Jul pre-gap reference (175 / 1:54)** — plyometrics back in, controlled. No third hard day: Z4 = 2.3% of the session. **✅ 48 h soreness check: FADING — the gate on Sunday's 18 km passes.** Sleep 6 h, resting HR not captured.
 **Wed 19 Aug:** ⏳ Easy 7 km @ 5:45.
 **Thu 20 Aug:** ⏳ **Threshold 2×3 km @ 4:18.**
 **Fri 21 Aug:** ⏳ Rest.
