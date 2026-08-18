@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 17 Aug 2026*
+*Last updated: 18 Aug 2026*
 
 ---
 
@@ -26,7 +26,9 @@
 
 **✅ 24 h check (Mon 17 Aug): muscle ache in places, no injury signals.** Normal, and expected to be a touch more than after 10 Aug — the 3 km at 4:52/246 w carries mechanical load a pure Zone 2 run does not. **48 h reading Tue 18 Aug is the one that gates the 18 km peak on Sun 23 Aug.**
 
-**🟢 Tue 18 Aug — JUMPING LUNGES RESUME.** Protocol complete (28 Jul, 4 Aug, 11 Aug all walking), and Tuesday sits ~48 h after the long run, which is the normal spacing this block was designed around — not the ~20 h compression that forced the 11 Aug extension. **Caveat: if quads or hamstrings are still achy Tuesday morning, reduce depth and range rather than substituting walking lunges again.**
+**✅ Tue 18 Aug — JUMPING LUNGES RESUMED. LUNGE PROTOCOL CLOSED.** First plyometric lower-body session in ~7 weeks (last: 7 Jul). **131 avg / 172 max, Z1 21:58 / Z2 14:01 / Z3 08:15 / Z4 01:02 / Z5 00:00.** The HR signature confirms the plyometrics were in — **max 172 and Zone 4 1:02 are both the highest of any lower Barry's this block** (11 Aug: 168 / 0:09; 4 Aug: 165 / 0:00, both modified) — and both land **under the 7 Jul pre-gap reference (138 avg, 175 max, Z3 12:06, Z4 1:54).** Controlled reintroduction, not a spike. **Average 4 bpm under the ~135 profile and Zone 2+3 down to 49%** (64% on 4 Aug, 58% on 11 Aug) with Zone 1 back to 21:58 — but **Zone 3 is the highest of the series at 8:15.** The session got spikier, not lighter: plyometrics surge HR then drop it, inflating Zone 1 and Zone 3+ together at Zone 2's expense. Not the 28 Jul problem. **No third hard day — Zone 5 zero, Zone 4 = 2.3% of the session, avg 24 bpm under the cap. Thursday's threshold is unaffected.** *(Jumping lunges assumed per plan; not explicitly confirmed by the athlete — the HR profile is the evidence.)*
+
+**⚠️ OUTSTANDING — 48 h SORENESS READING NOT REPORTED (Tue 18 Aug).** The plan named Tuesday morning's reading as the gate on Sunday's 18 km peak, and it did not come in. Barry's has now contaminated it exactly as it did on 12 Aug, so a Tuesday-evening or Wednesday-morning report will be confounded by lower-body DOMS. **Wednesday's easy 7 km is the functional test — same instrument that closed the Week 2 gate on 12 Aug.** Expected band at 5:45/km is **138–145**; above ~150, or a calf/achilles twinge rather than diffuse quad heaviness, and the 18 km is in question. Resting HR and sleep hours also unreported for 18 Aug.
 
 **📌 ATHLETE RECORD CORRECTED (16 Aug): 5–6 previous half marathons, gels used before.** Earlier entries claiming no HM experience and framing 16 km as the first run over 90 minutes were wrong and were repeated across several prescriptions. 16 km is the longest run of THIS CAMPAIGN. The remaining gap to 6 Sep is time on feet beyond 16 km — a training-state question, not an experience one.
 
@@ -165,7 +167,9 @@ Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initial
 
 **Superseded v1:** `Resting_HR_Morning` = seated chest-strap reading taken before getting up and moving. That is the governing number against the <55 baseline and the >60 rest-day rule. Apple's daily figure may be tracked alongside **as a trend only** — a drift from 63 → 70 over several days still signals something; the absolute value never gets compared to 55. Third independent point in favour of the TICKR (it also caught the 30 Jul 20-second strides at 179, which optical cannot do).
 
-**🟡 Barry's lunge flag — REOPENED (8 Aug) for one session.** The 14 km moving to Mon 10 Aug puts it ~20 h before Tuesday's class, so **walking lunges on Tue 11 Aug as well; jumping lunges resume Tue 18 Aug.** Original closure below.
+**🟢 Barry's lunge flag — FULLY CLOSED (18 Aug). Jumping lunges executed, no symptoms reported.** Four modified sessions in total (28 Jul, 4 Aug, 11 Aug walking; 12 Aug extended to all plyometrics), then a clean plyometric session on 18 Aug at 131 avg / 172 max with Zone 4 at 1:02 — under the 7 Jul pre-gap profile on every axis. **The 31 Mar VMO precedent is retired.** The rule that survives is the general one in `CLAUDE.md`: after any attendance gap, walking lunges for the first 2–3 sessions back. **No standing restriction on lower-body Barry's from here to 6 Sep**, other than the <155 cap and the fatigue rule if a long run lands within ~24 h.
+
+**🟡 Barry's lunge flag — REOPENED (8 Aug) for one session — superseded by the closure above.** The 14 km moving to Mon 10 Aug put it ~20 h before Tuesday's class, so **walking lunges on Tue 11 Aug as well; jumping lunges resumed Tue 18 Aug.** Original closure below.
 
 **🟢 Barry's lunge flag — closed 4 Aug. 2 of 2 done.** Walking lunges Tue 28 Jul (125/168) and Tue 4 Aug (135/165), no VMO or inner-quad symptoms reported at either. **Normal jumping lunges resume Tue 11 Aug.** Precedent retired: the 31 Mar VMO twinge came from exactly the pattern this protocol was built to avoid (21-day gap → jumping lunges). *Note: the 4 Aug substitution is assumed per plan, not explicitly confirmed by the athlete.*
 
