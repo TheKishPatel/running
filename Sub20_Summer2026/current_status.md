@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 18 Aug 2026*
+*Last updated: 19 Aug 2026*
 
 ---
 
@@ -31,6 +31,10 @@
 **✅ 48 h SORENESS CHECK (Tue 18 Aug) — SORENESS FADING. THE GATE ON THE 18 km PASSES.** 48 h after the 16 km and the 3 km at 4:52/246 w that came with it, and the trend is **down**. That is a materially better reading than the equivalent point on 12 Aug, where heaviness in legs *and* feet was unchanged or slightly worse at 48 h and had to be resolved with a functional test. Fading, non-localised soreness after the biggest session of the block is DOMS clearing on schedule. **The 18 km peak on Sun 23 Aug is ON** — the remaining question is Thursday, not Sunday.
 
 **🟡 SLEEP 6 h (night of 17–18 Aug) — one short night, watch it, don't act on it.** First under-7 night since 16 Aug. This is *not* the 3–6 Aug pattern (7.0 → 6.5 → 6.0 → 6.0) that preceded the under-pressed threshold, nor the ~10-waking night that cancelled 13 Aug. But **Thursday's 2×3 km is 48 h out and sleep is a documented ~11 sec/km factor on threshold work** (14 May tempo). **Wednesday night is the single highest-leverage action before Thursday** — same call as 5 Aug, which was heeded and returned 7.75 h.
+
+**✅ Wed 19 Aug — EASY 7 km, PRE-THRESHOLD DIAGNOSTIC PASSED. THURSDAY GOES AS WRITTEN AT 4:18.** **5:46/km against 5:45 prescribed, 137 avg / 147 max, Zone 3 ZERO.** The go-band was 138–145 and he came in 1 bpm under it. **HR-for-pace is the best of the block:** km3–6 at **5:40.5 @ 136.75 bpm and 212 w** against 5 Aug's km3–6 at 5:43 @ 141 and 210 w — **2.5 sec/km faster, 4 bpm lower, 2 w more.** Efficiency **1.552 w/bpm vs 1.489 (5 Aug, +4.2%)** and 1.530 for the body of the 16 Aug long run. **The 5 Aug efficiency decrement has fully cleared.** No creep — body kms 5:42/5:43/5:41/5:40/5:38 across a 5 sec/km spread, HR flat from km2, power flat at 205–216 w, km7 5:52 a deliberate ease-down. **Fourth consecutive precisely executed easy run; sixth consecutive conservative opener (km1 6:08).** **Post-workout 133→95→74 = 38 bpm in the first minute and 59 over two, finishing at 74 — the best 2-minute recovery figure in the log** (12 Aug: 52; 2 Aug: 48). Tuesday's plyometric Barry's is invisible in the data 24 h out.
+
+**🟢 RESTING HR 55 (Wed 19 Aug), sleep just under 7 h.** Top of the 49–55 baseline band, well under the >60 rule. It sits **24 h after the first jumping-lunge session in 7 weeks** — the same slot that produced **59 on 5 Aug off a much smaller stimulus** — and matches the ~55 of 12 Aug, whose run was clean. Training response, not illness, and the run corroborates it on every axis. Sleep recovered 6 → ~7 h. **Thursday morning's reading is the last input; on current evidence there is no case for a trim.**
 
 **⚠️ RESTING HR NOT CAPTURED (18 Aug).** Protocol v2 asks for the 60-second seated average. **Wednesday morning's reading now carries the full load as the pre-threshold input** — the last three quality sessions were each decided by it: 5 Aug 59 → proceed, 6 Aug unstable → trim to 4 km, 13 Aug 62 → cancel. Report it Wednesday alongside the run.
 

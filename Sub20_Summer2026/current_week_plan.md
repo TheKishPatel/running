@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 18 Aug 2026*
+*Last updated: 19 Aug 2026*
 
 ---
 
@@ -90,7 +90,7 @@ Both previous Saturdays were lost — childcare on 8 Aug, rest on 15 Aug. **If S
 ### Week 4 Log
 **Mon 17 Aug:** ✅ Rest. *24 h check after the 16 km: muscle ache in places, no injury signals — normal.*
 **Tue 18 Aug:** ✅ Barry's (lower) — **jumping lunges resumed, protocol closed.** **131 avg / 172 max**, Z1 21:58 / Z2 14:01 / Z3 08:15 / Z4 01:02 / Z5 00:00. Avg 4 bpm under the ~135 profile; **max and Zone 4 both the highest of the block and both under the 7 Jul pre-gap reference (175 / 1:54)** — plyometrics back in, controlled. No third hard day: Z4 = 2.3% of the session. **✅ 48 h soreness check: FADING — the gate on Sunday's 18 km passes.** Sleep 6 h, resting HR not captured.
-**Wed 19 Aug:** ⏳ Easy 7 km @ 5:45.
+**Wed 19 Aug:** ✅ Easy 7 km — **5:46/km vs 5:45 prescribed, 137 avg / 147 max, Zone 3 zero.** km3–6 at 5:40 @ 137 / 212 w vs 5 Aug's 5:43 @ 141 / 210 w — **faster, lower, stronger. Best HR-for-pace of the block.** Post-run 133→95→74, best 2-min recovery in the log. RHR 55, sleep ~7 h. **Diagnostic passed — Thursday stays at 4:18, no trim.**
 **Thu 20 Aug:** ⏳ **Threshold 2×3 km @ 4:18.**
 **Fri 21 Aug:** ⏳ Rest.
 **Sat 22 Aug:** ⏳ Easy 6 km @ 5:50.
