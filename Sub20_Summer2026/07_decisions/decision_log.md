@@ -398,3 +398,77 @@ instantaneous read rather than a real elevation.
 abandon the main set and jog home. Real-time HR-for-pace beats a morning reading.
 
 ---
+
+## 20 Aug 2026 — Posteromedial right knee, traction injury: threshold CANCELLED, Sunday protected
+
+**Situation.** Thursday morning of PEAK WEEK, 17 days out from The Big Half.
+**Systemic readings are green: resting HR 53** (inside the 49–55 baseline band, and the second-lowest
+of the block after 16 Aug's 49), **sleep 6.5 h, interrupted but with no wakeups.** Wednesday's
+diagnostic was the best HR-for-pace of the block (5:46/km @ 137, efficiency 1.552 w/bpm).
+**Nothing in the fatigue or illness picture argues against the session.**
+
+**The injury.** Wed 19 Aug, non-training mechanism: **his daughter gripped the right leg and went
+deadweight** — a sudden traction/valgus load through a planted leg. Pain reported at the
+**posteromedial right knee, behind and inside the joint** (photo supplied, pointing at the
+posteromedial joint line — the region of the **distal medial hamstring tendons
+(semimembranosus/semitendinosus) and the posteromedial corner**; pes anserinus sits slightly
+distal and anterior to it). **~18 h later: still slightly painful. Point tenderness on palpation.
+Some running movements produce no pain at all.**
+
+**Decision. The 2×3 km threshold is CANCELLED. Not trimmed, not rolled to Friday.**
+Replaced by a **graded functional test** and, only if that is clean, an **easy 5 km @ 5:50–6:00,
+HR <145**, on flat even ground.
+
+**Rationale.**
+1. **The standing rule already decided this.** `current_week_plan.md`, written Sunday, before any
+   of this: *"Sunday outranks everything… If Thursday has to go again, drop it; do not roll it to
+   Friday."* The trigger was written as a morning-numbers trigger; the principle does not care that
+   the trigger turned out to be a knee instead.
+2. **Threshold is the single worst session to run on this structure.** 4:18/km against 5:45/km is
+   a large step up in hamstring force, knee flexion velocity and ground reaction force. The medial
+   hamstring tendons are loaded hardest exactly where pace comes from. An easy run is a different
+   order of load; the threshold is not a scaled-down version of the same risk.
+3. **Point tenderness with pain-free movement is a low-grade strain — and low-grade is a state you
+   can leave in either direction.** The mechanism (external traction, not overuse) means the tissue
+   took a discrete insult ~18 h ago and is in the acute window. Loading it hard now is how a
+   two-week annoyance becomes a six-week one.
+4. **The cost is correctly placed.** Losing this threshold costs the **October 5K**, not 6 Sep —
+   the same accounting applied on 6 Aug and 13 Aug. Aggravating a medial knee structure costs
+   **the race**. That asymmetry is not close.
+
+**Third consecutive compromised Thursday** (6 Aug under-pressed, 13 Aug cancelled on RHR 62,
+20 Aug cancelled on injury). **Name it plainly: this block will finish with essentially no
+threshold progression.** That is now a settled fact rather than a risk, and it is the October
+5K's problem. The half-marathon build is carried by the long runs, and those have all landed.
+
+**The functional test (this morning, before any decision to run).** Each step pain-free to
+progress; **pain *during* a movement stops it there — palpation tenderness alone does not.**
+1. Walk 5 minutes on the flat — any limp or pain = stop, rest day.
+2. Stairs down, then up.
+3. Single-leg stand, right, 30 s.
+4. Single-leg squat to ~45°, right, ×5.
+5. Heel raises, right, ×10.
+6. Easy jog 400 m.
+Clear through all six → the easy 5 km. **Abort mid-run at the first pain, walk home.**
+
+**SUNDAY — THE 18 km IS NOW CONDITIONAL AND HAS BEEN DOWNGRADED IN PRIORITY.**
+It was named "the block's real gate." That framing was written before an injury existed and is
+now wrong. **16 km at 5:42 with 3 km at 4:52 @ 161 bpm / 246 w is already in the bank, and the
+athlete has 5–6 previous half marathons.** The marginal value of 18 km over 16 km is modest;
+the cost of a torn medial structure 17 days out is the race itself.
+- **Clean Thursday test + clean Saturday 6 km → 18 km as prescribed.**
+- **Any residual symptom → 14 km @ 5:45, HR <150, abort at any knee pain.**
+- **Pain walking, or pain at rest, on Saturday → no long run. Rest.**
+
+**Escalate to a physio, do not self-manage, if any of these appear:** swelling around the joint,
+the knee giving way or feeling unstable, locking or catching, inability to fully straighten or
+fully bend, pain on sleeping/at night, pain that is worse on Friday than it was on Thursday, or
+anything still present in 5–7 days. A traction mechanism with posteromedial pain deserves hands-on
+assessment if it does not settle quickly — this log is not a substitute for one.
+
+**Tue 25 Aug Barry's — flagged in advance.** Jumping lunges resumed only on 18 Aug. If the knee is
+still symptomatic, **modify every plyometric element again** (jumping lunges, jump squats, box
+jumps) regardless of how good the leg feels that morning. Barry's still happens — per `CLAUDE.md`
+it is a conditioning asset — but the plyometrics are the negotiable part.
+
+---

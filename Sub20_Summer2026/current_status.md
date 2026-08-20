@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 19 Aug 2026*
+*Last updated: 20 Aug 2026*
 
 ---
 
@@ -161,6 +161,27 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 ---
 
 ## Active Flags
+
+**🔴 NEW — ACUTE POSTEROMEDIAL RIGHT KNEE INJURY (Wed 19 Aug). THURSDAY'S THRESHOLD CANCELLED. SUNDAY'S 18 km NOW CONDITIONAL.**
+**Mechanism: non-training.** Daughter gripped the right leg and went deadweight — a sudden traction/valgus load through a planted leg. **Location: posteromedial right knee, behind and inside the joint** (photo supplied, pointing at the posteromedial joint line — the region of the **distal medial hamstring tendons, semimembranosus/semitendinosus, and the posteromedial corner**). **Status Thu 20 Aug (~18 h post): still slightly painful. Point tenderness on palpation. Some running movements pain-free.**
+
+**That reads as a low-grade strain in the acute window — and low-grade can go either way depending on what is loaded next.** Threshold at 4:18/km is the worst available choice: it is a large step up in hamstring force, knee flexion velocity and ground reaction force over 5:45/km easy running, and the medial hamstring tendons are loaded hardest exactly where pace comes from. **The threshold is dropped for the week, not rolled to Friday** — the standing rule in `current_week_plan.md`, written before this happened, already decided it: *"Sunday outranks everything… If Thursday has to go again, drop it."*
+
+**Graded functional test before any running today** — each step pain-free to progress; **pain *during* a movement stops it, palpation tenderness alone does not**: 5 min walk → stairs down and up → single-leg stand right 30 s → single-leg squat right ×5 to ~45° → heel raises right ×10 → 400 m jog. **All six clear → easy 5 km @ 5:50–6:00, HR <145, flat even ground, abort at the first pain.** Any step fails → complete rest.
+
+**🚨 ESCALATE TO A PHYSIO — do not self-manage — if any of these appear:** swelling, giving way or instability, locking or catching, inability to fully straighten or fully bend, night pain, pain worse Friday than Thursday, or anything still present in 5–7 days. A traction mechanism with posteromedial pain warrants hands-on assessment if it does not settle quickly.
+
+**📉 SUNDAY DOWNGRADED — the 18 km is no longer "the block's real gate".** That framing was written before an injury existed. **16 km at 5:42 with 3 km at 4:52 @ 161 bpm / 246 w is already banked, and he has 5–6 previous half marathons.** The marginal value of 18 over 16 km is modest; the cost of aggravating a medial knee structure 17 days out is the race.
+- Clean Thursday test **and** clean Saturday 6 km → **18 km as prescribed**
+- Any residual symptom → **14 km @ 5:45, HR <150**, abort at any knee pain
+- Pain walking or at rest on Saturday → **no long run**
+
+**⚠️ THIRD CONSECUTIVE COMPROMISED THURSDAY** — 6 Aug under-pressed (4:23 vs 4:18), 13 Aug cancelled (RHR 62), 20 Aug cancelled (injury). **This block will finish with essentially no threshold progression. That is now a settled fact, not a risk.** It is the October 5K's problem; the half-marathon build is carried by the long runs and those have all landed.
+
+**🟢 Tue 25 Aug Barry's — pre-flagged.** Jumping lunges resumed only 18 Aug. **If the knee is still symptomatic, modify every plyometric element again** — jumping lunges, jump squats, box jumps — regardless of how the leg feels that morning. Barry's still happens; the plyometrics are the negotiable part.
+
+**🟢 Thu 20 Aug morning readings — SYSTEMICALLY GREEN, and irrelevant to the decision.** **Resting HR 53** (inside the 49–55 band, second-lowest of the block after 16 Aug's 49), **sleep 6.5 h, interrupted, no wakeups.** Nothing in the fatigue or illness picture argued against the threshold. **The knee is the entire reason it is off.**
+
 
 **🟢 RESTING HR — FLAG WITHDRAWN (1 Aug). Actual reading 52, at baseline.**
 Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initially flagged was **Apple Health's daily computed resting HR — not a measurement.** Apple derives that figure algorithmically from inactive periods across the whole day, runs systematically higher than a seated reading, and lags a day; **it is not comparable to the <55 baseline, which came from direct measurement.** Comparing them was an error. The 52 agrees with everything else in the session (5:29/km @ 138, post-workout 97→87→**70**, 8 s total in Zone 3+). Sunday's 12 km proceeded as planned.
