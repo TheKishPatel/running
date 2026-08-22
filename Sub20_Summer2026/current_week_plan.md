@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 20 Aug 2026*
+*Last updated: 22 Aug 2026*
 
 ---
 
@@ -92,11 +92,11 @@ Both previous Saturdays were lost — childcare on 8 Aug, rest on 15 Aug. **If S
 **Tue 18 Aug:** ✅ Barry's (lower) — **jumping lunges resumed, protocol closed.** **131 avg / 172 max**, Z1 21:58 / Z2 14:01 / Z3 08:15 / Z4 01:02 / Z5 00:00. Avg 4 bpm under the ~135 profile; **max and Zone 4 both the highest of the block and both under the 7 Jul pre-gap reference (175 / 1:54)** — plyometrics back in, controlled. No third hard day: Z4 = 2.3% of the session. **✅ 48 h soreness check: FADING — the gate on Sunday's 18 km passes.** Sleep 6 h, resting HR not captured.
 **Wed 19 Aug:** ✅ Easy 7 km — **5:46/km vs 5:45 prescribed, 137 avg / 147 max, Zone 3 zero.** km3–6 at 5:40 @ 137 / 212 w vs 5 Aug's 5:43 @ 141 / 210 w — **faster, lower, stronger. Best HR-for-pace of the block.** Post-run 133→95→74, best 2-min recovery in the log. RHR 55, sleep ~7 h. **Diagnostic passed — Thursday stays at 4:18, no trim.**
 **Thu 20 Aug:** 🛑 **THRESHOLD CANCELLED — posteromedial right knee (traction injury, Wed 19 Aug, non-training).** RHR 53, sleep 6.5 h — systemically green; **the knee is the whole reason.** Dropped for the week, **not rolled to Friday**. Replaced by a graded functional test → easy 5 km @ 5:50–6:00, HR <145, only if all six steps are clean.
-**Fri 21 Aug:** ⏳ Rest.
-**Sat 22 Aug:** ⏳ Easy 6 km @ 5:50.
-**Sun 23 Aug:** ⚠️ **LONG RUN NOW CONDITIONAL.** Clean Thu test + clean Sat 6 km → 18 km as prescribed. Any residual knee symptom → **14 km @ 5:45**. Pain walking or at rest Saturday → **no long run**.
+**Fri 21 Aug:** ✅ **Post-injury functional test PASSED** — all 6 steps plus 5 km, **zero pain.** 5:48/km @ 131 avg, efficiency 1.563 w/bpm (best of block). ⚠️ **km4 at 5:28 — overspeed flag re-opened.**
+**Sat 22 Aug:** ⬜ **No run — family commitments.** Cycled, pain-free. **Knee fully resolved: no pain, no pain on pressing.** Converts to a second rest day = 48 h into Sunday.
+**Sun 23 Aug:** ✅ **18 km CONFIRMED @ 5:45/km, HR <150.** Straight aerobic, no race-pace finish. **STOP AND WALK on any knee pain.** Loop/out-and-back close to home, flat even ground, no camber. Morning press-test: tenderness back → 14 km.
 
-**Planned volume: ~40.5 km across 4 runs + 1 Barry's.** More than has ever actually been run.
+**Planned volume: ~40.5 km across 4 runs + 1 Barry's.** **ACTUAL: ~30 km across 3 runs + 1 Barry's** — threshold cancelled (knee), Saturday lost (family). A lighter week into the peak long run is not a problem.
 
 ---
 

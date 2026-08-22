@@ -472,3 +472,64 @@ jumps) regardless of how good the leg feels that morning. Barry's still happens 
 it is a conditioning asset — but the plyometrics are the negotiable part.
 
 ---
+
+## 22 Aug 2026 — Knee resolved, Saturday gate missed: **18 km CONFIRMED for Sunday**
+
+**Situation.** Saturday of peak week. The 5 km gate test could not be run (family commitments) —
+the third Saturday lost in the block. **But the knee has fully resolved: no pain, and no pain on
+pressing.** Cycled during the day, pain-free.
+
+**Decision. Sunday runs at 18 km as originally prescribed** — reverting the 21 Aug downgrade to
+16 km. Straight aerobic, 5:45/km, HR <150 hard cap, no race-pace finish.
+
+**Rationale — this meets the criterion I set myself, not a relaxed version of it.**
+On 21 Aug the standing rule was: *"Clean Saturday, press pain gone → 16 km, and 18 is back on the
+table only if the knee is completely silent."* **It is now completely silent.** The residual
+palpation tenderness — the single symptom holding the decision at 16 — has cleared.
+
+1. **Two independent pain-free loading exposures.** Fri 21 Aug: six graded functional-test steps
+   plus a full 5 km, zero pain. Sat 22 Aug: cycling, zero pain. Plus complete resolution of point
+   tenderness at ~3 days post-mechanism. **That is a better evidence set than the Saturday run
+   would have produced on its own.**
+2. **The missed Saturday helps rather than hurts.** It converts to a second consecutive rest day,
+   giving **48 h between Friday's 5 km and Sunday's 18 km** on a knee three days post-injury.
+   Had Saturday gone ahead, Sunday would have been the third run in three days.
+3. **18 km has no substitute left in the calendar.** Week 5 is 14 km with 6 km at race pace;
+   Week 6 is race week. **If Sunday is 16 km, the campaign's longest run stays 16 km** — and
+   "time on feet beyond 16 km" is the one gap this repo has named repeatedly as the remaining
+   deficit for 6 Sep. Skipping it does not defer the stimulus, it deletes it.
+4. **The session itself is low-risk by design.** Straight aerobic, HR-capped, no race-pace finish
+   — the 16 Aug run's fast finish (249 w) was the mechanically demanding part and this run has
+   none of it. 18 km at 5:45 is ~11 minutes more of the same aerobic load already tolerated.
+
+**The residual risk is real and is handled in-run, not by shortening the distance.** A four-day-old
+medial strain fails under fatigued mechanics in the last quarter, not in the first. Distance is a
+poor control for that; **an abort rule is a good one.**
+
+**NON-NEGOTIABLE IN-RUN RULE: any knee pain at all → STOP AND WALK. Not ease off, not shorten
+the stride — stop.** Turning round at km9 is a good outcome, not a failed session. This overrides
+every other instruction on the run, including the distance.
+
+**Route and surface conditions (new, injury-specific).**
+- **Loop close to home, or out-and-back**, so aborting at any point is cheap. Not a point-to-point
+  route that leaves him 6 km from home at km12.
+- **Flat, even ground. Avoid road camber** — a cambered surface loads the medial knee
+  asymmetrically for the whole run. This is the one case where the usual trail suggestion is
+  *wrong*: uneven ground is the higher risk here.
+- Conservative km1 at 6:00–6:10 as always.
+
+**Pace revised 5:40 → 5:45, and slower is correct.** The 21 Aug run reopened the overspeed flag in
+its most consequential form: **km4 at 5:28/km, 22 sec/km faster than the floor, 222 w, on the one
+run whose entire purpose was minimum load through the knee.** Body-km spread was 28 sec/km against
+5 sec/km on 19 Aug. **On 18 km, a 5:28 kilometre on this leg is the failure mode.** 16 Aug proved
+the creep can be held (5 sec/km drift over 12 km) — that is the standard for Sunday.
+
+**Morning gate before starting:** press-test the knee. **Any return of tenderness → 14 km, and
+abort on any pain.** No tenderness → 18 km as above.
+
+**Week lands at ~30 km across 3 runs + 1 Barry's** against ~40.5 planned. The shortfall is the
+cancelled threshold and the lost Saturday. A lighter week into the peak long run is not a problem
+and is arguably the better taper into it.
+
+---
+

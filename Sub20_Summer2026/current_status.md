@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 20 Aug 2026*
+*Last updated: 22 Aug 2026*
 
 ---
 
@@ -162,7 +162,15 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 
 ## Active Flags
 
-**🔴 NEW — ACUTE POSTEROMEDIAL RIGHT KNEE INJURY (Wed 19 Aug). THURSDAY'S THRESHOLD CANCELLED. SUNDAY'S 18 km NOW CONDITIONAL.**
+**🟢 KNEE — RESOLVED (22 Aug). 18 km CONFIRMED FOR SUNDAY.** No pain, **no pain on pressing** — the residual tenderness has cleared at ~3 days post-mechanism. **Two pain-free loading exposures:** Fri 21 Aug six graded functional-test steps plus a full 5 km with zero pain, and Sat 22 Aug cycling, pain-free. **This meets the criterion set on 21 Aug** (*"18 is back on the table only if the knee is completely silent"*) — not a relaxed version of it.
+
+**Saturday's 5 km gate test was lost to family commitments** — third Saturday lost in the block — **and that helps.** It converts to a second consecutive rest day, giving **48 h between Friday's run and Sunday's 18 km.** Had it gone ahead, Sunday would have been the third run in three days.
+
+**Sunday: 18 km @ 5:45/km, HR <150 hard cap, straight aerobic, no race-pace finish.** Pace eased from 5:40 and **slower is correct.** **NON-NEGOTIABLE: any knee pain at all → STOP AND WALK.** Not ease off — stop. Turning round at km9 is a good outcome. **Loop or out-and-back close to home; flat even ground; avoid road camber** (the one case where the usual trail suggestion is wrong — uneven ground loads the medial knee worse). **Morning press-test: any return of tenderness → 14 km.** Full reasoning: `07_decisions/decision_log.md`, 22 Aug.
+
+**⚠️ OVERSPEED FLAG RE-OPENED (21 Aug) — and this is the one that matters on Sunday.** The post-injury 5 km ran **km4 at 5:28/km, 222 w — 22 sec/km faster than the 5:50 floor**, on the one run whose entire purpose was minimum mechanical load through an injured knee. Body-km spread **28 sec/km against 5 sec/km on 19 Aug.** HR held at 141 so the cardiovascular cost was nil, but cardiovascular cost was never the point. Ends the four-session clean streak (5 Aug, 12 Aug, 16 Aug body, 19 Aug). **On 18 km, a 5:28 kilometre on this leg is the failure mode.** 16 Aug held 5 sec/km of drift over 12 km — that is Sunday's standard.
+
+**🔵 SUPERSEDED — ACUTE POSTEROMEDIAL RIGHT KNEE INJURY (Wed 19 Aug). THURSDAY'S THRESHOLD CANCELLED.**
 **Mechanism: non-training.** Daughter gripped the right leg and went deadweight — a sudden traction/valgus load through a planted leg. **Location: posteromedial right knee, behind and inside the joint** (photo supplied, pointing at the posteromedial joint line — the region of the **distal medial hamstring tendons, semimembranosus/semitendinosus, and the posteromedial corner**). **Status Thu 20 Aug (~18 h post): still slightly painful. Point tenderness on palpation. Some running movements pain-free.**
 
 **That reads as a low-grade strain in the acute window — and low-grade can go either way depending on what is loaded next.** Threshold at 4:18/km is the worst available choice: it is a large step up in hamstring force, knee flexion velocity and ground reaction force over 5:45/km easy running, and the medial hamstring tendons are loaded hardest exactly where pace comes from. **The threshold is dropped for the week, not rolled to Friday** — the standing rule in `current_week_plan.md`, written before this happened, already decided it: *"Sunday outranks everything… If Thursday has to go again, drop it."*
