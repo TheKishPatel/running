@@ -1,10 +1,12 @@
 # Current Week Plan
 
-*Last updated: 22 Aug 2026*
+*Last updated: 24 Aug 2026*
 
 ---
 
-## Half Block Week 4 (Mon 17 – Sun 23 Aug) — **PEAK WEEK**
+## Half Block Week 4 (Mon 17 – Sun 23 Aug) — **PEAK WEEK — ✅ COMPLETE, GATE PASSED**
+
+> **This week is finished. Run `/weekly-plan` to generate Week 5 (Mon 24 – Sun 30 Aug).**
 
 **Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (20 days out). Full block: `big_half_block_Sep2026.md`.**
 
@@ -94,7 +96,7 @@ Both previous Saturdays were lost — childcare on 8 Aug, rest on 15 Aug. **If S
 **Thu 20 Aug:** 🛑 **THRESHOLD CANCELLED — posteromedial right knee (traction injury, Wed 19 Aug, non-training).** RHR 53, sleep 6.5 h — systemically green; **the knee is the whole reason.** Dropped for the week, **not rolled to Friday**. Replaced by a graded functional test → easy 5 km @ 5:50–6:00, HR <145, only if all six steps are clean.
 **Fri 21 Aug:** ✅ **Post-injury functional test PASSED** — all 6 steps plus 5 km, **zero pain.** 5:48/km @ 131 avg, efficiency 1.563 w/bpm (best of block). ⚠️ **km4 at 5:28 — overspeed flag re-opened.**
 **Sat 22 Aug:** ⬜ **No run — family commitments.** Cycled, pain-free. **Knee fully resolved: no pain, no pain on pressing.** Converts to a second rest day = 48 h into Sunday.
-**Sun 23 Aug:** ✅ **18 km CONFIRMED @ 5:45/km, HR <150.** Straight aerobic, no race-pace finish. **STOP AND WALK on any knee pain.** Loop/out-and-back close to home, flat even ground, no camber. Morning press-test: tenderness back → 14 km.
+**Sun 23 Aug:** ✅ **18.01 km — PEAK COMPLETE, GATE PASSED.** 1:44:28, 5:48/km, **132 avg / MAX 145 — the <150 cap never touched, Z3/Z4/Z5 all zero.** Quarters 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8 — **flat, last quarter slowest.** Efficiency 1.575 w/bpm vs 1.529 on 16 Aug. Post-run 129→96→90. ⚠️ **Last 4 km: lateral knee + right foot — new compensation flag, resolved in 24 h.**
 
 **Planned volume: ~40.5 km across 4 runs + 1 Barry's.** **ACTUAL: ~30 km across 3 runs + 1 Barry's** — threshold cancelled (knee), Saturday lost (family). A lighter week into the peak long run is not a problem.
 

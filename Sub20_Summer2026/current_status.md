@@ -1,8 +1,22 @@
 # Current Status
 
-*Last updated: 22 Aug 2026*
+*Last updated: 24 Aug 2026*
 
 ---
+
+## Status: ✅ **PEAK WEEK COMPLETE — 18 km GATE PASSED (23 Aug). Week 5 of 6 begins.** The Big Half, Sun 6 Sep 2026 (21.1 km, 13 days out).
+
+**THE BLOCK'S OBJECTIVE IS MET. 18.01 km in 1:44:28 at 5:48/km, 132 avg — and the <150 cap was NEVER TOUCHED (max 145, Zone 3/4/5 all zero).** Every previous long run reached or breached its cap. **Pacing was flat across all four quarters — 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8, a 4.3 sec/km range, with the last quarter the slowest.** The creep is not just broken, it is gone. **Efficiency km3-18: 1.575 w/bpm against 1.529 for the 16 Aug body — 16 km today cost less per beat than 12 km did a week earlier (+3.0%).** Full read: `03_session_analyses/2026-08-23_long_18km_peak.md`.
+
+**Both halves of the race are now evidenced:** the pace (16 Aug — 3 km at 4:52/km @ 161 bpm, 246 w, off 13 km) and the durability (23 Aug — 18 km still running economically at 1 h 44). **Race target 1:42 (4:50/km) confirmed.**
+
+**⚠️ ONE NEW FLAG — fatigue-dependent compensation.** Last 4 km of the 18: pain/fatigue in the knee ligament-tendon **opposite** the injury plus the **right foot**; fully resolved next morning. **The original medial injury stayed silent across all 18 km.** Yellow, not red — but Week 5 puts race pace back in twice. Detail below.
+
+**⚠️ Threshold has not moved all block** — 4:20 (2 Jul), 4:23 (6 Aug), then three consecutive compromised Thursdays (under-pressed, RHR 62, knee injury). **Settled fact. It is the October 5K's bill, not 6 Sep's.**
+
+---
+
+## Superseded — Week 4 in progress
 
 ## Status: 🏃 HALF BLOCK — **WEEK 4 of 6: PEAK WEEK.** The Big Half, Sun 6 Sep 2026 (21.1 km, 20 days out).
 
@@ -162,7 +176,25 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 
 ## Active Flags
 
-**🟢 KNEE — RESOLVED (22 Aug). 18 km CONFIRMED FOR SUNDAY.** No pain, **no pain on pressing** — the residual tenderness has cleared at ~3 days post-mechanism. **Two pain-free loading exposures:** Fri 21 Aug six graded functional-test steps plus a full 5 km with zero pain, and Sat 22 Aug cycling, pain-free. **This meets the criterion set on 21 Aug** (*"18 is back on the table only if the knee is completely silent"*) — not a relaxed version of it.
+**🟡 NEW — FATIGUE-DEPENDENT COMPENSATION PATTERN (23 Aug). ACTION REQUIRED TUESDAY.**
+**Last 4 km of the 18 km: pain/fatigue in the knee ligament-tendon on the side OPPOSITE the injury, plus the RIGHT FOOT. Monday morning: no pain, general bilateral leg fatigue only.**
+*(Assumption to confirm — the injury was posteromedial RIGHT knee, so "opposite side" is read as the **lateral right knee**, same leg, other aspect; both symptoms are on the right. If it was the LEFT knee, this reads differently and needs revising.)*
+
+**This is the textbook signature of gait compensation around a healing medial structure** — load redistributed to the lateral structures and the foot of the same leg, appearing **only under fatigue**, in **exactly the last-quarter window flagged on 22 Aug**. Two things keep it yellow:
+1. **The original medial injury stayed completely silent across all 18 km.** The structure that mattered held.
+2. **Full resolution inside 24 h.** A structural problem does not clear overnight; a load-distribution problem does.
+
+**But Week 5 puts race pace back in twice** — Thu 8 km with the last 4 at 4:50, Sun 30 Aug 14 km with the middle 6 at 4:50 — **and higher force through an altered gait is how a compensation becomes an injury.**
+
+**ACTIONS:**
+- **🔴 Tue 25 Aug Barry's — MODIFY THE PLYOMETRICS.** Walking lunges, no jump squats, no box jumps. Jumping lunges resumed only 18 Aug, this is 48 h after the longest run ever run, and there is a live compensation signal. **Barry's still happens — the plyometrics are the negotiable part.**
+- **Report the right-foot location before Thursday** — arch, heel, forefoot or outside edge each mean something different.
+- **Any return of lateral knee or foot symptoms ENDS a race-pace segment.** Drop to easy and finish aerobically. Two weeks out, a race-pace rep is worth nothing against a compromised start line.
+- **Physio** if it recurs on a second run, or persists beyond 24 h on any occasion.
+
+**📉 DECOUPLING 6.2% (23 Aug) — noted, not a flag.** EF 1.628 (km3-10) → 1.526 (km11-18), above the 5% threshold and against 4.3% on the 12 km of 2 Aug. Longer runs decouple more and 1 h 44 in late-August London carries thermal load. **The drift was purely HR at constant power and pace — nothing faded but the heart rate's efficiency.** The one number in that session that is not a personal best.
+
+**🟢 KNEE (original, posteromedial right) — RESOLVED (22 Aug), and it held through 18 km.** No pain, **no pain on pressing** — the residual tenderness has cleared at ~3 days post-mechanism. **Two pain-free loading exposures:** Fri 21 Aug six graded functional-test steps plus a full 5 km with zero pain, and Sat 22 Aug cycling, pain-free. **This meets the criterion set on 21 Aug** (*"18 is back on the table only if the knee is completely silent"*) — not a relaxed version of it.
 
 **Saturday's 5 km gate test was lost to family commitments** — third Saturday lost in the block — **and that helps.** It converts to a second consecutive rest day, giving **48 h between Friday's run and Sunday's 18 km.** Had it gone ahead, Sunday would have been the third run in three days.
 
