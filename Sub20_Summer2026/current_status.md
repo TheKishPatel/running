@@ -1,8 +1,22 @@
 # Current Status
 
-*Last updated: 17 Aug 2026*
+*Last updated: 25 Aug 2026*
 
 ---
+
+## Status: ✅ **PEAK WEEK COMPLETE — 18 km GATE PASSED (23 Aug). Week 5 of 6 begins.** The Big Half, Sun 6 Sep 2026 (21.1 km, 13 days out).
+
+**THE BLOCK'S OBJECTIVE IS MET. 18.01 km in 1:44:28 at 5:48/km, 132 avg — and the <150 cap was NEVER TOUCHED (max 145, Zone 3/4/5 all zero).** Every previous long run reached or breached its cap. **Pacing was flat across all four quarters — 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8, a 4.3 sec/km range, with the last quarter the slowest.** The creep is not just broken, it is gone. **Efficiency km3-18: 1.575 w/bpm against 1.529 for the 16 Aug body — 16 km today cost less per beat than 12 km did a week earlier (+3.0%).** Full read: `03_session_analyses/2026-08-23_long_18km_peak.md`.
+
+**Both halves of the race are now evidenced:** the pace (16 Aug — 3 km at 4:52/km @ 161 bpm, 246 w, off 13 km) and the durability (23 Aug — 18 km still running economically at 1 h 44). **Race target 1:42 (4:50/km) confirmed.**
+
+**⚠️ ONE NEW FLAG — fatigue-dependent compensation.** Last 4 km of the 18: pain/fatigue in the knee ligament-tendon **opposite** the injury plus the **right foot**; fully resolved next morning. **The original medial injury stayed silent across all 18 km.** Yellow, not red — but Week 5 puts race pace back in twice. Detail below.
+
+**⚠️ Threshold has not moved all block** — 4:20 (2 Jul), 4:23 (6 Aug), then three consecutive compromised Thursdays (under-pressed, RHR 62, knee injury). **Settled fact. It is the October 5K's bill, not 6 Sep's.**
+
+---
+
+## Superseded — Week 4 in progress
 
 ## Status: 🏃 HALF BLOCK — **WEEK 4 of 6: PEAK WEEK.** The Big Half, Sun 6 Sep 2026 (21.1 km, 20 days out).
 
@@ -26,7 +40,17 @@
 
 **✅ 24 h check (Mon 17 Aug): muscle ache in places, no injury signals.** Normal, and expected to be a touch more than after 10 Aug — the 3 km at 4:52/246 w carries mechanical load a pure Zone 2 run does not. **48 h reading Tue 18 Aug is the one that gates the 18 km peak on Sun 23 Aug.**
 
-**🟢 Tue 18 Aug — JUMPING LUNGES RESUME.** Protocol complete (28 Jul, 4 Aug, 11 Aug all walking), and Tuesday sits ~48 h after the long run, which is the normal spacing this block was designed around — not the ~20 h compression that forced the 11 Aug extension. **Caveat: if quads or hamstrings are still achy Tuesday morning, reduce depth and range rather than substituting walking lunges again.**
+**✅ Tue 18 Aug — JUMPING LUNGES RESUMED. LUNGE PROTOCOL CLOSED.** First plyometric lower-body session in ~7 weeks (last: 7 Jul). **131 avg / 172 max, Z1 21:58 / Z2 14:01 / Z3 08:15 / Z4 01:02 / Z5 00:00.** The HR signature confirms the plyometrics were in — **max 172 and Zone 4 1:02 are both the highest of any lower Barry's this block** (11 Aug: 168 / 0:09; 4 Aug: 165 / 0:00, both modified) — and both land **under the 7 Jul pre-gap reference (138 avg, 175 max, Z3 12:06, Z4 1:54).** Controlled reintroduction, not a spike. **Average 4 bpm under the ~135 profile and Zone 2+3 down to 49%** (64% on 4 Aug, 58% on 11 Aug) with Zone 1 back to 21:58 — but **Zone 3 is the highest of the series at 8:15.** The session got spikier, not lighter: plyometrics surge HR then drop it, inflating Zone 1 and Zone 3+ together at Zone 2's expense. Not the 28 Jul problem. **No third hard day — Zone 5 zero, Zone 4 = 2.3% of the session, avg 24 bpm under the cap. Thursday's threshold is unaffected.** *(Jumping lunges assumed per plan; not explicitly confirmed by the athlete — the HR profile is the evidence.)*
+
+**✅ 48 h SORENESS CHECK (Tue 18 Aug) — SORENESS FADING. THE GATE ON THE 18 km PASSES.** 48 h after the 16 km and the 3 km at 4:52/246 w that came with it, and the trend is **down**. That is a materially better reading than the equivalent point on 12 Aug, where heaviness in legs *and* feet was unchanged or slightly worse at 48 h and had to be resolved with a functional test. Fading, non-localised soreness after the biggest session of the block is DOMS clearing on schedule. **The 18 km peak on Sun 23 Aug is ON** — the remaining question is Thursday, not Sunday.
+
+**🟡 SLEEP 6 h (night of 17–18 Aug) — one short night, watch it, don't act on it.** First under-7 night since 16 Aug. This is *not* the 3–6 Aug pattern (7.0 → 6.5 → 6.0 → 6.0) that preceded the under-pressed threshold, nor the ~10-waking night that cancelled 13 Aug. But **Thursday's 2×3 km is 48 h out and sleep is a documented ~11 sec/km factor on threshold work** (14 May tempo). **Wednesday night is the single highest-leverage action before Thursday** — same call as 5 Aug, which was heeded and returned 7.75 h.
+
+**✅ Wed 19 Aug — EASY 7 km, PRE-THRESHOLD DIAGNOSTIC PASSED. THURSDAY GOES AS WRITTEN AT 4:18.** **5:46/km against 5:45 prescribed, 137 avg / 147 max, Zone 3 ZERO.** The go-band was 138–145 and he came in 1 bpm under it. **HR-for-pace is the best of the block:** km3–6 at **5:40.5 @ 136.75 bpm and 212 w** against 5 Aug's km3–6 at 5:43 @ 141 and 210 w — **2.5 sec/km faster, 4 bpm lower, 2 w more.** Efficiency **1.552 w/bpm vs 1.489 (5 Aug, +4.2%)** and 1.530 for the body of the 16 Aug long run. **The 5 Aug efficiency decrement has fully cleared.** No creep — body kms 5:42/5:43/5:41/5:40/5:38 across a 5 sec/km spread, HR flat from km2, power flat at 205–216 w, km7 5:52 a deliberate ease-down. **Fourth consecutive precisely executed easy run; sixth consecutive conservative opener (km1 6:08).** **Post-workout 133→95→74 = 38 bpm in the first minute and 59 over two, finishing at 74 — the best 2-minute recovery figure in the log** (12 Aug: 52; 2 Aug: 48). Tuesday's plyometric Barry's is invisible in the data 24 h out.
+
+**🟢 RESTING HR 55 (Wed 19 Aug), sleep just under 7 h.** Top of the 49–55 baseline band, well under the >60 rule. It sits **24 h after the first jumping-lunge session in 7 weeks** — the same slot that produced **59 on 5 Aug off a much smaller stimulus** — and matches the ~55 of 12 Aug, whose run was clean. Training response, not illness, and the run corroborates it on every axis. Sleep recovered 6 → ~7 h. **Thursday morning's reading is the last input; on current evidence there is no case for a trim.**
+
+**⚠️ RESTING HR NOT CAPTURED (18 Aug).** Protocol v2 asks for the 60-second seated average. **Wednesday morning's reading now carries the full load as the pre-threshold input** — the last three quality sessions were each decided by it: 5 Aug 59 → proceed, 6 Aug unstable → trim to 4 km, 13 Aug 62 → cancel. Report it Wednesday alongside the run.
 
 **📌 ATHLETE RECORD CORRECTED (16 Aug): 5–6 previous half marathons, gels used before.** Earlier entries claiming no HM experience and framing 16 km as the first run over 90 minutes were wrong and were repeated across several prescriptions. 16 km is the longest run of THIS CAMPAIGN. The remaining gap to 6 Sep is time on feet beyond 16 km — a training-state question, not an experience one.
 
@@ -152,6 +176,71 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 
 ## Active Flags
 
+**🟡 NEW — FATIGUE-DEPENDENT COMPENSATION PATTERN (23 Aug). ACTION REQUIRED TUESDAY.**
+**Last 4 km of the 18 km: pain/fatigue in the knee ligament-tendon on the side OPPOSITE the injury, plus the RIGHT FOOT. Monday morning: no pain, general bilateral leg fatigue only.**
+*(Assumption to confirm — the injury was posteromedial RIGHT knee, so "opposite side" is read as the **lateral right knee**, same leg, other aspect; both symptoms are on the right. If it was the LEFT knee, this reads differently and needs revising.)*
+
+**This is the textbook signature of gait compensation around a healing medial structure** — load redistributed to the lateral structures and the foot of the same leg, appearing **only under fatigue**, in **exactly the last-quarter window flagged on 22 Aug**. Two things keep it yellow:
+1. **The original medial injury stayed completely silent across all 18 km.** The structure that mattered held.
+2. **Full resolution inside 24 h.** A structural problem does not clear overnight; a load-distribution problem does.
+
+**But Week 5 puts race pace back in twice** — Thu 8 km with the last 4 at 4:50, Sun 30 Aug 14 km with the middle 6 at 4:50 — **and higher force through an altered gait is how a compensation becomes an injury.**
+
+**✅ Tue 25 Aug Barry's — PLYOMETRICS MODIFIED AS PRESCRIBED.** 129 avg / **max 167, Zone 4 0:00** against 172 / 1:02 on the 18 Aug jumping-lunge session. The HR signature confirms the modification was executed. Lightest distribution of the block (Z2+3 45%) but fully explained: 48 h after the 18 km peak, a 06:00 class off ~6.5 h sleep, and plyometrics — the biggest HR driver in a lower class — deliberately removed.
+
+**🦶 RIGHT FOOT LOCATED (25 Aug): dorsal aspect at the base of the 4th and 5th toes** — top of the foot where the two smallest toes meet the forefoot, described as "that ligament area". That is the **dorsal 4th/5th MTP region / lateral column**, soft tissue rather than bone shaft.
+**Most likely extensor tendon irritation or lacing pressure over the dorsum, secondary to lateral-column overload** — which fits the compensation story exactly: offloading the medial right knee shifts load laterally down the same leg. **First action, cheapest and highest-yield: re-lace to skip the eyelet over the sore spot and take dorsal pressure off it.**
+**🚨 RULE-OUT — metatarsal stress reaction.** Would be point-tender on the **bone**, painful on hopping, would **not** clear overnight, and would worsen run to run. His resolved inside 24 h and is dorsal soft tissue, so this is unlikely. **But if point bone tenderness, pain on hopping, swelling, night pain, or a worsening run-to-run pattern appears — stop running and get it assessed.**
+
+**⚠️ BARRY'S INTENSITY — FOUR-SESSION DOWNWARD TREND. Not a flag yet; naming it before it becomes one.**
+
+| Date | Avg | Max | Zone 3 | Zone 4 | Z2+3 | Lunges |
+|---|---|---|---|---|---|---|
+| 28 Jul | 125 | 168 | 1:31 | 0:05 | **32%** ← "too light" flag | walking |
+| 4 Aug | **135** | 165 | 7:22 | 0:00 | **64%** | walking |
+| 11 Aug | 133 | 168 | 7:37 | 0:09 | 58% | walking |
+| 18 Aug | 131 | **172** | **8:15** | **1:02** | 49% | **jumping** |
+| 25 Aug | **129** | 167 | 4:50 | 0:00 | **45%** | modified |
+
+Every individual step has an explanation, but the direction is consistent: **135 → 133 → 131 → 129, and 64% → 58% → 49% → 45%.** Drifting toward the 28 Jul territory without being there (Zone 3 at 4:50 is still triple 28 Jul's 1:31). **It becomes a flag if the next unmodified session does not return to ~135 with Zone 2+3 above 55%.** Per `CLAUDE.md`, Barry's is a conditioning **asset** — a session drifting light is a lost stimulus, not a saved one.
+
+**Remaining actions on the compensation flag:**
+- **🔴 Confirm whether the knee/foot were symptomatic during or after Tuesday's class** — no report received, and absence of a report is not a clean report. Walking lunges, no jump squats, no box jumps. Jumping lunges resumed only 18 Aug, this is 48 h after the longest run ever run, and there is a live compensation signal. **Barry's still happens — the plyometrics are the negotiable part.**
+- **Report the right-foot location before Thursday** — arch, heel, forefoot or outside edge each mean something different.
+- **Any return of lateral knee or foot symptoms ENDS a race-pace segment.** Drop to easy and finish aerobically. Two weeks out, a race-pace rep is worth nothing against a compromised start line.
+- **Physio** if it recurs on a second run, or persists beyond 24 h on any occasion.
+
+**📉 DECOUPLING 6.2% (23 Aug) — noted, not a flag.** EF 1.628 (km3-10) → 1.526 (km11-18), above the 5% threshold and against 4.3% on the 12 km of 2 Aug. Longer runs decouple more and 1 h 44 in late-August London carries thermal load. **The drift was purely HR at constant power and pace — nothing faded but the heart rate's efficiency.** The one number in that session that is not a personal best.
+
+**🟢 KNEE (original, posteromedial right) — RESOLVED (22 Aug), and it held through 18 km.** No pain, **no pain on pressing** — the residual tenderness has cleared at ~3 days post-mechanism. **Two pain-free loading exposures:** Fri 21 Aug six graded functional-test steps plus a full 5 km with zero pain, and Sat 22 Aug cycling, pain-free. **This meets the criterion set on 21 Aug** (*"18 is back on the table only if the knee is completely silent"*) — not a relaxed version of it.
+
+**Saturday's 5 km gate test was lost to family commitments** — third Saturday lost in the block — **and that helps.** It converts to a second consecutive rest day, giving **48 h between Friday's run and Sunday's 18 km.** Had it gone ahead, Sunday would have been the third run in three days.
+
+**Sunday: 18 km @ 5:45/km, HR <150 hard cap, straight aerobic, no race-pace finish.** Pace eased from 5:40 and **slower is correct.** **NON-NEGOTIABLE: any knee pain at all → STOP AND WALK.** Not ease off — stop. Turning round at km9 is a good outcome. **Loop or out-and-back close to home; flat even ground; avoid road camber** (the one case where the usual trail suggestion is wrong — uneven ground loads the medial knee worse). **Morning press-test: any return of tenderness → 14 km.** Full reasoning: `07_decisions/decision_log.md`, 22 Aug.
+
+**⚠️ OVERSPEED FLAG RE-OPENED (21 Aug) — and this is the one that matters on Sunday.** The post-injury 5 km ran **km4 at 5:28/km, 222 w — 22 sec/km faster than the 5:50 floor**, on the one run whose entire purpose was minimum mechanical load through an injured knee. Body-km spread **28 sec/km against 5 sec/km on 19 Aug.** HR held at 141 so the cardiovascular cost was nil, but cardiovascular cost was never the point. Ends the four-session clean streak (5 Aug, 12 Aug, 16 Aug body, 19 Aug). **On 18 km, a 5:28 kilometre on this leg is the failure mode.** 16 Aug held 5 sec/km of drift over 12 km — that is Sunday's standard.
+
+**🔵 SUPERSEDED — ACUTE POSTEROMEDIAL RIGHT KNEE INJURY (Wed 19 Aug). THURSDAY'S THRESHOLD CANCELLED.**
+**Mechanism: non-training.** Daughter gripped the right leg and went deadweight — a sudden traction/valgus load through a planted leg. **Location: posteromedial right knee, behind and inside the joint** (photo supplied, pointing at the posteromedial joint line — the region of the **distal medial hamstring tendons, semimembranosus/semitendinosus, and the posteromedial corner**). **Status Thu 20 Aug (~18 h post): still slightly painful. Point tenderness on palpation. Some running movements pain-free.**
+
+**That reads as a low-grade strain in the acute window — and low-grade can go either way depending on what is loaded next.** Threshold at 4:18/km is the worst available choice: it is a large step up in hamstring force, knee flexion velocity and ground reaction force over 5:45/km easy running, and the medial hamstring tendons are loaded hardest exactly where pace comes from. **The threshold is dropped for the week, not rolled to Friday** — the standing rule in `current_week_plan.md`, written before this happened, already decided it: *"Sunday outranks everything… If Thursday has to go again, drop it."*
+
+**Graded functional test before any running today** — each step pain-free to progress; **pain *during* a movement stops it, palpation tenderness alone does not**: 5 min walk → stairs down and up → single-leg stand right 30 s → single-leg squat right ×5 to ~45° → heel raises right ×10 → 400 m jog. **All six clear → easy 5 km @ 5:50–6:00, HR <145, flat even ground, abort at the first pain.** Any step fails → complete rest.
+
+**🚨 ESCALATE TO A PHYSIO — do not self-manage — if any of these appear:** swelling, giving way or instability, locking or catching, inability to fully straighten or fully bend, night pain, pain worse Friday than Thursday, or anything still present in 5–7 days. A traction mechanism with posteromedial pain warrants hands-on assessment if it does not settle quickly.
+
+**📉 SUNDAY DOWNGRADED — the 18 km is no longer "the block's real gate".** That framing was written before an injury existed. **16 km at 5:42 with 3 km at 4:52 @ 161 bpm / 246 w is already banked, and he has 5–6 previous half marathons.** The marginal value of 18 over 16 km is modest; the cost of aggravating a medial knee structure 17 days out is the race.
+- Clean Thursday test **and** clean Saturday 6 km → **18 km as prescribed**
+- Any residual symptom → **14 km @ 5:45, HR <150**, abort at any knee pain
+- Pain walking or at rest on Saturday → **no long run**
+
+**⚠️ THIRD CONSECUTIVE COMPROMISED THURSDAY** — 6 Aug under-pressed (4:23 vs 4:18), 13 Aug cancelled (RHR 62), 20 Aug cancelled (injury). **This block will finish with essentially no threshold progression. That is now a settled fact, not a risk.** It is the October 5K's problem; the half-marathon build is carried by the long runs and those have all landed.
+
+**🟢 Tue 25 Aug Barry's — pre-flagged.** Jumping lunges resumed only 18 Aug. **If the knee is still symptomatic, modify every plyometric element again** — jumping lunges, jump squats, box jumps — regardless of how the leg feels that morning. Barry's still happens; the plyometrics are the negotiable part.
+
+**🟢 Thu 20 Aug morning readings — SYSTEMICALLY GREEN, and irrelevant to the decision.** **Resting HR 53** (inside the 49–55 band, second-lowest of the block after 16 Aug's 49), **sleep 6.5 h, interrupted, no wakeups.** Nothing in the fatigue or illness picture argued against the threshold. **The knee is the entire reason it is off.**
+
+
 **🟢 RESTING HR — FLAG WITHDRAWN (1 Aug). Actual reading 52, at baseline.**
 Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initially flagged was **Apple Health's daily computed resting HR — not a measurement.** Apple derives that figure algorithmically from inactive periods across the whole day, runs systematically higher than a seated reading, and lags a day; **it is not comparable to the <55 baseline, which came from direct measurement.** Comparing them was an error. The 52 agrees with everything else in the session (5:29/km @ 138, post-workout 97→87→**70**, 8 s total in Zone 3+). Sunday's 12 km proceeded as planned.
 
@@ -165,7 +254,9 @@ Seated Wahoo TICKR reading pre-run was **52** (baseline <55). The **63** initial
 
 **Superseded v1:** `Resting_HR_Morning` = seated chest-strap reading taken before getting up and moving. That is the governing number against the <55 baseline and the >60 rest-day rule. Apple's daily figure may be tracked alongside **as a trend only** — a drift from 63 → 70 over several days still signals something; the absolute value never gets compared to 55. Third independent point in favour of the TICKR (it also caught the 30 Jul 20-second strides at 179, which optical cannot do).
 
-**🟡 Barry's lunge flag — REOPENED (8 Aug) for one session.** The 14 km moving to Mon 10 Aug puts it ~20 h before Tuesday's class, so **walking lunges on Tue 11 Aug as well; jumping lunges resume Tue 18 Aug.** Original closure below.
+**🟢 Barry's lunge flag — FULLY CLOSED (18 Aug). Jumping lunges executed, no symptoms reported.** Four modified sessions in total (28 Jul, 4 Aug, 11 Aug walking; 12 Aug extended to all plyometrics), then a clean plyometric session on 18 Aug at 131 avg / 172 max with Zone 4 at 1:02 — under the 7 Jul pre-gap profile on every axis. **The 31 Mar VMO precedent is retired.** The rule that survives is the general one in `CLAUDE.md`: after any attendance gap, walking lunges for the first 2–3 sessions back. **No standing restriction on lower-body Barry's from here to 6 Sep**, other than the <155 cap and the fatigue rule if a long run lands within ~24 h.
+
+**🟡 Barry's lunge flag — REOPENED (8 Aug) for one session — superseded by the closure above.** The 14 km moving to Mon 10 Aug put it ~20 h before Tuesday's class, so **walking lunges on Tue 11 Aug as well; jumping lunges resumed Tue 18 Aug.** Original closure below.
 
 **🟢 Barry's lunge flag — closed 4 Aug. 2 of 2 done.** Walking lunges Tue 28 Jul (125/168) and Tue 4 Aug (135/165), no VMO or inner-quad symptoms reported at either. **Normal jumping lunges resume Tue 11 Aug.** Precedent retired: the 31 Mar VMO twinge came from exactly the pattern this protocol was built to avoid (21-day gap → jumping lunges). *Note: the 4 Aug substitution is assumed per plan, not explicitly confirmed by the athlete.*
 
