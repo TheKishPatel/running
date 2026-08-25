@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 17 Aug 2026*
+*Last updated: 25 Aug 2026*
 
 ---
 
@@ -17,7 +17,7 @@
 | **27 Jun (tune-up)** | — | **Sub-21 tune-up — DONE: 5K ~22:21, ~30°C, eased** | ✅ Completed | n/a (tune-up) |
 | Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | ✅ Complete | Gate 16 Jul: sub-20 off |
 | **5K GOAL RACE** | — | **Sat 25 Jul 2026 — ~21:27, 24°C, heat-limited. PB (20:59) intact** | ✅ Complete | n/a |
-| **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | 🔄 **Week 4 — PEAK** (W1–W3 ✅ complete) | ✅ W2 gate, ✅ W3 gate (judged) |
+| **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | 🔄 **Week 5 — final training week** (W1–W4 ✅ complete) | ✅ W2 gate, ✅ W3 gate, ✅ **W4 PEAK gate (23 Aug)** |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — target 1:42** | ⏳ Upcoming | — |
 | 5K sharpening block | — | ~Sep–Oct (post-half) | ⏳ Planned | — |
 
@@ -76,6 +76,9 @@
 |----|-------|-----------|-----------|-------|
 | 1 | 27 Jul – 2 Aug | ~24 | **~24.5** | ✅ Recovery + re-entry after the 25 Jul race. On plan. |
 | 2 | 3 – 9 Aug | ~34 | **12.55** | Long run moved into W3 (32°C); Sat cancelled (childcare) |
+| 3 | 10 – 16 Aug | ~37 | **36.3** | Two long runs (14 + 16); Thu VO2max cancelled (RHR 62) |
+| **4** | **17 – 23 Aug** | ~40.5 | **30.03** | **PEAK GATE PASSED — 18.01 km, 132 avg / max 145, cap never touched.** Thu threshold cancelled (knee injury); Sat lost (family) |
+| 5 | 24 – 30 Aug | ~33 | *in progress* | Race pace returns twice: Thu 4 km @ 4:50, Sun 14 km with middle 6 @ 4:50 |
 | 3 | 10 – 16 Aug | ~37 | **~36.3** | Two long runs (14 + 16); VO2max lost to RHR 62. **On plan anyway** |
 | 4 | 17 – 23 Aug | **~40.5** | | **PEAK — more than has ever actually been run** |
 | 5 | 24 – 30 Aug | ~34 | | Volume down, specificity up |
@@ -339,3 +342,30 @@
 | 12 | 15-21 Jun | 25 | | | | Phase 4 (1 week only) |
 | 13 | 22-28 Jun | 15 | | | | Phase 5 taper + race |
 | **Total** | | **~407km** | | | | |
+
+---
+
+## Half Block — Gate Status (updated 25 Aug 2026)
+
+| Gate | Condition | Result |
+|---|---|---|
+| W2 (10 Aug) | 14 km completed, HR cap respected | ✅ Passed |
+| W3 (16 Aug) | 16 km, creep held, race-pace finish earned | ✅ Passed — **3 km @ 4:52 / 161 bpm / 246 w off 13 km** |
+| **W4 (23 Aug) — PEAK** | **18 km at HR <150, no collapse km15–18** | ✅ **PASSED with room. 18.01 km, 132 avg, MAX 145, Z3/Z4/Z5 zero. Quarters 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8** |
+| **W5 (30 Aug) — FINAL READ** | **6 km @ 4:50 inside a 14 km run, HR ≤166, no symptoms** | ⏳ **Sun 30 Aug — the last input before the start line** |
+
+**Long-run ramp complete: 12 ✅ → 14 ✅ → 16 ✅ → 18 ✅.** No 21 km training run, by design.
+
+### What the block delivered, and what it did not
+
+**Delivered — both halves of the race are evidenced:**
+- **Race pace at sub-threshold cost:** 3 km @ 4:52/km, 161 bpm, 246 w (~89% of threshold power) off 13 km of prior running (16 Aug)
+- **Durability at race duration:** 18 km at 5:45 with efficiency **1.575 w/bpm** vs 1.529 a week earlier — 16 km cost less per beat than 12 km had (23 Aug)
+
+**Not delivered — threshold progression.** 4:20/km (2 Jul) → 4:23/km (6 Aug) → nothing. **Three consecutive compromised Thursdays:** 6 Aug under-pressed, 13 Aug cancelled (RHR 62), 20 Aug cancelled (knee injury). **This is the October 5K's bill, not 6 September's.**
+
+**Race target: 1:42 (4:50/km), negative split, never faster than 4:55 in the first 5 km.**
+
+### Active injury watch into race week
+
+**🟡 Fatigue-dependent gait compensation (23 Aug):** lateral knee + dorsal right forefoot (4th/5th MTP) in the last 4 km of the 18; resolved inside 24 h; silent through the 25 Aug Barry's. Original posteromedial medial injury resolved 22 Aug and stayed silent across all 18 km. **Abort rule on both Week 5 quality sessions; plyometrics stay modified through race week.**
