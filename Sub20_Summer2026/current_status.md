@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 24 Aug 2026*
+*Last updated: 25 Aug 2026*
 
 ---
 
@@ -186,8 +186,26 @@ Weekly structure: **Mon rest / Tue Barry's lower / Wed easy (new) / Thu quality 
 
 **But Week 5 puts race pace back in twice** — Thu 8 km with the last 4 at 4:50, Sun 30 Aug 14 km with the middle 6 at 4:50 — **and higher force through an altered gait is how a compensation becomes an injury.**
 
-**ACTIONS:**
-- **🔴 Tue 25 Aug Barry's — MODIFY THE PLYOMETRICS.** Walking lunges, no jump squats, no box jumps. Jumping lunges resumed only 18 Aug, this is 48 h after the longest run ever run, and there is a live compensation signal. **Barry's still happens — the plyometrics are the negotiable part.**
+**✅ Tue 25 Aug Barry's — PLYOMETRICS MODIFIED AS PRESCRIBED.** 129 avg / **max 167, Zone 4 0:00** against 172 / 1:02 on the 18 Aug jumping-lunge session. The HR signature confirms the modification was executed. Lightest distribution of the block (Z2+3 45%) but fully explained: 48 h after the 18 km peak, a 06:00 class off ~6.5 h sleep, and plyometrics — the biggest HR driver in a lower class — deliberately removed.
+
+**🦶 RIGHT FOOT LOCATED (25 Aug): dorsal aspect at the base of the 4th and 5th toes** — top of the foot where the two smallest toes meet the forefoot, described as "that ligament area". That is the **dorsal 4th/5th MTP region / lateral column**, soft tissue rather than bone shaft.
+**Most likely extensor tendon irritation or lacing pressure over the dorsum, secondary to lateral-column overload** — which fits the compensation story exactly: offloading the medial right knee shifts load laterally down the same leg. **First action, cheapest and highest-yield: re-lace to skip the eyelet over the sore spot and take dorsal pressure off it.**
+**🚨 RULE-OUT — metatarsal stress reaction.** Would be point-tender on the **bone**, painful on hopping, would **not** clear overnight, and would worsen run to run. His resolved inside 24 h and is dorsal soft tissue, so this is unlikely. **But if point bone tenderness, pain on hopping, swelling, night pain, or a worsening run-to-run pattern appears — stop running and get it assessed.**
+
+**⚠️ BARRY'S INTENSITY — FOUR-SESSION DOWNWARD TREND. Not a flag yet; naming it before it becomes one.**
+
+| Date | Avg | Max | Zone 3 | Zone 4 | Z2+3 | Lunges |
+|---|---|---|---|---|---|---|
+| 28 Jul | 125 | 168 | 1:31 | 0:05 | **32%** ← "too light" flag | walking |
+| 4 Aug | **135** | 165 | 7:22 | 0:00 | **64%** | walking |
+| 11 Aug | 133 | 168 | 7:37 | 0:09 | 58% | walking |
+| 18 Aug | 131 | **172** | **8:15** | **1:02** | 49% | **jumping** |
+| 25 Aug | **129** | 167 | 4:50 | 0:00 | **45%** | modified |
+
+Every individual step has an explanation, but the direction is consistent: **135 → 133 → 131 → 129, and 64% → 58% → 49% → 45%.** Drifting toward the 28 Jul territory without being there (Zone 3 at 4:50 is still triple 28 Jul's 1:31). **It becomes a flag if the next unmodified session does not return to ~135 with Zone 2+3 above 55%.** Per `CLAUDE.md`, Barry's is a conditioning **asset** — a session drifting light is a lost stimulus, not a saved one.
+
+**Remaining actions on the compensation flag:**
+- **🔴 Confirm whether the knee/foot were symptomatic during or after Tuesday's class** — no report received, and absence of a report is not a clean report. Walking lunges, no jump squats, no box jumps. Jumping lunges resumed only 18 Aug, this is 48 h after the longest run ever run, and there is a live compensation signal. **Barry's still happens — the plyometrics are the negotiable part.**
 - **Report the right-foot location before Thursday** — arch, heel, forefoot or outside edge each mean something different.
 - **Any return of lateral knee or foot symptoms ENDS a race-pace segment.** Drop to easy and finish aerobically. Two weeks out, a race-pace rep is worth nothing against a compromised start line.
 - **Physio** if it recurs on a second run, or persists beyond 24 h on any occasion.
