@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 25 Aug 2026*
+*Last updated: 26 Aug 2026*
 
 ---
 
@@ -11,6 +11,8 @@
 **Both halves of the race are now evidenced:** the pace (16 Aug — 3 km at 4:52/km @ 161 bpm, 246 w, off 13 km) and the durability (23 Aug — 18 km still running economically at 1 h 44). **Race target 1:42 (4:50/km) confirmed.**
 
 **⚠️ ONE NEW FLAG — fatigue-dependent compensation.** Last 4 km of the 18: pain/fatigue in the knee ligament-tendon **opposite** the injury plus the **right foot**; fully resolved next morning. **The original medial injury stayed silent across all 18 km.** Yellow, not red — but Week 5 puts race pace back in twice. Detail below.
+
+**⬜ WED 26 AUG — EASY 6 km CANCELLED (birthday). Not rolled to Friday.** Week 5 revised to **~27 km across 3 runs + 1 Barry's; the 10 km at race pace is unchanged.** Freshness cost is nil — an extra rest day 48 h out from quality is a gain. **The cost is diagnostic:** this run was the shoe test for the dorsal foot spot and the pre-quality HR go-band read. **Both now sit in Thursday's 3 km warm-up, with a hard abort attached** — any dorsal or lateral knee symptom in the warm-up ends the session before the main set; warm-up HR >150 cuts the main set from 4 km to 3 km. **Thursday morning's resting HR carries the full pre-quality load with no Wednesday run to corroborate it** — the same position as 6 Aug (proceed) and 13 Aug (cancel). **Re-laced shoe to be done Wednesday so Thursday tests the fix, not the problem.**
 
 **⚠️ Threshold has not moved all block** — 4:20 (2 Jul), 4:23 (6 Aug), then three consecutive compromised Thursdays (under-pressed, RHR 62, knee injury). **Settled fact. It is the October 5K's bill, not 6 Sep's.**
 

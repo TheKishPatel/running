@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 25 Aug 2026*
+*Last updated: 26 Aug 2026*
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (12 days out). Full block: `big_half_block_Sep2026.md`.**
 
-**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~33 km across 4 runs + 1 Barry's, with 10 km of it at 4:50/km.**
+**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~27 km across 3 runs + 1 Barry's, with 10 km of it at 4:50/km.** *(Revised 26 Aug — Wednesday's easy 6 km cancelled, birthday. Race-pace volume unchanged.)*
 
 **Coming off a peak week that lost its threshold session and its Saturday and still delivered the block's objective.** 18.01 km at 5:48/km, **132 avg, max 145 — the <150 cap was never touched, Zone 3/4/5 all zero.** Quarters ran 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8: flat, last quarter slowest. **Efficiency km3–18 was 1.575 w/bpm against 1.529 for the 16 Aug body — 16 km cost less per beat than 12 km did a week earlier.**
 
@@ -22,13 +22,18 @@
 **129 avg / 167 max.** Z1 26:35 / Z2 17:16 / Z3 4:50 / **Z4 0:00** / Z5 0:00. Post 106→93→87.
 **Plyometrics modified as prescribed** (max 167 and Z4 zero against 172 / 1:02 on 18 Aug). **No pain — knee and foot both silent.** Lightest distribution of the block (Z2+3 45%), explained by the 18 km 48 h prior, a 06:00 start on ~6.5 h sleep, and the modification itself.
 
-### Wed 26 Aug — EASY 6 km
+### Wed 26 Aug — ~~EASY 6 km~~ **CANCELLED — birthday, no run** ⬜
 | Component | Detail |
 |-----------|--------|
-| Session | **6 km @ 5:45/km, HR <150** |
-| km1 | 6:00–6:10 |
+| ~~Session~~ | ~~6 km @ 5:45/km, HR <150~~ |
 
-**Two jobs beyond the volume.** First, **test the re-laced shoe** — skip the eyelet over the sore dorsal spot before you run, not after. Second, this is the last easy run before race pace returns; the go-band at 5:45/km is **138–145**, and above ~150 means Thursday gets trimmed.
+**Cancelled, not rolled.** It does not move to Friday: Friday's rest is what protects Sunday, and Sunday outranks everything left in the block (Standing rule 1). Week volume drops ~33 → ~27 km. **The 10 km at race pace is untouched — that is the part of this week that matters, and it is intact.**
+
+**Cost is near zero on freshness** — an extra rest day 48 h out from a quality session is a gain, not a loss. **The real cost is the two diagnostics this run was carrying. Both move into Thursday's warm-up (see below).**
+
+**Do today, not tomorrow: RE-LACE THE SHOE.** Skip the eyelet over the dorsal sore spot now. The lacing change is free and does not need a run to make; what needed the run was the *test*, and that has moved.
+
+**Alcohol: ZERO is still in force (Standing rule 7), birthday included.** 11 days out, and illness is the #1 determinant of this block. It is not a rule with an exemption written into it.
 
 ### Thu 27 Aug — RACE-PACE REHEARSAL ⭐
 | Component | Detail |
@@ -40,6 +45,19 @@
 | Format | **Structured watch workout — mandatory** |
 
 **Total 8 km. All whole kilometres, so the auto-splits line up with the work.**
+
+**⚠️ THE WARM-UP NOW CARRIES WEDNESDAY'S TWO JOBS. Run it as a diagnostic, not as filler.**
+
+| Warm-up read (3 km @ 5:45) | Action on the main set |
+|---|---|
+| **Any dorsal foot pressure or lateral knee symptom** | **STOP. Do not start the main set.** Finish easy. The abort rule applies in the warm-up, not just the reps |
+| HR settles **138–145** | **4 km @ 4:50 as written** |
+| HR **146–150** | 4 km @ 4:50, but hold the ceiling hard — ease to 4:55 above 168 |
+| HR **>150** | **Cut the main set to 3 km @ 4:50.** Sunday is the session that matters |
+
+**The shoe test is now inside the warm-up.** That is later than wanted — the whole point of Wednesday was to find a lacing problem with 24 h to fix it — so the compensating rule is that the warm-up gets a real abort, above. **A dorsal hot spot at km2 of the warm-up ends the session; it does not get run through to see if it settles.**
+
+**Thursday morning's resting HR now carries the full load as the pre-quality input**, with no Wednesday run to corroborate it. Same position as 6 Aug and 13 Aug, both of which it decided. Apply the morning ladder below before you leave the house.
 
 **This is a rehearsal, not a test.** First quality session in three weeks (last: 6 Aug). Its job is to put race pace back into the legs three days before the session that matters — **not to prove anything.** Sunday proves things.
 
@@ -85,13 +103,13 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 ### Week 5 Log
 **Mon 24 Aug:** ✅ Rest.
 **Tue 25 Aug:** ✅ Barry's (lower), plyometrics modified — **129 / 167, Z4 zero, no pain.**
-**Wed 26 Aug:** ⏳ Easy 6 km @ 5:45. **Test the re-laced shoe.**
-**Thu 27 Aug:** ⏳ **Race-pace rehearsal — 3 km + 4 km @ 4:50 + 1 km.**
+**Wed 26 Aug:** ⬜ **CANCELLED — birthday.** Not rolled. Re-lace the shoe today.
+**Thu 27 Aug:** ⏳ **Race-pace rehearsal — 3 km + 4 km @ 4:50 + 1 km. Warm-up is now the shoe test AND the HR diagnostic.**
 **Fri 28 Aug:** ⏳ Rest.
 **Sat 29 Aug:** ⏳ Easy 5 km @ 5:50.
 **Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ.**
 
-**Planned volume: ~33 km across 4 runs + 1 Barry's. 10 km of it at race pace.**
+**Revised volume: ~27 km across 3 runs + 1 Barry's. 10 km of it at race pace — unchanged.**
 
 ---
 
@@ -105,7 +123,7 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 
 **Before Thursday:**
 1. **Re-lace** to skip the eyelet over the dorsal sore spot. Cheapest fix, highest yield — dorsal foot pain is lace pressure far more often than anything else.
-2. **Test it Wednesday**, not Thursday.
+2. ~~Test it Wednesday, not Thursday.~~ **Wednesday is cancelled — the test is now the first 3 km of Thursday's warm-up, with a hard abort attached (see Thursday).** Re-lace today so the test is of the fix, not of the problem.
 
 **🚨 Stop running and get it assessed** if any of: point tenderness on the **bone**, pain on hopping, swelling, night pain, or a pattern that worsens run to run.
 
