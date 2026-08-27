@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 27 Aug 2026 (evening)*
+*Last updated: 27 Aug 2026 (late)*
 
 ---
 
@@ -28,9 +28,11 @@
 
 **22:28 DOES NOT READ ON SUB-20** — no warm-up, positive split, mid-half-block, no speed work since 2 Jul. **Warmed up, evenly paced and rested this body projects to ~21:15–21:45** — ~90 s off the October target, and the most useful 5 km datapoint the campaign has produced. **Not a 6 Sep signal either way**; 16 Aug and 23 Aug remain the evidence there. **⚠️ The threshold read is NOT clean** (km3 4:24 @ 179 vs 6 Aug's 4:23 @ 169, but off a 4:14 with no warm-up, in the evening, on a 56 morning) — **do not conclude threshold has declined.**
 
-**🔻 CONSEQUENCE — SUNDAY'S RACE-PACE BLOCK TRIMMED 6 km → 4 km.** HR was ≥174 from km2 to the finish, ~18 min at Zone 4 or above. A genuine max 5 km costs 2–3 days and **Sunday morning is ~60 h out, inside that window.** Total stays 14 km: **5 km easy / 4 km @ 4:50 / 5 km easy.** **The final read survives — 4 km at 4:50 still exceeds the 3 km that produced the 16 Aug finding.** Saturday stays a 5 km shakeout; 3 km or nothing if the legs are heavy.
+**✅ COMPENSATION FLAG DOWNGRADED — KNEE AND FOOT CLEAN AT MAXIMUM FORCE.** Reported clear after the effort. **The flag has now been tested at 4:14/km and 187 bpm** — by a wide margin the highest force since the injury, and far above anything 4:50/km will ask — **and it stayed silent.** Stronger evidence than any easy run could have produced. It remains **fatigue-dependent** (23 Aug's onset was at km15–18 of 18 km, not under force alone), so the abort rule stands, but **the force question is answered.** **The shoe question is closed with it** — no dorsal symptom through a maximal 5 km.
 
-**🚩 OPEN AND URGENT — THE COMPENSATION FLAG IS UNTESTED AT THIS FORCE. No report yet on the lateral right knee or the dorsal 4th/5th metatarsal area.** By a clear margin the highest-force running since the injury, and the 23 Aug flag is explicitly force-dependent. **Status required during, after, and Friday morning. Absence of a report is not a clean report.**
+**🔁 SUNDAY STAYS AT 6 km AT RACE PACE — a trim to 4 km was proposed and then reversed (athlete's call, and the evidence supports it).** The trim rested on the knee/foot being untested at force; that unknown is now resolved. **4:50/km is sub-threshold — ~89% of threshold power on the 16 Aug numbers — not a session requiring full freshness, and it is self-regulating:** the 168 HR ceiling and the ease-to-4:55 rule mean fatigue presents as data rather than as a blow-up, and the verdict table reads that correctly. **Residual risk, stated once: Thursday's effort means Sunday starts on pre-existing fatigue, so the deep-fatigue window arrives earlier in the run than on 23 Aug — a timing difference, not a force one.** **The only gate is the morning ladder, which predates the disagreement: ≤55 → 6 km; 56–60 → 4 km; >60 → rest.** Saturday stays a 5 km shakeout; 3 km or nothing if the legs are heavy.
+
+**❌ WITHDRAWN — THE RE-LACING ADVICE WAS WRONG, TWICE OVER.** It was prescribed **without establishing which shoe was involved**: skipping an eyelet is standard practice on a conventional trainer with 6–7 lace points and **a bad idea on an Adizero Evo**, whose stripped-down upper has so few lace points that dropping one removes a meaningful share of the midfoot hold. **More basically, the symptom sits at the dorsal base of the 4th/5th toes — distal to where lacing pressure acts at all.** The fix did not match the anatomy; **forefoot compression and lateral-column load were always the better hypotheses.** **Establish the shoe model before prescribing any footwear change.**
 
 **DATA NOTE: zones sum to 14:41 against 22:28 elapsed — a 7:47 gap, far larger than this log's usual ~1–3 min.** HR was ≥174 from km2 onward, so true Zone 4+5 time is well above the 12:08 displayed; **~18 min is the honest figure.**
 

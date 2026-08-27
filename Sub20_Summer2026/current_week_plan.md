@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 27 Aug 2026 (evening)*
+*Last updated: 27 Aug 2026 (late)*
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (12 days out). Full block: `big_half_block_Sep2026.md`.**
 
-**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~24 km across 3 runs + 1 Barry's.** *(Revised 27 Aug evening — Wed 26 Aug full rest, birthday. Thu 27 Aug rehearsal lost to a thunderstorm; the evening run club was then RACED as an unplanned maximal 5 km, 22:28, max 187. Sunday's race-pace block trimmed 6 km → 4 km in consequence.)*
+**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~24 km across 3 runs + 1 Barry's.** *(Revised 27 Aug evening — Wed 26 Aug full rest, birthday. Thu 27 Aug rehearsal lost to a thunderstorm; the evening run club was then RACED as an unplanned maximal 5 km, 22:28, max 187. Sunday's block stays at 6 km — knee and foot clean at max force; the morning ladder is the gate.)*
 
 **Coming off a peak week that lost its threshold session and its Saturday and still delivered the block's objective.** 18.01 km at 5:48/km, **132 avg, max 145 — the <150 cap was never touched, Zone 3/4/5 all zero.** Quarters ran 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8: flat, last quarter slowest. **Efficiency km3–18 was 1.575 w/bpm against 1.529 for the 16 Aug body — 16 km cost less per beat than 12 km did a week earlier.**
 
@@ -46,7 +46,7 @@
 
 **22:28 does not read on sub-20** — no warm-up, positive split, no speed work since 2 Jul. Warmed up, evenly paced and rested this body projects to **~21:15–21:45**. That is the October project's starting line, not a 6 Sep signal. **The threshold read is not clean either** (km3 4:24 @ 179 vs 6 Aug 4:23 @ 169, but off a 4:14 and no warm-up) — **do not conclude threshold has declined.**
 
-**🚩 OPEN AND URGENT: no report yet on the lateral right knee or the dorsal 4th/5th metatarsal area.** This was by a clear margin the highest-force running since the injury, and the 23 Aug flag is explicitly force-dependent. **Status needed during, after, and Friday morning. Absence of a report is not a clean report.**
+**✅ KNEE AND FOOT CLEAN — REPORTED CLEAR AFTER THE EFFORT. THIS IS THE MOST VALUABLE RESULT IN THE SESSION.** The compensation flag has now been tested at **4:14/km and 187 bpm** — by a wide margin the highest force since the injury, and far above anything 4:50/km will ask — **and it stayed silent.** Stronger evidence than any easy run could have produced. **The 23 Aug flag is downgraded for 6 Sep**: it remains fatigue-dependent (it appeared at km15–18 of 18 km, not under force alone), so the abort rule stands, but the force question is answered.
 
 ---
 
@@ -128,18 +128,22 @@ Two further reasons, both live:
 
 Trimmed from 6. **Shakeout only — the day before the block's final quality session.** Three Saturdays in a row have been lost to real life; if this one goes too, say so Friday and it is cancelled rather than squeezed. Sunday outranks it.
 
-### Sun 30 Aug — 14 km WITH **4 km** AT RACE PACE ⭐⭐ **THE FINAL READ** *(trimmed 27 Aug)*
+### Sun 30 Aug — 14 km WITH 6 km AT RACE PACE ⭐⭐ **THE FINAL READ**
 | Component | Detail |
 |-----------|--------|
-| Segment 1 | **5 km @ 5:45/km**, HR <145 |
-| **Segment 2** | **4 km @ 4:50/km** *(was 6 km)* |
-| Segment 3 | **5 km @ 5:45/km**, HR <150 |
+| Segment 1 | **4 km @ 5:45/km**, HR <145 |
+| **Segment 2** | **6 km @ 4:50/km** |
+| Segment 3 | **4 km @ 5:45/km**, HR <150 |
 | HR (race-pace block) | **158–166** — ease to 4:55 above 168 |
 | Kit | **Chest strap.** Carry fluid |
 | Fuel | **Gel at 45 min** — race rehearsal |
 | Format | **Structured watch workout — mandatory** |
 
-**🔻 TRIMMED 6 km → 4 km AFTER THURSDAY'S MAXIMAL 5 km.** HR was ≥174 from km2 to the finish — ~18 min at Zone 4 or above, max 187. A genuine max 5 km costs 2–3 days and **Sunday morning is ~60 h out, inside that window.** **The read survives: 4 km at 4:50 still exceeds the 3 km that produced the 16 Aug finding.** A shorter measurement, not a lost one. Total stays 14 km.
+**🔁 TRIM REVERSED — 6 km STANDS (athlete's call, 27 Aug, and the evidence supports it).** The trim was proposed after Thursday's maximal 5 km; **the knee and foot then reported clean at 4:14/km and 187 bpm**, which was the main unknown behind it. **4:50/km is sub-threshold** — ~89% of threshold power on the 16 Aug numbers — not a session requiring full freshness. **It is also self-regulating:** the 168 HR ceiling and the ease-to-4:55 rule mean fatigue presents as *data* rather than as a blow-up, and the verdict table below already reads that correctly.
+
+**The one residual risk, stated once: Thursday's effort means Sunday starts on pre-existing fatigue, so the deep-fatigue window arrives EARLIER in the run than it did on 23 Aug.** That is the real difference between 6 km and 4 km here — timing, not force. The abort rule covers it.
+
+**🚦 THE ONLY GATE IS THE MORNING LADDER, WHICH PREDATES THIS DECISION: RHR ≤55 → 6 km as written. 56–60 → 4 km. >60 → complete rest.** That rule decided 5 Aug and 13 Aug and it is unchanged.
 
 **Total 14 km, ~76 min. The race-pace block sits in the MIDDLE, not at the end — deliberately.** The compensation flag appeared at km15–18 of the 18 km, i.e. in deep fatigue. Putting the hard work at km5–10 gets the race-pace read without ever entering that window.
 
@@ -147,8 +151,8 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 
 | Result | Verdict |
 |---|---|
-| **4 km at 4:50, HR ≤166, no symptoms** | **1:42 confirmed. Race plan as written.** |
-| 4 km at 4:53–4:58, or HR 167–172 | **Target 1:45. Race at 4:58/km.** |
+| **6 km at 4:50, HR ≤166, no symptoms** | **1:42 confirmed. Race plan as written.** |
+| 6 km at 4:53–4:58, or HR 167–172 | **Target 1:45. Race at 4:58/km.** |
 | Slower than 5:00, or HR >172 | **Race on effort, no pace target.** Something is wrong — report it Sunday |
 | **Any lateral knee or foot symptom** | **End the block immediately, finish easy.** See below |
 
@@ -160,12 +164,12 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 **Mon 24 Aug:** ✅ Rest.
 **Tue 25 Aug:** ✅ Barry's (lower), plyometrics modified — **129 / 167, Z4 zero, no pain.**
 **Wed 26 Aug:** ✅ **Rest — birthday, no run.** Prescribed 6 km cancelled, not rolled.
-**Thu 27 Aug:** ✅ **Run club 5 km RACED — 22:28, 4:29/km, 171 avg, MAX 187.** Fastest km of the campaign (4:14 @ 174) and the sharpest 1-min recovery in the log (174→132→114). **Heavily positive split, −14.4% efficiency.** Shoe cleared under max force. **Knee/foot status outstanding.**
+**Thu 27 Aug:** ✅ **Run club 5 km RACED — 22:28, 4:29/km, 171 avg, MAX 187.** Fastest km of the campaign (4:14 @ 174) and the sharpest 1-min recovery in the log (174→132→114). **Heavily positive split, −14.4% efficiency. KNEE AND FOOT CLEAN at max force — the compensation flag is downgraded.**
 **Fri 28 Aug:** ⏳ Rest.
 **Sat 29 Aug:** ⏳ Easy 5 km @ 5:50.
-**Sun 30 Aug:** ⏳ **14 km with middle 4 km @ 4:50 — THE FINAL READ** *(trimmed from 6 km after Thursday's max effort).*
+**Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ.** *(Trim reversed — knee and foot clean at max force; morning ladder is the only gate.)*
 
-**Actual volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: 4 km (Sunday). Thursday delivered ~18 min at Zone 4+ instead.**
+**Actual volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: 6 km (Sunday), or 4 km on a 56–60 morning reading. Thursday delivered ~18 min at Zone 4+ instead of its 3 km.**
 
 ---
 
@@ -178,8 +182,8 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 **ABORT RULE, BOTH QUALITY SESSIONS: any lateral knee or foot symptom ends the race-pace block on the spot.** Drop to 5:45 and finish the run aerobically. Do not "see if it settles."
 
 **Before Thursday:**
-1. **Re-lace** to skip the eyelet over the dorsal sore spot. Cheapest fix, highest yield — dorsal foot pain is lace pressure far more often than anything else.
-2. **Untested as of Thu 27 Aug** — Wednesday was rest and Thursday's session was stormed out. **Thursday evening's social 5 km is now the test, and Sunday is otherwise the first time the lacing meets race pace.** That is a reason to run tonight easy, not hard.
+1. ~~Re-lace to skip the eyelet over the dorsal sore spot.~~ **❌ WITHDRAWN 27 AUG — WRONG ADVICE, TWICE OVER.** It was prescribed **without establishing which shoe was involved**: skipping an eyelet is a standard fix on a conventional trainer with 6–7 lace points, and **a bad one on an Adizero Evo**, whose stripped-down upper has so few lace points that dropping one removes a meaningful share of the midfoot hold. **More basically, the symptom is at the dorsal base of the 4th/5th toes — distal to where lacing pressure acts at all.** The fix did not match the anatomy. **Forefoot compression and lateral-column load were always the better hypotheses.**
+2. **✅ RESOLVED — the shoe was clean through a maximal 5 km (4:14/km, 187 bpm).** No dorsal symptom at the highest force of the block. **The question is closed; no shoe change before 6 Sep** (Standing rule 10 — nothing new from here).
 
 **🚨 Stop running and get it assessed** if any of: point tenderness on the **bone**, pain on hopping, swelling, night pain, or a pattern that worsens run to run.
 

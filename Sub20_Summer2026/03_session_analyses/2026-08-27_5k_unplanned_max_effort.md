@@ -83,27 +83,71 @@ HR was **≥174 from km2 to the finish** — roughly 18 minutes at Zone 4 or
 above, peaking at 187. A genuine maximal 5 km carries a 2–3 day cost, and
 Sunday morning sits **~60 hours out**, inside that window.
 
-**DECISION — Sunday's race-pace block trims 6 km → 4 km.** Total stays 14 km,
-structure unchanged: **5 km easy / 4 km @ 4:50 / 5 km easy.**
-
-The read survives. **4 km at 4:50 still exceeds the 3 km that produced the
-16 Aug finding** — it is a shorter measurement, not a lost one. Saturday
-remains a 5 km shakeout; 3 km or nothing if the legs are heavy.
+**A trim of Sunday's race-pace block from 6 km to 4 km was proposed on this
+basis, then reversed — see section 7.** Sunday stands at 14 km with the middle
+**6 km @ 4:50**, gated only by the morning ladder. Saturday remains a 5 km
+shakeout; 3 km or nothing if the legs are heavy.
 
 ---
 
-## 5. Open and urgent — the compensation flag is untested at this force
+## 5. Resolved — the compensation flag held at maximum force
 
-**No symptom report yet on the lateral right knee or the dorsal 4th/5th
-metatarsal area.**
+**Knee and foot reported clean after the effort. This is the most valuable
+result in the session.**
 
-This was by a clear margin the highest-force running since the injury, well
-beyond anything the flag has been exposed to. The 23 Aug flag was explicitly
-fatigue- and force-dependent, and force is exactly what this session added.
+The flag has now been tested at **4:14/km and 187 bpm** — by a wide margin the
+highest force since the injury, and far above anything 4:50/km will ask — and
+it stayed silent. That is stronger evidence than any easy run could have
+produced.
 
-**Required: status during the run, immediately after, and Friday morning.**
-A clean report here is the single most valuable piece of information
-available before 6 Sep. Absence of a report is not a clean report.
+It remains **fatigue-dependent**: the 23 Aug onset came at km15–18 of an 18 km,
+not under force alone. The abort rule therefore stands. But **the force
+question is answered**, and the flag is downgraded going into 6 Sep.
+
+**The shoe question closes with it** — no dorsal symptom through a maximal
+5 km. No footwear change before the race (Standing rule 10).
+
+---
+
+## 6. Correction — the re-lacing advice was wrong
+
+It was prescribed **without establishing which shoe was involved.** Skipping an
+eyelet is a standard first-line fix for dorsal lace pressure on a conventional
+trainer with 6–7 lace points. It is a bad idea on an **Adizero Evo**, whose
+stripped-down racing upper has so few lace points that dropping one removes a
+meaningful share of the midfoot hold.
+
+More basically: the symptom sits at the **dorsal base of the 4th/5th toes**,
+which is distal to where lacing pressure acts at all. **The fix did not match
+the anatomy.** Forefoot compression and lateral-column overload were always the
+better hypotheses — the latter was in fact the original 25 Aug reading, and the
+lacing fix was bolted onto it without justification.
+
+**Rule going forward: establish the shoe model before prescribing any footwear
+change.**
+
+---
+
+## 7. Sunday — trim proposed, then reversed
+
+A trim of the final read's race-pace block from 6 km to 4 km was proposed on
+the back of this session's cost. **Reversed at the athlete's call, and the
+evidence supports the reversal:** the trim rested on the knee and foot being
+untested at force, and that unknown is now resolved.
+
+**4:50/km is sub-threshold** — roughly 89% of threshold power on the 16 Aug
+numbers — not a session that requires full freshness. It is also
+**self-regulating**: the 168 bpm ceiling and the ease-to-4:55 rule mean fatigue
+presents as data rather than as a blow-up, and the verdict table reads that
+correctly.
+
+**Residual risk, stated once:** Thursday's effort means Sunday starts on
+pre-existing fatigue, so the deep-fatigue window arrives earlier in the run
+than it did on 23 Aug. That is a timing difference, not a force one, and the
+abort rule covers it.
+
+**The only gate is the morning ladder, which predates this decision:**
+≤55 → 6 km as written; 56–60 → 4 km; >60 → complete rest.
 
 ---
 
