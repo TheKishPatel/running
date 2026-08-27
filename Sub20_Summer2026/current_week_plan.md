@@ -48,21 +48,31 @@ Two further reasons, both live:
 1. **A flat-out 5 km is the highest-force running of the entire block** — against a compensation flag (23 Aug: lateral knee + dorsal forefoot) that is explicitly fatigue- and force-dependent, **10 days from the goal race.**
 2. **The re-laced shoe is still untested.** Racing is the worst possible first test of a lacing change made for a dorsal pressure point.
 
+#### 🟡 RESTING HR 56 (Thu 27 Aug) — TRIM BAND. **THE 4:50 OPTION IS CANCELLED; TONIGHT IS EASY.**
+
+**56 sits in the morning ladder's 56–60 band** (trim the race-pace block by 2 km; easy runs proceed). Applied literally, tonight's optional 5 km at 4:50 becomes 3 km.
+
+**It carries more weight than the number suggests, because of when it was taken: off a COMPLETE REST DAY.** Resting HR should be at its floor after rest. Instead it is **1 above the top of the 49–55 baseline and ~4 above the 52 mode.** Against 19 Aug — **55, taken 24 h after the first jumping-lunge session in seven weeks** — a far larger stimulus returned a lower number. **Most likely the birthday** (short night, late food); benign and self-clearing. **Not a morning to add intensity to.**
+
+**Four independent reasons now stack against race pace tonight:** trim-band RHR, an **untested shoe**, an **unknown route**, and **no controlled warm-up off a run-club start.** 3 km at 4:50 under those conditions buys almost nothing and is borrowed entirely from Sunday.
+
+**🔴 The live consequence is Sunday.** If Sunday's morning reading is still 56–60, **the final read's race-pace block trims 6 km → 4 km.** Still usable — 4 km at 4:50 exceeds the 3 km that produced the 16 Aug finding — but thinner. **Readings required Fri, Sat AND Sun.** Three points separate "birthday" from "something starting."
+
 #### Tonight's options — best to worst
 
 | Option | Call |
 |---|---|
-| **Social 5 km at 4:50/km, own pace** | **BEST.** Recovers the session and then some — 5 km of race pace against the 4 km prescribed. Requires **2 km easy warm-up first (whole km)**, chest strap, re-laced shoe, HR ceiling 168, abort rule live |
-| **Social 5 km easy — 5:45+/km, HR <150** | **FINE.** Rehearsal is written off; Sunday is fully intact and still gets its read. Also completes the shoe test |
+| ~~Social 5 km at 4:50/km~~ | **❌ CANCELLED BY THE 56 READING.** Was the preferred option at RHR ≤55 |
+| **Social 5 km easy — 5:45+/km, HR <150** | **✅ THIS IS THE SESSION.** Rehearsal written off; Sunday fully intact and still gets its read. **The run's job tonight is the shoe test, nothing more** |
 | Half-raced — ~5:10/km | **No.** Buys no race-pace stimulus and still taxes Sunday. The worst of both |
 | Raced | **No.** See above |
 | Force the rehearsal in the storm | **No** |
 
-**The 4:50 option is conditional on controlling his own pace.** A group that opens at 4:15 will not be resisted mid-run. **If own pace is not controllable, run it easy — that is not a failure, it is the correct call.**
+**✅ EVENT CONFIRMED: Thursday run club, mixed pace groups — not a parkrun.** This is the good version of the pace problem: **the discipline is one decision at the start, not one defended for 5 km. Join a slower group and stay in it.**
 
-**⚠️ If the event is an actual parkrun it is Saturday 09:00, not Thursday evening** — which collides with Saturday's shakeout, the day before the final read. **Same answer: not raced.** Confirm which it is.
+**Route: "Chelmsford 5k" (Strava, login-walled — not readable).** **Two unknowns to report: total elevation gain and surface.** Hills mean higher force through the compensating leg; a park or trail surface after a thunderstorm is a slip risk tonight, though it is the better surface for pace discipline.
 
-**Morning resting HR still required** — with no Wednesday run, it is the only pre-session input available.
+**🚨 Symptom check overrides everything, tonight included** — any throat, cough or phlegm is complete rest (CLAUDE.md illness rule).
 
 ### Fri 28 Aug — REST
 
@@ -103,12 +113,12 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 **Mon 24 Aug:** ✅ Rest.
 **Tue 25 Aug:** ✅ Barry's (lower), plyometrics modified — **129 / 167, Z4 zero, no pain.**
 **Wed 26 Aug:** ✅ **Rest — birthday, no run.** Prescribed 6 km cancelled, not rolled.
-**Thu 27 Aug:** ⛈️ **Rehearsal LOST TO STORM, not rolled to Friday.** Evening social 5 km is the only window — **at 4:50/km if own pace is controllable, otherwise easy. NOT RACED.** Shoe test + strap.
+**Thu 27 Aug:** ⛈️ **Rehearsal LOST TO STORM, not rolled to Friday. RHR 56 = trim band → the 4:50 option is cancelled.** Run club 5 km **EASY, 5:45+, HR <150, slower group.** Shoe test + strap.
 **Fri 28 Aug:** ⏳ Rest.
 **Sat 29 Aug:** ⏳ Easy 5 km @ 5:50.
 **Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ.**
 
-**Revised volume: ~24–26 km across 3 runs + 1 Barry's. Race pace: 6 km guaranteed (Sunday), 11 km if tonight's 5 km is run at 4:50.**
+**Revised volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: Sunday only — 6 km, or 4 km if Sunday's morning reading is still 56–60.**
 
 ---
 

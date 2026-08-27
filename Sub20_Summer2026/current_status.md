@@ -20,7 +20,13 @@
 
 **⚠️ THE RE-LACED SHOE REMAINS UNTESTED** — Wednesday was rest, Thursday was stormed out. Tonight is the test; failing that, Sunday is the first time the lacing meets race pace. **This is itself an argument for running tonight easy.** **⚠️ Event identity unconfirmed — parkrun is Saturday 09:00, not Thursday evening; if it is genuinely parkrun it collides with Saturday's shakeout the day before the final read. Same ruling: not raced.**
 
-**Race-pace volume this week: 6 km guaranteed (Sunday), 11 km if tonight runs at 4:50.** Sunday's read is unaffected either way — that is the point of protecting it.
+**🟡 RESTING HR 56 (Thu 27 Aug) — TRIM BAND (56–60). The optional 4:50 work tonight is CANCELLED; the run club 5 km is easy, 5:45+, HR <150, slower group.** **56 carries more weight than the number suggests because it was taken off a COMPLETE REST DAY** — resting HR should be at its floor after rest, and instead it is 1 above the top of the 49–55 baseline and ~4 above the 52 mode. **Against 19 Aug's 55, taken 24 h after the first jumping-lunge session in seven weeks, a far larger stimulus returned a lower number.** Most likely the birthday (short night, late food) — benign and self-clearing, but not a morning to add intensity to. **Four reasons now stack against race pace tonight: trim-band RHR, untested shoe, unknown route, no controlled warm-up off a run-club start.**
+
+**🔴 THE LIVE CONSEQUENCE IS SUNDAY. If Sunday's reading is still 56–60, the final read's race-pace block trims 6 km → 4 km** (still usable — 4 km at 4:50 exceeds the 3 km that produced the 16 Aug finding — but thinner). **Readings required Fri, Sat and Sun**; three points separate "birthday" from "something starting." Symptom check overrides everything.
+
+**Event confirmed: Thursday run club, mixed pace groups — not a parkrun.** Pace discipline is one decision at the start rather than one defended for 5 km. **Route "Chelmsford 5k" is login-walled on Strava; elevation gain and surface unreported.**
+
+**Race-pace volume this week: Sunday only — 6 km, or 4 km on a 56–60 reading.** Sunday's read is protected either way; that is the point.
 
 **⚠️ Threshold has not moved all block** — 4:20 (2 Jul), 4:23 (6 Aug), then three consecutive compromised Thursdays (under-pressed, RHR 62, knee injury). **Settled fact. It is the October 5K's bill, not 6 Sep's.**
 
