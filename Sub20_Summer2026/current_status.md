@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 26 Aug 2026*
+*Last updated: 27 Aug 2026*
 
 ---
 
@@ -12,7 +12,15 @@
 
 **⚠️ ONE NEW FLAG — fatigue-dependent compensation.** Last 4 km of the 18: pain/fatigue in the knee ligament-tendon **opposite** the injury plus the **right foot**; fully resolved next morning. **The original medial injury stayed silent across all 18 km.** Yellow, not red — but Week 5 puts race pace back in twice. Detail below.
 
-**⏳ WED 26 AUG — prescribed 6 km cancelled (birthday); daytime window then lost to a London thunderstorm. REPLACED BY AN EVENING SOCIAL 5 km.** Week 5 revised to **~29 km across 4 runs + 1 Barry's; the 10 km at race pace is unchanged.** **Net gain: the social run restores the re-laced-shoe test to Wednesday evening, ~18 h before the race-pace rehearsal, which is where it was needed** — a bad result now has time to be acted on instead of aborting Thursday's warm-up. **The risk is pace, and it is real: a social run is paced by other people, ~18 h before the first race-pace work in three weeks.** Hard floor: **no km faster than 5:35, HR <150** (Standing rule 3; 21 Aug km4 at 5:28 reopened the overspeed flag). **Faster than 5:20/km or HR >155 pre-spends Thursday and cuts its main set from 4 km to 3 km.** Thursday's warm-up abort stands regardless. **Sleep is the larger threat than the run** — evening 5 km plus a birthday social against a 7.5 h+ requirement for Thursday (documented ~11 sec/km cost). **Thursday morning's resting HR remains the primary input** (6 Aug proceed, 13 Aug cancel), now corroborated by Wednesday evening's HR-for-pace.
+**⛈️ THU 27 AUG — RACE-PACE REHEARSAL LOST TO A LONDON THUNDERSTORM. Not rolled to Friday (Standing rule 1).** Wed 26 Aug was full rest (birthday, prescribed 6 km cancelled). **Week 5 revised to ~24–26 km across 3 runs + 1 Barry's.** An evening social 5 km is Thursday's only window.
+
+**🚩 RULED: the social 5 km is NOT to be raced.** A raced 5 km is ~4:05–4:20/km against a prescribed 4:50/km — the wrong system, and the campaign's failure mode is the aggressive open. **The decisive argument is Sunday: the final read (6 km @ 4:50 inside 14 km) is 3 days out and its output IS the race target. A raced 5 km costs 2–3 days, so Sunday would be run on unsubtractable fatigue, read 4:50 as too expensive, and drop the target to 1:45 for a reason that is not fitness. A corrupted final read is worse than a missed rehearsal.** Also live: a flat-out 5 km is **the highest-force running of the block** against a fatigue-and-force-dependent compensation flag (23 Aug lateral knee + dorsal forefoot) **10 days out**, in a **still-untested lacing setup**.
+
+**Tonight, in order: 5 km at 4:50/km off a 2 km easy warm-up if own pace is controllable** (recovers the session and exceeds the 4 km prescribed) → **otherwise easy at 5:45+, HR <150** (rehearsal written off, Sunday fully intact). **Half-racing at ~5:10 is refused — no race-pace stimulus and still taxes Sunday.**
+
+**⚠️ THE RE-LACED SHOE REMAINS UNTESTED** — Wednesday was rest, Thursday was stormed out. Tonight is the test; failing that, Sunday is the first time the lacing meets race pace. **This is itself an argument for running tonight easy.** **⚠️ Event identity unconfirmed — parkrun is Saturday 09:00, not Thursday evening; if it is genuinely parkrun it collides with Saturday's shakeout the day before the final read. Same ruling: not raced.**
+
+**Race-pace volume this week: 6 km guaranteed (Sunday), 11 km if tonight runs at 4:50.** Sunday's read is unaffected either way — that is the point of protecting it.
 
 **⚠️ Threshold has not moved all block** — 4:20 (2 Jul), 4:23 (6 Aug), then three consecutive compromised Thursdays (under-pressed, RHR 62, knee injury). **Settled fact. It is the October 5K's bill, not 6 Sep's.**
 

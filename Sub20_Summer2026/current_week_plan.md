@@ -8,7 +8,7 @@
 
 **Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (12 days out). Full block: `big_half_block_Sep2026.md`.**
 
-**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~29 km across 4 runs + 1 Barry's, with 10 km of it at 4:50/km.** *(Revised 26 Aug — Wednesday's prescribed 6 km replaced by an evening social 5 km; daytime window lost to thunderstorm. Race-pace volume unchanged.)*
+**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~24–26 km across 3 runs + 1 Barry's.** *(Revised 27 Aug — Wed 26 Aug was full rest, birthday. Thu 27 Aug race-pace rehearsal lost to a London thunderstorm; an evening social 5 km is the only Thursday window. Race pace this week: 6 km guaranteed on Sunday, 11 km if the social 5 km is run at 4:50.)*
 
 **Coming off a peak week that lost its threshold session and its Saturday and still delivered the block's objective.** 18.01 km at 5:48/km, **132 avg, max 145 — the <150 cap was never touched, Zone 3/4/5 all zero.** Quarters ran 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8: flat, last quarter slowest. **Efficiency km3–18 was 1.575 w/bpm against 1.529 for the 16 Aug body — 16 km cost less per beat than 12 km did a week earlier.**
 
@@ -22,64 +22,47 @@
 **129 avg / 167 max.** Z1 26:35 / Z2 17:16 / Z3 4:50 / **Z4 0:00** / Z5 0:00. Post 106→93→87.
 **Plyometrics modified as prescribed** (max 167 and Z4 zero against 172 / 1:02 on 18 Aug). **No pain — knee and foot both silent.** Lightest distribution of the block (Z2+3 45%), explained by the 18 km 48 h prior, a 06:00 start on ~6.5 h sleep, and the modification itself.
 
-### Wed 26 Aug — SOCIAL 5 km, EVENING *(replaces the prescribed 6 km)*
+### Wed 26 Aug — REST ✅ *(birthday — no run)*
+
+**The prescribed easy 6 km was cancelled and not rolled.** Friday's rest is what protects Sunday, and Sunday outranks everything left in the block (Standing rule 1).
+
+**The cost is diagnostic, and it has now compounded.** This run was carrying the re-laced-shoe test and the pre-quality HR go-band read. **Thursday's storm removed the fallback slot for both.** The shoe is therefore **untested going into the weekend** — which is the single strongest argument against any hard running before Sunday.
+
+### Thu 27 Aug — ⛈️ **RACE-PACE REHEARSAL LOST TO STORM.** Evening social 5 km is the only window
 | Component | Detail |
 |-----------|--------|
-| Session | **5 km social, HR <150** |
-| **Hard floor** | **No kilometre faster than 5:35/km** (Standing rule 3) |
-| Kit | **Re-laced shoe + chest strap — both mandatory** |
-| km1 | 6:00–6:10 |
+| ~~Prescribed~~ | ~~3 km @ 5:45 + 4 km @ 4:50 + 1 km @ 6:00~~ |
+| Actual window | **Evening social 5 km** |
+| Kit | **Re-laced shoe + chest strap — mandatory. This is the shoe test** |
+| Abort rule | **Live.** Any lateral knee or dorsal foot symptom ends the run — drop to easy, finish aerobically |
 
-**Daytime window lost to a thunderstorm; the prescribed 6 km was already cancelled for the birthday. Nothing was lost — the evening 5 km is a recovery of something, not a compromise.** Week goes ~27 → ~29 km. Race-pace volume unchanged.
+**Thursday goes and is NOT rolled to Friday (Standing rule 1).** Forcing the rehearsal in an active storm is refused: wet ground at race pace, with an open fatigue-and-force compensation flag, in an untested lacing setup — and the pace could not be held anyway, so the session would produce no usable data at the exact cost it was meant to avoid.
 
-**This run's real value is that it restores the shoe test to its proper slot.** Re-lace before you go. **Testing tonight means a dorsal hot spot is found ~18 h before the race-pace rehearsal, with time to change something** — which was the entire point of a Wednesday run and was about to be lost to Thursday's warm-up. **Report the foot tonight, not tomorrow.**
+#### 🚩 THE 5 km IS NOT TO BE RACED
 
-**🚩 THE RISK IS PACE, AND IT IS NOT A SMALL ONE. A social run means the pace is set by other people.** The campaign's documented failure mode is easy runs run too fast (Fri 21 Aug km4 at 5:28 reopened the flag), and this sits **~18 h before the first race-pace work in three weeks.** **If the group goes, let them go.** A social 5 km run at 5:10/km is a third hard day in a week that is only allowed two, and it is taken directly out of Thursday.
+**Asked and answered: no.** A raced 5 km is ~4:05–4:20/km. **The prescribed stimulus was 4:50/km.** Those are different systems, and the campaign's documented failure mode is the aggressive open.
 
-| Tonight's outcome | Effect on Thursday |
+**The decisive argument is Sunday, not Thursday.** Sun 30 Aug is the block's **final read** — 6 km at 4:50 inside 14 km — and its output *is* the race target. **A raced 5 km costs 2–3 days; Sunday is 3 days out.** He would arrive at the one measurement this week exists to produce carrying unsubtractable fatigue, read 4:50 as too expensive, and drop the target to 1:45 for a reason that is not fitness. **A corrupted Sunday read is worse than a missed Thursday session.**
+
+Two further reasons, both live:
+1. **A flat-out 5 km is the highest-force running of the entire block** — against a compensation flag (23 Aug: lateral knee + dorsal forefoot) that is explicitly fatigue- and force-dependent, **10 days from the goal race.**
+2. **The re-laced shoe is still untested.** Racing is the worst possible first test of a lacing change made for a dorsal pressure point.
+
+#### Tonight's options — best to worst
+
+| Option | Call |
 |---|---|
-| **5 km, HR <150, no km under 5:35** | **Thursday as written — 4 km @ 4:50.** Best case; the shoe is also cleared |
-| Avg **5:20–5:35** or HR 150–155 | Thursday proceeds, but **warm-up HR decides the volume** — see the warm-up table |
-| **Faster than 5:20/km, or HR >155** | **Report it tonight. Thursday's main set drops to 3 km @ 4:50** — the stimulus was partly spent on a social run |
-| **Any dorsal foot or lateral knee symptom** | **Report tonight.** Thursday is reassessed before the warm-up, not during it |
+| **Social 5 km at 4:50/km, own pace** | **BEST.** Recovers the session and then some — 5 km of race pace against the 4 km prescribed. Requires **2 km easy warm-up first (whole km)**, chest strap, re-laced shoe, HR ceiling 168, abort rule live |
+| **Social 5 km easy — 5:45+/km, HR <150** | **FINE.** Rehearsal is written off; Sunday is fully intact and still gets its read. Also completes the shoe test |
+| Half-raced — ~5:10/km | **No.** Buys no race-pace stimulus and still taxes Sunday. The worst of both |
+| Raced | **No.** See above |
+| Force the rehearsal in the storm | **No** |
 
-**Sleep is the bigger threat than the run.** Evening 5 km + birthday social, and **Thursday needs 7.5 h+** — documented cost on quality work is ~11 sec/km. **The run is cheap; a 5-hour night is not.**
+**The 4:50 option is conditional on controlling his own pace.** A group that opens at 4:15 will not be resisted mid-run. **If own pace is not controllable, run it easy — that is not a failure, it is the correct call.**
 
-**Alcohol: ZERO is still in force (Standing rule 7), birthday included.** 11 days out, and illness is the #1 determinant of this block. It is not a rule with an exemption written into it.
+**⚠️ If the event is an actual parkrun it is Saturday 09:00, not Thursday evening** — which collides with Saturday's shakeout, the day before the final read. **Same answer: not raced.** Confirm which it is.
 
-**Do not run in an active thunderstorm to salvage a session.** If the storm is still live at the social run, it moves or it is dropped — there is no session in this week worth that, and Wednesday's was already written off once today.
-
-### Thu 27 Aug — RACE-PACE REHEARSAL ⭐
-| Component | Detail |
-|-----------|--------|
-| Warm-up | **3 km @ 5:45/km** |
-| **Main set** | **4 km @ 4:50/km** — continuous, no recovery |
-| Cool-down | **1 km @ 6:00/km** |
-| HR (main set) | **152–162** — ease to 4:55 above 168 |
-| Format | **Structured watch workout — mandatory** |
-
-**Total 8 km. All whole kilometres, so the auto-splits line up with the work.**
-
-**⚠️ THE WARM-UP NOW CARRIES WEDNESDAY'S TWO JOBS. Run it as a diagnostic, not as filler.**
-
-| Warm-up read (3 km @ 5:45) | Action on the main set |
-|---|---|
-| **Any dorsal foot pressure or lateral knee symptom** | **STOP. Do not start the main set.** Finish easy. The abort rule applies in the warm-up, not just the reps |
-| HR settles **138–145** | **4 km @ 4:50 as written** |
-| HR **146–150** | 4 km @ 4:50, but hold the ceiling hard — ease to 4:55 above 168 |
-| HR **>150** | **Cut the main set to 3 km @ 4:50.** Sunday is the session that matters |
-
-**The shoe test moved back to Wednesday evening's social 5 km** — its proper slot, ~18 h out, with time to act on a bad result. **The warm-up abort above still stands regardless**: a dorsal hot spot at km2 of the warm-up ends the session; it does not get run through to see if it settles.
-
-**Thursday morning's resting HR remains the primary pre-quality input**, now corroborated by Wednesday evening's HR-for-pace. Same position as 6 Aug and 13 Aug, both of which the morning reading decided. Apply the morning ladder below before you leave the house.
-
-**⚠️ Wednesday's social 5 km can pre-spend this session.** If it ran faster than 5:20/km or above 155 bpm, **the main set is 3 km, not 4** — see Wednesday's table.
-
-**This is a rehearsal, not a test.** First quality session in three weeks (last: 6 Aug). Its job is to put race pace back into the legs three days before the session that matters — **not to prove anything.** Sunday proves things.
-
-**Expect HR around 155.** On 16 Aug he ran 4:52/km at **161 bpm off 13 km of prior running**; off 3 km it should be lower. **If 4:50 costs more than 168 here, that is the single most important data point of the week** — it would mean 4:50 for 21.1 km is not real and Sunday's target drops to 4:55.
-
-**Open the first 500 m at 4:52, then settle.** The failure mode across this campaign is the aggressive open, and it is written into the race plan for a reason.
+**Morning resting HR still required** — with no Wednesday run, it is the only pre-session input available.
 
 ### Fri 28 Aug — REST
 
@@ -119,13 +102,13 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 ### Week 5 Log
 **Mon 24 Aug:** ✅ Rest.
 **Tue 25 Aug:** ✅ Barry's (lower), plyometrics modified — **129 / 167, Z4 zero, no pain.**
-**Wed 26 Aug:** ⏳ **Social 5 km, evening** (replaces the prescribed 6 km; daytime lost to thunderstorm). **HR <150, no km under 5:35. Re-laced shoe + strap — this is the shoe test.**
-**Thu 27 Aug:** ⏳ **Race-pace rehearsal — 3 km + 4 km @ 4:50 + 1 km. Warm-up is now the shoe test AND the HR diagnostic.**
+**Wed 26 Aug:** ✅ **Rest — birthday, no run.** Prescribed 6 km cancelled, not rolled.
+**Thu 27 Aug:** ⛈️ **Rehearsal LOST TO STORM, not rolled to Friday.** Evening social 5 km is the only window — **at 4:50/km if own pace is controllable, otherwise easy. NOT RACED.** Shoe test + strap.
 **Fri 28 Aug:** ⏳ Rest.
 **Sat 29 Aug:** ⏳ Easy 5 km @ 5:50.
 **Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ.**
 
-**Revised volume: ~29 km across 4 runs + 1 Barry's. 10 km of it at race pace — unchanged.**
+**Revised volume: ~24–26 km across 3 runs + 1 Barry's. Race pace: 6 km guaranteed (Sunday), 11 km if tonight's 5 km is run at 4:50.**
 
 ---
 
@@ -139,7 +122,7 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 
 **Before Thursday:**
 1. **Re-lace** to skip the eyelet over the dorsal sore spot. Cheapest fix, highest yield — dorsal foot pain is lace pressure far more often than anything else.
-2. **Test it on Wednesday evening's social 5 km**, not Thursday. Re-lace before you go, so the test is of the fix and not of the problem. **Report the foot Wednesday night** — that is what buys the 18 h to change something.
+2. **Untested as of Thu 27 Aug** — Wednesday was rest and Thursday's session was stormed out. **Thursday evening's social 5 km is now the test, and Sunday is otherwise the first time the lacing meets race pace.** That is a reason to run tonight easy, not hard.
 
 **🚨 Stop running and get it assessed** if any of: point tenderness on the **bone**, pain on hopping, swelling, night pain, or a pattern that worsens run to run.
 
