@@ -8,7 +8,7 @@
 
 **Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (12 days out). Full block: `big_half_block_Sep2026.md`.**
 
-**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~24–26 km across 3 runs + 1 Barry's.** *(Revised 27 Aug — Wed 26 Aug was full rest, birthday. Thu 27 Aug race-pace rehearsal lost to a London thunderstorm; an evening social 5 km is the only Thursday window. Race pace this week: 6 km guaranteed on Sunday, 11 km if the social 5 km is run at 4:50.)*
+**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~26 km across 3 runs + 1 Barry's.** *(Revised 27 Aug — Wed 26 Aug was full rest, birthday. Thu 27 Aug rehearsal cut short by a thunderstorm and by a 56 resting HR; race pace trimmed to 3 km inside the evening run club on a flat paved loop. Race pace this week: 3 km Thu + 6 km Sun.)*
 
 **Coming off a peak week that lost its threshold session and its Saturday and still delivered the block's objective.** 18.01 km at 5:48/km, **132 avg, max 145 — the <150 cap was never touched, Zone 3/4/5 all zero.** Quarters ran 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8: flat, last quarter slowest. **Efficiency km3–18 was 1.575 w/bpm against 1.529 for the 16 Aug body — 16 km cost less per beat than 12 km did a week earlier.**
 
@@ -48,13 +48,19 @@ Two further reasons, both live:
 1. **A flat-out 5 km is the highest-force running of the entire block** — against a compensation flag (23 Aug: lateral knee + dorsal forefoot) that is explicitly fatigue- and force-dependent, **10 days from the goal race.**
 2. **The re-laced shoe is still untested.** Racing is the worst possible first test of a lacing change made for a dorsal pressure point.
 
-#### 🟡 RESTING HR 56 (Thu 27 Aug) — TRIM BAND. **THE 4:50 OPTION IS CANCELLED; TONIGHT IS EASY.**
+#### 🟡 RESTING HR 56 (Thu 27 Aug) — TRIM BAND. **RACE PACE PROCEEDS, TRIMMED TO 3 km.**
 
 **56 sits in the morning ladder's 56–60 band** (trim the race-pace block by 2 km; easy runs proceed). Applied literally, tonight's optional 5 km at 4:50 becomes 3 km.
 
 **It carries more weight than the number suggests, because of when it was taken: off a COMPLETE REST DAY.** Resting HR should be at its floor after rest. Instead it is **1 above the top of the 49–55 baseline and ~4 above the 52 mode.** Against 19 Aug — **55, taken 24 h after the first jumping-lunge session in seven weeks** — a far larger stimulus returned a lower number. **Most likely the birthday** (short night, late food); benign and self-clearing. **Not a morning to add intensity to.**
 
-**Four independent reasons now stack against race pace tonight:** trim-band RHR, an **untested shoe**, an **unknown route**, and **no controlled warm-up off a run-club start.** 3 km at 4:50 under those conditions buys almost nothing and is borrowed entirely from Sunday.
+**✅ ROUTE AND SYMPTOMS RESOLVED — two of the four objections are gone.** "Chelmsford 5k": **5.01 km, 0 m elevation gain, ~3 m of total range across the loop, 100% paved, measured, riverside (River Can).** The flattest and cleanest surface available — **better conditions than the prescribed session would have had.** **No throat, cough or phlegm** → the illness rule does not trigger, and 56 reads as the birthday rather than an infection.
+
+**The ladder says TRIM by 2 km, not cancel.** Applied properly: **5 km at 4:50 → 3 km at 4:50.** The earlier cancellation over-applied it while the route was unknown.
+
+**Cost is smaller than a "quality session" framing implies. 3 km at 4:50 is ~14 minutes at roughly 89% of threshold power** — the 16 Aug read was 4:52/km at 161 bpm, 246 w, **zero Zone 4.** That is a moderate aerobic effort costing ~a day, not the 2–3 days a *raced* 5 km would cost. **Sunday is 3 days out and absorbs it** — the original plan deliberately paired 4 km @ 4:50 Thursday with 6 km Sunday.
+
+**Two objections remain, and both are handled by structure rather than by cancelling: the untested shoe** (the warm-up now tests it *before* any race pace) **and no controlled warm-up off a club start** (2 km run solo, before the club sets off).
 
 **🔴 The live consequence is Sunday.** If Sunday's morning reading is still 56–60, **the final read's race-pace block trims 6 km → 4 km.** Still usable — 4 km at 4:50 exceeds the 3 km that produced the 16 Aug finding — but thinner. **Readings required Fri, Sat AND Sun.** Three points separate "birthday" from "something starting."
 
@@ -62,17 +68,34 @@ Two further reasons, both live:
 
 | Option | Call |
 |---|---|
-| ~~Social 5 km at 4:50/km~~ | **❌ CANCELLED BY THE 56 READING.** Was the preferred option at RHR ≤55 |
-| **Social 5 km easy — 5:45+/km, HR <150** | **✅ THIS IS THE SESSION.** Rehearsal written off; Sunday fully intact and still gets its read. **The run's job tonight is the shoe test, nothing more** |
+| **2 km easy + 3 km @ 4:50 + 2 km easy** | **✅ THIS IS THE SESSION.** Trimmed rehearsal on a flat measured loop. See the table below |
+| Fallback: flat easy 5 km, 5:45+, HR <150 | **✅ Correct call if any gate fails.** Sunday fully intact either way |
+| 5 km at 4:50 (untrimmed) | **No** — the 56 reading trims by 2 km |
 | Half-raced — ~5:10/km | **No.** Buys no race-pace stimulus and still taxes Sunday. The worst of both |
-| Raced | **No.** See above |
-| Force the rehearsal in the storm | **No** |
+| Raced | **No.** Wrong system (~4:05–4:20 vs 4:50), highest force of the block, and it would corrupt Sunday's read |
+| Force the full rehearsal in the storm | **No** |
+
+#### Tonight's structure — whole kilometres throughout, so auto-splits line up
+
+| Segment | Target |
+|---|---|
+| **Warm-up — solo, before the club sets off** | **2 km @ 5:45**, HR <150. **This is the shoe test** |
+| **Club route km1–3** | **3 km @ 4:50** — HR **152–162**, ease to 4:55 above 168 |
+| **Club route km4–5** | **2 km easy, 5:45+** |
+
+**Total ~7 km. Open at 4:52, not 4:45** — the aggressive open is the failure mode written into the race plan.
+
+#### 🚦 THREE GATES — any one failing drops the session to a flat easy 5 km
+
+1. **The warm-up is the shoe test and it comes FIRST.** Any dorsal hot spot in those 2 km → **no race pace tonight.** This is precisely why the warm-up is run solo and ahead of the club start.
+2. **Surface.** Wet paved is fine. **Standing water or a slick riverside path after the storm is not** — a slip risk on a leg that is already compensating.
+3. **Abort rule live.** Any lateral knee or dorsal foot symptom ends the 4:50 on the spot — drop to 5:45 and finish aerobically.
+
+**The 3 km will be run alone rather than with a group.** That is the trade for a controlled pace, and on a flat measured loop it is clean data.
 
 **✅ EVENT CONFIRMED: Thursday run club, mixed pace groups — not a parkrun.** This is the good version of the pace problem: **the discipline is one decision at the start, not one defended for 5 km. Join a slower group and stay in it.**
 
-**Route: "Chelmsford 5k" (Strava, login-walled — not readable).** **Two unknowns to report: total elevation gain and surface.** Hills mean higher force through the compensating leg; a park or trail surface after a thunderstorm is a slip risk tonight, though it is the better surface for pace discipline.
-
-**🚨 Symptom check overrides everything, tonight included** — any throat, cough or phlegm is complete rest (CLAUDE.md illness rule).
+**Route confirmed — "Chelmsford 5k": 5.01 km, 0 m gain, ~3 m range, 100% paved, riverside.** Flat and measured; ideal for a pace read. **Symptom check clear — no throat, cough or phlegm.**
 
 ### Fri 28 Aug — REST
 
@@ -113,12 +136,12 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 **Mon 24 Aug:** ✅ Rest.
 **Tue 25 Aug:** ✅ Barry's (lower), plyometrics modified — **129 / 167, Z4 zero, no pain.**
 **Wed 26 Aug:** ✅ **Rest — birthday, no run.** Prescribed 6 km cancelled, not rolled.
-**Thu 27 Aug:** ⛈️ **Rehearsal LOST TO STORM, not rolled to Friday. RHR 56 = trim band → the 4:50 option is cancelled.** Run club 5 km **EASY, 5:45+, HR <150, slower group.** Shoe test + strap.
+**Thu 27 Aug:** ⛈️ Full rehearsal lost to storm, not rolled to Friday. **RHR 56 = trim band → race pace TRIMMED, not cancelled: 2 km easy + 3 km @ 4:50 + 2 km easy (~7 km)** on the flat paved Chelmsford loop. **Three gates; warm-up is the shoe test.** Strap mandatory.
 **Fri 28 Aug:** ⏳ Rest.
 **Sat 29 Aug:** ⏳ Easy 5 km @ 5:50.
 **Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ.**
 
-**Revised volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: Sunday only — 6 km, or 4 km if Sunday's morning reading is still 56–60.**
+**Revised volume: ~26 km across 3 runs + 1 Barry's. Race pace this week: 3 km tonight (if the gates pass) + 6 km Sunday — or 4 km Sunday if the morning reading is still 56–60.**
 
 ---
 
