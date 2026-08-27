@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 26 Aug 2026*
+*Last updated: 27 Aug 2026 (evening)*
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (12 days out). Full block: `big_half_block_Sep2026.md`.**
 
-**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~26 km across 3 runs + 1 Barry's.** *(Revised 27 Aug — Wed 26 Aug was full rest, birthday. Thu 27 Aug rehearsal cut short by a thunderstorm and by a 56 resting HR; race pace trimmed to 3 km inside the evening run club on a flat paved loop. Race pace this week: 3 km Thu + 6 km Sun.)*
+**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~24 km across 3 runs + 1 Barry's.** *(Revised 27 Aug evening — Wed 26 Aug full rest, birthday. Thu 27 Aug rehearsal lost to a thunderstorm; the evening run club was then RACED as an unplanned maximal 5 km, 22:28, max 187. Sunday's race-pace block trimmed 6 km → 4 km in consequence.)*
 
 **Coming off a peak week that lost its threshold session and its Saturday and still delivered the block's objective.** 18.01 km at 5:48/km, **132 avg, max 145 — the <150 cap was never touched, Zone 3/4/5 all zero.** Quarters ran 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8: flat, last quarter slowest. **Efficiency km3–18 was 1.575 w/bpm against 1.529 for the 16 Aug body — 16 km cost less per beat than 12 km did a week earlier.**
 
@@ -28,7 +28,29 @@
 
 **The cost is diagnostic, and it has now compounded.** This run was carrying the re-laced-shoe test and the pre-quality HR go-band read. **Thursday's storm removed the fallback slot for both.** The shoe is therefore **untested going into the weekend** — which is the single strongest argument against any hard running before Sunday.
 
-### Thu 27 Aug — ⛈️ **RACE-PACE REHEARSAL LOST TO STORM.** Evening social 5 km is the only window
+### Thu 27 Aug — ✅ RUN CLUB 5 km, **RACED. 22:28 / 4:29 per km / 171 avg / MAX 187.**
+
+**Athlete elected to race rather than run the prescribed 2 km + 3 km @ 4:50 + 2 km. Stated as a deliberate choice. Logged as data, not as a compliance issue.** Full read: `03_session_analyses/2026-08-27_5k_unplanned_max_effort.md`.
+
+| km | Pace | HR | Power | w/bpm |
+|---|---|---|---|---|
+| 1 | 4:22 | 152 | 274 | — *(HR lagging, no warm-up)* |
+| 2 | **4:14** | 174 | **282** | 1.621 |
+| 3 | 4:24 | 179 | 267 | 1.492 |
+| 4 | 4:37 | 179 | 256 | 1.430 |
+| 5 | 4:42 | 183 | 254 | 1.388 |
+
+**Shape: front-loaded, then bled out. km2 → km5 = +28 sec/km, HR +9, power −28 w (−9.9%), efficiency −14.4%.** Rising HR against falling power at a slowing pace is decoupling in its plainest form — the last 3 km were paid for out of the first 2. **km1 went out at 4:22 from cold.**
+
+**Three genuine positives:** **km2 at 4:14 @ 174 is the fastest kilometre of the campaign** (vs 4:20 on 2 Jul, 4:23 @ 169 on 6 Aug); **post-workout 174→132→114 = 42 bpm in the first minute, the sharpest in the log**, off its highest peak; and **max 187 plus that trace closes the 56 resting-HR question** — that is not an athlete incubating an infection. **The re-laced shoe cleared under maximum force — that question is now closed.**
+
+**22:28 does not read on sub-20** — no warm-up, positive split, no speed work since 2 Jul. Warmed up, evenly paced and rested this body projects to **~21:15–21:45**. That is the October project's starting line, not a 6 Sep signal. **The threshold read is not clean either** (km3 4:24 @ 179 vs 6 Aug 4:23 @ 169, but off a 4:14 and no warm-up) — **do not conclude threshold has declined.**
+
+**🚩 OPEN AND URGENT: no report yet on the lateral right knee or the dorsal 4th/5th metatarsal area.** This was by a clear margin the highest-force running since the injury, and the 23 Aug flag is explicitly force-dependent. **Status needed during, after, and Friday morning. Absence of a report is not a clean report.**
+
+---
+
+### Superseded — Thursday as planned before the run
 | Component | Detail |
 |-----------|--------|
 | ~~Prescribed~~ | ~~3 km @ 5:45 + 4 km @ 4:50 + 1 km @ 6:00~~ |
@@ -99,23 +121,25 @@ Two further reasons, both live:
 
 ### Fri 28 Aug — REST
 
-### Sat 29 Aug — EASY 5 km
+### Sat 29 Aug — EASY 5 km *(3 km or nothing if the legs are heavy)*
 | Component | Detail |
 |-----------|--------|
 | Session | **5 km @ 5:50/km, HR <145** |
 
 Trimmed from 6. **Shakeout only — the day before the block's final quality session.** Three Saturdays in a row have been lost to real life; if this one goes too, say so Friday and it is cancelled rather than squeezed. Sunday outranks it.
 
-### Sun 30 Aug — 14 km WITH 6 km AT RACE PACE ⭐⭐ **THE FINAL READ**
+### Sun 30 Aug — 14 km WITH **4 km** AT RACE PACE ⭐⭐ **THE FINAL READ** *(trimmed 27 Aug)*
 | Component | Detail |
 |-----------|--------|
-| Segment 1 | **4 km @ 5:45/km**, HR <145 |
-| **Segment 2** | **6 km @ 4:50/km** |
-| Segment 3 | **4 km @ 5:45/km**, HR <150 |
+| Segment 1 | **5 km @ 5:45/km**, HR <145 |
+| **Segment 2** | **4 km @ 4:50/km** *(was 6 km)* |
+| Segment 3 | **5 km @ 5:45/km**, HR <150 |
 | HR (race-pace block) | **158–166** — ease to 4:55 above 168 |
 | Kit | **Chest strap.** Carry fluid |
 | Fuel | **Gel at 45 min** — race rehearsal |
 | Format | **Structured watch workout — mandatory** |
+
+**🔻 TRIMMED 6 km → 4 km AFTER THURSDAY'S MAXIMAL 5 km.** HR was ≥174 from km2 to the finish — ~18 min at Zone 4 or above, max 187. A genuine max 5 km costs 2–3 days and **Sunday morning is ~60 h out, inside that window.** **The read survives: 4 km at 4:50 still exceeds the 3 km that produced the 16 Aug finding.** A shorter measurement, not a lost one. Total stays 14 km.
 
 **Total 14 km, ~76 min. The race-pace block sits in the MIDDLE, not at the end — deliberately.** The compensation flag appeared at km15–18 of the 18 km, i.e. in deep fatigue. Putting the hard work at km5–10 gets the race-pace read without ever entering that window.
 
@@ -123,8 +147,8 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 
 | Result | Verdict |
 |---|---|
-| **6 km at 4:50, HR ≤166, no symptoms** | **1:42 confirmed. Race plan as written.** |
-| 6 km at 4:53–4:58, or HR 167–172 | **Target 1:45. Race at 4:58/km.** |
+| **4 km at 4:50, HR ≤166, no symptoms** | **1:42 confirmed. Race plan as written.** |
+| 4 km at 4:53–4:58, or HR 167–172 | **Target 1:45. Race at 4:58/km.** |
 | Slower than 5:00, or HR >172 | **Race on effort, no pace target.** Something is wrong — report it Sunday |
 | **Any lateral knee or foot symptom** | **End the block immediately, finish easy.** See below |
 
@@ -136,12 +160,12 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 **Mon 24 Aug:** ✅ Rest.
 **Tue 25 Aug:** ✅ Barry's (lower), plyometrics modified — **129 / 167, Z4 zero, no pain.**
 **Wed 26 Aug:** ✅ **Rest — birthday, no run.** Prescribed 6 km cancelled, not rolled.
-**Thu 27 Aug:** ⛈️ Full rehearsal lost to storm, not rolled to Friday. **RHR 56 = trim band → race pace TRIMMED, not cancelled: 2 km easy + 3 km @ 4:50 + 2 km easy (~7 km)** on the flat paved Chelmsford loop. **Three gates; warm-up is the shoe test.** Strap mandatory.
+**Thu 27 Aug:** ✅ **Run club 5 km RACED — 22:28, 4:29/km, 171 avg, MAX 187.** Fastest km of the campaign (4:14 @ 174) and the sharpest 1-min recovery in the log (174→132→114). **Heavily positive split, −14.4% efficiency.** Shoe cleared under max force. **Knee/foot status outstanding.**
 **Fri 28 Aug:** ⏳ Rest.
 **Sat 29 Aug:** ⏳ Easy 5 km @ 5:50.
-**Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ.**
+**Sun 30 Aug:** ⏳ **14 km with middle 4 km @ 4:50 — THE FINAL READ** *(trimmed from 6 km after Thursday's max effort).*
 
-**Revised volume: ~26 km across 3 runs + 1 Barry's. Race pace this week: 3 km tonight (if the gates pass) + 6 km Sunday — or 4 km Sunday if the morning reading is still 56–60.**
+**Actual volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: 4 km (Sunday). Thursday delivered ~18 min at Zone 4+ instead.**
 
 ---
 

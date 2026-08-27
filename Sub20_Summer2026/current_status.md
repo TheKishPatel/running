@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 27 Aug 2026*
+*Last updated: 27 Aug 2026 (evening)*
 
 ---
 
@@ -19,6 +19,24 @@
 **Tonight, in order: 5 km at 4:50/km off a 2 km easy warm-up if own pace is controllable** (recovers the session and exceeds the 4 km prescribed) → **otherwise easy at 5:45+, HR <150** (rehearsal written off, Sunday fully intact). **Half-racing at ~5:10 is refused — no race-pace stimulus and still taxes Sunday.**
 
 **⚠️ THE RE-LACED SHOE REMAINS UNTESTED** — Wednesday was rest, Thursday was stormed out. Tonight is the test; failing that, Sunday is the first time the lacing meets race pace. **This is itself an argument for running tonight easy.** **⚠️ Event identity unconfirmed — parkrun is Saturday 09:00, not Thursday evening; if it is genuinely parkrun it collides with Saturday's shakeout the day before the final read. Same ruling: not raced.**
+
+**✅ THU 27 AUG — RUN CLUB 5 km RACED. 22:28 / 4:29 per km / 171 avg / MAX 187 — the highest heart rate in the log.** The prescribed 2 km + 3 km @ 4:50 + 2 km was set aside; the athlete stated the choice deliberately. **Logged as data, not as a compliance issue.** Full read: `03_session_analyses/2026-08-27_5k_unplanned_max_effort.md`.
+
+**SHAPE — FRONT-LOADED, THEN BLED OUT.** 4:22 / **4:14** / 4:24 / 4:37 / 4:42 at 152 / 174 / 179 / 179 / 183 and 274 / 282 / 267 / 256 / 254 w. **km2 → km5: +28 sec/km, HR +9, power −28 w (−9.9%), efficiency 1.621 → 1.388 w/bpm (−14.4%).** Rising HR against falling power at a slowing pace is decoupling in its plainest form — the last 3 km were paid for out of the first 2, off no warm-up. **This is the aggressive-open failure mode written into the race plan, in its purest form.**
+
+**THREE GENUINE POSITIVES. (1) km2 at 4:14/km @ 174 bpm, 282 w is the FASTEST KILOMETRE OF THE CAMPAIGN** — faster than any threshold rep (4:20 on 2 Jul, 4:23 @ 169 on 6 Aug). The top end exists. **(2) Post-workout 174→132→114 = 42 bpm in the first minute, the sharpest first-minute drop in the log**, taken off its highest peak. **(3) Max 187 plus that trace closes the 56 resting-HR question** — that profile is not produced by an athlete incubating an infection; the 56 was the birthday. **The re-laced shoe cleared under maximum force — that question is closed far more convincingly than an easy run would have closed it.**
+
+**22:28 DOES NOT READ ON SUB-20** — no warm-up, positive split, mid-half-block, no speed work since 2 Jul. **Warmed up, evenly paced and rested this body projects to ~21:15–21:45** — ~90 s off the October target, and the most useful 5 km datapoint the campaign has produced. **Not a 6 Sep signal either way**; 16 Aug and 23 Aug remain the evidence there. **⚠️ The threshold read is NOT clean** (km3 4:24 @ 179 vs 6 Aug's 4:23 @ 169, but off a 4:14 with no warm-up, in the evening, on a 56 morning) — **do not conclude threshold has declined.**
+
+**🔻 CONSEQUENCE — SUNDAY'S RACE-PACE BLOCK TRIMMED 6 km → 4 km.** HR was ≥174 from km2 to the finish, ~18 min at Zone 4 or above. A genuine max 5 km costs 2–3 days and **Sunday morning is ~60 h out, inside that window.** Total stays 14 km: **5 km easy / 4 km @ 4:50 / 5 km easy.** **The final read survives — 4 km at 4:50 still exceeds the 3 km that produced the 16 Aug finding.** Saturday stays a 5 km shakeout; 3 km or nothing if the legs are heavy.
+
+**🚩 OPEN AND URGENT — THE COMPENSATION FLAG IS UNTESTED AT THIS FORCE. No report yet on the lateral right knee or the dorsal 4th/5th metatarsal area.** By a clear margin the highest-force running since the injury, and the 23 Aug flag is explicitly force-dependent. **Status required during, after, and Friday morning. Absence of a report is not a clean report.**
+
+**DATA NOTE: zones sum to 14:41 against 22:28 elapsed — a 7:47 gap, far larger than this log's usual ~1–3 min.** HR was ≥174 from km2 onward, so true Zone 4+5 time is well above the 12:08 displayed; **~18 min is the honest figure.**
+
+---
+
+**Superseded — the morning's pre-session position**
 
 **🟡 RESTING HR 56 (Thu 27 Aug) — TRIM BAND (56–60). Race pace PROCEEDS TRIMMED: 2 km easy + 3 km @ 4:50 + 2 km easy (~7 km) inside the evening run club.** **56 carries more weight than the number suggests because it was taken off a COMPLETE REST DAY** — resting HR should be at its floor after rest, and instead it is 1 above the top of the 49–55 baseline and ~4 above the 52 mode. **Against 19 Aug's 55, taken 24 h after the first jumping-lunge session in seven weeks, a far larger stimulus returned a lower number.** **No throat, cough or phlegm** — the illness rule does not trigger and the reading reads as the birthday (short night, late food), not an infection.
 
