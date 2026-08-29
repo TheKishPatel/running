@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 27 Aug 2026 (late)*
+*Last updated: 29 Aug 2026*
 
 ---
 
@@ -121,12 +121,19 @@ Two further reasons, both live:
 
 ### Fri 28 Aug — REST
 
-### Sat 29 Aug — EASY 5 km *(3 km or nothing if the legs are heavy)*
-| Component | Detail |
-|-----------|--------|
-| Session | **5 km @ 5:50/km, HR <145** |
+### Sat 29 Aug — ✅ 5.04 km, **RUN AT 4:51/km AGAINST A 5:50 FLOOR.** 143 avg, max 154
 
-Trimmed from 6. **Shakeout only — the day before the block's final quality session.** Three Saturdays in a row have been lost to real life; if this one goes too, say so Friday and it is cancelled rather than squeezed. Sunday outranks it.
+5:38 / 5:02 / **4:37** / **4:26** / **4:29** at 128 / 146 / 150 / **148** / **144**. 09:04 start, progressive shape — likely parkrun, run controlled rather than raced (24:26 against Thursday's 22:28).
+
+**🟢 THE STRIKING NUMBER: km4 at 4:26/km @ 148 bpm.** Against 16 Aug's 4:52/km @ 161 — **26 sec/km faster at 13 bpm lower.** If real, the best aerobic reading of the campaign by a distance.
+
+**🟡 NOT BANKED. HR FELL as pace rose** — 150 → 148 → 144 against 4:37 → 4:26 → 4:29. Nobody sheds 6 bpm while accelerating: that is a downhill section or **wrist optical under-reading (no strap).** **Zone 3 only 3:20, Zone 4 zero** — thin for 2 km at 4:26–4:29.
+
+**🔴 COUNTER-SIGNAL — RECOVERY BLUNTED. 141→119→113 = 22 bpm in the first minute, 28 over two, against 19 Aug's 133→95→74 (38 and 59) off a near-identical peak.** Thursday showing up at 36 h. **The pace/HR looks exceptional and the recovery looks tired. Sunday's chest strap resolves it.**
+
+**⚠️ Third consecutive session run harder than prescribed, and the second consecutive missed morning reading. Sunday's resting HR is the only gate left.**
+
+*Prescribed was 5 km @ 5:50/km, HR <145 — a shakeout the day before the block's final quality session.*
 
 ### Sun 30 Aug — 14 km WITH 6 km AT RACE PACE ⭐⭐ **THE FINAL READ**
 | Component | Detail |
@@ -138,6 +145,38 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 | Kit | **Chest strap.** Carry fluid |
 | Fuel | **Gel at 45 min** — race rehearsal |
 | Format | **Structured watch workout — mandatory** |
+
+#### 📲 WATCH PROGRAM — Workout app → Running → Custom
+
+| Block | Type | Goal | Pace alert | HR alert |
+|---|---|---|---|---|
+| 1 | Warmup | **4 km** | 5:40–5:50/km | <145 |
+| 2 | Work | **6 km** | **4:45–4:55/km** | **158–168** |
+| 3 | Cooldown | **4 km** | 5:40–5:50/km | <150 |
+
+All whole kilometres — blocks and auto-splits agree (`data_capture_protocol.md` Rule 1 + Rule 3). **Chest strap mandatory, and more important than usual after Saturday's unverified HR.**
+
+#### Split targets
+
+| km | Target | Cumulative |
+|---|---|---|
+| 1–4 | 5:45 | 23:00 |
+| **5** | **4:52** — open here, not 4:45 | 27:50 |
+| 6 | 4:50 | 32:40 |
+| 7 | 4:50 | 37:30 |
+| **8** | 4:50 — **gel at this beep (~42 min)** | 42:20 |
+| 9 | 4:50 | 47:10 |
+| **10** | **4:50 — same as km5** | 52:00 |
+| 11–14 | 5:45 | 75:00 |
+
+#### 🚦 Morning gate — the only one left (readings missed Fri 28 and Sat 29)
+
+| Reading | Action |
+|---|---|
+| **RHR ≤55** | **6 km block as written** |
+| **56–60** | **Race pace km5–8 only, then easy home** — 4 km easy + 4 km @ 4:50 + 6 km easy = 14 km |
+| >60 | **Complete rest** |
+| Throat / cough / phlegm | **Complete rest — overrides everything** |
 
 **🔁 TRIM REVERSED — 6 km STANDS (athlete's call, 27 Aug, and the evidence supports it).** The trim was proposed after Thursday's maximal 5 km; **the knee and foot then reported clean at 4:14/km and 187 bpm**, which was the main unknown behind it. **4:50/km is sub-threshold** — ~89% of threshold power on the 16 Aug numbers — not a session requiring full freshness. **It is also self-regulating:** the 168 HR ceiling and the ease-to-4:55 rule mean fatigue presents as *data* rather than as a blow-up, and the verdict table below already reads that correctly.
 
@@ -166,7 +205,7 @@ Trimmed from 6. **Shakeout only — the day before the block's final quality ses
 **Wed 26 Aug:** ✅ **Rest — birthday, no run.** Prescribed 6 km cancelled, not rolled.
 **Thu 27 Aug:** ✅ **Run club 5 km RACED — 22:28, 4:29/km, 171 avg, MAX 187.** Fastest km of the campaign (4:14 @ 174) and the sharpest 1-min recovery in the log (174→132→114). **Heavily positive split, −14.4% efficiency. KNEE AND FOOT CLEAN at max force — the compensation flag is downgraded.**
 **Fri 28 Aug:** ⏳ Rest.
-**Sat 29 Aug:** ⏳ Easy 5 km @ 5:50.
+**Sat 29 Aug:** ✅ **5.04 km at 4:51/km, 143 avg, max 154** — against a 5:50 floor. **km4 4:26 @ 148** is the campaign's most striking pace-for-HR reading, but unverified (no strap) and contradicted by a blunted recovery trace. **RHR not captured — second consecutive miss.**
 **Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ.** *(Trim reversed — knee and foot clean at max force; morning ladder is the only gate.)*
 
 **Actual volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: 6 km (Sunday), or 4 km on a 56–60 morning reading. Thursday delivered ~18 min at Zone 4+ instead of its 3 km.**

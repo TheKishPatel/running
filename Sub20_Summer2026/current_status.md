@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 27 Aug 2026 (late)*
+*Last updated: 29 Aug 2026*
 
 ---
 
@@ -19,6 +19,16 @@
 **Tonight, in order: 5 km at 4:50/km off a 2 km easy warm-up if own pace is controllable** (recovers the session and exceeds the 4 km prescribed) → **otherwise easy at 5:45+, HR <150** (rehearsal written off, Sunday fully intact). **Half-racing at ~5:10 is refused — no race-pace stimulus and still taxes Sunday.**
 
 **⚠️ THE RE-LACED SHOE REMAINS UNTESTED** — Wednesday was rest, Thursday was stormed out. Tonight is the test; failing that, Sunday is the first time the lacing meets race pace. **This is itself an argument for running tonight easy.** **⚠️ Event identity unconfirmed — parkrun is Saturday 09:00, not Thursday evening; if it is genuinely parkrun it collides with Saturday's shakeout the day before the final read. Same ruling: not raced.**
+
+**🟡 SAT 29 AUG — SHAKEOUT RUN AT 4:51/km AGAINST A 5:50 FLOOR. 5.04 km, 143 avg, max 154.** 5:38 / 5:02 / 4:37 / **4:26** / **4:29** at 128 / 146 / 150 / **148** / **144**. 09:04 start and a progressive shape suggest parkrun, run controlled rather than raced (24:26 against Thursday's 22:28).
+
+**THE STRIKING NUMBER — km4 at 4:26/km @ 148 bpm. Against the block's headline finding (16 Aug: 4:52/km @ 161 bpm, 246 w off 13 km) that is 26 sec/km FASTER at 13 bpm LOWER.** km5 4:29 @ 144 says the same. **If real, the best aerobic reading of the campaign by a distance — and it is NOT yet banked.** Two objections: **HR FELL while pace rose** (150 → 148 → 144 against 4:37 → 4:26 → 4:29 — nobody sheds 6 bpm while accelerating; a downhill section or **wrist optical under-reading**, no strap worn), and **Zone 3 totals only 3:20 with Zone 4 zero**, thin for 2 km at that pace.
+
+**🔴 COUNTER-SIGNAL — RECOVERY BLUNTED: 141→119→113 = 22 bpm in the first minute, 28 over two, against 19 Aug's 133→95→74 (38 and 59) off a near-identical peak.** Thursday's maximal 5 km showing up at 36 h. **The two halves of the file disagree — pace/HR exceptional, recovery tired. SUNDAY'S CHEST STRAP RESOLVES IT, and that is now the single most valuable thing the final read will produce beyond its own verdict.**
+
+**⚠️ THIRD CONSECUTIVE SESSION RUN HARDER THAN PRESCRIBED** (Thu raced instead of 3 km @ 4:50; Sat 4:51 against a 5:50 floor). Recorded, not litigated — the athlete has been explicit these are deliberate. **Structural consequence: with morning readings missed on Fri 28 AND Sat 29, Sunday's resting HR is the ONLY remaining gate on the final read.** ≤55 → 6 km block; 56–60 → 4 km (km5–8, then easy home); >60 → complete rest; any throat/cough/phlegm overrides.
+
+---
 
 **✅ THU 27 AUG — RUN CLUB 5 km RACED. 22:28 / 4:29 per km / 171 avg / MAX 187 — the highest heart rate in the log.** The prescribed 2 km + 3 km @ 4:50 + 2 km was set aside; the athlete stated the choice deliberately. **Logged as data, not as a compliance issue.** Full read: `03_session_analyses/2026-08-27_5k_unplanned_max_effort.md`.
 
