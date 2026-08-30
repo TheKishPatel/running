@@ -1,6 +1,26 @@
 # Current Status
 
-*Last updated: 30 Aug 2026*
+*Last updated: 30 Aug 2026 (week complete)*
+
+---
+
+## Status: 🎯 **FINAL READ PASSED — 1:42 CONFIRMED. RACE WEEK BEGINS.** The Big Half, Sun 6 Sep 2026 (21.1 km, 7 days out).
+
+**SUN 30 AUG — THE BLOCK'S LAST QUESTION IS ANSWERED. 6 km at 4:49.7/km, 157.7 bpm, 249 W inside a 14 km run. Max 165 against a 166 ceiling; Zone 4 across the whole 74 minutes = 13 seconds.** The top row of the verdict table, met on pace with 8 bpm of ceiling unused. **Race plan as written: 4:50/km, target 1:42.** Full read: `03_session_analyses/2026-08-30_final_read_14km_6km_racepace.md`.
+
+**Against the block's previous best (16 Aug — 3 km @ 4:52/km, 161 bpm, 246 W): TWICE THE DISTANCE, 2 sec/km FASTER, 3.3 bpm LOWER, 3 W MORE. Efficiency 1.579 vs 1.528 = +3.3%.** Delivered **48 h after a maximal 5 km, 24 h after a hard parkrun, on a five-waking night** — the sleep allowance built into the verdict table was not needed. **Best single point: km10 at 4:42/km @ 165 bpm, 254 W** — 8 sec/km faster than race pace, under the ceiling, at the end of the block. **Post-workout 142→99→94 = 43 bpm in the first minute, the sharpest long-run trace in the log.**
+
+**⚠️ ONE DEVIATION: the block negative-split 16 sec/km (4:58 → 4:42) against instruction.** The 4:58 opener was correct — eighth consecutive disciplined start. The acceleration was not. **OPEN AT 4:52–4:55 ON RACE DAY.**
+
+**🚩 COMPENSATION FLAG — SECOND OCCURRENCE (30 Aug km11–14, resolved by evening; 23 Aug km15–18). THE 23 AUG TRIGGER — recurrence on a second run — IS MET. PHYSIO ASSESSMENT REQUIRED THIS WEEK.** Six days out is enough time for an assessment to be useful and not enough for it to be ignored.
+
+**BUT THE MECHANISM HAS CLARIFIED, AND IT IS BETTER NEWS THAN IT LOOKS: THIS IS CUMULATIVE-LOAD-DRIVEN, NOT FORCE-DRIVEN.** Thursday's **4:14/km at 187 bpm** — the highest force of the campaign — was silent. Saturday was silent. **Sunday's race-pace block was silent.** Symptoms appear only at *easy* pace, after ~an hour of cumulative work. **RACE CONSEQUENCE: a faster race is a shorter race. 4:50 for 1:42 is less total exposure than backing off to 5:05 for 1:47 — racing the planned pace is not the riskier option.** Onset came earlier exactly as predicted on 27 Aug (~58 min vs ~85 min on 23 Aug), reflecting Thursday's and Saturday's cost. **Expect it in the second half on 6 Sep. Stop only if the CHARACTER changes: sharp rather than achy, point-tender on bone, gait-altering, or unable to hop on the foot.**
+
+**📉 SAT 29 AUG IS DISREGARDED.** Sunday's strap has 4:42/km costing 165 bpm; Saturday's wrist optical claimed 4:26/km cost 148. **Under-reading by ~25 bpm. RULE: no chest strap, no aerobic verdict.**
+
+**🟢 THE OCTOBER 5K HAS A STARTING LINE.** Thursday's unplanned 5 km produced **km2 at 4:14/km @ 174 bpm** — the fastest kilometre of the campaign, faster than any threshold rep. **22:28 off no warm-up with a heavy positive split projects to ~21:15–21:45 rested and evenly paced.** ~90 s off sub-20.
+
+**WEEK 5 CLOSED: ~24 km across 3 runs + 1 Barry's against ~33 planned. The week lost its structure almost entirely and still produced the verdict it existed to produce.** Summary: `02_training_log/weekly_summaries/half_week_05_summary.md`. **Race week plan pending — run `/weekly-plan`.**
 
 ---
 

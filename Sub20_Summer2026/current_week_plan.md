@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 30 Aug 2026*
+*Last updated: 30 Aug 2026 (complete)*
 
 ---
 
@@ -135,7 +135,21 @@ Two further reasons, both live:
 
 *Prescribed was 5 km @ 5:50/km, HR <145 — a shakeout the day before the block's final quality session.*
 
-### Sun 30 Aug — 14 km WITH 6 km AT RACE PACE ⭐⭐ **THE FINAL READ**
+### Sun 30 Aug — ✅✅ **THE FINAL READ — COMPLETE. 1:42 CONFIRMED.**
+
+**14.005 km / 1:13:53 / 144 avg / max 170. RACE-PACE BLOCK km5–10: 4:49.7/km at 157.7 bpm, 249 W. Max 165 in-block against a 166 ceiling; Zone 4 across the whole 74 minutes = 0:13.** Top row of the verdict table, met on pace with 8 bpm unused. Full read: `03_session_analyses/2026-08-30_final_read_14km_6km_racepace.md`.
+
+**Against 16 Aug (3 km @ 4:52 @ 161, 246 W): twice the distance, 2 sec/km faster, 3.3 bpm lower, 3 W more — efficiency 1.579 vs 1.528, +3.3%.** Delivered 48 h after a maximal 5 km, 24 h after a hard parkrun, on a five-waking night. **The sleep allowance was not needed.** Best single point: **km10 4:42/km @ 165, 254 W.** Post-workout **142→99→94 = 43 bpm in the first minute, sharpest long-run trace in the log.**
+
+**Deviation: the block negative-split 16 sec/km (4:58 → 4:42) against instruction.** The 4:58 opener was right; the acceleration was not. **Open at 4:52–4:55 on race day — the back half of a half cannot absorb it.**
+
+**🚩 COMPENSATION FLAG — SECOND OCCURRENCE, km11–14, resolved by evening. The 23 Aug trigger (recurrence on a second run) is MET: PHYSIO ASSESSMENT THIS WEEK.** But the mechanism clarified: **the race-pace block was clean, Thursday's 4:14/km @ 187 was clean — this is cumulative load, not force.** Race consequence: **a faster race is a shorter race; 4:50 for 1:42 is less exposure than 5:05 for 1:47.** Onset came earlier as predicted (~58 min vs ~85 min on 23 Aug). **Expect it in the second half on 6 Sep; stop only if the CHARACTER changes** — sharp not achy, point-tender on bone, gait-altering, or unable to hop.
+
+**Sat 29's 4:26 @ 148 is disregarded** — today's strap has 4:42 costing 165. Wrist optical was under-reading ~25 bpm. **No strap, no aerobic verdict.**
+
+---
+
+### Superseded — Sunday as prescribed
 | Component | Detail |
 |-----------|--------|
 | Segment 1 | **4 km @ 5:45/km**, HR <145 |
@@ -212,7 +226,13 @@ All whole kilometres — blocks and auto-splits agree (`data_capture_protocol.md
 **Thu 27 Aug:** ✅ **Run club 5 km RACED — 22:28, 4:29/km, 171 avg, MAX 187.** Fastest km of the campaign (4:14 @ 174) and the sharpest 1-min recovery in the log (174→132→114). **Heavily positive split, −14.4% efficiency. KNEE AND FOOT CLEAN at max force — the compensation flag is downgraded.**
 **Fri 28 Aug:** ⏳ Rest.
 **Sat 29 Aug:** ✅ **5.04 km at 4:51/km, 143 avg, max 154** — against a 5:50 floor. **km4 4:26 @ 148** is the campaign's most striking pace-for-HR reading, but unverified (no strap) and contradicted by a blunted recovery trace. **RHR not captured — second consecutive miss.**
-**Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ. RHR 55 → GATE PASSED, 6 km as written.** Sleep bad (~5 wakings) → **read the session on HR, not pace**; sleep-adjusted verdict table applies.
+**Sun 30 Aug:** ✅✅ **THE FINAL READ — 6 km at 4:49.7/km @ 157.7 bpm, 249 W. Max 165, Zone 4 total 0:13. 1:42 CONFIRMED.** Compensation flag recurred km11–14 → **physio this week.**
+
+---
+
+## ✅ WEEK 5 COMPLETE — BLOCK OBJECTIVE MET
+
+**~24 km across 3 runs + 1 Barry's against ~33 planned. The week lost its structure almost entirely and still produced the verdict it existed to produce.** Summary: `02_training_log/weekly_summaries/half_week_05_summary.md`. **Race week (Week 6) plan pending — run `/weekly-plan`.**
 
 **Actual volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: 6 km (Sunday), or 4 km on a 56–60 morning reading. Thursday delivered ~18 min at Zone 4+ instead of its 3 km.**
 
