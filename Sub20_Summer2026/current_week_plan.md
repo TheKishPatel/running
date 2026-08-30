@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 29 Aug 2026*
+*Last updated: 30 Aug 2026*
 
 ---
 
@@ -169,14 +169,17 @@ All whole kilometres — blocks and auto-splits agree (`data_capture_protocol.md
 | **10** | **4:50 — same as km5** | 52:00 |
 | 11–14 | 5:45 | 75:00 |
 
-#### 🚦 Morning gate — the only one left (readings missed Fri 28 and Sat 29)
+#### ✅ MORNING GATE PASSED — RHR 55 (Sun 30 Aug). **6 km BLOCK AS WRITTEN.**
 
-| Reading | Action |
-|---|---|
-| **RHR ≤55** | **6 km block as written** |
-| **56–60** | **Race pace km5–8 only, then easy home** — 4 km easy + 4 km @ 4:50 + 6 km easy = 14 km |
-| >60 | **Complete rest** |
-| Throat / cough / phlegm | **Complete rest — overrides everything** |
+**55 is the top of the 49–55 baseline, taken after a fragmented night (~5 wakings) and 48 h after a maximal 5 km.** That is a good signal, not a marginal one. Contrast 13 Aug — cancelled on **62** plus a badly broken night. **The ladder decides this and it says go.**
+
+**🟡 SLEEP BAD — ~5 WAKINGS. THIS CHANGES THE READING, NOT THE SESSION.** Documented cost of short sleep on quality work here is **~11 sec/km** (14 May tempo). At a 4:50 target that is 5:01 — which under the verdict table as originally written reads as "race on effort, no pace target." **That would record a sleep artifact as a fitness verdict and set the race target off a bad night.**
+
+**TODAY HR IS THE READ, NOT PACE.** Sleep loss costs pace more than it costs HR-at-pace. **Use the sleep-adjusted table below.**
+
+**Expect it to feel harder than the numbers say.** Fragmented sleep raises perceived exertion without much raising heart rate. **Do not abandon the block because it feels heavy — the HR ceiling decides, not the feeling.** HR in 158–166 with the work feeling hard means the night, not the fitness.
+
+**Fuel and hydrate more deliberately than usual pre-run** — poor sleep degrades fuelling more than it degrades running.
 
 **🔁 TRIM REVERSED — 6 km STANDS (athlete's call, 27 Aug, and the evidence supports it).** The trim was proposed after Thursday's maximal 5 km; **the knee and foot then reported clean at 4:14/km and 187 bpm**, which was the main unknown behind it. **4:50/km is sub-threshold** — ~89% of threshold power on the 16 Aug numbers — not a session requiring full freshness. **It is also self-regulating:** the 168 HR ceiling and the ease-to-4:55 rule mean fatigue presents as *data* rather than as a blow-up, and the verdict table below already reads that correctly.
 
@@ -188,11 +191,14 @@ All whole kilometres — blocks and auto-splits agree (`data_capture_protocol.md
 
 **What this decides — the last input before the start line:**
 
+**SLEEP-ADJUSTED VERDICT TABLE (revised 30 Aug for a ~5-waking night):**
+
 | Result | Verdict |
 |---|---|
-| **6 km at 4:50, HR ≤166, no symptoms** | **1:42 confirmed. Race plan as written.** |
-| 6 km at 4:53–4:58, or HR 167–172 | **Target 1:45. Race at 4:58/km.** |
-| Slower than 5:00, or HR >172 | **Race on effort, no pace target.** Something is wrong — report it Sunday |
+| **HR ≤166 at 4:50–4:55** | **1:42 confirmed. Race plan as written.** |
+| **HR ≤166 at 4:56–5:01** | **Still 1:42 — sleep-adjusted, NOT a downgrade.** The ~11 sec/km sleep cost covers this band |
+| HR 167–172 at 4:50–4:55 | **Target 1:45. Race at 4:58/km.** |
+| HR >172, or slower than 5:05 | **Race on effort, no pace target.** Report it |
 | **Any lateral knee or foot symptom** | **End the block immediately, finish easy.** See below |
 
 **Do not negative-split the race-pace block.** km5 should be the same as km10. The 16 Aug evidence (4:51 / 4:52 / 4:54 — flat) is exactly the shape wanted.
@@ -206,7 +212,7 @@ All whole kilometres — blocks and auto-splits agree (`data_capture_protocol.md
 **Thu 27 Aug:** ✅ **Run club 5 km RACED — 22:28, 4:29/km, 171 avg, MAX 187.** Fastest km of the campaign (4:14 @ 174) and the sharpest 1-min recovery in the log (174→132→114). **Heavily positive split, −14.4% efficiency. KNEE AND FOOT CLEAN at max force — the compensation flag is downgraded.**
 **Fri 28 Aug:** ⏳ Rest.
 **Sat 29 Aug:** ✅ **5.04 km at 4:51/km, 143 avg, max 154** — against a 5:50 floor. **km4 4:26 @ 148** is the campaign's most striking pace-for-HR reading, but unverified (no strap) and contradicted by a blunted recovery trace. **RHR not captured — second consecutive miss.**
-**Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ.** *(Trim reversed — knee and foot clean at max force; morning ladder is the only gate.)*
+**Sun 30 Aug:** ⏳ **14 km with middle 6 km @ 4:50 — THE FINAL READ. RHR 55 → GATE PASSED, 6 km as written.** Sleep bad (~5 wakings) → **read the session on HR, not pace**; sleep-adjusted verdict table applies.
 
 **Actual volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: 6 km (Sunday), or 4 km on a 56–60 morning reading. Thursday delivered ~18 min at Zone 4+ instead of its 3 km.**
 

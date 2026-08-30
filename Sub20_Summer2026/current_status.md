@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 29 Aug 2026*
+*Last updated: 30 Aug 2026*
 
 ---
 
@@ -19,6 +19,14 @@
 **Tonight, in order: 5 km at 4:50/km off a 2 km easy warm-up if own pace is controllable** (recovers the session and exceeds the 4 km prescribed) → **otherwise easy at 5:45+, HR <150** (rehearsal written off, Sunday fully intact). **Half-racing at ~5:10 is refused — no race-pace stimulus and still taxes Sunday.**
 
 **⚠️ THE RE-LACED SHOE REMAINS UNTESTED** — Wednesday was rest, Thursday was stormed out. Tonight is the test; failing that, Sunday is the first time the lacing meets race pace. **This is itself an argument for running tonight easy.** **⚠️ Event identity unconfirmed — parkrun is Saturday 09:00, not Thursday evening; if it is genuinely parkrun it collides with Saturday's shakeout the day before the final read. Same ruling: not raced.**
+
+**✅ SUN 30 AUG — MORNING GATE PASSED. RHR 55. THE FINAL READ GOES AS WRITTEN: 14 km with the middle 6 km @ 4:50.** 55 is the top of the 49–55 baseline, taken after a fragmented night (~5 wakings) and 48 h after a maximal 5 km — a good signal, not a marginal one. Contrast **13 Aug, cancelled on 62 plus a badly broken night**; the number is the difference.
+
+**🟡 SLEEP BAD (~5 WAKINGS) — THIS CHANGES THE READING, NOT THE SESSION. Documented sleep cost on quality work here is ~11 sec/km (14 May), which at a 4:50 target is 5:01 — a pace the original verdict table would have read as "race on effort, no pace target."** That would record a sleep artifact as a fitness verdict and set the 6 Sep race target off a bad night. **REVISED: today the session is read on HR, not pace** — sleep loss costs pace more than it costs HR-at-pace. **HR ≤166 at 4:56–5:01 still confirms 1:42.** Full sleep-adjusted table in `current_week_plan.md`.
+
+**Expect perceived exertion above what the HR justifies — fragmented sleep does that. The HR ceiling decides the session, not the feeling.**
+
+---
 
 **🟡 SAT 29 AUG — SHAKEOUT RUN AT 4:51/km AGAINST A 5:50 FLOOR. 5.04 km, 143 avg, max 154.** 5:38 / 5:02 / 4:37 / **4:26** / **4:29** at 128 / 146 / 150 / **148** / **144**. 09:04 start and a progressive shape suggest parkrun, run controlled rather than raced (24:26 against Thursday's 22:28).
 
