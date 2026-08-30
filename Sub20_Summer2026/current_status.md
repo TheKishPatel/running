@@ -1,8 +1,30 @@
 # Current Status
 
-*Last updated: 30 Aug 2026 (week complete)*
+*Last updated: 30 Aug 2026 (race week plan issued)*
 
 ---
+
+## Status: 🏁 **RACE WEEK — THE BIG HALF, Sun 6 Sep 2026, 21.1 km. TARGET 1:42 (4:50/km).**
+
+**The training is finished and 1:42 is confirmed.** 30 Aug delivered 6 km at **4:49.7/km, 157.7 bpm, 249 W** inside a 14 km run — max 165 against a 166 ceiling, 13 seconds of Zone 4 across 74 minutes. **Nothing this week adds fitness; everything this week can subtract it.** Full plan: `current_week_plan.md`.
+
+**⚠️ WEEK REVISED FOR TRAVEL — AWAY MON 31 AUG – FRI 4 SEP. BARRY'S IS UNAVAILABLE, NOT SKIPPED.** `CLAUDE.md`'s rule that Barry's is never dropped to protect running does not reach a week where there is no studio. **Tue 1 Sep becomes an easy 5 km @ 5:45–5:55, HR <150** — and no substitute strength or plyometric circuit, because a novel session five days out is exactly what "nothing new from here" exists to prevent. **Net load is lower than the week as originally written, which is the correct direction in a taper.**
+
+**Week 6: ~34 km including the race, across 3 short runs.** Mon rest (travel) / **Tue easy 5 km** / Wed rest / **Thu 1 km WU + 4×400 m @ 3:50 + 1 km CD** / Fri rest (travel home) / **Sat 3 km @ 6:00 + 2 strides** / **Sun RACE**.
+
+**🛑 THE WEEK'S HIGHEST-RISK DECISION IS SATURDAY, AND IT IS NOT A TRAINING DECISION: NO PARKRUN ON 5 SEP.** The last three Saturdays were all run harder than prescribed and 29 Aug came in at **4:51/km against a 5:50 floor — 59 sec/km fast.** That was absorbable the day before a training session. The day before a goal half marathon it is not, and it would cost more than every session this week gains.
+
+**🚑 PHYSIO — RULED, BECAUSE TRAVEL FORCES IT.** The 30 Aug recurrence met the assessment trigger, but Mon–Fri away makes a booking impractical and **Saturday is the wrong day for one**: hands-on soft-tissue work 24 h before a goal race is a new input on the day that must contain none. **Take an appointment where he is Tue–Thu if one exists; otherwise it moves to Mon 7 Sep, booked now.** The deferral is defensible on the mechanism, not on convenience: the flag is **cumulative-load driven, not force driven** (silent at 4:14/km and 187 bpm, silent through both race-pace blocks) and resolves within hours. **The one finding that would change Sunday is a metatarsal stress reaction, and that rule-out does not need a clinician** — bone palpation, 10 hops on the right foot, swelling check, Tuesday morning. Everything else is information for the October block.
+
+**🚩 POST-RACE FLAG, WRITTEN DOWN NOW: Tue 8 Sep is a 14-day gap from the last lower-body Barry's (25 Aug) AND 48 h post-half-marathon. Walking lunges, no plyometrics.**
+
+**Race-day non-negotiables: chest strap; gels at 45 and 75 min; open at 4:55/km and never faster than 4:50 in the first 5 km.** 30 Aug's block negative-split 16 sec/km (4:58 → 4:42) against instruction — training absorbed that, 21.1 km will not. **Expect the foot and lateral knee in the second half; keep running through the familiar ache, stop only if the character changes** — sharp rather than achy, point-tender on bone, gait-altering, or unable to hop. **A faster race is a shorter race: 4:50 for 1:42 is less exposure than 5:05 for 1:47.**
+
+**Daily 60-second seated resting HR, Mon through Sun.** Fri 28 and Sat 29 were both missed and Sunday's 55 carried the entire gate alone.
+
+---
+
+## Superseded — Week 5 close
 
 ## Status: 🎯 **FINAL READ PASSED — 1:42 CONFIRMED. RACE WEEK BEGINS.** The Big Half, Sun 6 Sep 2026 (21.1 km, 7 days out).
 

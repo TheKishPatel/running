@@ -1,281 +1,269 @@
 # Current Week Plan
 
-*Last updated: 30 Aug 2026 (complete)*
+*Last updated: 30 Aug 2026*
 
 ---
 
-## Half Block Week 5 (Mon 24 – Sun 30 Aug) — **THE LAST TRAINING WEEK**
+## Half Block Week 6 (Mon 31 Aug – Sun 6 Sep) — **RACE WEEK**
 
-**Goal race: Sun 6 Sep 2026 — The Big Half, 21.1 km (12 days out). Full block: `big_half_block_Sep2026.md`.**
+**THE BIG HALF — Sunday 6 September 2026, 21.1 km, London. Target 1:42 (4:50/km).**
 
-**Objective: race pace returns, twice, and Sunday is the final read before the start line.** Week 6 is race week — there is no session after Sunday 30 Aug that changes the plan. **~24 km across 3 runs + 1 Barry's.** *(Revised 27 Aug evening — Wed 26 Aug full rest, birthday. Thu 27 Aug rehearsal lost to a thunderstorm; the evening run club was then RACED as an unplanned maximal 5 km, 22:28, max 187. Sunday's block stays at 6 km — knee and foot clean at max force; the morning ladder is the gate.)*
+**Constraint: away Mon 31 Aug – Fri 4 Sep. Running is available; Barry's is not.**
 
-**Coming off a peak week that lost its threshold session and its Saturday and still delivered the block's objective.** 18.01 km at 5:48/km, **132 avg, max 145 — the <150 cap was never touched, Zone 3/4/5 all zero.** Quarters ran 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8: flat, last quarter slowest. **Efficiency km3–18 was 1.575 w/bpm against 1.529 for the 16 Aug body — 16 km cost less per beat than 12 km did a week earlier.**
+**The training is finished.** 30 Aug answered the last open question — 6 km at 4:49.7/km,
+157.7 bpm, 249 W inside a 14 km run, max 165 against a 166 ceiling, 13 seconds of Zone 4
+across 74 minutes. **Nothing this week adds fitness. Everything this week can subtract it.**
 
-**The endurance question is closed. This week asks the only remaining one: does 4:50/km hold when the legs are already tired?**
-
----
-
-### Mon 24 Aug — REST ✅
-
-### Tue 25 Aug — BARRY'S (Lower Body) ✅
-**129 avg / 167 max.** Z1 26:35 / Z2 17:16 / Z3 4:50 / **Z4 0:00** / Z5 0:00. Post 106→93→87.
-**Plyometrics modified as prescribed** (max 167 and Z4 zero against 172 / 1:02 on 18 Aug). **No pain — knee and foot both silent.** Lightest distribution of the block (Z2+3 45%), explained by the 18 km 48 h prior, a 06:00 start on ~6.5 h sleep, and the modification itself.
-
-### Wed 26 Aug — REST ✅ *(birthday — no run)*
-
-**The prescribed easy 6 km was cancelled and not rolled.** Friday's rest is what protects Sunday, and Sunday outranks everything left in the block (Standing rule 1).
-
-**The cost is diagnostic, and it has now compounded.** This run was carrying the re-laced-shoe test and the pre-quality HR go-band read. **Thursday's storm removed the fallback slot for both.** The shoe is therefore **untested going into the weekend** — which is the single strongest argument against any hard running before Sunday.
-
-### Thu 27 Aug — ✅ RUN CLUB 5 km, **RACED. 22:28 / 4:29 per km / 171 avg / MAX 187.**
-
-**Athlete elected to race rather than run the prescribed 2 km + 3 km @ 4:50 + 2 km. Stated as a deliberate choice. Logged as data, not as a compliance issue.** Full read: `03_session_analyses/2026-08-27_5k_unplanned_max_effort.md`.
-
-| km | Pace | HR | Power | w/bpm |
-|---|---|---|---|---|
-| 1 | 4:22 | 152 | 274 | — *(HR lagging, no warm-up)* |
-| 2 | **4:14** | 174 | **282** | 1.621 |
-| 3 | 4:24 | 179 | 267 | 1.492 |
-| 4 | 4:37 | 179 | 256 | 1.430 |
-| 5 | 4:42 | 183 | 254 | 1.388 |
-
-**Shape: front-loaded, then bled out. km2 → km5 = +28 sec/km, HR +9, power −28 w (−9.9%), efficiency −14.4%.** Rising HR against falling power at a slowing pace is decoupling in its plainest form — the last 3 km were paid for out of the first 2. **km1 went out at 4:22 from cold.**
-
-**Three genuine positives:** **km2 at 4:14 @ 174 is the fastest kilometre of the campaign** (vs 4:20 on 2 Jul, 4:23 @ 169 on 6 Aug); **post-workout 174→132→114 = 42 bpm in the first minute, the sharpest in the log**, off its highest peak; and **max 187 plus that trace closes the 56 resting-HR question** — that is not an athlete incubating an infection. **The re-laced shoe cleared under maximum force — that question is now closed.**
-
-**22:28 does not read on sub-20** — no warm-up, positive split, no speed work since 2 Jul. Warmed up, evenly paced and rested this body projects to **~21:15–21:45**. That is the October project's starting line, not a 6 Sep signal. **The threshold read is not clean either** (km3 4:24 @ 179 vs 6 Aug 4:23 @ 169, but off a 4:14 and no warm-up) — **do not conclude threshold has declined.**
-
-**✅ KNEE AND FOOT CLEAN — REPORTED CLEAR AFTER THE EFFORT. THIS IS THE MOST VALUABLE RESULT IN THE SESSION.** The compensation flag has now been tested at **4:14/km and 187 bpm** — by a wide margin the highest force since the injury, and far above anything 4:50/km will ask — **and it stayed silent.** Stronger evidence than any easy run could have produced. **The 23 Aug flag is downgraded for 6 Sep**: it remains fatigue-dependent (it appeared at km15–18 of 18 km, not under force alone), so the abort rule stands, but the force question is answered.
+**~34 km including the race, across 3 short runs.** The plan's Week 6 was ~30 km across
+2 runs + Barry's; the Barry's stimulus is unavailable and is replaced by an easy Tuesday
+run, which is a lower net load than the week as originally written. That is the correct
+direction in a taper.
 
 ---
 
-### Superseded — Thursday as planned before the run
-| Component | Detail |
-|-----------|--------|
-| ~~Prescribed~~ | ~~3 km @ 5:45 + 4 km @ 4:50 + 1 km @ 6:00~~ |
-| Actual window | **Evening social 5 km** |
-| Kit | **Re-laced shoe + chest strap — mandatory. This is the shoe test** |
-| Abort rule | **Live.** Any lateral knee or dorsal foot symptom ends the run — drop to easy, finish aerobically |
+### Mon 31 Aug — REST (travel day)
 
-**Thursday goes and is NOT rolled to Friday (Standing rule 1).** Forcing the rehearsal in an active storm is refused: wet ground at race pace, with an open fatigue-and-force compensation flag, in an untested lacing setup — and the pace could not be held anyway, so the session would produce no usable data at the exact cost it was meant to avoid.
+Complete rest. **Travel dehydrates** — drink to pale urine through the day, and add
+electrolytes if the journey is over ~3 hours.
 
-#### 🚩 THE 5 km IS NOT TO BE RACED
+**Morning: report the 60-second seated resting HR.** Fri 28 and Sat 29 were both missed
+and Sunday's 55 ended up carrying the entire gate alone. Six readings this week, starting
+today.
 
-**Asked and answered: no.** A raced 5 km is ~4:05–4:20/km. **The prescribed stimulus was 4:50/km.** Those are different systems, and the campaign's documented failure mode is the aggressive open.
+---
 
-**The decisive argument is Sunday, not Thursday.** Sun 30 Aug is the block's **final read** — 6 km at 4:50 inside 14 km — and its output *is* the race target. **A raced 5 km costs 2–3 days; Sunday is 3 days out.** He would arrive at the one measurement this week exists to produce carrying unsubtractable fatigue, read 4:50 as too expensive, and drop the target to 1:45 for a reason that is not fitness. **A corrupted Sunday read is worse than a missed Thursday session.**
+### Tue 1 Sep — EASY 5 km *(replaces Barry's)*
 
-Two further reasons, both live:
-1. **A flat-out 5 km is the highest-force running of the entire block** — against a compensation flag (23 Aug: lateral knee + dorsal forefoot) that is explicitly fatigue- and force-dependent, **10 days from the goal race.**
-2. **The re-laced shoe is still untested.** Racing is the worst possible first test of a lacing change made for a dorsal pressure point.
-
-#### 🟡 RESTING HR 56 (Thu 27 Aug) — TRIM BAND. **RACE PACE PROCEEDS, TRIMMED TO 3 km.**
-
-**56 sits in the morning ladder's 56–60 band** (trim the race-pace block by 2 km; easy runs proceed). Applied literally, tonight's optional 5 km at 4:50 becomes 3 km.
-
-**It carries more weight than the number suggests, because of when it was taken: off a COMPLETE REST DAY.** Resting HR should be at its floor after rest. Instead it is **1 above the top of the 49–55 baseline and ~4 above the 52 mode.** Against 19 Aug — **55, taken 24 h after the first jumping-lunge session in seven weeks** — a far larger stimulus returned a lower number. **Most likely the birthday** (short night, late food); benign and self-clearing. **Not a morning to add intensity to.**
-
-**✅ ROUTE AND SYMPTOMS RESOLVED — two of the four objections are gone.** "Chelmsford 5k": **5.01 km, 0 m elevation gain, ~3 m of total range across the loop, 100% paved, measured, riverside (River Can).** The flattest and cleanest surface available — **better conditions than the prescribed session would have had.** **No throat, cough or phlegm** → the illness rule does not trigger, and 56 reads as the birthday rather than an infection.
-
-**The ladder says TRIM by 2 km, not cancel.** Applied properly: **5 km at 4:50 → 3 km at 4:50.** The earlier cancellation over-applied it while the route was unknown.
-
-**Cost is smaller than a "quality session" framing implies. 3 km at 4:50 is ~14 minutes at roughly 89% of threshold power** — the 16 Aug read was 4:52/km at 161 bpm, 246 w, **zero Zone 4.** That is a moderate aerobic effort costing ~a day, not the 2–3 days a *raced* 5 km would cost. **Sunday is 3 days out and absorbs it** — the original plan deliberately paired 4 km @ 4:50 Thursday with 6 km Sunday.
-
-**Two objections remain, and both are handled by structure rather than by cancelling: the untested shoe** (the warm-up now tests it *before* any race pace) **and no controlled warm-up off a club start** (2 km run solo, before the club sets off).
-
-**🔴 The live consequence is Sunday.** If Sunday's morning reading is still 56–60, **the final read's race-pace block trims 6 km → 4 km.** Still usable — 4 km at 4:50 exceeds the 3 km that produced the 16 Aug finding — but thinner. **Readings required Fri, Sat AND Sun.** Three points separate "birthday" from "something starting."
-
-#### Tonight's options — best to worst
-
-| Option | Call |
+| Component | Target |
 |---|---|
-| **2 km easy + 3 km @ 4:50 + 2 km easy** | **✅ THIS IS THE SESSION.** Trimmed rehearsal on a flat measured loop. See the table below |
-| Fallback: flat easy 5 km, 5:45+, HR <150 | **✅ Correct call if any gate fails.** Sunday fully intact either way |
-| 5 km at 4:50 (untrimmed) | **No** — the 56 reading trims by 2 km |
-| Half-raced — ~5:10/km | **No.** Buys no race-pace stimulus and still taxes Sunday. The worst of both |
-| Raced | **No.** Wrong system (~4:05–4:20 vs 4:50), highest force of the block, and it would corrupt Sunday's read |
-| Force the full rehearsal in the storm | **No** |
+| Distance | **5 km — whole kilometres** |
+| Pace | **5:45–5:55/km** |
+| HR | **<150, and it should sit ~135–142** |
+| km1 | **6:00–6:10.** Conservative opener, ninth consecutive |
+| Surface | Flat, even. Avoid camber. Unfamiliar ground → known-flat over interesting |
+| Kit | Race shoes — **the only footwear that runs this week** |
 
-#### Tonight's structure — whole kilometres throughout, so auto-splits line up
+**Barry's is unavailable, not skipped.** `CLAUDE.md` is explicit that Barry's is a
+conditioning asset and never gets dropped to protect running; that rule does not apply to
+being 200 miles from the studio. **No substitute strength or plyometric session** — a novel
+bodyweight circuit five days out is exactly what Standing rule 10 exists to prevent.
 
-| Segment | Target |
+**🚩 FLAG FOR AFTER THE RACE: the next lower-body Barry's is a 14-day gap.** Last lower
+session 25 Aug; next available Tue 8 Sep, which is also 48 h post-half-marathon. **Walking
+lunges and no plyometrics on 8 Sep** — the standing gap protocol plus race-legs. This is
+written down now so it is not rediscovered on the day.
+
+#### 🦶 Tuesday morning — the stress-reaction self rule-out (2 minutes, do it once)
+
+The compensation flag has recurred and the physio assessment is displaced by travel (see
+below). This is the part of an assessment that actually gates Sunday, and it can be done
+alone:
+
+1. **Press the bone** — run a thumb firmly along the shafts of the 4th and 5th metatarsals,
+   not the soft tissue between them. **Sharp, localised pain on the bone = stop.**
+2. **Hop 10 times on the right foot alone.** **Pain on hopping = stop.**
+3. **Look for swelling** across the dorsum, and recall whether there was any night pain.
+
+**All three clear → the race is on and the flag stays yellow.** **Any one positive → do not
+run Tuesday, and the race becomes a medical decision, not a pacing one.**
+
+---
+
+### Wed 2 Sep — REST
+
+Firm. No optional run. The taper is the session.
+
+---
+
+### Thu 3 Sep — SHARPNESS · 4 × 400 m
+
+**Purpose: keep the neuromuscular top end awake at near-zero fatigue cost.** Total work is
+~6 minutes. This is not a fitness test and it produces no verdict.
+
+| Block | Target |
 |---|---|
-| **Warm-up — solo, before the club sets off** | **2 km @ 5:45**, HR <150. **This is the shoe test** |
-| **Club route km1–3** | **3 km @ 4:50** — HR **152–162**, ease to 4:55 above 168 |
-| **Club route km4–5** | **2 km easy, 5:45+** |
+| Warm-up | **1 km @ 5:45/km** |
+| **Work** | **4 × 400 m @ 3:50/km** *(92 sec per rep)* |
+| Recovery | **Walk back, full recovery — 2:30–3:00.** Do not jog it |
+| Cool-down | **1 km @ 6:00/km** |
 
-**Total ~7 km. Open at 4:52, not 4:45** — the aggressive open is the failure mode written into the race plan.
+**Total ~4 km.** Whole-kilometre warm-up and cool-down per `data_capture_protocol.md`
+Rule 1.
 
-#### 🚦 THREE GATES — any one failing drops the session to a flat easy 5 km
+**📲 STRUCTURED WATCH WORKOUT — MANDATORY.** Reps are 400 m, so auto-splits cannot read
+this session (Rule 3). Workout app → Running → Custom: Warmup 1 km → Repeat 4 × [Work 400 m,
+Recover 2:30] → Cooldown 1 km. **Chest strap.**
 
-1. **The warm-up is the shoe test and it comes FIRST.** Any dorsal hot spot in those 2 km → **no race pace tonight.** This is precisely why the warm-up is run solo and ahead of the club start.
-2. **Surface.** Wet paved is fine. **Standing water or a slick riverside path after the storm is not** — a slip risk on a leg that is already compensating.
-3. **Abort rule live.** Any lateral knee or dorsal foot symptom ends the 4:50 on the spot — drop to 5:45 and finish aerobically.
+**Rep 4 must match rep 1.** The strides on 30 Jul ran 3:57 → 3:28 → 3:09 → **2:50** against
+a flat prescription. Three days before the goal race that pattern is not a quirk, it is a
+cost. **Flat, not descending. There is no fifth rep.**
 
-**The 3 km will be run alone rather than with a group.** That is the trade for a controlled pace, and on a flat measured loop it is clean data.
+**If a rep comes out at 3:55 rather than 3:50, that is fine — do not chase it.** Nothing
+about Sunday changes on 400 m splits.
 
-**✅ EVENT CONFIRMED: Thursday run club, mixed pace groups — not a parkrun.** This is the good version of the pace problem: **the discipline is one decision at the start, not one defended for 5 km. Join a slower group and stay in it.**
+**Route fallback, away from home:** if there is no flat measured 400 m stretch, substitute
+**6 × 20 s strides at ~3:40/km on any flat straight, full walk-back recovery**, same
+warm-up and cool-down, same flat-not-ascending rule. **Do not run 400s on unknown uneven
+ground or in the dark to satisfy the prescription.**
 
-**Route confirmed — "Chelmsford 5k": 5.01 km, 0 m gain, ~3 m range, 100% paved, riverside.** Flat and measured; ideal for a pace read. **Symptom check clear — no throat, cough or phlegm.**
-
-### Fri 28 Aug — REST
-
-### Sat 29 Aug — ✅ 5.04 km, **RUN AT 4:51/km AGAINST A 5:50 FLOOR.** 143 avg, max 154
-
-5:38 / 5:02 / **4:37** / **4:26** / **4:29** at 128 / 146 / 150 / **148** / **144**. 09:04 start, progressive shape — likely parkrun, run controlled rather than raced (24:26 against Thursday's 22:28).
-
-**🟢 THE STRIKING NUMBER: km4 at 4:26/km @ 148 bpm.** Against 16 Aug's 4:52/km @ 161 — **26 sec/km faster at 13 bpm lower.** If real, the best aerobic reading of the campaign by a distance.
-
-**🟡 NOT BANKED. HR FELL as pace rose** — 150 → 148 → 144 against 4:37 → 4:26 → 4:29. Nobody sheds 6 bpm while accelerating: that is a downhill section or **wrist optical under-reading (no strap).** **Zone 3 only 3:20, Zone 4 zero** — thin for 2 km at 4:26–4:29.
-
-**🔴 COUNTER-SIGNAL — RECOVERY BLUNTED. 141→119→113 = 22 bpm in the first minute, 28 over two, against 19 Aug's 133→95→74 (38 and 59) off a near-identical peak.** Thursday showing up at 36 h. **The pace/HR looks exceptional and the recovery looks tired. Sunday's chest strap resolves it.**
-
-**⚠️ Third consecutive session run harder than prescribed, and the second consecutive missed morning reading. Sunday's resting HR is the only gate left.**
-
-*Prescribed was 5 km @ 5:50/km, HR <145 — a shakeout the day before the block's final quality session.*
-
-### Sun 30 Aug — ✅✅ **THE FINAL READ — COMPLETE. 1:42 CONFIRMED.**
-
-**14.005 km / 1:13:53 / 144 avg / max 170. RACE-PACE BLOCK km5–10: 4:49.7/km at 157.7 bpm, 249 W. Max 165 in-block against a 166 ceiling; Zone 4 across the whole 74 minutes = 0:13.** Top row of the verdict table, met on pace with 8 bpm unused. Full read: `03_session_analyses/2026-08-30_final_read_14km_6km_racepace.md`.
-
-**Against 16 Aug (3 km @ 4:52 @ 161, 246 W): twice the distance, 2 sec/km faster, 3.3 bpm lower, 3 W more — efficiency 1.579 vs 1.528, +3.3%.** Delivered 48 h after a maximal 5 km, 24 h after a hard parkrun, on a five-waking night. **The sleep allowance was not needed.** Best single point: **km10 4:42/km @ 165, 254 W.** Post-workout **142→99→94 = 43 bpm in the first minute, sharpest long-run trace in the log.**
-
-**Deviation: the block negative-split 16 sec/km (4:58 → 4:42) against instruction.** The 4:58 opener was right; the acceleration was not. **Open at 4:52–4:55 on race day — the back half of a half cannot absorb it.**
-
-**🚩 COMPENSATION FLAG — SECOND OCCURRENCE, km11–14, resolved by evening. The 23 Aug trigger (recurrence on a second run) is MET: PHYSIO ASSESSMENT THIS WEEK.** But the mechanism clarified: **the race-pace block was clean, Thursday's 4:14/km @ 187 was clean — this is cumulative load, not force.** Race consequence: **a faster race is a shorter race; 4:50 for 1:42 is less exposure than 5:05 for 1:47.** Onset came earlier as predicted (~58 min vs ~85 min on 23 Aug). **Expect it in the second half on 6 Sep; stop only if the CHARACTER changes** — sharp not achy, point-tender on bone, gait-altering, or unable to hop.
-
-**Sat 29's 4:26 @ 148 is disregarded** — today's strap has 4:42 costing 165. Wrist optical was under-reading ~25 bpm. **No strap, no aerobic verdict.**
+**Why this is safe against the live compensation flag:** the flag is cumulative-load
+driven, not force driven — 4:14/km at 187 bpm was silent on 27 Aug, and symptoms have only
+ever appeared after ~an hour of accumulated work. Six minutes of fast running does not
+enter that window.
 
 ---
 
-### Superseded — Sunday as prescribed
-| Component | Detail |
-|-----------|--------|
-| Segment 1 | **4 km @ 5:45/km**, HR <145 |
-| **Segment 2** | **6 km @ 4:50/km** |
-| Segment 3 | **4 km @ 5:45/km**, HR <150 |
-| HR (race-pace block) | **158–166** — ease to 4:55 above 168 |
-| Kit | **Chest strap.** Carry fluid |
-| Fuel | **Gel at 45 min** — race rehearsal |
-| Format | **Structured watch workout — mandatory** |
+### Fri 4 Sep — REST (travel home)
 
-#### 📲 WATCH PROGRAM — Workout app → Running → Custom
+Rest, hydrate, and **eat to the top of the training-day carbohydrate band: ~405 g.**
+Protein 122 g as always. **Zero alcohol** — in force since 24 Aug, and this is the week it
+matters most.
 
-| Block | Type | Goal | Pace alert | HR alert |
-|---|---|---|---|---|
-| 1 | Warmup | **4 km** | 5:40–5:50/km | <145 |
-| 2 | Work | **6 km** | **4:45–4:55/km** | **158–168** |
-| 3 | Cooldown | **4 km** | 5:40–5:50/km | <150 |
+**Lay the kit out tonight, not Saturday night.** Race shoes, chest strap (charged), gels
+×2, race number, pins.
 
-All whole kilometres — blocks and auto-splits agree (`data_capture_protocol.md` Rule 1 + Rule 3). **Chest strap mandatory, and more important than usual after Saturday's unverified HR.**
+---
 
-#### Split targets
+### Sat 5 Sep — SHAKEOUT 3 km + 2 strides
 
-| km | Target | Cumulative |
-|---|---|---|
-| 1–4 | 5:45 | 23:00 |
-| **5** | **4:52** — open here, not 4:45 | 27:50 |
-| 6 | 4:50 | 32:40 |
-| 7 | 4:50 | 37:30 |
-| **8** | 4:50 — **gel at this beep (~42 min)** | 42:20 |
-| 9 | 4:50 | 47:10 |
-| **10** | **4:50 — same as km5** | 52:00 |
-| 11–14 | 5:45 | 75:00 |
-
-#### ✅ MORNING GATE PASSED — RHR 55 (Sun 30 Aug). **6 km BLOCK AS WRITTEN.**
-
-**55 is the top of the 49–55 baseline, taken after a fragmented night (~5 wakings) and 48 h after a maximal 5 km.** That is a good signal, not a marginal one. Contrast 13 Aug — cancelled on **62** plus a badly broken night. **The ladder decides this and it says go.**
-
-**🟡 SLEEP BAD — ~5 WAKINGS. THIS CHANGES THE READING, NOT THE SESSION.** Documented cost of short sleep on quality work here is **~11 sec/km** (14 May tempo). At a 4:50 target that is 5:01 — which under the verdict table as originally written reads as "race on effort, no pace target." **That would record a sleep artifact as a fitness verdict and set the race target off a bad night.**
-
-**TODAY HR IS THE READ, NOT PACE.** Sleep loss costs pace more than it costs HR-at-pace. **Use the sleep-adjusted table below.**
-
-**Expect it to feel harder than the numbers say.** Fragmented sleep raises perceived exertion without much raising heart rate. **Do not abandon the block because it feels heavy — the HR ceiling decides, not the feeling.** HR in 158–166 with the work feeling hard means the night, not the fitness.
-
-**Fuel and hydrate more deliberately than usual pre-run** — poor sleep degrades fuelling more than it degrades running.
-
-**🔁 TRIM REVERSED — 6 km STANDS (athlete's call, 27 Aug, and the evidence supports it).** The trim was proposed after Thursday's maximal 5 km; **the knee and foot then reported clean at 4:14/km and 187 bpm**, which was the main unknown behind it. **4:50/km is sub-threshold** — ~89% of threshold power on the 16 Aug numbers — not a session requiring full freshness. **It is also self-regulating:** the 168 HR ceiling and the ease-to-4:55 rule mean fatigue presents as *data* rather than as a blow-up, and the verdict table below already reads that correctly.
-
-**The one residual risk, stated once: Thursday's effort means Sunday starts on pre-existing fatigue, so the deep-fatigue window arrives EARLIER in the run than it did on 23 Aug.** That is the real difference between 6 km and 4 km here — timing, not force. The abort rule covers it.
-
-**🚦 THE ONLY GATE IS THE MORNING LADDER, WHICH PREDATES THIS DECISION: RHR ≤55 → 6 km as written. 56–60 → 4 km. >60 → complete rest.** That rule decided 5 Aug and 13 Aug and it is unchanged.
-
-**Total 14 km, ~76 min. The race-pace block sits in the MIDDLE, not at the end — deliberately.** The compensation flag appeared at km15–18 of the 18 km, i.e. in deep fatigue. Putting the hard work at km5–10 gets the race-pace read without ever entering that window.
-
-**What this decides — the last input before the start line:**
-
-**SLEEP-ADJUSTED VERDICT TABLE (revised 30 Aug for a ~5-waking night):**
-
-| Result | Verdict |
+| Component | Target |
 |---|---|
-| **HR ≤166 at 4:50–4:55** | **1:42 confirmed. Race plan as written.** |
-| **HR ≤166 at 4:56–5:01** | **Still 1:42 — sleep-adjusted, NOT a downgrade.** The ~11 sec/km sleep cost covers this band |
-| HR 167–172 at 4:50–4:55 | **Target 1:45. Race at 4:58/km.** |
-| HR >172, or slower than 5:05 | **Race on effort, no pace target.** Report it |
-| **Any lateral knee or foot symptom** | **End the block immediately, finish easy.** See below |
+| Distance | **3 km — whole kilometres** |
+| Pace | **6:00/km. This is a ceiling, not a target** |
+| HR | **<140** |
+| Strides | **2 × 20 s @ ~3:40/km**, full recovery, **flat — stride 2 matches stride 1** |
+| Alternative | **Complete rest is an equally correct choice** |
 
-**Do not negative-split the race-pace block.** km5 should be the same as km10. The 16 Aug evidence (4:51 / 4:52 / 4:54 — flat) is exactly the shape wanted.
+#### 🛑 NO PARKRUN. This is the single highest-risk decision of the week.
 
----
+**The last three Saturdays were all run harder than prescribed, and 29 Aug ran 4:51/km
+against a 5:50 floor — 59 sec/km fast — on the day before the block's final read.** That
+was absorbable. **The day before a goal half marathon, it is not.** A parkrun on 5 Sep
+costs more than every session this week gains.
 
-### Week 5 Log
-**Mon 24 Aug:** ✅ Rest.
-**Tue 25 Aug:** ✅ Barry's (lower), plyometrics modified — **129 / 167, Z4 zero, no pain.**
-**Wed 26 Aug:** ✅ **Rest — birthday, no run.** Prescribed 6 km cancelled, not rolled.
-**Thu 27 Aug:** ✅ **Run club 5 km RACED — 22:28, 4:29/km, 171 avg, MAX 187.** Fastest km of the campaign (4:14 @ 174) and the sharpest 1-min recovery in the log (174→132→114). **Heavily positive split, −14.4% efficiency. KNEE AND FOOT CLEAN at max force — the compensation flag is downgraded.**
-**Fri 28 Aug:** ⏳ Rest.
-**Sat 29 Aug:** ✅ **5.04 km at 4:51/km, 143 avg, max 154** — against a 5:50 floor. **km4 4:26 @ 148** is the campaign's most striking pace-for-HR reading, but unverified (no strap) and contradicted by a blunted recovery trace. **RHR not captured — second consecutive miss.**
-**Sun 30 Aug:** ✅✅ **THE FINAL READ — 6 km at 4:49.7/km @ 157.7 bpm, 249 W. Max 165, Zone 4 total 0:13. 1:42 CONFIRMED.** Compensation flag recurred km11–14 → **physio this week.**
+**Carbohydrate ~405 g again today, weighted to the first two meals.** Nothing new: no
+unfamiliar restaurant meal, no new gel flavour, no new pre-race ritual.
 
----
-
-## ✅ WEEK 5 COMPLETE — BLOCK OBJECTIVE MET
-
-**~24 km across 3 runs + 1 Barry's against ~33 planned. The week lost its structure almost entirely and still produced the verdict it existed to produce.** Summary: `02_training_log/weekly_summaries/half_week_05_summary.md`. **Race week (Week 6) plan pending — run `/weekly-plan`.**
-
-**Actual volume: ~24 km across 3 runs + 1 Barry's. Race pace this week: 6 km (Sunday), or 4 km on a 56–60 morning reading. Thursday delivered ~18 min at Zone 4+ instead of its 3 km.**
+**This is the key sleep night — the one that has decided every compromised session in this
+block.** Race-morning nerves cost less than a documented ~11 sec/km short-sleep penalty.
 
 ---
 
-### 🟡 The compensation flag — the one thing that can still go wrong
+### Sun 6 Sep — 🏁 **THE BIG HALF — 21.1 km. TARGET 1:42**
 
-**23 Aug, last 4 km of the 18: lateral knee + dorsal right forefoot (base of the 4th/5th toes). Resolved inside 24 h. Silent through Tuesday's Barry's.**
+| Segment | Pace | Cumulative | Cue |
+|---|---|---|---|
+| **0–5 km** | **4:55/km** | 24:35 | "Too easy. That's correct." |
+| **5–15 km** | **4:50/km** | 1:12:55 | Lock the effort. Refuse the mid-race sag |
+| **15–21.1 km** | **4:45/km, or whatever is left** | **~1:42** | Spend it |
 
-**This is gait compensation around the healing medial knee — load pushed laterally down the same leg — and it is fatigue-dependent.** Race pace means higher force, and higher force through an altered gait is how a compensation becomes an injury. **Twelve days out, a race-pace rep is worth nothing against a compromised start line.**
+**HR reference from 30 Aug: 4:50/km cost 157.7 bpm with a 165 max.** Anything in the
+150s through halfway is the session repeating itself. **Sustained >172 before 15 km means
+the pace is wrong for the day — ease to 4:58 and run on HR.**
 
-**ABORT RULE, BOTH QUALITY SESSIONS: any lateral knee or foot symptom ends the race-pace block on the spot.** Drop to 5:45 and finish the run aerobically. Do not "see if it settles."
+#### The five rules
 
-**Before Thursday:**
-1. ~~Re-lace to skip the eyelet over the dorsal sore spot.~~ **❌ WITHDRAWN 27 AUG — WRONG ADVICE, TWICE OVER.** It was prescribed **without establishing which shoe was involved**: skipping an eyelet is a standard fix on a conventional trainer with 6–7 lace points, and **a bad one on an Adizero Evo**, whose stripped-down upper has so few lace points that dropping one removes a meaningful share of the midfoot hold. **More basically, the symptom is at the dorsal base of the 4th/5th toes — distal to where lacing pressure acts at all.** The fix did not match the anatomy. **Forefoot compression and lateral-column load were always the better hypotheses.**
-2. **✅ RESOLVED — the shoe was clean through a maximal 5 km (4:14/km, 187 bpm).** No dorsal symptom at the highest force of the block. **The question is closed; no shoe change before 6 Sep** (Standing rule 10 — nothing new from here).
+1. **NEVER faster than 4:50 in the first 5 km.** If km1 reads under 4:45, slow down on the
+   spot. The entire failure history is aggressive opens — 4:04 parkrun (Feb), gate rep 3
+   (16 Jul), 3 of 4 reps hot (23 Jul), and **30 Aug's block negative-split 16 sec/km
+   against instruction (4:58 → 4:42).** Training absorbed that. 21.1 km will not.
+2. **Chest strap.** Non-negotiable — three races with no usable HR, and 29 Aug showed
+   wrist optical under-reading by ~25 bpm.
+3. **Gels at 45 and 75 minutes.** Practised on the 16 km, 18 km and 30 Aug runs. Water at
+   every station from 5 km.
+4. **Heat: >22°C → add 8–10 sec/km and run on HR.** 25 Jul was a 24°C race run to the
+   heat-adjusted ceiling; the tax is real, not mental.
+5. **If 5 km comes through at 5:05/km, do not panic.** That is a 1:47 and still a good day.
+   Settle into it.
 
-**🚨 Stop running and get it assessed** if any of: point tenderness on the **bone**, pain on hopping, swelling, night pain, or a pattern that worsens run to run.
+#### 🦶 Expect the foot and lateral knee in the second half — and know what changes the call
+
+**Onset is arriving earlier as preceding load rises: ~85 min on 23 Aug, ~58 min on 30 Aug.**
+Assume it appears somewhere after ~60 minutes on Sunday.
+
+**KEEP RUNNING** if it is the familiar ache — diffuse, non-localised, not changing your
+gait.
+
+**STOP** if the **character** changes: sharp rather than achy, point-tender on the bone,
+altering how you are running, or you could not hop on that foot.
+
+**The pacing consequence is counter-intuitive and it favours racing the plan: a faster race
+is a shorter race.** 4:50/km for 1:42 is less total exposure than backing off to 5:05/km
+for 1:47. **Racing the planned pace is not the riskier option.**
 
 ---
 
-### Morning ladder, any day
+## 🚑 The physio assessment — ruled, because travel forces it
+
+**The 30 Aug trigger was met** (recurrence on a second run: 23 Aug km15–18, 30 Aug
+km11–14) **and it called for an assessment this week. Mon–Fri away makes that
+impractical, and Saturday is the wrong day for it.**
+
+**Ruling, in order of preference:**
+
+1. **If an appointment is available where you are, Tue–Thu — take it.** That is the clean
+   outcome and it costs nothing.
+2. **Otherwise it moves to Mon 7 Sep — book it now, before the race, so it does not
+   evaporate afterwards.**
+3. **❌ NOT Saturday 5 Sep.** Hands-on soft-tissue work 24 h before a goal race is a new
+   input on the one day that must contain none (Standing rule 10), and it can leave a leg
+   sore for reasons that have nothing to do with the injury.
+
+**Why deferring is defensible rather than convenient:** the mechanism has clarified since
+the trigger was written. **It is cumulative-load driven, not force driven** — silent at
+4:14/km and 187 bpm, silent through both race-pace blocks — **and it resolves within
+hours.** The one finding that would genuinely change Sunday is a metatarsal stress
+reaction, and **that rule-out does not need a clinician** — it is the Tuesday morning
+self-test above. **Everything else a physio finds is information for the October block,
+not for 6 September.**
+
+---
+
+## Morning ladder — every day this week
 
 | Reading | Action |
 |---|---|
 | RHR ≤55, slept | Session as prescribed |
-| RHR 56–60 | **Trim the race-pace block by 2 km**; easy runs proceed |
-| RHR >60 | **Complete rest** |
-| Throat / cough / phlegm | **Complete rest** — overrides everything |
+| RHR 56–60 | **Easy runs proceed. Thursday's 400s drop to 2 reps** |
+| RHR >60 | **Complete rest that day.** In race week this costs nothing |
+| **Throat / cough / phlegm** | **Complete rest — and it becomes a race decision, not a training one** |
 
-**Report the 60-second seated average every morning this week.** Two of the three sessions it has decided this block were quality sessions (5 Aug 59 → proceed, 13 Aug 62 → cancel).
+**On the illness rule, stated plainly rather than hedged:** `CLAUDE.md` is a full stop on
+throat or chest symptoms, and that rule does not suspend itself for a goal race. If
+symptoms appear this week, report them immediately — the decision needs the earliest
+possible warning, not Saturday night.
+
+**Report the 60-second seated average daily, Mon through Sun.** Race morning's reading is
+recorded for the log, not as a gate — it does not cancel a race on its own.
 
 ---
 
-### Standing rules — final training week
+## Standing rules — race week
 
-1. **Sunday outranks Thursday.** If something has to go, Thursday goes and is not rolled to Friday. Sunday is the last read before the race.
-2. **On the race-pace blocks the prescribed pace IS the target and HR is the ceiling.** 6 Aug ran 4:23 at 169 with 7 bpm of headroom unused — that error is as costly as overspeed. **4:50 means 4:50.**
-3. **On the easy runs, HR is the governor and slower is correct.** Fri 21 Aug's km4 at 5:28 reopened the overspeed flag. **No easy kilometre faster than 5:35.**
-4. **No third hard day.** Tuesday's Barry's was modified and light, so this week carries two: Thursday and Sunday. **Keep it that way.**
-5. **Structured watch workouts for both quality sessions.** Whole kilometres throughout — `data_capture_protocol.md`.
-6. **Chest strap on both quality sessions and on race day.**
-7. **Alcohol: ZERO. In force since Mon 24 Aug.** Illness is the #1 determinant of this block and the vulnerable window is now.
-8. **Sleep is the highest-leverage input you control.** Documented cost on quality work is ~11 sec/km (14 May). Every compromised session this block traced back to a short night. **Thursday and Sunday both need 7.5 h+.**
-9. **Barry's Tue 1 Sep (race week) — keep the plyometrics modified.** Do not reintroduce jumping lunges six days before the race.
-10. **Nothing new from here.** No new shoes, no new gels, no new route on race morning. The 6 Sep race is run on what is already known to work.
+1. **🛑 NO PARKRUN ON SATURDAY.** The one rule most likely to be broken and the most
+   expensive if it is.
+2. **Nothing new from here.** No new shoes, no new gels, no new socks, no new route on race
+   morning, no new stretching routine picked up while away. The shoe question closed under
+   maximal force on 27 Aug.
+3. **Every prescribed pace this week is a CEILING, not a target.** Three consecutive
+   sessions were run harder than prescribed (27, 29, 30 Aug). Those were training. This is
+   the taper, and faster is simply worse.
+4. **Zero alcohol.** In force since 24 Aug.
+5. **Sleep is the highest-leverage input you control** — documented ~11 sec/km cost on
+   quality work. Friday and Saturday nights both matter; Friday's matters more than people
+   expect.
+6. **Chest strap Thursday and Sunday.**
+7. **The fitness is banked and cannot be added to.** Every remaining decision is about
+   arriving intact.
+
+---
+
+## Week 6 Log
+
+**Mon 31 Aug:** ⏳ Rest — travel. RHR reading due.
+**Tue 1 Sep:** ⏳ Easy 5 km @ 5:45–5:55, HR <150 *(replaces Barry's — away)*. Foot self-test first.
+**Wed 2 Sep:** ⏳ Rest.
+**Thu 3 Sep:** ⏳ 1 km WU / 4 × 400 m @ 3:50 / 1 km CD. Structured watch workout.
+**Fri 4 Sep:** ⏳ Rest — travel home. Carbs ~405 g. Kit laid out.
+**Sat 5 Sep:** ⏳ Shakeout 3 km @ 6:00 + 2 strides, or rest. **No parkrun.**
+**Sun 6 Sep:** ⏳ **THE BIG HALF — 21.1 km. 4:55 → 4:50 → 4:45. Target 1:42.**
