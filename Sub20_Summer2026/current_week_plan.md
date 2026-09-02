@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 30 Aug 2026*
+*Last updated: 2 Sep 2026 (Wed — mid-week revision)*
 
 ---
 
@@ -10,14 +10,21 @@
 
 **Constraint: away Mon 31 Aug – Fri 4 Sep. Running is available; Barry's is not.**
 
+> **🔄 REVISED WED 2 SEP — Tuesday's easy 5 km did not happen. It rolls to today.**
+> **This costs nothing and is not to be compensated for.** That run was a Barry's
+> replacement in a taper week: it added no fitness, and there is none left to add. The
+> instruction that matters is the one that follows a missed session, not the one that
+> replaces it — **the 5 km does not get added onto Thursday, and Saturday does not get
+> longer.** Revised volume ~33 km including the race.
+
 **The training is finished.** 30 Aug answered the last open question — 6 km at 4:49.7/km,
 157.7 bpm, 249 W inside a 14 km run, max 165 against a 166 ceiling, 13 seconds of Zone 4
 across 74 minutes. **Nothing this week adds fitness. Everything this week can subtract it.**
 
-**~34 km including the race, across 3 short runs.** The plan's Week 6 was ~30 km across
-2 runs + Barry's; the Barry's stimulus is unavailable and is replaced by an easy Tuesday
-run, which is a lower net load than the week as originally written. That is the correct
-direction in a taper.
+**~33 km including the race, across 3 short runs** — Wed 5 km + Thu ~4 km + Sat 3 km +
+the 21.1 km race. The plan's Week 6 was ~30 km across 2 runs + Barry's; the Barry's
+stimulus is unavailable and is replaced by the rolled easy run, which is a lower net load
+than the week as originally written. That is the correct direction in a taper.
 
 ---
 
@@ -32,7 +39,13 @@ today.
 
 ---
 
-### Tue 1 Sep — EASY 5 km *(replaces Barry's)*
+### Tue 1 Sep — ⬜ **NOT RUN.** Easy 5 km missed *(away)*
+
+**Rolled to Wednesday, not written off — and not doubled up.** See below.
+
+---
+
+### Wed 2 Sep — EASY 5 km *(rolled from Tuesday)*
 
 | Component | Target |
 |---|---|
@@ -43,21 +56,40 @@ today.
 | Surface | Flat, even. Avoid camber. Unfamiliar ground → known-flat over interesting |
 | Kit | Race shoes — **the only footwear that runs this week** |
 
+**Why this is worth rolling rather than dropping — it is about frequency, not volume.**
+Without it the week runs **two short runs in the six days before a half marathon** (Thursday's
+4 km and Saturday's 3 km). That is more rest than a taper wants. Volume comes down in a
+taper; **frequency does not.** 29 minutes at 5:50/km is not training — it is keeping the
+legs in the habit of running.
+
+**It is also safe against the live flag with room to spare.** Symptoms have only ever
+appeared after ~an hour of accumulated work (~85 min on 23 Aug, ~58 min on 30 Aug). A
+29-minute easy run does not approach that window.
+
+**And it restores the pre-quality diagnostic before Thursday.** Three times this block an
+easy run has been the input that decided the following quality session — 5 Aug cleared a 59
+RHR, 12 Aug cleared the 16 km, 19 Aug cleared the threshold. Thursday is trivial by
+comparison, but the read is free.
+
+**⏭️ If today is not runnable either, drop it and move on.** Thursday's 400s go as written,
+Saturday's shakeout becomes non-optional, and the week ends at ~28 km. **Do not stack it
+onto Thursday** — the session that follows a missed easy run is the session as prescribed.
+
 **Barry's is unavailable, not skipped.** `CLAUDE.md` is explicit that Barry's is a
 conditioning asset and never gets dropped to protect running; that rule does not apply to
 being 200 miles from the studio. **No substitute strength or plyometric session** — a novel
-bodyweight circuit five days out is exactly what Standing rule 10 exists to prevent.
+bodyweight circuit four days out is exactly what Standing rule 10 exists to prevent.
 
 **🚩 FLAG FOR AFTER THE RACE: the next lower-body Barry's is a 14-day gap.** Last lower
 session 25 Aug; next available Tue 8 Sep, which is also 48 h post-half-marathon. **Walking
 lunges and no plyometrics on 8 Sep** — the standing gap protocol plus race-legs. This is
 written down now so it is not rediscovered on the day.
 
-#### 🦶 Tuesday morning — the stress-reaction self rule-out (2 minutes, do it once)
+#### 🦶 THE STRESS-REACTION SELF RULE-OUT — NOW OVERDUE. DO IT BEFORE RUNNING TODAY
 
-The compensation flag has recurred and the physio assessment is displaced by travel (see
-below). This is the part of an assessment that actually gates Sunday, and it can be done
-alone:
+**This was Tuesday's, and it is the one item from the missed session that actually
+mattered.** It needs no run and takes two minutes. **It is the part of the displaced physio
+assessment that genuinely gates Sunday** (see the physio ruling below):
 
 1. **Press the bone** — run a thumb firmly along the shafts of the 4th and 5th metatarsals,
    not the soft tissue between them. **Sharp, localised pain on the bone = stop.**
@@ -65,13 +97,10 @@ alone:
 3. **Look for swelling** across the dorsum, and recall whether there was any night pain.
 
 **All three clear → the race is on and the flag stays yellow.** **Any one positive → do not
-run Tuesday, and the race becomes a medical decision, not a pacing one.**
+run today, and the race becomes a medical decision, not a pacing one.**
 
----
-
-### Wed 2 Sep — REST
-
-Firm. No optional run. The taper is the session.
+**Report the result today, with Monday's, Tuesday's and this morning's resting HR.** Three
+readings are outstanding and Sunday's 55 already had to carry an entire gate alone once.
 
 ---
 
@@ -100,6 +129,10 @@ cost. **Flat, not descending. There is no fifth rep.**
 
 **If a rep comes out at 3:55 rather than 3:50, that is fine — do not chase it.** Nothing
 about Sunday changes on 400 m splits.
+
+**Thursday is unaffected by Tuesday's miss.** 400 m reps off full recovery are
+neuromuscular, not metabolic — they do not draw on a week's accumulated running, and an
+easy 5 km the day before is not a factor in either direction.
 
 **Route fallback, away from home:** if there is no flat measured 400 m stretch, substitute
 **6 × 20 s strides at ~3:40/km on any flat straight, full walk-back recovery**, same
@@ -201,8 +234,8 @@ impractical, and Saturday is the wrong day for it.**
 
 **Ruling, in order of preference:**
 
-1. **If an appointment is available where you are, Tue–Thu — take it.** That is the clean
-   outcome and it costs nothing.
+1. **If an appointment is available where you are, Wed–Thu — take it.** Two days left of
+   that window. It is the clean outcome and it costs nothing.
 2. **Otherwise it moves to Mon 7 Sep — book it now, before the race, so it does not
    evaporate afterwards.**
 3. **❌ NOT Saturday 5 Sep.** Hands-on soft-tissue work 24 h before a goal race is a new
@@ -213,8 +246,8 @@ impractical, and Saturday is the wrong day for it.**
 the trigger was written. **It is cumulative-load driven, not force driven** — silent at
 4:14/km and 187 bpm, silent through both race-pace blocks — **and it resolves within
 hours.** The one finding that would genuinely change Sunday is a metatarsal stress
-reaction, and **that rule-out does not need a clinician** — it is the Tuesday morning
-self-test above. **Everything else a physio finds is information for the October block,
+reaction, and **that rule-out does not need a clinician** — it is the self-test above,
+**which is now overdue and is today's first job.** **Everything else a physio finds is information for the October block,
 not for 6 September.**
 
 ---
@@ -260,9 +293,9 @@ recorded for the log, not as a gate — it does not cancel a race on its own.
 
 ## Week 6 Log
 
-**Mon 31 Aug:** ⏳ Rest — travel. RHR reading due.
-**Tue 1 Sep:** ⏳ Easy 5 km @ 5:45–5:55, HR <150 *(replaces Barry's — away)*. Foot self-test first.
-**Wed 2 Sep:** ⏳ Rest.
+**Mon 31 Aug:** ✅ Rest — travel. *RHR reading outstanding.*
+**Tue 1 Sep:** ⬜ **NOT RUN** — easy 5 km missed while away. **Rolled to Wed, not compensated for.**
+**Wed 2 Sep:** ⏳ **Easy 5 km @ 5:45–5:55, HR <150** *(rolled from Tue)*. **Foot self-test first — overdue.** Drop it if the day isn't runnable; do not stack it onto Thursday.
 **Thu 3 Sep:** ⏳ 1 km WU / 4 × 400 m @ 3:50 / 1 km CD. Structured watch workout.
 **Fri 4 Sep:** ⏳ Rest — travel home. Carbs ~405 g. Kit laid out.
 **Sat 5 Sep:** ⏳ Shakeout 3 km @ 6:00 + 2 strides, or rest. **No parkrun.**

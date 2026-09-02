@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 30 Aug 2026 (race week plan issued)*
+*Last updated: 2 Sep 2026 (Wed — race week, mid-week revision)*
 
 ---
 
@@ -10,7 +10,13 @@
 
 **⚠️ WEEK REVISED FOR TRAVEL — AWAY MON 31 AUG – FRI 4 SEP. BARRY'S IS UNAVAILABLE, NOT SKIPPED.** `CLAUDE.md`'s rule that Barry's is never dropped to protect running does not reach a week where there is no studio. **Tue 1 Sep becomes an easy 5 km @ 5:45–5:55, HR <150** — and no substitute strength or plyometric circuit, because a novel session five days out is exactly what "nothing new from here" exists to prevent. **Net load is lower than the week as originally written, which is the correct direction in a taper.**
 
-**Week 6: ~34 km including the race, across 3 short runs.** Mon rest (travel) / **Tue easy 5 km** / Wed rest / **Thu 1 km WU + 4×400 m @ 3:50 + 1 km CD** / Fri rest (travel home) / **Sat 3 km @ 6:00 + 2 strides** / **Sun RACE**.
+**🔄 REVISED WED 2 SEP — TUESDAY'S EASY 5 km WAS NOT RUN. It rolls to today, and it is not compensated for.** That run was a Barry's replacement in a taper week: **it added no fitness, and there is none left to add.** The rule that matters after a missed session is the one governing what follows it — **the 5 km does not get added onto Thursday, and Saturday does not get longer.**
+
+**It is worth rolling rather than dropping because taper is about frequency, not volume.** Without it the week runs **two short runs in the six days before a half marathon**, which is more rest than a taper wants. 29 minutes at 5:50/km is not training; it keeps the legs in the habit. It also sits well inside the compensation flag's onset window (~58 min on 30 Aug). **If today is not runnable either, drop it — Thursday goes as written and the week ends at ~28 km.**
+
+**🦶 THE STRESS-REACTION SELF RULE-OUT IS NOW OVERDUE AND IS TODAY'S FIRST JOB** — it was attached to Tuesday and it is the one item from that session that actually mattered. Bone palpation along the 4th/5th metatarsal shafts, 10 hops on the right foot, swelling check. **Any one positive → do not run, and the race becomes a medical decision.** **Three morning resting-HR readings are also outstanding** (Mon, Tue, today).
+
+**Week 6 as it now stands: ~33 km including the race.** Mon rest (travel, done) / **Tue ⬜ missed** / **Wed easy 5 km** / **Thu 1 km WU + 4×400 m @ 3:50 + 1 km CD** / Fri rest (travel home) / **Sat 3 km @ 6:00 + 2 strides** / **Sun RACE**.
 
 **🛑 THE WEEK'S HIGHEST-RISK DECISION IS SATURDAY, AND IT IS NOT A TRAINING DECISION: NO PARKRUN ON 5 SEP.** The last three Saturdays were all run harder than prescribed and 29 Aug came in at **4:51/km against a 5:50 floor — 59 sec/km fast.** That was absorbable the day before a training session. The day before a goal half marathon it is not, and it would cost more than every session this week gains.
 
