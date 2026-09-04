@@ -1,8 +1,36 @@
 # Current Status
 
-*Last updated: 2 Sep 2026 (Wed — race week, mid-week revision)*
+*Last updated: 4 Sep 2026 (Fri evening)*
 
 ---
+
+## Status: 🏁 **TWO DAYS OUT. THE BIG HALF, Sun 6 Sep, 21.1 km. TARGET 1:42 — UNCHANGED.**
+
+**THE WEEK DELOADED AND THE EVIDENCE SAYS IT LANDED RATHER THAN WENT FLAT.** Tue and Thu were not run — an explicit choice on holiday. **Total running before the race: 7.4 km against ~12 km planned, and the gap is 0.6 km, not 4.6:** Wednesday ran 7.4 km against 5 km prescribed, so what was actually lost is Thursday's 4×400 m — **a session the plan itself defined as "not a fitness test" producing "no verdict," at "zero fatigue cost." For 21.1 km that is a rounding error.**
+
+**✅ WED 2 SEP — THE BEST LIKE-FOR-LIKE EASY-RUN READING OF THE BLOCK. 7.40 km / 49:57 / 117 avg / max 139.** The prescribed 5 km ran at **6:02/km**, then ~2.4 km jogging with his six-year-old. **km3–4 at 6:01/km, 125.5 bpm, 206.5 W against 12 Aug's 6:01/km, 133 bpm, 200–202 W — IDENTICAL PACE, 7.5 bpm LOWER, 5.5 W MORE. Efficiency 1.645 vs 1.511 w/bpm, +8.9%**, and above the block's previous best easy-run figure (1.552, 19 Aug). **Zone 3, 4 and 5 all zero; the <150 cap was never approached.**
+
+**Caveat stated rather than buried: 12 Aug was run on fatigue** (48 h after a 14 km long run, Barry's 24 h before), **Wednesday on a deload — so the gap is taper and freshness as much as fitness. That is what a taper is for.** It is a readiness number, not a new fitness ceiling.
+
+**✅ FIRST EASY RUN OF THE CAMPAIGN RUN *SLOWER* THAN PRESCRIBED — 6:02/km against a 5:45–5:55 band.** Straight after three consecutive sessions run harder than prescribed (27, 29, 30 Aug). **In race week that is the correct direction.** km1 6:06 — ninth consecutive conservative opener.
+
+**🟢 RESTING HR 50 (Wed) — second lowest of the campaign** (16 Aug: 49), at the floor of the 49–55 baseline. Tue 54. Mon, Thu, Fri not read. **Nothing in that picture argues against Sunday.**
+
+**🎯 SATURDAY NOW CARRIES ONE JOB IT WOULD NOT OTHERWISE HAVE HAD: PACE RECALIBRATION.** The legs have seen nothing faster than 5:49/km since 30 Aug. **After six days at 6:00/km, 4:50 will feel easy and 4:35 will feel like 4:50 — and this campaign's single failure mode is the aggressive open** (4:04 parkrun in Feb; gate rep 3 on 16 Jul; 3 of 4 reps hot on 23 Jul; 30 Aug's own block accelerating 4:58 → 4:42 against instruction). **Saturday: 3 km @ 6:00 + 2 × 400 m @ 4:50 + 400 m easy, morning, structured watch workout, chest strap.** The strides are replaced by the primer and complete rest is no longer an equally correct choice.
+
+**🛑 NO PARKRUN — and the risk is higher this week, not lower.** Fresh legs after a deload are the strongest temptation to run one and the worst reason to. **The two 400s are the entire permitted outlet.**
+
+**🦶 THE FOOT SELF-TEST HAS STILL NOT BEEN REPORTED. It is Saturday's first job** — bone palpation along the 4th/5th metatarsal shafts, 10 hops on the right foot, swelling check. Partial evidence in its favour: **Wednesday put ~50 min on feet, brushing the 30 Aug onset window (~58 min), with no symptoms reported.**
+
+**🚑 PHYSIO RESOLVED: it did not happen away, so it is Mon 7 Sep. Book it before Sunday** — a post-race Monday is exactly when an appointment evaporates, and the October block needs the answer.
+
+**Take Saturday's AND Sunday's resting HR.** With Thu and Fri missed, **Saturday's is the last reading with any lead time** — the same gap that left Sunday's 55 carrying an entire gate alone on 30 Aug.
+
+**Race-morning warm-up is worth more than usual this week: 10 min easy + 2 × 100 m @ ~4:50, finishing 10–15 min before the start.** It is the second half of Saturday's calibration job.
+
+---
+
+## Superseded — Wed 2 Sep
 
 ## Status: 🏁 **RACE WEEK — THE BIG HALF, Sun 6 Sep 2026, 21.1 km. TARGET 1:42 (4:50/km).**
 
