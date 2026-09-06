@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 6 Sep 2026 (race day)*
+*Last updated: 6 Sep 2026 (race day — recovery week issued)*
 
 ---
 
@@ -42,7 +42,13 @@
 
 ### ✅ CONFIRMED 6 SEP — and the fade is now closed by elimination
 
-**🏆 PERSONAL BEST.** Previous half-marathon best is not recorded in the log — supply it if you want the margin in the baseline table.
+**🏆 PERSONAL BEST BY 5:06. Previous best 1:44:38 (4:58/km) → 1:39:32 (4:43/km). 15 sec/km faster; a 4.9% improvement.**
+
+**That margin re-rates the whole block's target-setting.** The block aimed at **1:42–1:45 with 1:40 as a stretch** — meaning **its conservative end (1:45) was essentially his existing PB**, and the 1:45 fallback in the 30 Aug verdict table ("race at 4:58/km") was *literally his old PB pace*. **He beat the stretch.**
+
+*Device note: the Best Efforts screen shows 1:39:34 — that is the fastest 21.0975 km window inside the activity, against 1:39:32 official chip time. Two seconds apart, both correct, measuring different things.*
+
+*Data note: the device lists four 21.1 km efforts total (1:39:34 / 1:44:38 / 1:53:39 / 2:43:24), i.e. three previous. The 16 Aug record correction claimed 5–6 previous half marathons. Either the earlier ones pre-date the device, or the 5–6 was imprecise. Also note Best Efforts pulls from all activities, not races — 1:44:38 is the best previous 21.1 km effort recorded, which is the right comparator either way.*
 
 **🟢 NO LATERAL KNEE OR DORSAL FOREFOOT SYMPTOMS, DURING OR AFTER.** The compensation flag stayed silent across **99 minutes at 168 average — by a wide margin the longest and hardest exposure it has ever had, and deep past the onset point of both previous episodes** (~85 min on 23 Aug, ~58 min on 30 Aug, both at *easy* pace under lower total force).
 
@@ -64,10 +70,19 @@
 
 ---
 
-### ⏭️ The one live action item
+### 🔴 RECOVERY WEEK ISSUED — and the Tuesday Barry's flag is WITHDRAWN
 
-- **🚩 BARRY'S TUE 8 SEP — 14-day gap from the last lower-body session (25 Aug) AND 48 h post-half-marathon. Walking lunges, no plyometrics.** Flagged on 30 Aug in advance so it would not be rediscovered on the day.
-- **Next block not yet written.** Run `/weekly-plan` when you want it.
+**The 30 Aug flag ("Barry's Tue 8 Sep — walking lunges, no plyometrics") was the wrong call, and the athlete caught it.** It treated attendance as given and negotiated only the plyometrics. **The right call is that a lower-body class does not happen 48 h after a goal-race half marathon at all.** Walking lunges are still heavy eccentric loading on legs carrying 21.1 km of race pounding; muscle damage from an effort like that takes 5–7 days to clear.
+
+**This is not the `CLAUDE.md` Barry's rule being broken.** That rule forbids dropping Barry's **to protect a running session** — nothing here protects a run. Two other parts of the same rule set govern instead: **"upper-body Barry's: attend freely, no restrictions"** (Tuesday upper body is free and costs the legs nothing — optional, not prescribed), and the plyometric-modification clause, which is too small a lever against a goal race.
+
+**🚩 The gap this creates is named, not ignored: last lower session 25 Aug → next Tue 15 Sep is a 21-DAY GAP — exactly the 31 Mar VMO precedent.** Lower body returns 15 Sep with **walking lunges for 2–3 sessions and all plyometrics modified on the first.** **The trade is deliberate:** a 21-day gap costs conditioning that 2–3 sessions recover; a lower-body class on 48-hour race legs risks an injury that costs the October block.
+
+**Recovery week (Mon 7 – Sun 13 Sep) in `current_week_plan.md`: ~10–15 km, zero quality, no running before Thursday and that run optional.** Full plan there.
+
+**⚠️ The one real risk this week is illness, not injury.** Immune suppression runs elevated for ~3–7 days after a maximal endurance effort, and **this campaign lost ~30 days to five separate episodes — the single largest recurring cost in the log.** `CLAUDE.md` rules stay in force. The zero-alcohol rule has served its purpose and can relax; modest is still the better play inside the window.
+
+- **Next block not yet written.** Run `/weekly-plan` once this week closes.
 
 ---
 
@@ -288,7 +303,7 @@ Live plan: **`big_half_block_Sep2026.md`**. Current week detail: `current_week_p
 
 | Metric | Value | Date |
 |--------|-------|------|
-| **Half-marathon PB** | **1:39:32** — 4:43/km, 168 avg / 183 max. *Previous best not recorded in the log* | **6 September 2026** |
+| **Half-marathon PB** | **1:39:32** — 4:43/km, 168 avg / 183 max. **Previous best 1:44:38 (4:58/km) — improved by 5:06 / 15 sec per km** | **6 September 2026** |
 | 5K PB | **20:59** | 8 March 2026 |
 | Most recent 5K | ~21:27 (24°C, heat-limited) | 25 July 2026 |
 | Threshold pace | **4:20–4:23/km for 4 km @ ~169–170 BPM** — 6 Aug matched 2 Jul at equal power, **no improvement in 5 weeks** | 2 Jul / 6 Aug 2026 |

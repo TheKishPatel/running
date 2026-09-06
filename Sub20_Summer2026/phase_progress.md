@@ -18,8 +18,9 @@
 | Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | ✅ Complete | Gate 16 Jul: sub-20 off |
 | **5K GOAL RACE** | — | **Sat 25 Jul 2026 — ~21:27, 24°C, heat-limited. PB (20:59) intact** | ✅ Complete | n/a |
 | **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
-| **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
-| 5K sharpening block | — | ~Sep–Oct (post-half) | ⏳ **Next — not yet written.** Physio Mon 7 Sep first | — |
+| **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. PB BY 5:06 (prev 1:44:38). Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
+| **Recovery week** | — | **Mon 7 – Sun 13 Sep** | 🔄 **Current** — ~10–15 km, zero quality, no lower-body Barry's | — |
+| 5K sharpening block | — | ~mid-Sep – Oct | ⏳ **Next — not yet written.** Starts after the recovery week | — |
 
 > **Live plan = `big_half_block_Sep2026.md`** (6-week block to the 6 Sep half marathon).
 > Target 1:42–1:45, stretch 1:40, race pace 4:50/km. Then a 4-week 5K sharpening block →
@@ -389,6 +390,8 @@
 
 **Physio timing ruled 30 Aug (travel forces it):** take an appointment where he is Tue–Thu if available; **otherwise it moves to Mon 7 Sep — not Sat 5 Sep**, because hands-on work 24 h before a goal race is a new input on the one day that must contain none. The single finding that would change Sunday is a metatarsal stress reaction, and that rule-out is the Tuesday-morning self-test (bone palpation / hop test / swelling), not a clinic visit.
 
-**🚩 LIVE NOW — Post-race Barry's: Tue 8 Sep is a 14-day gap from the last lower-body session (25 Aug) AND 48 h post-half-marathon. Walking lunges, no plyometrics.**
+**🔴 WITHDRAWN 6 SEP — the Tue 8 Sep Barry's flag was the wrong call.** It treated attendance as given and negotiated only the plyometrics. **A lower-body class does not happen 48 h after a goal-race half marathon at all** — walking lunges are still heavy eccentric loading on legs carrying 21.1 km raced at 4:43/km with ~90 min in Zone 4. **Upper body is free and optional** (`CLAUDE.md`: attend freely, no restrictions); this is not the "never skip Barry's to protect a run" rule, because nothing here protects a run.
 
-**🚑 LIVE NOW — Physio Mon 7 Sep. Book it.** Deferred to the day after the race specifically so it would still happen; a post-race Monday is exactly when an appointment evaporates. **No race-day symptoms have been reported, and absence of a report is not a clean report — confirm.** The Sat 5 Sep stress-reaction self-test was clear.
+**🚩 LIVE NOW — 21-DAY LOWER-BODY GAP. Last session 25 Aug; next Tue 15 Sep. This is exactly the 31 Mar VMO precedent.** Return with **walking lunges for 2–3 sessions and all plyometrics modified on the first.** The trade is deliberate: a 21-day gap costs conditioning that 2–3 sessions recover; a class on 48-hour race legs risks the October block.
+
+**🟢 RESOLVED 6 SEP — COMPENSATION FLAG CLOSED. Physio declined by the athlete; the race data supports the call.** 21.1 km and 99 min at race intensity, well past the onset point of both prior episodes (~85 min 23 Aug, ~58 min 30 Aug), **completely asymptomatic** — plus a clear stress-reaction self-test on 5 Sep. A stronger negative test than a clinical exam on an asymptomatic leg would have produced. **Re-open condition: the October block inverts the load profile (higher intensity, lower volume), so any return of lateral knee or dorsal forefoot symptoms on a run over ~55 min is a referral, not self-managed.** Reasoning: `07_decisions/decision_log.md`, 6 Sep.

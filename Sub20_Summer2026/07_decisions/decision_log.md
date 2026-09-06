@@ -4,6 +4,61 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-09-06 — Recovery week; Tuesday's lower-body Barry's withdrawn (earlier flag was wrong)
+
+**The athlete said he would get injured doing Barry's on Tuesday and asked for a recovery
+week. He is right, and the 30 Aug flag was wrong.**
+
+**What the flag said:** *"Barry's Tue 8 Sep — 14-day gap AND 48 h post-half-marathon.
+Walking lunges, no plyometrics."* It was written in advance, which was correct, but it
+**treated attendance as given and negotiated only the plyometrics.** That is the error.
+
+**The correct call: a lower-body class does not happen 48 hours after a goal-race half
+marathon at all.** Walking lunges are still heavy eccentric loading, and the legs are
+carrying 21.1 km raced at 4:43/km with ~90 minutes in Zone 4 — **the largest single
+training stress in the log.** Muscle damage from an effort of that size takes 5–7 days to
+clear and strength markers stay depressed for roughly a week. Modifying the plyometrics is
+too small a lever against that.
+
+**This is NOT the `CLAUDE.md` Barry's rule being broken, and the distinction matters for
+anyone reading the log later.** The rule forbids dropping Barry's **to protect a running
+session.** Nothing here protects a run — the week contains almost no running. Two other
+parts of the same rule set govern:
+
+- **"Upper-body Barry's: attend freely, no restrictions."** ✅ Tuesday upper body costs the
+  legs nothing and is **offered as optional, not prescribed.** The routine and the session
+  are both preserved if he wants them.
+- The plyometric-modification clause is scoped to *"legs already heavily fatigued from a
+  hard Sunday long run."* **A goal-race half marathon exceeds that scope.**
+
+### The gap this creates, named rather than absorbed
+
+**Last lower-body session 25 Aug; skipping 8 Sep makes the next one Tue 15 Sep — a 21-day
+gap.** That is **exactly the 31 Mar VMO precedent** (21-day gap → jumping lunges →
+deconditioning injury), which is the reason the lunge protocol exists at all.
+
+**Mitigation, per the standing `CLAUDE.md` gap protocol:** lower body returns 15 Sep with
+**walking lunges for the first 2–3 sessions, and all plyometrics modified on the first.**
+
+**The trade is deliberate and stated once: a 21-day gap costs lower-body conditioning that
+2–3 sessions recover. A lower-body class on 48-hour race legs risks an injury that costs
+the entire October block.**
+
+### The week
+
+**Mon 7 – Sun 13 Sep: ~10–15 km, zero quality, no running before Thursday and that run
+optional and gated** (resting HR back inside 49–55; no soreness altering gait; no lateral
+knee or forefoot symptoms). Saturday 5 km easy is the first real read. Detail in
+`current_week_plan.md`.
+
+**The stated risk this week is illness, not injury.** Immune suppression runs elevated for
+~3–7 days after a maximal endurance effort, and **five illness episodes cost this campaign
+roughly 30 days — the largest recurring cost in the log.** Illness rules stay in force. The
+zero-alcohol rule (in place since 24 Aug) has served its purpose and can relax; modest
+remains the better play inside the window, as a note rather than a rule.
+
+---
+
 ## 2026-09-06 — Compensation flag closed; physio assessment declined and not pursued
 
 **Athlete declined the Mon 7 Sep referral on the grounds that the injury has passed. The

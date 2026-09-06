@@ -91,7 +91,10 @@ due to the October 5K.**
 
 ## Confirmed 6 Sep — and the fade is now closed by elimination
 
-**PERSONAL BEST.** Previous half best not recorded in the log.
+**PERSONAL BEST BY 5:06 — 1:44:38 (4:58/km) → 1:39:32 (4:43/km).** 15 sec/km faster, a
+4.9% improvement. **The block aimed at 1:42–1:45 with 1:40 as a stretch, which means its
+conservative end was essentially his existing PB** — and the 1:45 fallback in the verdict
+table ("race at 4:58/km") was literally his old PB pace. **He beat the stretch.**
 
 **No lateral knee or dorsal forefoot symptoms, during or after** — the flag was silent
 across 99 minutes at 168 average, the longest and hardest exposure it has ever had and deep
@@ -140,4 +143,13 @@ particularly one over ~55 minutes, that is a referral, not a self-managed item.*
   *slower* than the 20:59 PB. The half was an endurance result, not a speed one.
   **Sub-20:30 and a PB are realistic for October; sub-20 is a stretch requiring the
   threshold work this block never got.**
-- **Next block not yet written.** Run `/weekly-plan` when ready.
+- **🔴 TUESDAY'S BARRY'S IS WITHDRAWN — the 30 Aug flag was the wrong call.** A lower-body
+  class does not happen 48 h after a goal-race half marathon; walking lunges are still heavy
+  eccentric loading on race legs. **Upper body is free and optional** per `CLAUDE.md`.
+  **Lower body returns Tue 15 Sep — a 21-day gap, so walking lunges for 2–3 sessions and
+  all plyometrics modified on the first.**
+- **Recovery week issued (Mon 7 – Sun 13 Sep): ~10–15 km, zero quality, no running before
+  Thursday.** See `current_week_plan.md`.
+- **⚠️ Illness is this week's real risk, not injury** — immune suppression runs elevated
+  ~3–7 days post-race, and five episodes cost this campaign ~30 days.
+- **Next block not yet written.** Run `/weekly-plan` once the recovery week closes.
