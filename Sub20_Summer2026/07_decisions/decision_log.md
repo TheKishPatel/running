@@ -4,6 +4,52 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-09-06 — Compensation flag closed; physio assessment declined and not pursued
+
+**Athlete declined the Mon 7 Sep referral on the grounds that the injury has passed. The
+decision is his, it is recorded, and the race data supports it.** Logged here rather than
+re-argued, because the position has now been put twice (30 Aug ruling, 6 Sep race read) and
+reaffirmed with a reason.
+
+**Why the referral existed.** The 23 Aug entry set *recurrence on a second run* as the
+trigger for assessment. 30 Aug km11–14 met it. Travel then made Mon–Fri impractical and
+Saturday was refused (hands-on work 24 h before a goal race), so it was deferred to the day
+after the race specifically so it would still happen.
+
+**Why the evidence has moved since.** The trigger was written when the most recent data
+point was a recurrence. Two stronger data points have arrived since:
+
+1. **Sat 5 Sep — stress-reaction self rule-out clear.** Bone palpation along the 4th/5th
+   metatarsal shafts, 10 hops on the right foot, swelling check. This was always the part of
+   an assessment that actually gated anything.
+2. **Sun 6 Sep — 21.1 km raced in 1:39:32 at 168 avg, completely asymptomatic.** **99
+   minutes at race intensity, well past the onset point of both previous episodes**
+   (~85 min on 23 Aug, ~58 min on 30 Aug — and both of those appeared at *easy* pace under
+   lower total force).
+
+**That is a more informative negative test than a clinical exam would have produced.** The
+flag was characterised throughout as cumulative-load-driven rather than force-driven; the
+race is the largest cumulative load in the log and it produced nothing. **A physio
+examining a currently asymptomatic leg three weeks after the last episode would most likely
+have found nothing either, and would have had less evidence to work from than this race
+provides.**
+
+**Ruling: flag CLOSED (🟢), history retained.** 23 Aug km15–18 and 30 Aug km11–14, both
+resolving within 24 h; read as gait compensation around the healing medial posteromedial
+knee, load redistributed laterally down the same leg.
+
+**⚠️ RE-OPEN CONDITION — this is closed, not dropped, and the distinction is the point.**
+**The October block inverts the load profile: higher intensity, lower volume.** That is a
+different stimulus from the one that produced both episodes, so the race clears the
+*existing* mechanism rather than clearing the leg for all future loading.
+
+**If lateral knee or dorsal forefoot symptoms return on any run — particularly one over
+~55 minutes — that is a physio referral, not a self-managed item.** Escalation criteria
+unchanged and unnegotiable: point tenderness on the bone, pain on hopping, swelling, night
+pain, or a pattern that worsens run to run.
+
+---
+
 ## 2026-08-30 — Race week rebuilt around a Mon–Fri absence: Barry's replaced, physio deferred
 
 **Constraint:** athlete away Mon 31 Aug – Fri 4 Sep. Running available; no studio access.

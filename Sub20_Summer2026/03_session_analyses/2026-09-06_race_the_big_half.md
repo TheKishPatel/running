@@ -162,13 +162,71 @@ this block never got.**
 
 ---
 
-## Open questions — needed before the block is closed out
+## Resolved — the four open questions, answered 6 Sep
 
-1. **Is 1:39:32 a half-marathon PB?** The log holds 5–6 previous halves but none of their
-   times. This changes how the result is recorded.
-2. **Any lateral knee or dorsal forefoot symptoms during or after the race?** The
-   compensation flag predicted onset in the second half. **Nothing has been reported, and
-   absence of a report is not a clean report.**
-3. **Were the gels taken at 45 and 75 minutes as planned?**
-4. **Conditions — temperature and wind?** Not recorded, and the heat contingency
-   (>22°C → 8–10 sec/km) is relevant to reading the second half.
+**1. PERSONAL BEST.** Previous half-marathon best is not recorded in the log, so the margin
+is unknown — supply it if you want it in the baseline table.
+
+**2. NO LATERAL KNEE OR DORSAL FOREFOOT SYMPTOMS, DURING OR AFTER.** This is the most
+important answer of the four. **The compensation flag was silent across 99 minutes at 168
+average — by a wide margin the longest and hardest exposure it has ever had, and deep
+inside the window where it appeared on both previous occasions** (~85 min on 23 Aug,
+~58 min on 30 Aug, both at *easy* pace under lower total force).
+
+**3. FUELLING EXECUTED — 2 gels at 40 and 70 minutes.** Five minutes earlier than the
+prescribed 45/75, which is if anything the better version. No fuelling deficit.
+
+**4. CONDITIONS: 19–21°C, wind light-to-moderate.** Temperature sat **below the >22°C
+contingency**, so no pace adjustment was triggered — though the top of that range is not
+free either. Wind was **~10–11 mph / 4.8 m/s with gusts to ~16 mph / 7.0 m/s**; those are
+forecast-aggregator figures rather than a verified observation for the 08:40–10:21 window,
+so treat them as indicative. **At that strength wind is worth a couple of sec/km on exposed
+sections at most.**
+
+---
+
+## What those answers do to the analysis: they close the fade by elimination
+
+**Three of the four candidate explanations for a 16 sec/km positive split are now ruled
+out.**
+
+| Candidate | Verdict |
+|---|---|
+| **Heat** | ❌ 19–21°C — below the contingency threshold. Not triggered |
+| **Wind** | ❌ Light-to-moderate. Not race-shaping |
+| **Fuelling** | ❌ Both gels in, on schedule, slightly early |
+| **The open** | ✅ **The only explanation left standing** |
+
+**This was an inference in the first draft of this analysis. It is now a conclusion.** The
+first 5 km ran 16 sec/km faster than prescribed, and the back half was paid for out of it.
+Power falling 12.3 W while heart rate rose 7.5 bpm was always the mechanical signature of
+that; the conditions and fuelling answers remove every alternative story.
+
+**This does not diminish the result — it sharpens what the result means.** 1:39:32 was run
+with a self-inflicted handicap, in fair conditions, correctly fuelled. **The 1:38:30–1:39:00
+estimate for a disciplined open holds, and the case for it is now stronger than when it was
+first written.**
+
+---
+
+## The compensation flag — CLOSED 🟢
+
+**Assessment declined by the athlete on 6 Sep, and the race data supports the call.**
+
+The Mon 7 Sep physio referral was set on 30 Aug under a trigger written when the most recent
+data point was a *recurrence* on a second run. **The race is a far stronger data point in the
+opposite direction than a clinical exam would have been, and it arrived after the referral was
+booked in principle:** 99 minutes at race intensity, 21.1 km, well past the onset point of both
+previous episodes, **completely silent** — on top of a clear stress-reaction self-test on
+5 Sep (bone palpation, hop test, swelling check).
+
+**Flag closed. Full history retained: 23 Aug km15–18, 30 Aug km11–14, both resolving within
+24 h; mechanism read as cumulative-load-driven gait compensation around the healing medial
+knee, never force-driven.**
+
+**⚠️ RE-OPEN CONDITION, so this is closed rather than dropped.** The October block inverts
+the load profile — higher intensity, lower volume — which is a different stimulus from the
+one that produced both episodes. **If lateral knee or dorsal forefoot symptoms return on any
+run, particularly one over ~55 minutes, that is a physio referral and not a self-managed
+item.** The escalation criteria are unchanged: point tenderness on bone, pain on hopping,
+swelling, night pain, or a pattern worsening run to run.

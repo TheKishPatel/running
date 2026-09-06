@@ -89,14 +89,50 @@ due to the October 5K.**
 
 ---
 
+## Confirmed 6 Sep — and the fade is now closed by elimination
+
+**PERSONAL BEST.** Previous half best not recorded in the log.
+
+**No lateral knee or dorsal forefoot symptoms, during or after** — the flag was silent
+across 99 minutes at 168 average, the longest and hardest exposure it has ever had and deep
+past the onset point of both previous episodes (~85 min, ~58 min).
+
+**Gels at 40 and 70 minutes** — five minutes earlier than prescribed, which is the better
+version. **Conditions 19–21°C** (below the >22°C contingency, so not triggered) with
+**light-to-moderate wind, ~10–11 mph gusting ~16 mph** — indicative figures, not a verified
+race-window observation.
+
+| Candidate explanation for the 16 sec/km fade | Verdict |
+|---|---|
+| Heat | ❌ Below the contingency threshold |
+| Wind | ❌ Not race-shaping at that strength |
+| Fuelling | ❌ Both gels in, on schedule |
+| **The open** | ✅ **The only explanation left standing** |
+
+**That was an inference on race night. It is now a conclusion.** 1:39:32 was run with a
+self-inflicted handicap, in fair conditions, correctly fuelled — **which makes the
+1:38:30–1:39:00 estimate for a disciplined open stronger, not weaker.**
+
+---
+
+## 🟢 The compensation flag — CLOSED
+
+**Physio assessment declined by the athlete, and the race data supports the call.** The
+referral was set on 30 Aug under a trigger written when the most recent data point was a
+recurrence. **The race is a far stronger data point in the opposite direction than a
+clinical exam would have been**, on top of a clear self-test on 5 Sep.
+
+**⚠️ Re-open condition, so this is closed rather than dropped:** the October block inverts
+the load profile — higher intensity, lower volume. **If symptoms return on any run,
+particularly one over ~55 minutes, that is a referral, not a self-managed item.**
+
+---
+
 ## Carried forward
 
-- **🚑 PHYSIO — MON 7 SEP. Book it.** The compensation flag met its recurrence trigger on
-  30 Aug; the assessment was displaced by travel and deferred to the day after the race
-  precisely so it would still happen. **A post-race Monday is exactly when it evaporates.**
 - **🚩 BARRY'S TUE 8 SEP — 14-DAY GAP (last lower session 25 Aug) AND 48 h POST-RACE.
   Walking lunges, no plyometrics.** Flagged in advance on 30 Aug so it would not be
-  rediscovered on the day.
+  rediscovered on the day. **This is the one live action item.**
 - **⚠️ WATCH ZONE TABLE UNRELIABLE — SECOND OCCURRENCE** (first 6 Aug). Zones summed to
   90:45 against 99:32 elapsed, and **Zone 5 read 00:00 against a 183 max with a 181+
   floor.** Cross-check zone totals against duration before trusting them.
@@ -104,16 +140,4 @@ due to the October 5K.**
   *slower* than the 20:59 PB. The half was an endurance result, not a speed one.
   **Sub-20:30 and a PB are realistic for October; sub-20 is a stretch requiring the
   threshold work this block never got.**
-
----
-
-## Open questions
-
-1. **Is 1:39:32 a half-marathon PB?** The log records 5–6 previous halves but none of their
-   times.
-2. **Any lateral knee or dorsal forefoot symptoms during or after the race?** The flag
-   predicted second-half onset. Nothing reported — and absence of a report is not a clean
-   report.
-3. **Gels taken at 45 and 75 minutes?**
-4. **Conditions — temperature and wind?** Unrecorded, and the heat contingency matters to
-   how the second half reads.
+- **Next block not yet written.** Run `/weekly-plan` when ready.

@@ -40,20 +40,34 @@
 
 ---
 
-### ⏭️ Immediate — the next two days
+### ✅ CONFIRMED 6 SEP — and the fade is now closed by elimination
 
-- **🚑 PHYSIO — MON 7 SEP. BOOK IT.** The compensation flag met its recurrence trigger on 30 Aug and the assessment was deferred to the day after the race *specifically so it would still happen*. **A post-race Monday is exactly when an appointment evaporates, and the October block needs the answer.**
-- **🚩 BARRY'S TUE 8 SEP — 14-DAY GAP (last lower session 25 Aug) AND 48 h POST-RACE. Walking lunges, no plyometrics.** Flagged on 30 Aug in advance so it would not be rediscovered on the day.
-- **No running until the physio has been seen and the legs report clean.** Next block is not written yet — run `/weekly-plan` once the answers below are in.
+**🏆 PERSONAL BEST.** Previous half-marathon best is not recorded in the log — supply it if you want the margin in the baseline table.
 
-### ❓ Open questions before the block is closed out
+**🟢 NO LATERAL KNEE OR DORSAL FOREFOOT SYMPTOMS, DURING OR AFTER.** The compensation flag stayed silent across **99 minutes at 168 average — by a wide margin the longest and hardest exposure it has ever had, and deep past the onset point of both previous episodes** (~85 min on 23 Aug, ~58 min on 30 Aug, both at *easy* pace under lower total force).
 
-1. **Is 1:39:32 a half PB?** The log records 5–6 previous halves but none of their times.
-2. **Any lateral knee or dorsal forefoot symptoms during or after the race?** The flag predicted second-half onset. **Nothing has been reported, and absence of a report is not a clean report.**
-3. **Gels taken at 45 and 75 minutes?**
-4. **Conditions — temperature and wind?** Unrecorded, and the heat contingency (>22°C → 8–10 sec/km) matters to how the second half reads.
+**⛽ FUELLING EXECUTED — 2 gels at 40 and 70 minutes**, five minutes earlier than the prescribed 45/75, which is the better version.
 
-**Race-morning resting HR not measured. Sat 5 Sep: 51. Wed 2 Sep: 50 — second lowest of the campaign.**
+**🌡️ CONDITIONS: 19–21°C, wind light-to-moderate (~10–11 mph / 4.8 m/s, gusts ~16 mph / 7.0 m/s).** Temperature sat **below the >22°C contingency**, so no adjustment was triggered — though the top of that range is not free either. *The wind figures are forecast-aggregator values, not a verified observation for the 08:40–10:21 window; treat as indicative.*
+
+**THREE OF THE FOUR CANDIDATE EXPLANATIONS FOR THE 16 sec/km POSITIVE SPLIT ARE NOW RULED OUT: heat did not reach the threshold, wind was not race-shaping, and both gels went in on schedule. NOTHING IS LEFT EXCEPT THE OPEN.** That was an inference on race night; **it is now a conclusion.** It does not diminish the result — it sharpens it. **1:39:32 was run with a self-inflicted handicap, in fair conditions, correctly fuelled, which makes the 1:38:30–1:39:00 estimate for a disciplined open stronger rather than weaker.**
+
+---
+
+### 🟢 COMPENSATION FLAG — CLOSED. Physio declined, and the race supports the call.
+
+**The Mon 7 Sep referral was set on 30 Aug under a trigger written when the most recent data point was a *recurrence* on a second run. The race is a far stronger data point in the opposite direction than a clinical exam would have been** — 21.1 km, 99 minutes at race intensity, well past the onset point of both episodes, completely silent — on top of a **clear stress-reaction self-test on 5 Sep** (bone palpation, hop test, swelling check).
+
+**Flag closed. History retained:** 23 Aug km15–18, 30 Aug km11–14, both resolving within 24 h; mechanism read as cumulative-load-driven gait compensation around the healing medial knee, never force-driven. Decision recorded in `07_decisions/decision_log.md`.
+
+**⚠️ RE-OPEN CONDITION — so this is closed, not dropped.** The October block **inverts the load profile**: higher intensity, lower volume, a different stimulus from the one that produced both episodes. **If lateral knee or dorsal forefoot symptoms return on any run, particularly one over ~55 minutes, that is a physio referral and not a self-managed item.** Escalation criteria unchanged: point tenderness on bone, pain on hopping, swelling, night pain, or a pattern worsening run to run.
+
+---
+
+### ⏭️ The one live action item
+
+- **🚩 BARRY'S TUE 8 SEP — 14-day gap from the last lower-body session (25 Aug) AND 48 h post-half-marathon. Walking lunges, no plyometrics.** Flagged on 30 Aug in advance so it would not be rediscovered on the day.
+- **Next block not yet written.** Run `/weekly-plan` when you want it.
 
 ---
 
@@ -274,6 +288,7 @@ Live plan: **`big_half_block_Sep2026.md`**. Current week detail: `current_week_p
 
 | Metric | Value | Date |
 |--------|-------|------|
+| **Half-marathon PB** | **1:39:32** — 4:43/km, 168 avg / 183 max. *Previous best not recorded in the log* | **6 September 2026** |
 | 5K PB | **20:59** | 8 March 2026 |
 | Most recent 5K | ~21:27 (24°C, heat-limited) | 25 July 2026 |
 | Threshold pace | **4:20–4:23/km for 4 km @ ~169–170 BPM** — 6 Aug matched 2 Jul at equal power, **no improvement in 5 weeks** | 2 Jul / 6 Aug 2026 |
