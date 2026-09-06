@@ -76,3 +76,17 @@ maximal 5 km, 24 h after a hard parkrun, on a five-waking night.
   the whole gate alone.
 - **Nothing new from here.** The shoe question closed under maximal force on
   27 Aug; no changes before 6 Sep.
+
+---
+
+## Amendment — 30 Aug, on issuing the race-week plan
+
+**"Barry's Tue 1 Sep — keep the plyometrics modified" is superseded.** The athlete is away
+Mon 31 Aug – Fri 4 Sep with no studio access. **Barry's is unavailable, not skipped** —
+replaced by an easy 5 km, with no substitute strength or plyometric work. The next
+lower-body session is **Tue 8 Sep: a 14-day gap and 48 h post-race → walking lunges, no
+plyometrics.**
+
+**The physio requirement is deferred to Mon 7 Sep** (or taken away Tue–Thu if available) —
+**not Sat 5 Sep.** Reasoning in `07_decisions/decision_log.md`, 30 Aug. The stress-reaction
+rule-out that actually gates Sunday is a self-test, prescribed for Tuesday morning.

@@ -4,6 +4,191 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-09-06 — Recovery week; Tuesday's lower-body Barry's withdrawn (earlier flag was wrong)
+
+**The athlete said he would get injured doing Barry's on Tuesday and asked for a recovery
+week. He is right, and the 30 Aug flag was wrong.**
+
+**What the flag said:** *"Barry's Tue 8 Sep — 14-day gap AND 48 h post-half-marathon.
+Walking lunges, no plyometrics."* It was written in advance, which was correct, but it
+**treated attendance as given and negotiated only the plyometrics.** That is the error.
+
+**The correct call: a lower-body class does not happen 48 hours after a goal-race half
+marathon at all.** Walking lunges are still heavy eccentric loading, and the legs are
+carrying 21.1 km raced at 4:43/km with ~90 minutes in Zone 4 — **the largest single
+training stress in the log.** Muscle damage from an effort of that size takes 5–7 days to
+clear and strength markers stay depressed for roughly a week. Modifying the plyometrics is
+too small a lever against that.
+
+**This is NOT the `CLAUDE.md` Barry's rule being broken, and the distinction matters for
+anyone reading the log later.** The rule forbids dropping Barry's **to protect a running
+session.** Nothing here protects a run — the week contains almost no running. Two other
+parts of the same rule set govern:
+
+- **"Upper-body Barry's: attend freely, no restrictions."** ✅ Tuesday upper body costs the
+  legs nothing and is **offered as optional, not prescribed.** The routine and the session
+  are both preserved if he wants them.
+- The plyometric-modification clause is scoped to *"legs already heavily fatigued from a
+  hard Sunday long run."* **A goal-race half marathon exceeds that scope.**
+
+### The gap this creates, named rather than absorbed
+
+**Last lower-body session 25 Aug; skipping 8 Sep makes the next one Tue 15 Sep — a 21-day
+gap.** That is **exactly the 31 Mar VMO precedent** (21-day gap → jumping lunges →
+deconditioning injury), which is the reason the lunge protocol exists at all.
+
+**Mitigation, per the standing `CLAUDE.md` gap protocol:** lower body returns 15 Sep with
+**walking lunges for the first 2–3 sessions, and all plyometrics modified on the first.**
+
+**The trade is deliberate and stated once: a 21-day gap costs lower-body conditioning that
+2–3 sessions recover. A lower-body class on 48-hour race legs risks an injury that costs
+the entire October block.**
+
+### The week
+
+**Mon 7 – Sun 13 Sep: ~10–15 km, zero quality, no running before Thursday and that run
+optional and gated** (resting HR back inside 49–55; no soreness altering gait; no lateral
+knee or forefoot symptoms). Saturday 5 km easy is the first real read. Detail in
+`current_week_plan.md`.
+
+**The stated risk this week is illness, not injury.** Immune suppression runs elevated for
+~3–7 days after a maximal endurance effort, and **five illness episodes cost this campaign
+roughly 30 days — the largest recurring cost in the log.** Illness rules stay in force. The
+zero-alcohol rule (in place since 24 Aug) has served its purpose and can relax; modest
+remains the better play inside the window, as a note rather than a rule.
+
+---
+
+## 2026-09-06 — Compensation flag closed; physio assessment declined and not pursued
+
+**Athlete declined the Mon 7 Sep referral on the grounds that the injury has passed. The
+decision is his, it is recorded, and the race data supports it.** Logged here rather than
+re-argued, because the position has now been put twice (30 Aug ruling, 6 Sep race read) and
+reaffirmed with a reason.
+
+**Why the referral existed.** The 23 Aug entry set *recurrence on a second run* as the
+trigger for assessment. 30 Aug km11–14 met it. Travel then made Mon–Fri impractical and
+Saturday was refused (hands-on work 24 h before a goal race), so it was deferred to the day
+after the race specifically so it would still happen.
+
+**Why the evidence has moved since.** The trigger was written when the most recent data
+point was a recurrence. Two stronger data points have arrived since:
+
+1. **Sat 5 Sep — stress-reaction self rule-out clear.** Bone palpation along the 4th/5th
+   metatarsal shafts, 10 hops on the right foot, swelling check. This was always the part of
+   an assessment that actually gated anything.
+2. **Sun 6 Sep — 21.1 km raced in 1:39:32 at 168 avg, completely asymptomatic.** **99
+   minutes at race intensity, well past the onset point of both previous episodes**
+   (~85 min on 23 Aug, ~58 min on 30 Aug — and both of those appeared at *easy* pace under
+   lower total force).
+
+**That is a more informative negative test than a clinical exam would have produced.** The
+flag was characterised throughout as cumulative-load-driven rather than force-driven; the
+race is the largest cumulative load in the log and it produced nothing. **A physio
+examining a currently asymptomatic leg three weeks after the last episode would most likely
+have found nothing either, and would have had less evidence to work from than this race
+provides.**
+
+**Ruling: flag CLOSED (🟢), history retained.** 23 Aug km15–18 and 30 Aug km11–14, both
+resolving within 24 h; read as gait compensation around the healing medial posteromedial
+knee, load redistributed laterally down the same leg.
+
+**⚠️ RE-OPEN CONDITION — this is closed, not dropped, and the distinction is the point.**
+**The October block inverts the load profile: higher intensity, lower volume.** That is a
+different stimulus from the one that produced both episodes, so the race clears the
+*existing* mechanism rather than clearing the leg for all future loading.
+
+**If lateral knee or dorsal forefoot symptoms return on any run — particularly one over
+~55 minutes — that is a physio referral, not a self-managed item.** Escalation criteria
+unchanged and unnegotiable: point tenderness on the bone, pain on hopping, swelling, night
+pain, or a pattern that worsens run to run.
+
+---
+
+## 2026-08-30 — Race week rebuilt around a Mon–Fri absence: Barry's replaced, physio deferred
+
+**Constraint:** athlete away Mon 31 Aug – Fri 4 Sep. Running available; no studio access.
+Race is Sun 6 Sep.
+
+### 1. Tue 1 Sep Barry's → easy 5 km
+
+`CLAUDE.md` is explicit that Barry's is a conditioning **asset** and is never dropped to
+protect a running session. **That rule governs a choice between the two. It does not reach a
+week in which the studio is several hundred miles away** — this is unavailability, not a
+trade-off, and naming the difference matters because the log should not later read as a
+skipped Barry's.
+
+**Replaced with 5 km @ 5:45–5:55, HR <150.** Two things were explicitly refused:
+- **A substitute bodyweight or plyometric circuit.** Novel loading five days before a goal
+  race is precisely what Standing rule 10 ("nothing new from here") exists to prevent, and
+  there is no fitness to be gained that could justify it.
+- **A second easy run on Wed 2 Sep.** Race week adds nothing. Wednesday stays rest.
+
+**Net effect is a lower load than the week as written** (~45 min of conditioning removed,
+~30 min of easy running added). In a taper that is the correct direction, so the constraint
+costs nothing that matters. Week lands at **~34 km including the race**, against ~30 planned.
+
+**Consequence carried forward:** the next available lower-body Barry's is **Tue 8 Sep — a
+14-day gap from 25 Aug, and 48 h post-half-marathon.** The standing gap protocol applies:
+**walking lunges, no plyometrics.** Recorded now in `phase_progress.md` and
+`current_week_plan.md` so it is not rediscovered on the day.
+
+### 2. Physio assessment deferred to Mon 7 Sep (not Sat 5 Sep)
+
+**The trigger was met.** 23 Aug set recurrence-on-a-second-run as the threshold; 30 Aug
+km11–14 met it. The 30 Aug reading called for an assessment "this week." **Travel removes
+Mon–Fri, and Saturday is the wrong day for one.**
+
+**Order of preference: (1) an appointment where he is, Tue–Thu; (2) failing that, Mon 7 Sep,
+booked before the race so it does not evaporate afterwards; (3) explicitly NOT Sat 5 Sep** —
+hands-on soft-tissue work 24 h before a goal race is a new input on the one day that must
+contain none, and it can leave a leg sore for reasons unrelated to the injury.
+
+**Why the deferral is defensible on the evidence rather than on convenience:**
+- **The mechanism has clarified since the trigger was written: cumulative-load driven, not
+  force driven.** Silent at 4:14/km and 187 bpm (27 Aug — the highest force of the campaign),
+  silent through both race-pace blocks. Symptoms appear only at *easy* pace after ~an hour of
+  accumulated work, and resolve within hours.
+- **The single finding that would change Sunday is a metatarsal stress reaction — and that
+  rule-out does not require a clinician.** Bone palpation along the 4th/5th metatarsal shafts,
+  10 hops on the right foot, swelling and night-pain check. Prescribed for Tuesday morning,
+  before the run. **Any one positive and the race becomes a medical decision, not a pacing
+  one.**
+- **Everything else a physio finds this week is information for the October block, not for
+  6 September.** No plausible finding short of a stress reaction changes a race plan six days
+  out.
+
+**Race-day consequence, stated because it is counter-intuitive: a faster race is a shorter
+race.** 4:50/km for 1:42 is less total exposure than backing off to 5:05/km for 1:47.
+**Racing the planned pace is not the riskier option.** Stop criteria are a change of
+*character* — sharp rather than achy, point-tender on bone, gait-altering, or unable to hop —
+not the familiar ache, which should be expected in the second half.
+
+### 3. Thursday's 400s kept, with a fallback
+
+**4×400 m @ 3:50 retained** despite unfamiliar ground and a live compensation flag, because
+the flag is cumulative-load driven and the session is ~6 minutes of work — it does not enter
+the window where symptoms have ever appeared. **Structured watch workout mandatory** (reps
+<1 km, `data_capture_protocol.md` Rule 3), 1 km whole-kilometre warm-up and cool-down.
+
+**Rep 4 must match rep 1.** The 30 Jul strides ran 3:57 → 3:28 → 3:09 → 2:50 against a flat
+prescription; three days before the goal race that escalation is a cost, not a quirk. **No
+fifth rep, and a 3:55 rep is not to be chased** — nothing about Sunday turns on 400 m splits.
+
+**Fallback, since the route is unknown: if there is no flat measured 400 m stretch, 6 × 20 s
+strides @ ~3:40 on any flat straight.** Running 400s on uneven or unlit ground to satisfy a
+prescription is a worse outcome than substituting.
+
+### 4. No parkrun on Sat 5 Sep
+
+**Named as the week's highest-risk decision.** The last three Saturdays were all run harder
+than prescribed, and **29 Aug ran 4:51/km against a 5:50 floor — 59 sec/km fast — the day
+before the block's final read.** That was absorbable. The day before a goal half marathon it
+is not: **a parkrun on 5 Sep costs more than every session this week gains.** Saturday is
+3 km @ 6:00 as a ceiling plus 2 strides, or complete rest — both correct.
+
+---
+
 ## 2026-08-02 — Data integrity: `training_log.csv` malformed rows repaired
 
 **Found:** 10 of 40 rows did not parse at the header's 23 columns — 8 had fields silently
