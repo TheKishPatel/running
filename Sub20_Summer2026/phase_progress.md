@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 4 Sep 2026*
+*Last updated: 6 Sep 2026*
 
 ---
 
@@ -17,9 +17,9 @@
 | **27 Jun (tune-up)** | — | **Sub-21 tune-up — DONE: 5K ~22:21, ~30°C, eased** | ✅ Completed | n/a (tune-up) |
 | Build to goal race | A–D | Mon 29 Jun – Sat 25 Jul | ✅ Complete | Gate 16 Jul: sub-20 off |
 | **5K GOAL RACE** | — | **Sat 25 Jul 2026 — ~21:27, 24°C, heat-limited. PB (20:59) intact** | ✅ Complete | n/a |
-| **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | 🔄 **Week 6 — RACE WEEK** (W1–W5 ✅ complete) | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
-| **THE BIG HALF** | — | **Sun 6 Sep 2026 — target 1:42** | ⏳ Upcoming | — |
-| 5K sharpening block | — | ~Sep–Oct (post-half) | ⏳ Planned | — |
+| **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
+| **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
+| 5K sharpening block | — | ~Sep–Oct (post-half) | ⏳ **Next — not yet written.** Physio Mon 7 Sep first | — |
 
 > **Live plan = `big_half_block_Sep2026.md`** (6-week block to the 6 Sep half marathon).
 > Target 1:42–1:45, stretch 1:40, race pace 4:50/km. Then a 4-week 5K sharpening block →
@@ -71,8 +71,8 @@
 | 6 | 2 Sep | **Wed Easy 5 km** *(rolled from Tue)* | **5 km @ 5:45–5:55, HR <150**, km1 6:00–6:10 | **7.40 km, 49:57; prescribed 5 km @ 6:02** | **117**/139 | ✅ done | **BEST LIKE-FOR-LIKE EASY-RUN READING OF THE BLOCK.** Prescribed 5 km run at **6:02/km**, then ~2.4 km jogging with his daughter. **km3–4 at 6:01/km, 125.5 bpm, 206.5 W vs 12 Aug's 6:01/km, 133 bpm, 200–202 W — identical pace, 7.5 bpm lower, 5.5 W more. Efficiency 1.645 vs 1.511 = +8.9%**, above the block's previous best (1.552, 19 Aug). *Caveat: 12 Aug was on fatigue, Wednesday on a deload — taper and freshness as much as fitness.* Z3/Z4/Z5 zero, cap never approached. **⚠️ First easy run of the campaign run SLOWER than prescribed** (7–17 sec/km), which in race week is correct. km1 6:06 — ninth consecutive conservative opener. **RHR 50, second lowest of the campaign.** ~50 min on feet brushing the ~58 min onset window, no symptoms. Post-workout 112→83→96 not interpretable (stop-start finish with a child). |
 | 6 | 3 Sep | Thu Sharpness — ⬜ **NOT RUN** | **1 km WU / 4×400 m @ 3:50, walk-back full recovery / 1 km CD** | | | ⏳ | Sharp, not tired. **Structured watch workout — mandatory** (reps <1 km). **Rep 4 must match rep 1** — the 30 Jul strides escalated 3:57→2:50. No fifth rep. **⬜ NOT RUN — deliberate deload on holiday (athlete's stated choice). Costs almost nothing:** the plan defined this session as "not a fitness test," producing "no verdict," at "zero fatigue cost." **What it changes is calibration, not fitness** — the legs have seen nothing faster than 5:49/km since 30 Aug, which is why Sat 5 Sep gains a race-pace primer. |
 | 6 | 4 Sep | Fri Rest | Travel home | — | — | ✅ done | Carbs ~405 g. Kit laid out tonight, not Saturday. RHR not read |
-| 6 | 5 Sep | **Sat Shakeout + race-pace primer** | **3 km @ 6:00, HR <140 + 2 × 400 m @ 4:50 (walk-back full recovery) + 400 m easy** | | | ⏳ | **🔄 REVISED 4 SEP — strides replaced by a primer, and rest is no longer an equally correct choice.** After six days at 6:00–8:43/km, **4:50 will feel easy and 4:35 will feel like 4:50** — and the campaign's single failure mode is the aggressive open. **Calibration, not stimulus:** 800 m at 4:50 is ~4 min at ~89% of threshold power. No third rep, not faster than 4:50. Morning; **structured watch workout** (reps <1 km); chest strap. **Foot self-test FIRST — still not reported. 🛑 NO PARKRUN** — fresh legs are the strongest temptation and the worst reason. |
-| 6 | **6 Sep** | **RACE — 21.1 km** | **4:55 → 4:50 → 4:45. Target 1:42** | | | ⏳ | **Chest strap. Gels 45/75 min. Never faster than 4:50 in the first 5 km.** |
+| 6 | 5 Sep | **Sat Shakeout + race-pace primer** | **3 km @ 6:00, HR <140 + 2 × 400 m @ 4:50 + 400 m easy** | done, unremarkable *(data not uploaded)* | — | ✅ done | **🔄 REVISED 4 SEP — strides replaced by a primer, and rest is no longer an equally correct choice.** After six days at 6:00–8:43/km, **4:50 will feel easy and 4:35 will feel like 4:50** — and the campaign's single failure mode is the aggressive open. **Calibration, not stimulus:** 800 m at 4:50 is ~4 min at ~89% of threshold power. No third rep, not faster than 4:50. Morning; **structured watch workout** (reps <1 km); chest strap. **✅ FOOT SELF-TEST CLEAR — no pain.** The stress-reaction rule-out passed and the race was cleared on it. **RHR 51.** No parkrun. |
+| 6 | **6 Sep** | **🏁 RACE — 21.1 km** | **4:55 → 4:50 → 4:45. Target 1:42** | **1:39:32 · 4:43/km** *(watch 21.413 km / 1:41:01; the 0.316 km over-measure is worth 89 s and reconciles exactly)* | **168**/183 | ✅ **TARGET BEATEN BY 2:28, STRETCH (1:40) BY 28 s** | **⚠️ 16 sec/km POSITIVE SPLIT against a plan written for a negative one.** km1–10 4:35.2 @ 166.6 / 256.9 W (EF 1.542); km11–20 4:51.3 @ 174.1 / 244.6 W (EF 1.405); **decoupling 8.9%.** A real fade, not gradient — power fell 12.3 W while HR rose 7.5. **🚩 Rule 1 broken inside km1 (4:40 against a 4:45 stop-line); first 5 km ran 4:39 vs 4:55 prescribed.** 🟢 **Not a wall — km21 4:42 at 254 W, the highest power of the second half, and the last 413 m at 4:36.** 🟢 Held 4:35/km for 10 km at 166.6 bpm, **below the 168–176 threshold band.** Post 179→146→131. **km7 (4:07) and km4 (274 W) are gradient, not fitness.** ⚠️ Zone table unreliable again — 90:45 vs 99:32, Zone 5 zero against a 183 max. |
 
 ### Planned Volume
 
@@ -83,7 +83,7 @@
 | 3 | 10 – 16 Aug | ~37 | **36.3** | Two long runs (14 + 16); Thu VO2max cancelled (RHR 62) |
 | **4** | **17 – 23 Aug** | ~40.5 | **30.03** | **PEAK GATE PASSED — 18.01 km, 132 avg / max 145, cap never touched.** Thu threshold cancelled (knee injury); Sat lost (family) |
 | **5** | **24 – 30 Aug** | ~33 | **~24.1** | **FINAL READ PASSED.** Wed cancelled (birthday); Thu rehearsal stormed out and replaced by a raced 5 km; Sat run 59 sec/km fast. **The week lost its structure and still produced its verdict.** |
-| **6** | **31 Aug – 6 Sep** | ~33 | **~32.5** *(proj.)* | **RACE WEEK — deloaded.** Barry's unavailable (away Mon–Fri); Tue and Thu not run. **Wed 7.4 + Sat ~4 + race 21.1. Pre-race running 11.4 km against ~12 planned — a 0.6 km deficit**, because Wednesday ran 7.4 against 5 prescribed. Only Thursday's 4×400 was genuinely lost |
+| **6** | **31 Aug – 6 Sep** | ~33 | **~32.5** | **RACE WEEK — deloaded, and it cost nothing measurable.** Barry's unavailable (away Mon–Fri); Tue and Thu not run. **Wed 7.4 + Sat ~4 + race 21.1. Pre-race running 11.4 km against ~12 planned — a 0.6 km deficit**, because Wednesday ran 7.4 against 5 prescribed. Only Thursday's 4×400 was genuinely lost — a session the plan itself defined as producing no verdict. **Result: 1:39:32** |
 | **Total** | | **~203 km** | | |
 
 ### Block Gates
@@ -94,6 +94,16 @@
 - **End of Week 4 (PEAK):** ✅ **PASSED with room.** 18.01 km, 132 avg, **max 145** — the <150 cap was never touched, Zone 3/4/5 all zero. Quarters 5:45.2 / 5:45.2 / 5:43.5 / 5:47.8, last quarter slowest. **Creep gone.**
 - **End of Week 5 (FINAL READ):** ✅ **PASSED.** 6 km @ **4:49.7/km, 157.7 bpm, 249 W** inside 14 km; max 165 against a 166 ceiling; Zone 4 total 0:13 across 74 min. Top row of the verdict table, met on pace with **8 bpm of ceiling unused**, off a five-waking night and 48 h after a maximal 5 km. **1:42 confirmed. Race plan as written.**
 - **Week 6 has no gate.** Race week adds nothing and can only subtract. Every remaining decision is about arriving intact.
+
+### 🏁 Block outcome — Sun 6 Sep
+
+**1:39:32 · 4:43/km · 168 avg / 183 max. Target 1:42 beaten by 2:28; the 1:40 stretch beaten by 28 seconds.**
+
+**What the block set out to answer, and did:** the 5K campaign died at 4:00/km with threshold never below 4:20 and volume at 20–25 km/week. **Low volume was named as the untested ceiling and this block tested it. 21.1 km at 4:43/km settles it — the aerobic base is no longer the limiter.** The long-run ramp landed every rung (12 → 14 → 16 → 18), with no 21 km training run by design, and the peak passed with the HR cap never touched.
+
+**What it did not deliver, as stated throughout: threshold progression.** 4:20/km (2 Jul) → 4:23/km (6 Aug) → nothing, across three consecutive compromised Thursdays. **That bill is now due to the October 5K.**
+
+**The October read, honestly: Riegel from 1:39:32 gives a 5K of 21:38 — slower than the 20:59 PB. Reverse Riegel from 20:59 gives a half of 1:36:32.** 5K speed is still ahead of endurance and the half was positive-split: **this was an endurance result, not a speed one, and it does not predict sub-20.** The 27 Aug unplanned 5 km projects to ~21:15–21:45 rested and evenly paced — that is the starting line. **Sub-20:30 and a PB are realistic for October; sub-20 is a stretch requiring the threshold work this block never got.**
 
 **Hold, don't chase:** if any week reads wrong — HR elevated at easy pace, motivation gone, persistent soreness — **repeat the week rather than progress.** The table is a plan, not a debt.
 
@@ -379,4 +389,6 @@
 
 **Physio timing ruled 30 Aug (travel forces it):** take an appointment where he is Tue–Thu if available; **otherwise it moves to Mon 7 Sep — not Sat 5 Sep**, because hands-on work 24 h before a goal race is a new input on the one day that must contain none. The single finding that would change Sunday is a metatarsal stress reaction, and that rule-out is the Tuesday-morning self-test (bone palpation / hop test / swelling), not a clinic visit.
 
-**🚩 Post-race Barry's flag: Tue 8 Sep is a 14-day gap from the last lower-body session (25 Aug) AND 48 h post-half-marathon. Walking lunges, no plyometrics.**
+**🚩 LIVE NOW — Post-race Barry's: Tue 8 Sep is a 14-day gap from the last lower-body session (25 Aug) AND 48 h post-half-marathon. Walking lunges, no plyometrics.**
+
+**🚑 LIVE NOW — Physio Mon 7 Sep. Book it.** Deferred to the day after the race specifically so it would still happen; a post-race Monday is exactly when an appointment evaporates. **No race-day symptoms have been reported, and absence of a report is not a clean report — confirm.** The Sat 5 Sep stress-reaction self-test was clear.

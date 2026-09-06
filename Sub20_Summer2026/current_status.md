@@ -1,8 +1,63 @@
 # Current Status
 
-*Last updated: 4 Sep 2026 (Fri evening)*
+*Last updated: 6 Sep 2026 (race day)*
 
 ---
+
+## Status: 🏁 **THE BIG HALF — DONE. 1:39:32. TARGET (1:42) BEATEN BY 2:28, STRETCH (1:40) BY 28 SECONDS.**
+
+**21.1 km · 1:39:32 · 4:43/km · 168 avg / 183 max.** Full read: `03_session_analyses/2026-09-06_race_the_big_half.md`. Week summary: `02_training_log/weekly_summaries/half_week_06_summary.md`.
+
+**The watch's 21.413 km in 1:41:01 reconciles to the official time exactly** — the 0.316 km over-measure is worth 89 seconds at the run's own pace, and 6061 − 89 = 5972. **Both sources give 4:43.1/km.** Nothing here needs interpreting.
+
+**⚠️ THE SHAPE: A 16 sec/km POSITIVE SPLIT, AGAINST A PLAN WRITTEN FOR A NEGATIVE ONE. km1–10 ran 4:35.2/km at 166.6 bpm and 256.9 W (EF 1.542); km11–20 ran 4:51.3/km at 174.1 bpm and 244.6 W (EF 1.405). Decoupling 8.9%.** Against 6.2% on the 18 km and 4.3% on the 12 km — higher, but this was 99 minutes at 168 average, not a Zone 2 run. **It is a real fade, not a course artifact: had the back half merely been hillier, power would have HELD and pace dropped. Instead power fell 12.3 W while HR rose 7.5 bpm.**
+
+**🚩 RULE 1 WAS BROKEN INSIDE THE FIRST KILOMETRE.** *"Never faster than 4:50 in the first 5 km; if km1 comes in under 4:45, slow down immediately."* **km1 ran 4:40; the first 5 km ran 4:39 against a prescribed 4:55 — 16 sec/km fast.** The campaign's signature failure mode was executed in full, **and this time the engine was big enough to carry it. That is not a vindication of the open** — the last 6 km ran 6 sec/km slower than their prescribed segment because the first 5 ran 16 sec/km faster than theirs.
+
+**🟢 THREE SIGNALS HE WAS FITTER THAN THE RESULT. (1) There was a finishing gear, so this was not a wall — km21 ran 4:42 at 254 W, the highest power of the entire second half, and the closing 413 m ran 4:36.** An emptied tank cannot do that. **(2) He held 4:35/km for 10 km at 166.6 bpm — BELOW the 168–176 threshold band. (3) The 30 Aug final read understated him:** the race ran 7 sec/km faster than it for 3.5× the duration, and that read came on a five-waking night, 48 h after a maximal 5 km. **Estimate: a disciplined 4:45 open is most likely 1:38:30–1:39:00 — better pacing was worth ~30–60 seconds here, not minutes. The result sits close to the honest current ceiling.**
+
+**📐 TWO SPLITS ARE GRADIENT, NOT FITNESS. km7 at 4:07/km is not a datapoint** — it ran 22 sec/km faster than km6 for **9 W more**, and at that pace 22 sec/km is worth ~20–25 W, so it is a descent. **km4 is the mirror: 4:39 at 274 W, the highest power of the race, 1 sec/km *slower* than km3 at 247 W — a climb.** The raw splits overstate both the mid-race surge and the late fade. **Power is the honest signal.**
+
+**🟢 RECOVERY: 179 → 146 → 131 = 33 bpm in the first minute, 48 over two**, off the longest sustained high-intensity effort in the log. Not the sharpest first minute recorded (27 Aug: 42; 30 Aug: 43), but those came off 22-minute and 74-minute efforts. **Strong after 99 minutes at 168 average.**
+
+**⚠️ WATCH ZONE TABLE UNRELIABLE — SECOND OCCURRENCE (first 6 Aug).** Zones sum to **90:45 against 99:32 elapsed**, and **Zone 5 reads 00:00 despite a 183 max against a 181+ floor.** Both impossible. **True Zone 4+5 time is materially above the 1:04:56 displayed; ~90 minutes is the honest figure.**
+
+---
+
+### 🎯 THE BLOCK'S VERDICT — the volume experiment is answered
+
+**The long-run ramp landed every rung: 12 → 14 → 16 → 18, no 21 km training run, by design.** The peak passed with the HR cap never touched (18.01 km, max 145 against <150, Zone 3/4/5 zero).
+
+**The 5K campaign died at 4:00/km with threshold never below 4:20 and volume at 20–25 km/week. Low volume was named as the untested ceiling, and this block tested it. 21.1 km at 4:43/km settles it: the aerobic base is no longer the limiter.**
+
+**What the block did not deliver, and said so all along: threshold progression.** 4:20/km (2 Jul) → 4:23/km (6 Aug) → nothing, across three consecutive compromised Thursdays. **That bill is now due.**
+
+### 📉 The October read, stated honestly
+
+**Riegel from 1:39:32 gives a 5K of 21:38 — SLOWER than the existing 20:59 PB. Reverse Riegel from 20:59 gives a half of 1:36:32, three minutes faster than he ran.** Read together: **5K speed is still ahead of endurance, and the half was positive-split. This was an endurance result, not a speed one — it does not predict sub-20 and should not be presented as if it does.**
+
+**The 27 Aug unplanned 5 km (22:28 off no warm-up, km2 at 4:14) projects to ~21:15–21:45 rested and evenly paced. That is the starting line.** Four weeks of sharpening closes some of ~75–105 seconds, not all of it. **Sub-20:30 and a PB are the realistic October targets; sub-20 is a stretch that requires the threshold work this block never got.**
+
+---
+
+### ⏭️ Immediate — the next two days
+
+- **🚑 PHYSIO — MON 7 SEP. BOOK IT.** The compensation flag met its recurrence trigger on 30 Aug and the assessment was deferred to the day after the race *specifically so it would still happen*. **A post-race Monday is exactly when an appointment evaporates, and the October block needs the answer.**
+- **🚩 BARRY'S TUE 8 SEP — 14-DAY GAP (last lower session 25 Aug) AND 48 h POST-RACE. Walking lunges, no plyometrics.** Flagged on 30 Aug in advance so it would not be rediscovered on the day.
+- **No running until the physio has been seen and the legs report clean.** Next block is not written yet — run `/weekly-plan` once the answers below are in.
+
+### ❓ Open questions before the block is closed out
+
+1. **Is 1:39:32 a half PB?** The log records 5–6 previous halves but none of their times.
+2. **Any lateral knee or dorsal forefoot symptoms during or after the race?** The flag predicted second-half onset. **Nothing has been reported, and absence of a report is not a clean report.**
+3. **Gels taken at 45 and 75 minutes?**
+4. **Conditions — temperature and wind?** Unrecorded, and the heat contingency (>22°C → 8–10 sec/km) matters to how the second half reads.
+
+**Race-morning resting HR not measured. Sat 5 Sep: 51. Wed 2 Sep: 50 — second lowest of the campaign.**
+
+---
+
+## Superseded — two days out
 
 ## Status: 🏁 **TWO DAYS OUT. THE BIG HALF, Sun 6 Sep, 21.1 km. TARGET 1:42 — UNCHANGED.**
 
