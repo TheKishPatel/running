@@ -1,6 +1,61 @@
 # Current Status
 
-*Last updated: 6 Sep 2026 (race day — recovery week issued)*
+*Last updated: 9 Sep 2026 (left medial ankle flag opened — recovery week revised)*
+
+---
+
+## 🔴 LIVE FLAG (9 Sep) — **LEFT MEDIAL ANKLE. RETROMALLEOLAR PAIN, WORK-FROM-HOME LEVEL. THE BIKE IS THE LIVE AGGRAVATOR.**
+
+**Reported 9 Sep with a photograph.** Athlete indicates the hollow **just posterior and inferior to the left medial malleolus** — the retromalleolar groove. Onset **1–2 days post-race**; athlete attributes it to **Tue 8 Sep, a very wet cycle commute**, having also ridden **Mon 7 Sep**, the day after the half. **Today (Wed 9 Sep) it was painful enough to force working from home.**
+
+**⚠️ THIS IS A NEW INJURY ON THE LEFT LEG. IT IS NOT THE COMPENSATION FLAG.** Every prior episode in this campaign is **right**-sided — posteromedial right knee (19 Aug), dorsal right 4th/5th MTP (23 and 30 Aug). **Contralateral, different structure, different mechanism. Do not read it as a recurrence and do not let the closed flag's "silent through the race" evidence be applied to it.**
+
+### What sits at that spot, in order from front to back
+
+**Tibialis posterior → flexor digitorum longus → posterior tibial artery → tibial nerve → flexor hallucis longus.** The deltoid ligament sits directly *under* the malleolus tip rather than behind it, and the malleolus itself is bone directly beneath the skin there.
+
+**Working hypothesis — tibialis posterior tendinopathy / tenosynovitis. It fits the load history exactly:**
+1. **The half marathon is the mechanism, not the bike.** Tib post is the primary dynamic controller of pronation and arch support, and it works eccentrically on every footstrike. **21.1 km at 4:43/km — the largest single training stress in the log by a wide margin — is precisely the exposure that overloads it**, and the race's 16 sec/km positive split means the back half was run on a fatiguing foot with degrading pronation control.
+2. **The bike is the second hit that stopped it settling.** Riding **Mon 7**, ~18 h after the race, put a repetitive plantarflexion load through a tendon inside its 5–7 day muscle-damage window, on the one day the plan prescribed complete rest from everything.
+3. **"Very wet" is a plausible amplifier, not a cause.** Cold, soaked shoes and socks stiffen tendon tissue and change how the foot sits in the shoe. It is not the reason a tendon that ran a half marathon 48 h earlier is now sore.
+
+### 🚨 The three things that must be ruled out before any return-to-run decision
+
+| Rule-out | What would indicate it | Consequence |
+|---|---|---|
+| **Medial malleolus / distal tibia stress reaction** | Point tenderness **on the bone** itself (malleolus tip, or the inner shin edge 3–5 cm above it), pain on hopping, night pain, no overnight improvement, worsening day to day | **Stop all loading. Imaging conversation. This is the one that ends the October block.** The exposure — 99 min at 168 bpm, positive-split — is exactly the profile that produces one |
+| **Tarsal tunnel / tibial nerve** | Burning, tingling, numbness or pins-and-needles in the **arch or sole**; symptoms worse at night; tapping behind the malleolus shoots into the foot | Different problem, different treatment. Physio/GP, not load management |
+| **Skin or soft-tissue infection** | Warmth, spreading redness, the skin tight or shiny, fever or feeling unwell. **Note: the photograph shows a small reddish mark on the dorsum**, and the mechanism includes prolonged wet exposure | Same-day GP. Not a training question at all |
+
+**Also live but lower priority:** flexor hallucis longus (pain on pushing off the big toe) and deltoid ligament (needs a twisting/eversion mechanism — none reported, so unlikely).
+
+### ✅ SELF-TESTS — run these today and report each one
+
+1. **Map it.** Trace a finger from behind the malleolus, under it, and forward to the bony bump on the inside of the arch (navicular). **Tender along that whole line = tendon.** Tender in one spot only = more suspicious.
+2. **Press the bone.** Directly on the malleolus tip, then the inner edge of the shin 3–5 cm above. **Bone tenderness is the red flag above.**
+3. **Resisted inversion.** Point the foot down and turn the sole inward against the other hand. **Pain = tibialis posterior.**
+4. **Double-leg heel raises ×20.** Then, only if clean, **single-leg heel raise on the left ×10.** Cannot complete them, or the heel fails to turn inward at the top → **tib post dysfunction. No running, physio.**
+5. **Hop ×10 on the left** — only if the heel raises passed. Sharp pain → stop, imaging conversation.
+6. **Nerve check.** Any tingling, burning or numbness in the arch or sole. Tap sharply behind the malleolus.
+7. **Compare sides.** Swelling, warmth, colour against the right ankle. **A photograph of both ankles together is worth more than one of the left.**
+
+### 🚴 THE CYCLING DIRECTIVE — this is the highest-leverage change available
+
+**No cycling until walking is pain-free for a full day.** The commute is the only repetitive load currently going through the ankle, it is going through it daily, and it is the input the athlete can actually remove. **Train, bus or drive instead — the cost is money and time; the cost of continuing is the October block.** If riding is genuinely unavoidable on a given day: **midfoot over the pedal, saddle a touch lower, high cadence and low resistance, and stop if it hurts** — a raised saddle forces toe-down pedalling and loads this exact tendon.
+
+### 🚑 PHYSIO — BOOK IT
+
+**The 7 Sep referral was closed on 6 Sep on the strength of the race. That reasoning applied to the right-side compensation flag and does not transfer to this.** A new injury on a new leg that **changes where someone works on day two** is above the self-manage line. Book an assessment; it is also now the fastest route to the stress-reaction rule-out.
+
+### 📅 TRAINING IMPACT — currently ZERO, and that is the point
+
+**Mon–Wed were prescribed complete rest regardless, so nothing has been lost.** The week's only running was Thursday's *optional* 20–30 min and the Sat/Sun easy runs, totalling ~10–15 km with no fitness value. **Thursday is cancelled outright — it is an optional run on recovery legs with a painful ankle, which is a bad trade at any price. Sat 12 and Sun 13 are gated on walking, not on how the ankle feels while running.**
+
+**The cost only begins if this runs past Sun 13 Sep.** The 4-week October sharpening block was already due to start 14 Sep, and **it is the block that has to deliver the threshold work that never happened all summer**. A one-week interruption is absorbable; three weeks is not, and sub-20:30 goes with it. **That asymmetry is the argument for being aggressive with rest now, exactly as the illness rules are.**
+
+**🚩 SECOND-ORDER: Barry's lower body Tue 15 Sep is now conditional too.** It was already returning from a 21-day gap with walking lunges and all plyometrics modified. **Calf raises, jump squats, box jumps and every single-leg movement load tibialis posterior directly.** If the ankle is not clean by Mon 14, lower body is off again and **the gap extends to 28 days** — which is worse than 21 and compounds the VMO precedent. **The Sat/Sun ankle read therefore gates Barry's as well as the running.**
+
+**❓ TIMELINE TO CONFIRM:** "injured 2 days ago" reads as **Mon 7 Sep**; "Tuesday, after a very wet ride" reads as **Tue 8 Sep**. The distinction matters — **Monday onset points at the race as the primary cause with the bike as the aggravator; Tuesday onset points more at the bike.** Most likely both: the race primed it, the ride tipped it.
 
 ---
 
