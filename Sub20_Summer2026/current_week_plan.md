@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 9 Sep 2026 — REVISED. Left medial ankle flag.*
+*Last updated: 12 Sep 2026 — ankle improving. Sunday return-to-run prescribed.*
 
 ---
 
@@ -88,33 +88,65 @@ aggressive about — and why the aggression is mandatory rather than optional.**
 | **Wed 9** | ✅ **Complete rest.** 🔴 **Ankle painful enough to work from home. No bike.** Run the seven self-tests and report |
 | **Thu 10** | 🛑 **CANCELLED — no run, no bike.** Complete rest |
 | **Fri 11** | **Complete rest, no bike.** This is the day the ankle should be visibly better if it is soft tissue |
-| **Sat 12** | **Easy 5 km @ 6:00/km, HR <145 — ONLY if the Saturday gate below passes in full. Otherwise rest** |
-| **Sun 13** | **Easy 6–8 km @ 5:50–6:00/km, HR <150 — only if Saturday ran and the ankle was silent during it and clean on Sunday morning. Otherwise rest** |
+| **Sat 12** | ✅ **Rest — no run taken.** Walking clean for a full day; e-bike commute pain-free. **Run the three remaining gate tests tonight** |
+| **Sun 13** | 🟡 **RETURN-TO-RUN: 4 km @ 6:00/km, HR <145, GRASS OR TRAIL, FLAT** — gated on the tests below. Reduced from 6–8 km |
 
-**Realistic volume: 0–13 km. Zero quality. Zero is an acceptable and expected outcome this week and
-costs nothing measurable.**
+**Realistic volume: 0–4 km. Zero quality. Zero is still an acceptable outcome and costs nothing
+measurable.**
+
+**⬇️ SUNDAY IS DELIBERATELY HALVED — 4 km, not the 6–8 km originally written.** Two independent
+reasons stack: **(a) it is the first run on a tendon that was symptomatic three days ago**, and
+**(b) it is the first run of any kind in seven days, seven days after a 21.1 km goal race.** Neither
+alone would justify 4 km; together they do. **There is no fitness in this run and nothing to protect
+by making it longer — its entire job is to produce a clean 24-hour response.**
+
+---
+
+### 🚪 THE GATE — 2 of 4 PASSED, 3 TESTS OUTSTANDING (moved to Sunday)
+
+*(Originally the Saturday gate. Saturday became a rest day, so it now gates Sunday.)*
+
+| # | Check | Status |
+|---|---|---|
+| 1 | **A full day of normal walking, including stairs, with no ankle pain** | ✅ **PASSED — reported 12 Sep** |
+| — | *Bonus datapoint: e-bike commute pain-free* | 🟡 **Encouraging, but weak evidence — see below** |
+| 2 | **Ten single-leg heel raises on the left, pain-free**, heel turning inward at the top | ❓ **OUTSTANDING** |
+| 3 | **No tenderness on the bone** — malleolus tip, or the inner shin edge 3–5 cm above it | ❓ **OUTSTANDING** |
+| 4 | **No tingling, burning or numbness in the arch or sole** | ❓ **OUTSTANDING** |
+| 5 | **NEW — ten hops on the left leg, pain-free.** Only attempt if 2 and 3 are clean | ❓ **OUTSTANDING** |
+
+**Run 3 first (cheapest, and it rules out the worst outcome), then 2, then 5. Any failure → no run,
+and the physio appointment becomes urgent rather than advisable.**
+
+**⚠️ THE E-BIKE IS NOT A TENDON TEST, AND IT SHOULD NOT BE READ AS ONE.** Electric assist means low
+pedal force, an upright position and minimal ankle plantarflexion — **it loads tibialis posterior a
+small fraction of what running does, and near-zero eccentrically, which is the loading mode that
+actually provokes this tendon.** It is genuine evidence against a serious structural problem. **It is
+not evidence that the tendon tolerates running, and it does not substitute for the heel-raise test.**
+
+**Morning-of check, Sunday: stiffness in the ankle on the first steps out of bed.** That is the
+classic tendinopathy signature and it is the most specific single question available. **Present →
+no run, regardless of how the other tests read.**
 
 ---
 
-### 🚪 THE SATURDAY GATE — all four, or no run
+### 🏃 SUNDAY 13 SEP — THE SESSION, EXACTLY
 
-**This gate is about walking and loading, not about how the ankle feels once you are running.
-Tendons go quiet when warm and hurt afterwards; a pain-free first kilometre proves nothing.**
+| | |
+|---|---|
+| **Distance** | **4 km. Whole kilometres.** Not 5, not "see how it feels and extend" |
+| **Pace** | **6:00/km.** Slower is fine and better; faster is a failed session regardless of how the ankle feels |
+| **HR cap** | **<145.** Hard cap, not a target |
+| **Surface** | **Grass or trail. Flat.** No pavement, no camber, no hills — a cambered road puts the low-side foot into exactly the pronated position this tendon controls |
+| **Shoes** | **The most cushioned, most structured trainers available. NOT the Adizero Evo** |
+| **Warm-up** | **5 minutes of walking first**, then start running. No strides, no drills |
+| **Abort rule** | **ANY medial ankle sensation → stop immediately and walk home.** Not "monitor it", not "finish the kilometre". There is nothing in this run worth finishing |
 
-1. **A full day of normal walking, including stairs, with no ankle pain** — that means Friday clean,
-   assessed Saturday morning.
-2. **Ten single-leg heel raises on the left, pain-free**, with the heel turning inward at the top.
-3. **No tenderness on the bone** — malleolus tip, or the inner shin edge 3–5 cm above it.
-4. **No tingling, burning or numbness in the arch or sole.**
-
-**Fail any one → no run, and the week ends at zero kilometres.** If the gate passes, **Saturday is
-run on grass or trail, not pavement** — softer surface, and per `CLAUDE.md` it is also the honest
-answer when pace discipline is at risk on a run this easy.
-
-**Post-run rule: the read is Sunday morning, not Saturday during.** Ankle sore on waking Sunday →
-Sunday is rest and the physio appointment stands regardless.
-
----
+**🛑 THE ONE THING THAT MATTERS: THE READ IS MONDAY MORNING, NOT SUNDAY DURING.** Tendons warm up
+and go silent under load, then complain hours later — **a pain-free run tells you almost nothing on
+its own.** The session is judged by: ankle on Sunday evening, and **first steps out of bed on Monday
+morning**. Clean at both → the return is real. Sore at either → the tendon is not ready and the
+October block starts easy.
 
 ### 🚩 BARRY'S TUE 15 SEP IS NOW CONDITIONAL TOO
 
@@ -123,7 +155,8 @@ ankle: calf raises, jump squats, box jumps and every single-leg movement load ti
 directly.**
 
 - **Ankle clean by Mon 14** → lower body goes ahead as already prescribed (walking lunges, no
-  plyometrics), **plus no weighted calf raises on the first session back**.
+  plyometrics), **plus no weighted calf raises on the first session back**. **Monday morning's read
+  on Sunday's run is what decides this** — not Sunday's run itself.
 - **Ankle not clean** → lower body is off and **the gap extends to 28 days**, which is worse than 21
   and compounds the 31 Mar VMO precedent. **Upper body remains free and unrestricted either way** —
   take it, it costs the ankle nothing and holds the routine together.
@@ -181,14 +214,17 @@ October targets; sub-20 is a stretch.**
 
 ## Week Log
 
-**Mon 7 Sep:** ✅ Complete rest from training. ⚠️ Cycled (commute), ~18 h post-race.
-**Tue 8 Sep:** ✅ Complete rest. Lower-body Barry's correctly skipped. ⚠️ Cycled — very wet ride in; suspected ankle onset.
-**Wed 9 Sep:** ✅ Complete rest, no bike. 🔴 **Left medial ankle — WFH due to pain.** Self-tests outstanding.
-**Thu 10 Sep:** 🛑 CANCELLED — complete rest, no bike.
-**Fri 11 Sep:** ⏳ Complete rest, no bike.
-**Sat 12 Sep:** ⏳ Easy 5 km @ 6:00, HR <145, on grass/trail — **only if the four-point Saturday gate passes.**
-**Sun 13 Sep:** ⏳ Easy 6–8 km @ 5:50–6:00, HR <150 — only if Saturday ran clean and Sunday morning is clean.
+**Mon 7 Sep:** ✅ Complete rest from training. ⚠️ Cycled (commute), ~18 h post-race. **🔴 ANKLE ONSET — confirmed 12 Sep as Monday, i.e. the day after the race.**
+**Tue 8 Sep:** ✅ Complete rest. Lower-body Barry's correctly skipped. ⚠️ Cycled — very wet ride in; symptoms worsened.
+**Wed 9 Sep:** ✅ Complete rest, no bike. 🔴 Left medial ankle — WFH due to pain.
+**Thu 10 Sep:** ✅ Cancelled as instructed — complete rest.
+**Fri 11 Sep:** ✅ Complete rest.
+**Sat 12 Sep:** ✅ Rest — no run. 🟢 **Full day of walking pain-free. E-bike commute pain-free.** Gate checks 2, 3, 4, 5 outstanding.
+**Sun 13 Sep:** ⏳ **4 km @ 6:00/km, HR <145, grass or trail** — gated on the outstanding tests and on Sunday-morning stiffness.
 
-**Report daily: resting HR, and the ankle on waking (better / same / worse than yesterday).** The
-day-to-day direction is the single most informative thing here — soft tissue improves within days,
-a stress reaction does not.
+**Still not reported all week: resting HR (zero readings since 5 Sep), and whether the physio is
+booked.** Resting HR was the prescribed daily read for this exact week and it is the cleanest
+available signal on how the race is being absorbed.
+
+**Report after Sunday: the run data, the ankle on Sunday evening, and the ankle on Monday waking.**
+Monday's reading is the one that gates both Barry's on 15 Sep and the shape of the October block.

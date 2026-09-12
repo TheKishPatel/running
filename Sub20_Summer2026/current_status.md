@@ -1,6 +1,41 @@
 # Current Status
 
-*Last updated: 9 Sep 2026 (left medial ankle flag opened — recovery week revised)*
+*Last updated: 12 Sep 2026 (ankle improving — Sunday return-to-run gated)*
+
+---
+
+## 🟡 ANKLE UPDATE (12 Sep) — **IMPROVING. ONSET CONFIRMED AS MONDAY. RETURN-TO-RUN GATED FOR SUNDAY.**
+
+**Day 6. Reported 12 Sep: a full day of walking pain-free, and an e-bike commute pain-free.**
+**Onset confirmed as Mon 7 Sep — the day after the race, not the wet Tuesday ride.**
+
+**✅ THAT CONFIRMS THE MECHANISM AND IT IS THE GOOD VERSION.** A Monday onset makes **the half marathon
+the primary cause and the bike the aggravator**, exactly as the 9 Sep hypothesis assumed. A tendon
+overloaded by 21.1 km at 4:43/km, then loaded again 18 h later, then given four days off, and now
+walking clean at day 6 — **that trajectory is tibialis posterior tendinopathy settling, and it is
+strong evidence against the medial malleolar stress reaction.** A stress reaction does not walk clean
+on day 6; it stays sore and gets worse with each loading exposure.
+
+**⚠️ TWO CAVEATS THAT KEEP THIS AT YELLOW RATHER THAN GREEN:**
+
+1. **The e-bike is not a tendon test.** Electric assist means low pedal force, upright position,
+   minimal ankle plantarflexion — **a small fraction of running load and near-zero eccentric load**,
+   which is the mode that provokes this tendon. Real evidence against a structural problem; **no
+   evidence at all that the tendon tolerates running.**
+2. **Three of the four gate checks are still unreported** — heel raises, bone palpation, nerve
+   symptoms — plus the added hop test. **Walking clean is one of four, not the gate.**
+
+**🏃 SUNDAY 13 SEP: 4 km @ 6:00/km, HR <145, grass or trail, flat, cushioned trainers.** Halved from
+the 6–8 km originally written — it is simultaneously the first run on a recently symptomatic tendon
+**and** the first run of any kind in seven days, seven days after a goal race. Full spec and abort
+rule in `current_week_plan.md`.
+
+**🛑 THE READ IS MONDAY MORNING, NOT SUNDAY DURING.** Tendons go quiet when warm and complain hours
+later. **First steps out of bed on Mon 14 Sep is the signal** — and it gates both Barry's lower body
+on 15 Sep and whether the October block opens easy or on plan.
+
+**❓ STILL OUTSTANDING: resting HR (no readings since 5 Sep — it was the prescribed daily read for
+this week), and whether the physio is booked.**
 
 ---
 
