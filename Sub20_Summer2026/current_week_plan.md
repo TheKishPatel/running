@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 12 Sep 2026 — ankle improving. Sunday return-to-run prescribed.*
+*Last updated: 13 Sep 2026 — Sunday not run. Return-to-run moves to Mon 14 Sep. Hop test withdrawn.*
 
 ---
 
@@ -89,7 +89,8 @@ aggressive about — and why the aggression is mandatory rather than optional.**
 | **Thu 10** | 🛑 **CANCELLED — no run, no bike.** Complete rest |
 | **Fri 11** | **Complete rest, no bike.** This is the day the ankle should be visibly better if it is soft tissue |
 | **Sat 12** | ✅ **Rest — no run taken.** Walking clean for a full day; e-bike commute pain-free. **Run the three remaining gate tests tonight** |
-| **Sun 13** | 🟡 **RETURN-TO-RUN: 4 km @ 6:00/km, HR <145, GRASS OR TRAIL, FLAT** — gated on the tests below. Reduced from 6–8 km |
+| **Sun 13** | ❌ **NOT RUN.** Ten hops produced tightness and the run was held. **The hop test was the wrong gate — withdrawn, see below.** Week closes at **0 km** |
+| **Mon 14** | 🟡 **RETURN-TO-RUN, ROLLED FROM SUNDAY: 4 km @ 6:00/km, HR <145, grass or trail, flat.** Spec unchanged |
 
 **Realistic volume: 0–4 km. Zero quality. Zero is still an acceptable outcome and costs nothing
 measurable.**
@@ -102,35 +103,44 @@ by making it longer — its entire job is to produce a clean 24-hour response.**
 
 ---
 
-### 🚪 THE GATE — 2 of 4 PASSED, 3 TESTS OUTSTANDING (moved to Sunday)
+### ❌ THE HOP TEST IS WITHDRAWN FROM THE GATE — the athlete's challenge was correct
 
-*(Originally the Saturday gate. Saturday became a rest day, so it now gates Sunday.)*
+**Sunday was held because ten hops gave tightness. That should not have blocked the run.**
 
-| # | Check | Status |
-|---|---|---|
-| 1 | **A full day of normal walking, including stairs, with no ankle pain** | ✅ **PASSED — reported 12 Sep** |
-| — | *Bonus datapoint: e-bike commute pain-free* | 🟡 **Encouraging, but weak evidence — see below** |
-| 2 | **Ten single-leg heel raises on the left, pain-free**, heel turning inward at the top | ❓ **OUTSTANDING** |
-| 3 | **No tenderness on the bone** — malleolus tip, or the inner shin edge 3–5 cm above it | ❓ **OUTSTANDING** |
-| 4 | **No tingling, burning or numbness in the arch or sole** | ❓ **OUTSTANDING** |
-| 5 | **NEW — ten hops on the left leg, pain-free.** Only attempt if 2 and 3 are clean | ❓ **OUTSTANDING** |
+**The hop test entered this repo on 25 Aug as a BONE stress-reaction screen** — *"point-tender on the
+bone, painful on hopping"*. **That is its only valid use.** On 12 Sep it was re-purposed as a tendon
+readiness gate, which it is not fit for: ten unpractised maximal hops on a tendon that had carried no
+load for six days **is itself a novel stimulus, and tightness is the expected response rather than a
+finding.** Running is a repeated *submaximal* cycle; hopping is repeated *maximal* impact. **Passing
+it was never a prerequisite for 4 km at 6:00/km on grass.**
 
-**Run 3 first (cheapest, and it rules out the worst outcome), then 2, then 5. Any failure → no run,
-and the physio appointment becomes urgent rather than advisable.**
+**Retained only as:** sharp, point-specific pain **on the bone** when hopping = red flag. **Tightness
+or general ache = not a finding, does not block a run.**
 
-**⚠️ THE E-BIKE IS NOT A TENDON TEST, AND IT SHOULD NOT BE READ AS ONE.** Electric assist means low
-pedal force, an upright position and minimal ankle plantarflexion — **it loads tibialis posterior a
-small fraction of what running does, and near-zero eccentrically, which is the loading mode that
-actually provokes this tendon.** It is genuine evidence against a serious structural problem. **It is
-not evidence that the tendon tolerates running, and it does not substitute for the heel-raise test.**
-
-**Morning-of check, Sunday: stiffness in the ankle on the first steps out of bed.** That is the
-classic tendinopathy signature and it is the most specific single question available. **Present →
-no run, regardless of how the other tests read.**
+**And the broader correction — this flag had no loading plan, which is why the tendon felt tight.**
+Rest, no cycling and a battery of tests were prescribed; **load was not.** Tendons remodel in
+response to graded load and lose stiffness without it. **A tendon loading programme is now issued in
+`current_status.md` and starts today** — isometric holds daily, slow heavy single-leg heel raises
+every other day, band inversion added after. **The heel raise is both the test and the treatment.
+That is why it, and not hopping, is the gate.**
 
 ---
 
-### 🏃 SUNDAY 13 SEP — THE SESSION, EXACTLY
+### 🚪 THE REVISED GATE — three checks, Monday morning
+
+| # | Check | Status |
+|---|---|---|
+| 1 | **A full day of normal walking, including stairs, with no ankle pain** | ✅ **PASSED 12 Sep** |
+| 2 | **Ten single-leg heel raises on the left, pain-free**, heel turning inward at the top | ❓ **OUTSTANDING — this is the one that decides it** |
+| 3 | **No tenderness on the bone** — malleolus tip, or the inner shin edge 3–5 cm above it | ❓ **OUTSTANDING** |
+| 4 | **No tingling, burning or numbness in the arch or sole** | ❓ **OUTSTANDING** |
+| — | ~~Ten hops on the left~~ | ❌ **WITHDRAWN** |
+
+**Plus the morning-of question: stiffness on the first steps out of bed.** Present → hold the run,
+do the isometrics instead. **Tightness that eases within a few steps of walking is not stiffness in
+this sense** — the signal is ankle pain that takes minutes to walk off.
+
+### 🏃 THE SESSION — NOW MON 14 SEP, SPEC UNCHANGED
 
 | | |
 |---|---|
@@ -142,11 +152,15 @@ no run, regardless of how the other tests read.**
 | **Warm-up** | **5 minutes of walking first**, then start running. No strides, no drills |
 | **Abort rule** | **ANY medial ankle sensation → stop immediately and walk home.** Not "monitor it", not "finish the kilometre". There is nothing in this run worth finishing |
 
-**🛑 THE ONE THING THAT MATTERS: THE READ IS MONDAY MORNING, NOT SUNDAY DURING.** Tendons warm up
+**🛑 THE ONE THING THAT MATTERS: THE READ IS THE NEXT MORNING, NOT DURING.** Tendons warm up
 and go silent under load, then complain hours later — **a pain-free run tells you almost nothing on
-its own.** The session is judged by: ankle on Sunday evening, and **first steps out of bed on Monday
-morning**. Clean at both → the return is real. Sore at either → the tendon is not ready and the
-October block starts easy.
+its own.** The session is judged by: ankle on Monday evening, and **first steps out of bed on Tuesday
+morning**. Clean at both → the return is real. Sore at either → drop back a stage on the loading
+programme and the October block opens easy.
+
+**⚠️ Monday's run and Tuesday's Barry's now sit back to back.** That is not ideal for a first
+tendon exposure, but the alternative is extending the lower-body gap past 21 days, which is worse.
+**Tuesday's Barry's is the session that gets modified, not Monday's run.**
 
 ### 🚩 BARRY'S TUE 15 SEP IS NOW CONDITIONAL TOO
 
@@ -154,9 +168,15 @@ October block starts easy.
 ankle: calf raises, jump squats, box jumps and every single-leg movement load tibialis posterior
 directly.**
 
-- **Ankle clean by Mon 14** → lower body goes ahead as already prescribed (walking lunges, no
-  plyometrics), **plus no weighted calf raises on the first session back**. **Monday morning's read
-  on Sunday's run is what decides this** — not Sunday's run itself.
+- **Ankle clean → lower body goes ahead: walking lunges, no plyometrics — but calf raises are now
+  ENCOURAGED, reversing the 9 Sep instruction.** That instruction was written when the ankle was
+  painful enough to force working from home; **at day 8 with walking clean, a controlled calf raise
+  is the loading stimulus this tendon needs, not a risk to it.** Bodyweight or light only, slow and
+  controlled, and stop if it is sharp. **The reversal is the changed state, not a changed view.**
+- **What stays off regardless: jumping lunges, jump squats, box jumps, and anything landing.** Those
+  are the stretch-shortening load the tendon is not ready for — the same reasoning that withdrew the
+  hop test applies here, in the other direction.
+- **Ankle not clean** → lower body is off and the gap extends to 28 days, which is worse than 21.
 - **Ankle not clean** → lower body is off and **the gap extends to 28 days**, which is worse than 21
   and compounds the 31 Mar VMO precedent. **Upper body remains free and unrestricted either way** —
   take it, it costs the ankle nothing and holds the routine together.
@@ -214,17 +234,21 @@ October targets; sub-20 is a stretch.**
 
 ## Week Log
 
-**Mon 7 Sep:** ✅ Complete rest from training. ⚠️ Cycled (commute), ~18 h post-race. **🔴 ANKLE ONSET — confirmed 12 Sep as Monday, i.e. the day after the race.**
-**Tue 8 Sep:** ✅ Complete rest. Lower-body Barry's correctly skipped. ⚠️ Cycled — very wet ride in; symptoms worsened.
-**Wed 9 Sep:** ✅ Complete rest, no bike. 🔴 Left medial ankle — WFH due to pain.
-**Thu 10 Sep:** ✅ Cancelled as instructed — complete rest.
-**Fri 11 Sep:** ✅ Complete rest.
-**Sat 12 Sep:** ✅ Rest — no run. 🟢 **Full day of walking pain-free. E-bike commute pain-free.** Gate checks 2, 3, 4, 5 outstanding.
-**Sun 13 Sep:** ⏳ **4 km @ 6:00/km, HR <145, grass or trail** — gated on the outstanding tests and on Sunday-morning stiffness.
+**Mon 7 Sep:** ✅ Rest from training. ⚠️ Cycled, ~18 h post-race. **🔴 ANKLE ONSET — confirmed as Monday, the day after the race.**
+**Tue 8 Sep:** ✅ Rest. Lower-body Barry's correctly skipped. ⚠️ Cycled — very wet ride; symptoms worsened.
+**Wed 9 Sep:** ✅ Rest, no bike. 🔴 WFH due to ankle pain.
+**Thu 10 Sep:** ✅ Cancelled as instructed — rest.
+**Fri 11 Sep:** ✅ Rest.
+**Sat 12 Sep:** ✅ Rest. 🟢 Full day of walking pain-free; e-bike commute pain-free.
+**Sun 13 Sep:** ❌ **Run held — ten hops gave tightness. The gate was wrong, not the ankle.** Loading programme starts today.
 
-**Still not reported all week: resting HR (zero readings since 5 Sep), and whether the physio is
-booked.** Resting HR was the prescribed daily read for this exact week and it is the cleanest
-available signal on how the race is being absorbed.
+**WEEK TOTAL: 0 km. That is an acceptable outcome and costs nothing measurable** — the entire
+prescription was ~10–15 km of zero-fitness-value easy running, and the week's real job was absorbing
+a 21.1 km goal race, which it did.
 
-**Report after Sunday: the run data, the ankle on Sunday evening, and the ankle on Monday waking.**
-Monday's reading is the one that gates both Barry's on 15 Sep and the shape of the October block.
+**Mon 14 Sep:** ⏳ **4 km @ 6:00/km, HR <145, grass or trail** — gated on heel raises, bone press and
+nerve check. **Resting HR on the morning (protocol v3: pre-run only).**
+
+**➡️ `/weekly-plan` is now due.** The October block was scheduled to start Mon 14 Sep and has not been
+written. **Week 1 opens easy-only regardless of how Monday goes** — a sharpening block's intervals do
+not go through a tendon eight days off being WFH-painful.

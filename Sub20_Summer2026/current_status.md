@@ -1,6 +1,77 @@
 # Current Status
 
-*Last updated: 12 Sep 2026 (ankle improving — Sunday return-to-run gated)*
+*Last updated: 13 Sep 2026 (hop test withdrawn; tendon loading programme issued; RHR protocol v3)*
+
+---
+
+## 🔧 TWO PROTOCOL CORRECTIONS (13 Sep) — **THE HOP TEST IS WITHDRAWN, AND RESTING HR GOES PRE-RUN ONLY**
+
+### ❌ THE HOP TEST WAS THE WRONG TOOL AND IS REMOVED FROM THE RETURN-TO-RUN GATE
+
+**Athlete did not run Sun 13 Sep: ten hops on the left produced tightness. He challenged the test
+itself, and the challenge is correct.**
+
+**Where the hop test came from and why it did not belong here.** It entered this repo on 25 Aug as a
+**bone stress-reaction rule-out** for the dorsal forefoot — *"would be point-tender on the bone,
+painful on hopping"*. That is its only legitimate use: **a screening question about bone, answered by
+sharp, point-specific pain.** On 12 Sep it was carried across and re-purposed as a **readiness-to-run
+gate for a tendon**, which is a different job it is not fit for:
+
+1. **It is a maximal stretch-shortening exposure with no progression.** Ten unpractised hops on a
+   tendon that had carried essentially no load for six days is itself a novel stimulus — **tightness
+   is the expected response, not a finding.**
+2. **It tests the wrong thing.** Running is a repeated submaximal cycle; hopping is repeated maximal
+   impact. **Passing it was never required to run 4 km at 6:00/km on grass.**
+3. **Tightness is not pain.** The gate was written in binary terms and the athlete correctly refused
+   to read a normal response as a failure.
+
+**REVISED STATUS OF THE HOP TEST: retained ONLY as a bone screen.** Sharp, point-specific pain **on
+the bone** when hopping is a red flag. **Tightness, ache, or general soreness is not, and does not
+block a run.**
+
+### 🟢 AND THE DEEPER POINT IS THE ONE THAT MATTERS — THIS FLAG HAD NO LOADING PLAN
+
+**The athlete's framing — "I should be trying to build strength there, not overload it" — is the
+correct model and it was missing from everything issued on 9 and 12 Sep.** Those updates prescribed
+**rest, abstinence from cycling, and a battery of tests. None of them prescribed load.**
+
+**That is a real error, because tendons do not heal with rest — they remodel in response to graded
+load.** Unloading a tendon reduces its stiffness and load tolerance, so a week of pure rest leaves it
+**less** ready to run than it was, which is precisely the "tightness on hops" that was then read as a
+setback. **Complete rest is the correct treatment for bone stress and for illness. It is not the
+treatment for tendinopathy.**
+
+### 💪 TENDON LOADING PROGRAMME — TIBIALIS POSTERIOR (starts now, runs alongside the running)
+
+**The single-leg heel raise is both the test and the treatment. That is why it, not hopping, is the
+gate.**
+
+| Stage | Exercise | Dose | When |
+|---|---|---|---|
+| **1 — Isometric** | Single-leg heel raise, hold at mid-height. Or press the sole inward against a fixed object and hold | **5 × 30–45 s, 1–2 min rest** | **Daily.** Start here on any day the ankle is irritable — isometrics load the tendon and tend to reduce pain rather than provoke it |
+| **2 — Slow heavy** | Single-leg heel raise, **3 s up / 3 s down**, full range, off the floor | **3 × 10–15** | **Every other day.** This is the main remodelling stimulus |
+| **3 — Tib-post biased** | Same heel raise with a **ball or rolled towel squeezed between the heels**, plus **band inversion** (foot turning inward against a resistance band) | **3 × 15 band inversion** | Add once stage 2 is comfortable |
+| **4 — Progression** | Heel raise off a step for full range, then **loaded** — backpack or dumbbell | 3 × 10 | Only when stage 2–3 are pain-free at full range |
+
+**Rules:** soreness **during** at 3/10 or less is acceptable and expected; **the judgement is the next
+morning** — worse on waking means the dose was too high, so drop back a stage. **Do not skip days
+waiting for it to feel perfect; that is the failure mode that produced this week.**
+
+### 📋 PROTOCOL v3 — RESTING HR: PRE-RUN AND PRE-QUALITY ONLY. DAILY READINGS ARE DROPPED.
+
+**Athlete's call, and it is defensible.** The measurement's only established uses in this repo are
+**(a) the >60 rest-day rule before a session and (b) catching an illness before it costs a week** —
+both of which are decisions taken *on a training morning*, not on a rest day. **A reading on a rest
+day changes nothing, and this campaign has no history of acting on one.**
+
+- **Take it: mornings of runs, quality sessions and Barry's.** Not otherwise.
+- **Baseline stands: 49–55.** Five months of data already establish it, which is exactly why daily
+  sampling is no longer needed to maintain it.
+- **Rules unchanged:** ≤55 normal, 56–60 trim the session, >60 complete rest. **Method unchanged —
+  v2 below (wet the contacts, settle 2 minutes, 60-second average, log the range).**
+- **The one real cost, stated:** a missed reading on a training morning is now unrecoverable, because
+  there is no surrounding week of readings to interpolate from. **Pre-session readings become
+  mandatory rather than nice to have.**
 
 ---
 

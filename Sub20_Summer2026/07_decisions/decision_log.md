@@ -4,6 +4,65 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-09-13 — Hop test withdrawn, tendon loading programme issued, resting HR moves to pre-run only
+
+**Situation.** Sunday's return-to-run was held: ten hops on the left ankle produced tightness.
+**The athlete challenged the test rather than the ankle, and separately asked to stop taking daily
+resting HR.** Both challenges are upheld.
+
+**Decision 1 — the hop test is removed from the return-to-run gate.**
+
+**It was the right test for the wrong question.** It entered this repo on 25 Aug as a **bone
+stress-reaction screen** for the dorsal forefoot — *"point-tender on the bone, painful on hopping"*.
+On 12 Sep it was carried across and re-purposed as a **tendon readiness gate**, a different job:
+
+1. **Ten unpractised maximal hops on a tendon that had carried no load for six days is itself a novel
+   stimulus.** Tightness is the expected response, not a finding.
+2. **Running is a repeated submaximal cycle; hopping is repeated maximal impact.** Clearing a hop
+   test was never a prerequisite for 4 km at 6:00/km on grass.
+3. **The gate was written in binary terms and conflated tightness with pain.**
+
+**Retained only as a bone screen:** sharp, point-specific pain on the bone = red flag. Tightness or
+ache = not a finding.
+
+**Decision 2 — a tendon loading programme is issued, and this is the more important correction.**
+
+**The 9 and 12 Sep updates prescribed rest, no cycling, and a battery of tests. They prescribed no
+load at all. That is an error of omission, not of degree.** Tendons remodel in response to graded
+load and lose stiffness and load tolerance without it — **so a week of pure rest leaves the tendon
+less ready to run than it started, which is plausibly what the Sunday tightness actually was.**
+Complete rest is the right treatment for bone stress and for illness; **it is the wrong treatment for
+tendinopathy, and the campaign's illness-driven instincts were applied to a case that does not fit
+them.** Programme in `current_status.md`: isometric holds daily, slow heavy single-leg heel raises
+every other day, band inversion and tib-post-biased variants after, loaded progression last.
+
+**The single-leg heel raise is now both the test and the treatment.** That is the argument for making
+it the gate — it is the specific action of the injured tendon, it is submaximal, it is progressable,
+and performing it daily is itself the rehabilitation.
+
+**Consequent reversal: calf raises at Barry's on 15 Sep go from forbidden to encouraged.** The 9 Sep
+instruction was written when the ankle was painful enough to force working from home. At day 8 with
+walking clean, **a controlled calf raise is the stimulus this tendon needs. The reversal is the
+changed state, not a changed view.** Jumping lunges, jump squats and box jumps stay off — the same
+stretch-shortening reasoning that withdrew the hop test applies there in the other direction.
+
+**Decision 3 — resting HR: pre-run, pre-quality and pre-Barry's only. Daily readings dropped.**
+
+**Athlete's call and it is defensible on the repo's own evidence.** The measurement has exactly two
+established uses here — **the >60 rest-day rule, and catching illness early** — and both are
+decisions taken on a training morning. **A reading on a rest day has never changed a decision in this
+log.** The 49–55 baseline is already established by five months of data, so daily sampling is not
+needed to maintain it. Rules and method unchanged (v2: wet contacts, settle 2 min, 60-second average).
+
+**The one real cost, stated:** a missed reading on a training morning is now unrecoverable, with no
+surrounding week to interpolate from. **Pre-session readings become mandatory rather than optional.**
+
+**Consequence.** Monday 14 Sep: 4 km at 6:00/km, HR <145, grass or trail, gated on heel raises, bone
+palpation and nerve check. Week 12 Sep closes at 0 km. `/weekly-plan` is due, and the October block's
+week 1 opens easy-only regardless.
+
+---
+
 ## 2026-09-09 — Left medial ankle: Thursday cancelled, cycling stopped, weekend gated, physio re-opened
 
 **Situation.** Day 3 of recovery week. Athlete reports pain in the hollow **just behind and below the
