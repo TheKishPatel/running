@@ -74,63 +74,64 @@ unpaid.
 **The 31 Mar precedent: 21-day gap → jumping lunges → VMO deconditioning injury.** This
 campaign has already been injured once by exactly this pattern.
 
-### ✏️ CORRECTED 15 SEP — BARRY'S IS A FIXED BODY-PART ROTATION, NOT PICK-YOUR-OWN
+### ✏️ CORRECTED TWICE, 15 SEP — AND THE CLASS IS NOW OFF BY ATHLETE DECISION
 
-**The first version of this plan said "take a lower-body class Thu 17 Sep" as though any day
-could be lower body. That is wrong.** Barry's runs a fixed rotation — each day of the week is a
-set body part — so the day cannot be chosen, only attended or not. **Thursday is reportedly a
-glutes / "butt" class, not legs.**
+**First correction:** Barry's runs a **fixed body-part rotation** — the body part is set by the
+day and cannot be chosen. Thursday is glutes, not legs. The original "take a lower-body class
+Thursday" was written on a false assumption.
 
-### ➡️ TAKE THURSDAY'S GLUTES CLASS ANYWAY. IT COUNTS.
+**Second, and decisive: the athlete has declined to pay for the glutes class.** That is a spending
+decision and it is his to make. **It is recorded here, accepted, and not re-argued.**
 
-**A glutes class IS lower-body loading, and for this specific athlete in this specific week it may
-be the better session of the two.** Three reasons, in order of weight:
+**One factual correction to the reasoning, because it will matter when the Tuesday legs class comes
+up again:** the class was described as "legs bums and tums". **This repo's own HR data says
+otherwise** — recent lower-body sessions logged **129–135 avg HR over 41–48 minutes, with Zone 3
+blocks up to 7:22**, and `athlete_preferences.md` lists *"Barry's historically too hard (use HR
+data)"* as a standing pattern. **The documented risk with Barry's in this campaign has always been
+that it is too hard, never that it is too light.** The cost objection stands regardless; the
+"toning class" characterisation does not survive the data.
 
-1. **It closes most of the gap.** The risk being managed is deconditioned *load tolerance* in the
-   legs. Glute work — squats, lunges, hip thrusts, step-ups — is exactly that load. **23 days of
-   glute-inclusive work beats 28 days of nothing, and it is not close.**
-2. **It avoids the precedent's actual mechanism.** The 31 Mar injury was **VMO — a quadriceps
-   problem, from jumping lunges after a gap.** A glutes class is posterior-chain and markedly less
-   quad-dominant. **It closes the gap while carrying less of the exact risk the gap creates.**
-3. **🎯 It is the single most useful strength session available for the ankle.** Glute medius
-   controls hip drop in single-leg stance. Hip drop drives pronation. **Pronation is what tibialis
-   posterior works eccentrically to control on every footstrike** — the tendon currently coming
-   back from tendinopathy. **Strengthening the glutes reduces the demand on the tendon upstream.
-   Nothing else on offer this week does that.**
+---
 
-**This is not a downgrade being rationalised. On the merits it is the right class to be attending
-in the week a tib post tendinopathy returns to running.**
+## 🔴 THE GAP DOES NOT CLOSE ITSELF — THE STRENGTH WORK MOVES HOME, AT ZERO COST
 
-### ❓ STILL NEEDED: WHICH DAY IS LEGS / "BUTT & LEGS"?
+**`CLAUDE.md` is explicit: "Barry's is a conditioning ASSET... Skipping it consistently causes
+deconditioning and injury risk... consistent Barry's = durability."** That rule exists because
+**this campaign has already produced one injury from exactly this pattern** — 21-day gap →
+jumping lunges → VMO deconditioning injury, 31 Mar.
 
-**The rotation has never been recorded in this repo** — `athlete_preferences.md` says only
-"Tuesday: Barry's Bootcamp". **Report the weekly body-part rotation and it gets recorded
-permanently**, because the whole lower-body gap protocol depends on knowing which days are
-available and it has been planned blind until now.
+**Stated once and then dropped: with the classes off, the lower-body gap has no end date.**
+25 Aug becomes an open-ended count rather than a 21-day one.
 
-- **If the true legs day falls before Tue 22 Sep → take that instead, and Thursday's glutes
-  becomes optional on top.**
-- **If Tuesday is the only legs day → Thursday's glutes is the bridge, and the legs gap still
-  runs to 28 days on 22 Sep.** That is then unavoidable rather than a choice — **and it makes the
-  22 Sep modifications mandatory rather than advisory: walking lunges, no plyometrics.**
+**➡️ SO THE LOAD MOVES SOMEWHERE FREE. IT DOES NOT GET DELETED.** Twenty minutes, bodyweight, at
+home, twice a week. **This is not a consolation exercise — glute medius strength is the single
+highest-value strength adaptation available to this athlete right now**, because it controls hip
+drop → which drives pronation → **which is what tibialis posterior resists eccentrically on every
+footstrike**, on the tendon currently coming back from tendinopathy.
 
-**There is a further reason this session matters: it is also a tendon treatment.** As of the
-13 Sep reversal, calf raises are **encouraged** rather than merely permitted — a controlled calf
-raise is the remodelling stimulus this tibialis posterior needs. **Take them wherever they appear,
-in whichever class.**
+### 💪 HOME STRENGTH SESSION — Thu 17
 
-### Modifications for Thursday's glutes class — first session back after a 23-day gap, on a recovering tendon
+**No equipment beyond the resistance band already in use for band inversion. ~20 minutes.**
 
-| Movement | Instruction |
-|---|---|
-| **Jumping lunges** | ❌ **WALKING LUNGES INSTEAD**, if they appear at all. Standing gap protocol: first 2–3 sessions back. Non-negotiable — this is the exact movement that caused 31 Mar |
-| **Hip thrusts, glute bridges, step-ups, hip abduction** | ✅ **YES — this is the point of going.** Load them properly; they are the session's whole value |
-| **Jump squats, box jumps, anything landing** | ❌ **OFF.** Stretch-shortening load the tendon is not ready for |
-| **Calf raises** | ✅ **ENCOURAGED.** Bodyweight or light, slow and controlled. Stop if sharp |
-| **Single-leg work** | ✅ Yes, controlled. This loads tib post directly and that is now the point |
-| **Treadmill blocks** | ✅ Normal, easy effort |
-| **HR** | **<155 avg, majority Zone 2–3.** Recent sessions ran 129–135 avg — well inside |
-| **Upper body** | ✅ **Free and unrestricted.** Take Tue 22 as well if you want it — it costs the legs nothing |
+| Exercise | Dose | Why it is on the list |
+|---|---|---|
+| **Band clamshells / side-lying hip abduction** | **3 × 15 each side** | 🎯 **Glute medius — the pronation-control muscle. The most important item here** |
+| **Single-leg glute bridge** | **3 × 12 each side** | Glute max in single-leg stance, which is what running actually is |
+| **Split squat** (rear foot on a chair if comfortable) | **3 × 10 each side** | Loaded single-leg strength — the thing 23 days off has cost |
+| **Step-ups onto a stair** | **3 × 12 each side** | Closest free substitute for the class's step work |
+| **Walking lunges** | **3 × 10 each side** | ⚠️ **Deliberate: reintroduces the exact 31 Mar movement under control, at zero impact, before it can reappear anywhere else** |
+| **Calf raises** | *Already covered* — stage 2 of the tendon programme, 3 × 10–15 slow | The tendon's remodelling stimulus |
+
+**❌ NO jump squats, NO box jumps, NO jumping lunges, nothing landing.** Same restriction the class
+would have carried — the tendon is not ready for stretch-shortening load.
+
+**Judgement is the next morning, same as everything else this week.**
+
+### ❓ STILL WORTH REPORTING: THE FULL ROTATION
+
+`athlete_preferences.md` records only "Tuesday: Barry's Bootcamp" and now "Thursday: glutes".
+**The rotation still gets recorded if reported** — it decides what any future Barry's decision
+looks like, and it has been planned blind all campaign. **No action needed this week.**
 
 ---
 
@@ -141,12 +142,31 @@ in whichever class.**
 | **Mon 14** | ✅ **DONE — 4 km, ~22:00, park, road** | Ankle clean at all three checkpoints |
 | **Tue 15** | ❌ **Barry's missed — trainers forgotten** | Gap now 21 days |
 | **Wed 16** | 🏃 **EASY 5 km** | **5:55/km. HR <140.** Grass / park path, flat |
-| **Thu 17** | 💪 **BARRY'S — GLUTES. The gap-closing session** | **<155 avg.** No plyometrics, walking lunges if they appear, calf raises encouraged |
-| **Fri 18** | 😴 **Complete rest from running** | Loading programme only |
-| **Sat 19** | 🏃 **EASY 6 km** | **5:50/km. HR <142.** Road fine, avoid camber |
+| **Thu 17** | 💪 **HOME STRENGTH — glute-focused, ~20 min, free** | No plyometrics. Band clamshells are the priority item |
+| **Fri 18** | 🏃 **EASY 6 km** ← **the extra run, moved from Thursday** | **5:50/km. HR <142.** Road fine, avoid camber |
+| **Sat 19** | 😴 **Complete rest from running** | Loading programme only |
 | **Sun 20** | 🏃 **EASY 8 km** | **5:45/km. HR <145.** The week's long run |
 
-**Week total: 23 km, 4 runs, 1 lower-body Barry's.**
+**Week total: 23 km, 4 runs, 1 home strength session. Volume unchanged — only the days moved.**
+
+### ⬅️ WHY FRIDAY AND NOT THURSDAY — THIS IS NOT ABOUT PROTECTING BARRY'S
+
+**You asked for Thursday to be a run. You get the fourth run; it sits on Friday. The reason is the
+tendon, and it would apply identically if Barry's had never been in this plan.**
+
+**Wed → Thu would be back-to-back running days in the first week back from a tendinopathy.** The
+whole Week 1 progression is **4 → 5 → 6 → 8 km, one step per exposure, each gated on the next
+morning** — because **the morning-after read is the only monitoring system this ankle has.**
+
+**And it is now the only one it is going to have, because the physio was dropped.** That was a
+defensible call *conditional on the self-monitoring working.* **Running Wednesday and Thursday
+back to back breaks it**: a sore Friday morning cannot be attributed to either run, so there is
+nothing specific to act on and no way to set Sunday's dose.
+
+**Wed / Fri / Sun gives 48 hours between every exposure and a clean read after each one.** Same
+four runs, same 23 km, same paces. **It is strictly better structure than the version it
+replaces** — the old plan had Sat and Sun back to back, which was a compromise made purely to fit
+the class in. With the class gone, that compromise goes too.
 
 ### Session detail
 
@@ -157,7 +177,7 @@ in whichever class.**
 - Cushioned trainers (Cloud 6). **Not the Adizero Evo, not the Boom Zone.**
 - **Resting HR on waking, before the run.** Protocol v3 — pre-run readings are now mandatory.
 
-**Sat 19 — 6 km @ 5:50/km, HR <142**
+**Fri 18 — 6 km @ 5:50/km, HR <142**
 - Whole kilometres. Road is fine now — Monday established the tendon tolerates it. **Avoid
   cambered sections**; a cambered road puts the low-side foot into the pronated position this
   tendon controls.
@@ -273,8 +293,8 @@ be wasted, which is the same reason the data capture above is not negotiable.**
 
 - **Protein 122 g/day** — unchanged. Tendon remodelling is a collagen synthesis problem and
   protein is the substrate.
-- **Carbs: 338–405 g on running days (Wed, Sat, Sun), 270–338 g on rest days.** Thursday's
-  Barry's counts as a training day.
+- **Carbs: 338–405 g on running days (Wed, Fri, Sun), 270–338 g on rest days.** Thursday's
+  strength session counts as a training day.
 - **Alcohol:** the immune window from the race has closed. Normal rules — 1–2 drinks fine,
   4+ costs 2–3 days.
 
@@ -300,10 +320,10 @@ log.** `CLAUDE.md` rules stay in force, unchanged and without exception:
 and on first steps the next morning — the gate passed.** 🚩 30 sec/km fast, road not grass. No HR.
 **Tue 15 Sep:** ❌ **Barry's lower body MISSED — trainers forgotten.** Gap at 21 days and extending.
 **Wed 16 Sep:** ⏳ 5 km @ 5:55/km, HR <140, grass.
-**Thu 17 Sep:** ⏳ **Barry's GLUTES — counts as the gap-closer. No plyometrics, calf raises encouraged.**
-**Fri 18 Sep:** ⏳ Rest. Loading programme.
-**Sat 19 Sep:** ⏳ 6 km @ 5:50/km, HR <142.
+**Thu 17 Sep:** ⏳ **Home strength, glute-focused, ~20 min.** Barry's off — athlete declined the class on cost.
+**Fri 18 Sep:** ⏳ 6 km @ 5:50/km, HR <142. **The fourth run, moved from Thursday for 48 h spacing.**
+**Sat 19 Sep:** ⏳ Rest. Loading programme.
 **Sun 20 Sep:** ⏳ 8 km @ 5:45/km, HR <145. **Drop to 6 km on any morning stiffness.**
 
-**The three things that decide whether Week 2 opens with threshold work: the Thursday Barry's
-happens, the Sunday 8 km happens clean, and the runs come back with data.**
+**The three things that decide whether Week 2 opens with threshold work: the Thursday strength
+session happens, the Sunday 8 km happens clean, and the runs come back with data.**

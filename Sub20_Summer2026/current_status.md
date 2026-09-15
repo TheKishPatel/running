@@ -29,9 +29,9 @@ volume increase and the daily loading programme.
 | **Mon 14** | ✅ 4 km, ~22:00, road — **gate passed** |
 | **Tue 15** | ❌ **Barry's lower body MISSED — trainers forgotten** |
 | **Wed 16** | 5 km @ **5:55/km, HR <140**, grass |
-| **Thu 17** | 💪 **Barry's lower body — the gap-closing session.** <155 avg |
-| **Fri 18** | Rest. Loading programme |
-| **Sat 19** | 6 km @ **5:50/km, HR <142** |
+| **Thu 17** | 💪 **Home strength, glute-focused, ~20 min** (Barry's declined on cost) |
+| **Fri 18** | 6 km @ **5:50/km, HR <142** — **the fourth run, moved from Thursday** |
+| **Sat 19** | Rest. Loading programme |
 | **Sun 20** | 8 km @ **5:45/km, HR <145** |
 
 **Week 1 is easy-only and that was decided before the gate passed. It does not change because the
@@ -40,45 +40,61 @@ do not go through a tendon that was work-from-home painful eight days ago. **Qua
 
 ---
 
-## 🔴 THE LOWER-BODY BARRY'S GAP IS NOW THE LIVE PROBLEM
+## 🔴 BARRY'S IS OFF BY ATHLETE DECISION — THE STRENGTH WORK MOVES HOME
 
-**Tue 15 Sep was missed — trainers forgotten.** Not an injury decision, not a coaching decision.
-**It was the session the entire ankle plan was sequenced around**: 8 Sep was skipped deliberately
-to protect 48-hour race legs, on the explicit understanding that 15 Sep closed the gap at 21 days.
+**Tue 15 Sep was missed (trainers forgotten). Then, 15 Sep, the athlete declined to pay for
+Thursday's glutes class.** Barry's runs a **fixed body-part rotation** — the day sets the body
+part, it cannot be chosen — so with the classes off there is no scheduled lower-body work at all.
 
 | | |
 |---|---|
 | **Last lower-body session** | **25 Aug** |
 | **Gap at 15 Sep** | **21 days — the 31 Mar VMO precedent exactly** |
-| **If you wait for Tue 22 Sep** | **28 days — worse, and a direct compound of that precedent** |
+| **Gap now** | **Open-ended. No scheduled class to close it** |
 
-**✏️ CORRECTED 15 SEP: Barry's runs a FIXED BODY-PART ROTATION — the day cannot be chosen.** The
-first version of this plan prescribed "a lower-body class Thu 17 Sep" as though any day could be
-lower body. It cannot. **Thursday is reportedly a glutes / "butt" class, not legs.**
+**The spending decision is the athlete's and is accepted without re-argument.** One factual
+correction for the record, because the Tuesday legs class will come up again: the class was called
+"legs bums and tums", and **this repo's data contradicts that** — recent lower-body sessions ran
+**129–135 avg HR over 41–48 min with Zone 3 blocks up to 7:22**, and `athlete_preferences.md` lists
+*"Barry's historically too hard"* as a standing pattern. **The documented risk has always been that
+Barry's is too hard, never too light.**
 
-**➡️ PRESCRIBED FIX: TAKE THURSDAY'S GLUTES CLASS. IT COUNTS AS THE GAP-CLOSER.**
+**`CLAUDE.md`'s position stands and is stated once: "consistent Barry's = durability", and this
+campaign has already produced one injury from exactly this pattern** (21-day gap → jumping lunges
+→ VMO, 31 Mar).
 
-1. **A glutes class is lower-body loading** — squats, lunges, hip thrusts, step-ups. **23 days with
-   glute work beats 28 days of nothing, and it is not close.**
-2. **It avoids the precedent's mechanism.** 31 Mar was **VMO — a quadriceps injury from jumping
-   lunges.** Glute work is posterior-chain and far less quad-dominant: **it closes the gap while
-   carrying less of the risk the gap creates.**
-3. **🎯 It is the best strength session available for the ankle.** Glute medius controls hip drop →
-   hip drop drives pronation → **pronation is what tibialis posterior controls eccentrically on
-   every footstrike.** Strengthening glutes reduces demand on the recovering tendon upstream.
-   **Nothing else on offer this week does that.**
+### ➡️ RESOLUTION: ~20 MIN HOME STRENGTH, TWICE A WEEK, FREE. THE LOAD MOVES — IT IS NOT DELETED.
 
-**Modifications:** no jump squats, no box jumps, nothing landing; walking lunges if lunges appear;
-**hip thrusts, glute bridges, step-ups and hip abduction loaded properly — they are the point**;
-**calf raises encouraged** (13 Sep reversal — a controlled calf raise is the tendon's remodelling
-stimulus, not a risk); **<155 avg, majority Zone 2–3** (recent sessions ran 129–135). **Upper body
-free and unrestricted.**
+**Thu 17 Sep, band only.** Band clamshells / hip abduction **3 × 15 each side** — 🎯 the priority
+item, glute medius is the pronation-control muscle; single-leg glute bridge **3 × 12**; split squat
+**3 × 10**; step-ups **3 × 12**; **walking lunges 3 × 10 — deliberately reintroducing the 31 Mar
+movement under control at zero impact**; calf raises already covered by the tendon programme.
 
-**❓ THE ROTATION HAS NEVER BEEN RECORDED IN THIS REPO** — `athlete_preferences.md` says only
-"Tuesday: Barry's Bootcamp", so the lower-body gap protocol has been planned blind. **Report the
-weekly body-part rotation.** If the true legs day falls before Tue 22, take that instead. If
-Tuesday is the only legs day, the **legs** gap reaches 28 days unavoidably on 22 Sep — which makes
-that session's modifications mandatory, not advisory.
+**❌ No jump squats, box jumps, jumping lunges or anything landing** — same restriction the class
+would have carried.
+
+**Why glutes rather than quads, given the VMO precedent: glute medius controls hip drop → hip drop
+drives pronation → pronation is what tibialis posterior resists eccentrically on every footstrike.**
+**It is the highest-value strength adaptation available while the tendon rebuilds.**
+
+---
+
+## 🏃 THURSDAY IS NOT A RUN — THE FOURTH RUN MOVES TO FRIDAY
+
+**Athlete asked to make Thursday a run in place of the class. The fourth run is granted; it sits on
+Friday.** The reason is the tendon and it would apply identically if Barry's had never been in the
+plan.
+
+**Wed → Thu is back-to-back running in the first week back from tendinopathy.** Week 1 is
+**4 → 5 → 6 → 8 km, one step per exposure, each gated on the next morning** — and **the
+morning-after read is the only monitoring system this ankle has.** It is also the only one it will
+get, **because the physio was dropped** — a call that was defensible *conditional on the
+self-monitoring working.* **Back-to-back runs break it:** a sore Friday morning could not be
+attributed to either run, leaving nothing specific to act on and no way to set Sunday's dose.
+
+**Wed / Fri / Sun = 48 h between every exposure, clean read after each.** Same four runs, same
+23 km, same paces. **Strictly better than the superseded version**, which had Sat and Sun back to
+back purely to fit the class in.
 
 ---
 

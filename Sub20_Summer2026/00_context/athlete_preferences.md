@@ -43,6 +43,13 @@ Recorded 15 Sep after a plan prescribed "take a lower-body class Thursday" on th
 that any day could be lower body. **Until it is filled in, every gap-closing prescription is made
 blind.** Fill it in when reported.
 
+**💷 STATUS 15 SEP: THE ATHLETE HAS DECLINED TO PAY FOR CLASSES OUTSIDE THE TUESDAY SLOT.**
+Thursday's glutes class was declined on cost. **Treat paid attendance as Tuesday-only unless the
+athlete says otherwise, and do not prescribe an extra paid class as a gap-closer.** The lower-body
+load moves to a free ~20 min home strength session instead (glute-focused; spec in the live week
+plan). **The `CLAUDE.md` rule that Barry's is never dropped to protect a running session is
+unaffected — this is a spending decision, not a session-protection one.**
+
 **Planning rules that follow from it:**
 - **"Lower body" is not one class.** A glutes day and a legs day are both lower-body loading and
   both count against a deconditioning gap — but they load different things, and the 31 Mar VMO
