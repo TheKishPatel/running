@@ -52,15 +52,33 @@ to protect 48-hour race legs, on the explicit understanding that 15 Sep closed t
 | **Gap at 15 Sep** | **21 days — the 31 Mar VMO precedent exactly** |
 | **If you wait for Tue 22 Sep** | **28 days — worse, and a direct compound of that precedent** |
 
-**➡️ PRESCRIBED FIX: take a lower-body class THU 17 SEP. Do not wait for the routine Tuesday
-slot.** Barry's runs lower-body most days; Tuesday is a routine, not a constraint. Thursday holds
-the gap at 23 days.
+**✏️ CORRECTED 15 SEP: Barry's runs a FIXED BODY-PART ROTATION — the day cannot be chosen.** The
+first version of this plan prescribed "a lower-body class Thu 17 Sep" as though any day could be
+lower body. It cannot. **Thursday is reportedly a glutes / "butt" class, not legs.**
 
-**Modifications (first session back, 23-day gap, recovering tendon):** walking lunges not jumping
-lunges; **no jump squats, no box jumps, nothing landing**; **calf raises encouraged** — as of the
-13 Sep reversal a controlled calf raise is the tendon's remodelling stimulus, not a risk to it;
-single-leg work fine and controlled; **<155 avg, majority Zone 2–3** (recent sessions ran 129–135).
-**Upper body free and unrestricted**, Tue 22 included.
+**➡️ PRESCRIBED FIX: TAKE THURSDAY'S GLUTES CLASS. IT COUNTS AS THE GAP-CLOSER.**
+
+1. **A glutes class is lower-body loading** — squats, lunges, hip thrusts, step-ups. **23 days with
+   glute work beats 28 days of nothing, and it is not close.**
+2. **It avoids the precedent's mechanism.** 31 Mar was **VMO — a quadriceps injury from jumping
+   lunges.** Glute work is posterior-chain and far less quad-dominant: **it closes the gap while
+   carrying less of the risk the gap creates.**
+3. **🎯 It is the best strength session available for the ankle.** Glute medius controls hip drop →
+   hip drop drives pronation → **pronation is what tibialis posterior controls eccentrically on
+   every footstrike.** Strengthening glutes reduces demand on the recovering tendon upstream.
+   **Nothing else on offer this week does that.**
+
+**Modifications:** no jump squats, no box jumps, nothing landing; walking lunges if lunges appear;
+**hip thrusts, glute bridges, step-ups and hip abduction loaded properly — they are the point**;
+**calf raises encouraged** (13 Sep reversal — a controlled calf raise is the tendon's remodelling
+stimulus, not a risk); **<155 avg, majority Zone 2–3** (recent sessions ran 129–135). **Upper body
+free and unrestricted.**
+
+**❓ THE ROTATION HAS NEVER BEEN RECORDED IN THIS REPO** — `athlete_preferences.md` says only
+"Tuesday: Barry's Bootcamp", so the lower-body gap protocol has been planned blind. **Report the
+weekly body-part rotation.** If the true legs day falls before Tue 22, take that instead. If
+Tuesday is the only legs day, the **legs** gap reaches 28 days unavoidably on 22 Sep — which makes
+that session's modifications mandatory, not advisory.
 
 ---
 

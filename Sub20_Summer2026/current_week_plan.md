@@ -74,22 +74,57 @@ unpaid.
 **The 31 Mar precedent: 21-day gap → jumping lunges → VMO deconditioning injury.** This
 campaign has already been injured once by exactly this pattern.
 
-### ➡️ DO NOT WAIT FOR TUESDAY. TAKE A LOWER-BODY CLASS THU 17 SEP.
+### ✏️ CORRECTED 15 SEP — BARRY'S IS A FIXED BODY-PART ROTATION, NOT PICK-YOUR-OWN
 
-Barry's runs lower-body classes most days; **Tuesday is a routine, not a constraint.** Thursday
-is free in this week's structure and holds the gap at 23 days instead of 28. **Per `CLAUDE.md`,
-Barry's is a conditioning asset and consistent attendance is what produces durability — a third
-consecutive week without lower body is the deconditioning pattern, not a rest strategy.**
+**The first version of this plan said "take a lower-body class Thu 17 Sep" as though any day
+could be lower body. That is wrong.** Barry's runs a fixed rotation — each day of the week is a
+set body part — so the day cannot be chosen, only attended or not. **Thursday is reportedly a
+glutes / "butt" class, not legs.**
 
-**There is a second reason this session matters more than usual: it is now a tendon treatment.**
-As of the 13 Sep reversal, calf raises are **encouraged** rather than merely permitted — a
-controlled calf raise is the remodelling stimulus this tibialis posterior needs.
+### ➡️ TAKE THURSDAY'S GLUTES CLASS ANYWAY. IT COUNTS.
 
-### Modifications for Thursday — first session back after a 23-day gap, on a recovering tendon
+**A glutes class IS lower-body loading, and for this specific athlete in this specific week it may
+be the better session of the two.** Three reasons, in order of weight:
+
+1. **It closes most of the gap.** The risk being managed is deconditioned *load tolerance* in the
+   legs. Glute work — squats, lunges, hip thrusts, step-ups — is exactly that load. **23 days of
+   glute-inclusive work beats 28 days of nothing, and it is not close.**
+2. **It avoids the precedent's actual mechanism.** The 31 Mar injury was **VMO — a quadriceps
+   problem, from jumping lunges after a gap.** A glutes class is posterior-chain and markedly less
+   quad-dominant. **It closes the gap while carrying less of the exact risk the gap creates.**
+3. **🎯 It is the single most useful strength session available for the ankle.** Glute medius
+   controls hip drop in single-leg stance. Hip drop drives pronation. **Pronation is what tibialis
+   posterior works eccentrically to control on every footstrike** — the tendon currently coming
+   back from tendinopathy. **Strengthening the glutes reduces the demand on the tendon upstream.
+   Nothing else on offer this week does that.**
+
+**This is not a downgrade being rationalised. On the merits it is the right class to be attending
+in the week a tib post tendinopathy returns to running.**
+
+### ❓ STILL NEEDED: WHICH DAY IS LEGS / "BUTT & LEGS"?
+
+**The rotation has never been recorded in this repo** — `athlete_preferences.md` says only
+"Tuesday: Barry's Bootcamp". **Report the weekly body-part rotation and it gets recorded
+permanently**, because the whole lower-body gap protocol depends on knowing which days are
+available and it has been planned blind until now.
+
+- **If the true legs day falls before Tue 22 Sep → take that instead, and Thursday's glutes
+  becomes optional on top.**
+- **If Tuesday is the only legs day → Thursday's glutes is the bridge, and the legs gap still
+  runs to 28 days on 22 Sep.** That is then unavoidable rather than a choice — **and it makes the
+  22 Sep modifications mandatory rather than advisory: walking lunges, no plyometrics.**
+
+**There is a further reason this session matters: it is also a tendon treatment.** As of the
+13 Sep reversal, calf raises are **encouraged** rather than merely permitted — a controlled calf
+raise is the remodelling stimulus this tibialis posterior needs. **Take them wherever they appear,
+in whichever class.**
+
+### Modifications for Thursday's glutes class — first session back after a 23-day gap, on a recovering tendon
 
 | Movement | Instruction |
 |---|---|
-| **Jumping lunges** | ❌ **WALKING LUNGES INSTEAD.** Standing gap protocol: first 2–3 sessions back. Non-negotiable — this is the exact movement that caused 31 Mar |
+| **Jumping lunges** | ❌ **WALKING LUNGES INSTEAD**, if they appear at all. Standing gap protocol: first 2–3 sessions back. Non-negotiable — this is the exact movement that caused 31 Mar |
+| **Hip thrusts, glute bridges, step-ups, hip abduction** | ✅ **YES — this is the point of going.** Load them properly; they are the session's whole value |
 | **Jump squats, box jumps, anything landing** | ❌ **OFF.** Stretch-shortening load the tendon is not ready for |
 | **Calf raises** | ✅ **ENCOURAGED.** Bodyweight or light, slow and controlled. Stop if sharp |
 | **Single-leg work** | ✅ Yes, controlled. This loads tib post directly and that is now the point |
@@ -106,7 +141,7 @@ controlled calf raise is the remodelling stimulus this tibialis posterior needs.
 | **Mon 14** | ✅ **DONE — 4 km, ~22:00, park, road** | Ankle clean at all three checkpoints |
 | **Tue 15** | ❌ **Barry's missed — trainers forgotten** | Gap now 21 days |
 | **Wed 16** | 🏃 **EASY 5 km** | **5:55/km. HR <140.** Grass / park path, flat |
-| **Thu 17** | 💪 **BARRY'S LOWER BODY — the gap-closing session** | **<155 avg.** Walking lunges, no plyometrics, calf raises encouraged |
+| **Thu 17** | 💪 **BARRY'S — GLUTES. The gap-closing session** | **<155 avg.** No plyometrics, walking lunges if they appear, calf raises encouraged |
 | **Fri 18** | 😴 **Complete rest from running** | Loading programme only |
 | **Sat 19** | 🏃 **EASY 6 km** | **5:50/km. HR <142.** Road fine, avoid camber |
 | **Sun 20** | 🏃 **EASY 8 km** | **5:45/km. HR <145.** The week's long run |
@@ -265,7 +300,7 @@ log.** `CLAUDE.md` rules stay in force, unchanged and without exception:
 and on first steps the next morning — the gate passed.** 🚩 30 sec/km fast, road not grass. No HR.
 **Tue 15 Sep:** ❌ **Barry's lower body MISSED — trainers forgotten.** Gap at 21 days and extending.
 **Wed 16 Sep:** ⏳ 5 km @ 5:55/km, HR <140, grass.
-**Thu 17 Sep:** ⏳ **Barry's lower body — walking lunges, no plyometrics, calf raises encouraged.**
+**Thu 17 Sep:** ⏳ **Barry's GLUTES — counts as the gap-closer. No plyometrics, calf raises encouraged.**
 **Fri 18 Sep:** ⏳ Rest. Loading programme.
 **Sat 19 Sep:** ⏳ 6 km @ 5:50/km, HR <142.
 **Sun 20 Sep:** ⏳ 8 km @ 5:45/km, HR <145. **Drop to 6 km on any morning stiffness.**
