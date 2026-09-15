@@ -1,37 +1,121 @@
 # Current Status
 
-*Last updated: 15 Sep 2026 (recovery week closed — 1 untracked run)*
+*Last updated: 15 Sep 2026 (October block Week 1 opened — ankle gate passed)*
 
 ---
 
-## 📕 RECOVERY WEEK CLOSED (Mon 7 – Sun 13 Sep) — **ONE RUN, UNTRACKED**
+## 🟢 STATUS: **OCTOBER 5K SHARPENING BLOCK, WEEK 1 OF 4. THE ANKLE GATE IS PASSED.**
 
-**Full summary: `02_training_log/weekly_summaries/recovery_week_07Sep_summary.md`.**
+**Live plan: `current_week_plan.md`. Block tracker: `phase_progress.md`.**
 
-**The week's stated objective — absorb a 21.1 km goal race — was met. Its secondary objective, a
-clean read on the return to running, was not: the one run carries no data.** Athlete ran Sun 13 Sep
-after initially holding it, and did not track it. No distance, pace, HR or duration.
+**The return-to-run happened Mon 14 Sep, not Sunday: 4 km in ~22:00 (~5:30/km), park, on road.
+The ankle was clean during the run, clean that evening, and clean on first steps out of bed the
+next morning.** That was the read the entire flag was waiting on and it came back clean at all
+three checkpoints.
 
-**Week totals: 1 run (unquantified). 0 lower-body Barry's. 0 resting HR readings. ~2 days cycling,
-then stopped, then one clean e-bike commute.**
+**🟢 THE MEDIAL MALLEOLAR STRESS-REACTION RULE-OUT IS EFFECTIVELY CLOSED.** Trajectory:
+**WFH-painful day 3 → walking clean day 6 → 4 km ON ROAD day 8 → clean the next morning.** A
+stress reaction does not do that — it worsens with each loading exposure. Answered by trajectory
+rather than by the bone palpation test, which was never reported; **four improving data points
+across eight days outweigh one unperformed palpation.**
 
-**Fitness cost: approximately zero.** The whole prescription was ~10–15 km of easy running with no
-training stimulus in it. **The real costs are that the return-to-run read is unusable, and that the
-lower-body gap reached 21 days (25 Aug → 15 Sep) — the 31 Mar VMO precedent exactly.**
+**Flag downgraded 🔴 → 🟢. It no longer gates sessions.** What it still governs is the *rate* of
+volume increase and the daily loading programme.
 
-**🟢 THE ANKLE TRAJECTORY IS THE WEEK'S BEST NEWS.** WFH-painful on day 3 → walking clean on day 6 →
-ran on day 7. **A stress reaction does not do that**, so the medial malleolar rule-out is effectively
-answered — by trajectory rather than by the bone palpation test, which was never reported.
+### Week 1 (Mon 14 – Sun 20 Sep) — easy-only, 23 km
 
-**❓ FIVE THINGS STILL UNREPORTED, CARRIED INTO THE BLOCK PLAN:** (1) Sunday's rough distance,
-duration and surface; (2) **the ankle during the run, that evening, and on first steps out of bed
-Mon 14 Sep — the 24 h response is the read, not the run**; (3) whether Monday's 4 km happened;
-(4) **Barry's lower body Tue 15 Sep — attended and modified how; this is the 21-day-gap session**;
-(5) physio status.
+| Day | Session |
+|---|---|
+| **Mon 14** | ✅ 4 km, ~22:00, road — **gate passed** |
+| **Tue 15** | ❌ **Barry's lower body MISSED — trainers forgotten** |
+| **Wed 16** | 5 km @ **5:55/km, HR <140**, grass |
+| **Thu 17** | 💪 **Barry's lower body — the gap-closing session.** <155 avg |
+| **Fri 18** | Rest. Loading programme |
+| **Sat 19** | 6 km @ **5:50/km, HR <142** |
+| **Sun 20** | 8 km @ **5:45/km, HR <145** |
 
-**➡️ `/weekly-plan` is due and will be run in a new session. Week 1 of the October block opens
-easy-only regardless** — a sharpening block's intervals do not go through a tendon that was
-WFH-painful nine days earlier. **The loading programme below runs alongside it, not instead of it.**
+**Week 1 is easy-only and that was decided before the gate passed. It does not change because the
+news was good** — a sharpening block's intervals are the highest-force running of the campaign and
+do not go through a tendon that was work-from-home painful eight days ago. **Quality returns W2.**
+
+---
+
+## 🔴 THE LOWER-BODY BARRY'S GAP IS NOW THE LIVE PROBLEM
+
+**Tue 15 Sep was missed — trainers forgotten.** Not an injury decision, not a coaching decision.
+**It was the session the entire ankle plan was sequenced around**: 8 Sep was skipped deliberately
+to protect 48-hour race legs, on the explicit understanding that 15 Sep closed the gap at 21 days.
+
+| | |
+|---|---|
+| **Last lower-body session** | **25 Aug** |
+| **Gap at 15 Sep** | **21 days — the 31 Mar VMO precedent exactly** |
+| **If you wait for Tue 22 Sep** | **28 days — worse, and a direct compound of that precedent** |
+
+**➡️ PRESCRIBED FIX: take a lower-body class THU 17 SEP. Do not wait for the routine Tuesday
+slot.** Barry's runs lower-body most days; Tuesday is a routine, not a constraint. Thursday holds
+the gap at 23 days.
+
+**Modifications (first session back, 23-day gap, recovering tendon):** walking lunges not jumping
+lunges; **no jump squats, no box jumps, nothing landing**; **calf raises encouraged** — as of the
+13 Sep reversal a controlled calf raise is the tendon's remodelling stimulus, not a risk to it;
+single-leg work fine and controlled; **<155 avg, majority Zone 2–3** (recent sessions ran 129–135).
+**Upper body free and unrestricted**, Tue 22 included.
+
+---
+
+## 🚑 PHYSIO — DROPPED 15 SEP. DEFENSIBLE NOW; IT WAS NOT ON 9 SEP.
+
+**The referral's highest value was always the stress-reaction rule-out, and the trajectory has now
+answered that.** The single largest reason to go has been removed by evidence.
+
+**The cost, stated plainly: this is a tendinopathy being self-managed on the strength of one 4 km
+run.** That is thin. It is acceptable because the loading programme is the correct treatment and it
+is being done — **which makes the re-book triggers the safety net, and they have to be acted on.**
+
+**🔁 RE-BOOK IMMEDIATELY ON ANY OF:** (1) ankle pain that changes how you walk; (2) morning
+stiffness after runs on **two consecutive** occasions — one is noise, two is a trend; (3) any
+tingling, burning or numbness in the arch or sole (tarsal tunnel — a different problem, not a load
+question); (4) volume stalls — **if 25 km/week is not reachable symptom-free by 28 Sep, the
+self-management has failed.**
+
+---
+
+## 🚩 PACE DISCIPLINE — FLAGGED. 5:30/km AGAINST A 6:00/km PRESCRIPTION.
+
+**30 sec/km fast, double the 15 sec/km threshold in `CLAUDE.md`, and on road against a grass-or-
+trail prescription.** Athlete pattern #1, on the one run in the log with the least margin for it.
+
+**It cost nothing, and as an accidental graded-load test it produced better evidence than the
+prescribed session would have** — road at 5:30/km is a harder tendon exposure than grass at
+6:00/km, and it passed. **That is why the block opens at 23 km rather than 15.**
+
+**The flag stands because 30 sec/km on Sunday's 8 km is a different proposition from 30 sec/km on
+Monday's 4 km.** Wednesday is prescribed on grass as the governor, per the `CLAUDE.md` trail rule.
+
+---
+
+## 📊 DATA CAPTURE — THIRD CONSECUTIVE WEEK WITH A GAP
+
+**Sun 13: not run. Mon 14: distance and duration only — no HR, no splits. No resting HR since
+5 Sep, ten days.** Monday's partial data was enough for a binary gate. **It is not enough to set a
+threshold pace on, and Week 2 needs exactly that.**
+
+**Required every run this week:** per-km splits, avg/max HR, five zone durations, and **resting HR
+on waking before the session**. Typing the numbers is fine.
+
+---
+
+## ❗ DECISION DUE THIS WEEK: NAME THE RACE
+
+**The block has been described as "a cool-weather 5K early-to-mid October" since July and no date
+has ever been named.** W4's shape depends on it, and a parkrun is not the same planning object as a
+chip-timed 5K. **Decide by Sunday.**
+
+**Targets, unchanged by the PB:** threshold has not moved all summer (4:20/km 2 Jul → 4:23/km
+6 Aug → nothing across three compromised Thursdays), and Riegel from 1:39:32 projects a 5K of
+21:38 — *slower* than the standing 20:59 PB. The half was an endurance result. **Sub-20:30 and a
+PB are realistic. Sub-20:00 is a stretch.**
 
 ---
 
@@ -105,6 +189,8 @@ day changes nothing, and this campaign has no history of acting on one.**
   mandatory rather than nice to have.**
 
 ---
+
+## Superseded — ankle flag history (9–13 Sep). Retained for the record; the flag is 🟢 as of 15 Sep.
 
 ## 🟡 ANKLE UPDATE (12 Sep) — **IMPROVING. ONSET CONFIRMED AS MONDAY. RETURN-TO-RUN GATED FOR SUNDAY.**
 

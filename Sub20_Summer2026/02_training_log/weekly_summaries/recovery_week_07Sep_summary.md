@@ -108,6 +108,49 @@ training stimulus in it. Losing most of it is not a loss.
 
 ---
 
+---
+
+## ✅ CORRECTION, 15 SEP — **THE WEEK CLOSED AT 0 km. THERE WAS NO SUNDAY RUN.**
+
+**This summary was written on 15 Sep recording an untracked run on Sun 13 Sep. That was wrong and the
+athlete corrected it the same day: SUNDAY WAS NOT RUN AT ALL, and the session rolled to MON 14 SEP
+exactly as `current_week_plan.md` prescribed.**
+
+**Corrected week total: 0 km, 0 runs.** Not "1 run, untracked". The recovery week contains no running
+whatsoever. `training_log.csv` has been corrected — the 2026-09-13 row is replaced by a 2026-09-14
+row, which belongs to the October block's Week 1 rather than to this week.
+
+### What the Monday run actually produced
+
+| | |
+|---|---|
+| **Distance** | **4 km** — exactly as prescribed |
+| **Duration** | **~22:00 → ~5:30/km** — 30 sec/km faster than the 6:00/km prescription |
+| **Surface** | **Park, ON ROAD** — prescribed grass or trail |
+| **HR / splits / resting HR** | **None captured** |
+
+**🟢 AND THE ANKLE READ CAME BACK CLEAN AT ALL THREE CHECKPOINTS — during the run, that evening, and
+on first steps out of bed the following morning.** That was the single most informative data point
+available and it was the open question this summary closed on.
+
+**It also means the "return-to-run read is unusable" finding below is now only half true.** The
+*quantitative* read is still thin — no HR, no splits, so there is no aerobic cost to compare against.
+**The qualitative read — the one the week actually existed to produce — is clean, and it is the read
+that mattered.** A tendon that takes 4 km of road at 5:30/km on day 8 and presents clean the next
+morning has effectively answered the medial malleolar stress-reaction rule-out by trajectory.
+
+### The one finding that got worse, not better
+
+**Barry's lower body on Tue 15 Sep did not happen — the trainers were forgotten.** The 21-day gap
+recorded below was a deliberate, correctly-made trade that assumed 15 Sep would close it. **It did
+not close.** Resolution is prescribed in `current_week_plan.md`: take a lower-body class **Thu 17
+Sep** rather than waiting for the routine Tuesday slot, which would put the gap at 28 days.
+
+**Physio: dropped.** Defensible now that the trajectory has answered the stress-reaction question,
+and it was not defensible on 9 Sep. Re-book triggers are listed in `current_week_plan.md`.
+
+---
+
 ## Carried into the October block
 
 - **Threshold has not moved all block.** 4:20 (2 Jul) → 4:23 (6 Aug) → nothing across three
@@ -134,3 +177,16 @@ training stimulus in it. Losing most of it is not a loss.
 3. **Did Monday 14 Sep's planned 4 km happen?**
 4. **Barry's lower body Tue 15 Sep — attended? Modified how?** This is the 21-day-gap session.
 5. **Physio — booked, attended, or dropped?**
+
+---
+
+## ✅ OPEN QUESTIONS — ALL FIVE ANSWERED 15 SEP
+
+1. **Sunday's run** — **there was no Sunday run.** It rolled to Mon 14 Sep: 4 km, ~22:00 (~5:30/km),
+   park, on road. Shoes still unreported.
+2. **The ankle during, that evening, and the next morning** — **clean at all three.** 🟢
+3. **Did Monday's 4 km happen?** — **Yes.** It is the run described above.
+4. **Barry's lower body Tue 15 Sep** — **❌ missed, trainers forgotten.** Gap extends past 21 days.
+5. **Physio** — **dropped.**
+
+**This week is closed. Live plan: `current_week_plan.md`, October block Week 1.**
