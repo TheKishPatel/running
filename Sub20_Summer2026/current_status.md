@@ -1,6 +1,37 @@
 # Current Status
 
-*Last updated: 13 Sep 2026 (hop test withdrawn; tendon loading programme issued; RHR protocol v3)*
+*Last updated: 15 Sep 2026 (recovery week closed — 1 untracked run)*
+
+---
+
+## 📕 RECOVERY WEEK CLOSED (Mon 7 – Sun 13 Sep) — **ONE RUN, UNTRACKED**
+
+**Full summary: `02_training_log/weekly_summaries/recovery_week_07Sep_summary.md`.**
+
+**The week's stated objective — absorb a 21.1 km goal race — was met. Its secondary objective, a
+clean read on the return to running, was not: the one run carries no data.** Athlete ran Sun 13 Sep
+after initially holding it, and did not track it. No distance, pace, HR or duration.
+
+**Week totals: 1 run (unquantified). 0 lower-body Barry's. 0 resting HR readings. ~2 days cycling,
+then stopped, then one clean e-bike commute.**
+
+**Fitness cost: approximately zero.** The whole prescription was ~10–15 km of easy running with no
+training stimulus in it. **The real costs are that the return-to-run read is unusable, and that the
+lower-body gap reached 21 days (25 Aug → 15 Sep) — the 31 Mar VMO precedent exactly.**
+
+**🟢 THE ANKLE TRAJECTORY IS THE WEEK'S BEST NEWS.** WFH-painful on day 3 → walking clean on day 6 →
+ran on day 7. **A stress reaction does not do that**, so the medial malleolar rule-out is effectively
+answered — by trajectory rather than by the bone palpation test, which was never reported.
+
+**❓ FIVE THINGS STILL UNREPORTED, CARRIED INTO THE BLOCK PLAN:** (1) Sunday's rough distance,
+duration and surface; (2) **the ankle during the run, that evening, and on first steps out of bed
+Mon 14 Sep — the 24 h response is the read, not the run**; (3) whether Monday's 4 km happened;
+(4) **Barry's lower body Tue 15 Sep — attended and modified how; this is the 21-day-gap session**;
+(5) physio status.
+
+**➡️ `/weekly-plan` is due and will be run in a new session. Week 1 of the October block opens
+easy-only regardless** — a sharpening block's intervals do not go through a tendon that was
+WFH-painful nine days earlier. **The loading programme below runs alongside it, not instead of it.**
 
 ---
 
