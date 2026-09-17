@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 15 Sep 2026 — October block Week 1 opens. Ankle gate PASSED.*
+*Last updated: 17 Sep 2026 — Wed run rolled to Thu, Barry's back on Fri, RHR 56. Sunday cut to 7 km.*
 
 ---
 
@@ -141,53 +141,124 @@ looks like, and it has been planned blind all campaign. **No action needed this 
 |---|---|---|
 | **Mon 14** | ✅ **DONE — 4 km, ~22:00, park, road** | Ankle clean at all three checkpoints |
 | **Tue 15** | ❌ **Barry's missed — trainers forgotten** | Gap now 21 days |
-| **Wed 16** | 🏃 **EASY 5 km** | **5:55/km. HR <140.** Grass / park path, flat |
-| **Thu 17** | 💪 **HOME STRENGTH — glute-focused, ~20 min, free** | No plyometrics. Band clamshells are the priority item |
-| **Fri 18** | 🏃 **EASY 6 km** ← **the extra run, moved from Thursday** | **5:50/km. HR <142.** Road fine, avoid camber |
-| **Sat 19** | 😴 **Complete rest from running** | Loading programme only |
-| **Sun 20** | 🏃 **EASY 8 km** | **5:45/km. HR <145.** The week's long run |
+| **Wed 16** | ❌ **Not run — rolled to Thursday** | — |
+| **Thu 17** | 🏃 **EASY 5 km — TODAY.** ⚠️ **RHR 56 → conditional trim, see below** | **5:55/km. HR <140 is the ceiling and the trigger** |
+| **Fri 18** | 💪 **BARRY'S** — body part unknown, two branches below | **<155 avg.** Pre-class RHR reading mandatory |
+| **Sat 19** | 😴 **Rest** — *or home strength, if Friday was upper body* | Loading programme either way |
+| **Sun 20** | 🏃 **EASY 7 km** ⬇️ **cut from 8** | **5:45/km. HR <145.** The week's long run |
 
-**Week total: 23 km, 4 runs, 1 home strength session. Volume unchanged — only the days moved.**
+**Revised week total: 16 km, 3 runs, 1 Barry's.** Down from 23 km — **one run was lost, not
+moved.** That is an acceptable Week 1 outcome and it is not worth clawing back.
 
-### ⬅️ WHY FRIDAY AND NOT THURSDAY — THIS IS NOT ABOUT PROTECTING BARRY'S
+---
 
-**You asked for Thursday to be a run. You get the fourth run; it sits on Friday. The reason is the
-tendon, and it would apply identically if Barry's had never been in this plan.**
+## ⚠️ TODAY (THU 17) — RHR 56. THE TRIM IS CONDITIONAL, NOT PRE-EMPTIVE.
 
-**Wed → Thu would be back-to-back running days in the first week back from a tendinopathy.** The
-whole Week 1 progression is **4 → 5 → 6 → 8 km, one step per exposure, each gated on the next
-morning** — because **the morning-after read is the only monitoring system this ankle has.**
+**Reported: bad night's sleep, late to bed, work deadline. Resting HR 56.**
 
-**And it is now the only one it is going to have, because the physio was dropped.** That was a
-defensible call *conditional on the self-monitoring working.* **Running Wednesday and Thursday
-back to back breaks it**: a sore Friday morning cannot be attributed to either run, so there is
-nothing specific to act on and no way to set Sunday's dose.
+**56 sits in the 56–60 "trim the session" band — 1 bpm above the top of the 49–55 baseline.** The
+cause is identified, sufficient, and not illness: **one late night under deadline pressure
+explains 1 bpm without needing any other theory.** No sore throat, no cough, no phlegm reported,
+so `CLAUDE.md`'s illness rules are not triggered.
 
-**Wed / Fri / Sun gives 48 hours between every exposure and a clean read after each one.** Same
-four runs, same 23 km, same paces. **It is strictly better structure than the version it
-replaces** — the old plan had Sat and Sun back to back, which was a compromise made purely to fit
-the class in. With the class gone, that compromise goes too.
+**🟢 DIRECT PRECEDENT, AND IT IS STRONGER THAN TODAY'S CASE: 5 Aug — RHR 59 on 6 hours' sleep. The
+run went ahead as a diagnostic: 6 km @ 5:46/km, 139 avg, Zone 3 zero — and it cleared the next
+day's threshold session.** 59 is worse than 56, and 6 km is longer than 5 km.
 
-### Session detail
+### ➡️ RUN IT. THE TRIM IS TRIGGERED BY HR, NOT IMPOSED ON DISTANCE.
 
-**Wed 16 — 5 km @ 5:55/km, HR <140**
-- **Whole kilometres. Single intensity, so auto-splits map cleanly — no warm-up block needed.**
-- **Grass or park path, flat.** This is the deliberate pace-governor session after Monday's
-  5:30/km. Running it on grass makes 5:55 happen by itself.
+**5 km @ 5:55/km. HR <140 — and today that cap is not a ceiling, it is the decision rule.**
+
+| If | Then |
+|---|---|
+| **HR sits at or below 140 at 5:55/km** | ✅ **Finish the 5 km.** The 56 was the late night and nothing more. That is the answer this run exists to produce |
+| **HR drifts above 140 at 5:55/km** | ⬇️ **Cut it at 4 km and walk home.** Elevated running HR at an easy pace is the sleep debt showing up as real physiological cost — that is the trim, earned rather than assumed |
+| **Any medial ankle sensation** | 🛑 **Stop immediately, walk home.** Unchanged and unconditional |
+
+**Why conditional rather than just cutting to 4 km: a pre-emptive trim throws away the
+information.** Elevated resting HR from poor sleep usually shows as elevated *running* HR at the
+same pace. **Letting the run answer that is worth more than guessing at it** — exactly the logic
+that made 5 Aug a diagnostic instead of a cancellation.
+
+- **Grass or park path, flat.** Pace-governor session after Monday's 5:30/km — still the plan.
 - Cushioned trainers (Cloud 6). **Not the Adizero Evo, not the Boom Zone.**
-- **Resting HR on waking, before the run.** Protocol v3 — pre-run readings are now mandatory.
+- **Whole kilometres.** Single intensity, so auto-splits map cleanly.
 
-**Fri 18 — 6 km @ 5:50/km, HR <142**
-- Whole kilometres. Road is fine now — Monday established the tendon tolerates it. **Avoid
-  cambered sections**; a cambered road puts the low-side foot into the pronated position this
-  tendon controls.
+### 😴 SLEEP IS THE FLAG, NOT THE HEART RATE
 
-**Sun 20 — 8 km @ 5:45/km, HR <145**
-- Whole kilometres. **The single biggest jump of the week (+2 km) and the one to be disciplined
-  about.** 5:45/km sits exactly on this athlete's historical easy pace at 137–139 BPM, so the HR
-  cap and the pace target should agree. **If they disagree, the HR wins.**
-- **⬇️ DROP TO 6 km if there is any ankle stiffness on Sunday's first steps out of bed.** Not a
-  judgement call — a rule.
+**One bad night is noise. A work deadline is not one night.** This campaign lost roughly 30 days
+to five illness episodes — **the single largest recurring cost in the log** — and sleep debt under
+stress is the standard precursor.
+
+**With three quality weeks left and no slack, an illness episode ends this block.** Sleep is the
+highest-leverage input available and it is the one the deadline will take first. **If the deadline
+runs long, protect sleep ahead of training volume — the runs this week are worth very little and
+the sleep is worth the block.**
+
+**🛑 Standing rule, unchanged: sore throat at any severity, cough, or phlegm → complete rest.
+Return only at 100% symptom-free.**
+
+---
+
+## 💪 BARRY'S TOMORROW (FRI 18) — GOOD. BUT WHICH CLASS?
+
+**Noted and accepted without comment on the earlier decision: the class is back on.** Friday makes
+the gap **24 days** from 25 Aug.
+
+**Friday's body part is not recorded** — `athlete_preferences.md` has only Tuesday and Thursday
+(glutes). **The plan branches on it:**
+
+### Branch A — Friday is LOWER BODY (legs, glutes, butt & legs, total body)
+
+**🎯 This is the gap-closing session. 24 days, first lower-body work since 25 Aug.**
+
+| Movement | Instruction |
+|---|---|
+| **Jumping lunges** | ❌ **WALKING LUNGES INSTEAD.** First 2–3 sessions back. This is the exact movement behind 31 Mar |
+| **Jump squats, box jumps, anything landing** | ❌ **OFF.** The tendon is not ready for stretch-shortening load |
+| **Calf raises** | ✅ **ENCOURAGED.** Slow, controlled, bodyweight or light. Stop if sharp |
+| **Hip thrusts, bridges, step-ups, abduction** | ✅ **YES — load them properly. This is the value** |
+| **Treadmill blocks** | ✅ Easy effort only. **You will have run ~18 hours earlier** |
+| **HR** | **<155 avg, majority Zone 2–3.** Recent sessions ran 129–135 |
+
+**→ Home strength is then redundant this week. Saturday stays rest.**
+
+### Branch B — Friday is UPPER BODY
+
+**✅ Take it freely, no restrictions** — `CLAUDE.md`, and it costs the legs nothing.
+
+**⚠️ But the lower-body gap does not close and keeps running past 24 days.** In that case
+**the ~20 min home strength session happens Saturday 19** — band clamshells 3 × 15 each side as
+the priority item, single-leg glute bridge 3 × 12, split squat 3 × 10, step-ups 3 × 12, walking
+lunges 3 × 10. No plyometrics.
+
+**Either way: resting HR on waking before the class.** Protocol v3 makes pre-Barry's readings
+mandatory, and tomorrow's reading is the one that says whether today's 56 was the late night or
+the start of something.
+
+---
+
+## ⬇️ SUNDAY IS CUT TO 7 km — STEP DISCIPLINE, NOT CAUTION
+
+**The progression was 4 → 5 → 6 → 8, one step per exposure. Wednesday's run is gone, so the 6 km
+is gone with it.** Running 8 km on Sunday would make the step **5 → 8 = +3 km**, the largest jump
+of the block, **in the first week back from a tendinopathy, on a week that already lost a run.**
+
+**7 km keeps the step at +2 — matching the biggest increment that was ever planned.** The
+difference between 7 and 8 km is worth nothing in fitness terms and the downside is a setback that
+costs the block.
+
+**⬇️ Drop to 6 km on any ankle stiffness at Sunday's first steps out of bed. Not a judgement call
+— a rule.**
+
+### 🗓️ SPACING — STILL INTACT
+
+**Thu run → Fri Barry's → Sat rest → Sun run.** Each loading exposure gets its own clean
+next-morning read: **Friday morning reads today's run, Saturday morning reads Barry's, Sunday
+morning gates the long run.** That separation is the whole monitoring system — **it is the only one
+this ankle has now that the physio is dropped** — and this shuffle preserves it.
+
+**Thu → Sun is 72 hours between runs.** No back-to-back running days anywhere in the week.
 
 ### The progression, stated plainly
 
@@ -293,8 +364,8 @@ be wasted, which is the same reason the data capture above is not negotiable.**
 
 - **Protein 122 g/day** — unchanged. Tendon remodelling is a collagen synthesis problem and
   protein is the substrate.
-- **Carbs: 338–405 g on running days (Wed, Fri, Sun), 270–338 g on rest days.** Thursday's
-  strength session counts as a training day.
+- **Carbs: 338–405 g on running days (Thu, Sun), 270–338 g on rest days.** Friday's Barry's
+  counts as a training day.
 - **Alcohol:** the immune window from the race has closed. Normal rules — 1–2 drinks fine,
   4+ costs 2–3 days.
 
@@ -319,11 +390,11 @@ log.** `CLAUDE.md` rules stay in force, unchanged and without exception:
 **Mon 14 Sep:** ✅ **4 km, ~22:00 (~5:30/km), park, road.** 🟢 **Ankle clean during, that evening,
 and on first steps the next morning — the gate passed.** 🚩 30 sec/km fast, road not grass. No HR.
 **Tue 15 Sep:** ❌ **Barry's lower body MISSED — trainers forgotten.** Gap at 21 days and extending.
-**Wed 16 Sep:** ⏳ 5 km @ 5:55/km, HR <140, grass.
-**Thu 17 Sep:** ⏳ **Home strength, glute-focused, ~20 min.** Barry's off — athlete declined the class on cost.
-**Fri 18 Sep:** ⏳ 6 km @ 5:50/km, HR <142. **The fourth run, moved from Thursday for 48 h spacing.**
-**Sat 19 Sep:** ⏳ Rest. Loading programme.
-**Sun 20 Sep:** ⏳ 8 km @ 5:45/km, HR <145. **Drop to 6 km on any morning stiffness.**
+**Wed 16 Sep:** ❌ **Not run — rolled to Thursday.**
+**Thu 17 Sep:** ⏳ **5 km @ 5:55/km, HR <140. RHR 56, bad sleep, work deadline — conditional trim: cut at 4 km if HR drifts above 140.**
+**Fri 18 Sep:** ⏳ **Barry's — back on.** Branch on body part. Pre-class RHR mandatory.
+**Sat 19 Sep:** ⏳ Rest + loading programme — **or home strength if Friday was upper body.**
+**Sun 20 Sep:** ⏳ **7 km** @ 5:45/km, HR <145 ⬇️ cut from 8 for step discipline. **Drop to 6 km on any morning stiffness.**
 
-**The three things that decide whether Week 2 opens with threshold work: the Thursday strength
-session happens, the Sunday 8 km happens clean, and the runs come back with data.**
+**The three things that decide whether Week 2 opens with threshold work: Friday's Barry's happens,
+the Sunday 7 km happens clean, and the runs come back with data.**

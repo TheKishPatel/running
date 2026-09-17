@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 15 Sep 2026 (October block Week 1 opened — ankle gate passed)*
+*Last updated: 17 Sep 2026 (W1 reshuffled — Wed rolled to Thu, Barry's back on Fri, RHR 56)*
 
 ---
 
@@ -28,17 +28,68 @@ volume increase and the daily loading programme.
 |---|---|
 | **Mon 14** | ✅ 4 km, ~22:00, road — **gate passed** |
 | **Tue 15** | ❌ **Barry's lower body MISSED — trainers forgotten** |
-| **Wed 16** | 5 km @ **5:55/km, HR <140**, grass |
-| **Thu 17** | 💪 **Home strength, glute-focused, ~20 min** (Barry's declined on cost) |
-| **Fri 18** | 6 km @ **5:50/km, HR <142** — **the fourth run, moved from Thursday** |
-| **Sat 19** | Rest. Loading programme |
-| **Sun 20** | 8 km @ **5:45/km, HR <145** |
+| **Wed 16** | ❌ **Not run — rolled to Thursday** |
+| **Thu 17** | 🏃 **5 km @ 5:55/km, HR <140.** ⚠️ **RHR 56 — conditional trim** |
+| **Fri 18** | 💪 **Barry's — back on.** Body part unknown, plan branches |
+| **Sat 19** | Rest + loading — *or home strength if Fri was upper body* |
+| **Sun 20** | 🏃 **7 km** @ **5:45/km, HR <145** ⬇️ cut from 8 |
+
+**Revised week: 16 km, 3 runs, 1 Barry's.** The 6 km is lost rather than moved — an acceptable
+Week 1 outcome, not worth clawing back.
 
 **Week 1 is easy-only and that was decided before the gate passed. It does not change because the
 news was good** — a sharpening block's intervals are the highest-force running of the campaign and
 do not go through a tendon that was work-from-home painful eight days ago. **Quality returns W2.**
 
 ---
+
+---
+
+## ⚠️ 17 SEP — RHR 56, BAD SLEEP, WORK DEADLINE. RUN GOES AHEAD ON A CONDITIONAL TRIM.
+
+**56 is in the 56–60 "trim the session" band, 1 bpm over the 49–55 baseline.** Cause identified and
+sufficient: **one late night under deadline pressure.** No sore throat, cough or phlegm — **the
+illness rules are not triggered.**
+
+**🟢 PRECEDENT IS STRONGER THAN TODAY'S CASE: 5 Aug, RHR 59 on 6 h sleep → ran 6 km @ 5:46/km,
+139 avg, Zone 3 zero, and it cleared the next day's threshold.** 59 > 56 and 6 km > 5 km.
+
+**➡️ THE TRIM IS HR-TRIGGERED, NOT DISTANCE-IMPOSED.** 5 km @ 5:55/km, **HR <140 as the decision
+rule**: at or under 140 → finish the 5 km, the 56 was the late night; drifts over 140 at easy pace
+→ **cut at 4 km and walk home**, the sleep debt is real and the trim is earned. Any medial ankle
+sensation → stop immediately, unchanged.
+
+**A pre-emptive cut throws away the information.** Poor sleep usually shows as elevated *running*
+HR at the same pace — letting the run answer that is worth more than guessing.
+
+### 😴 THE FLAG IS THE SLEEP, NOT THE HEART RATE
+
+**One bad night is noise. A work deadline is not one night.** Five illness episodes cost this
+campaign ~30 days — the largest recurring cost in the log — and sleep debt under stress is the
+standard precursor. **With three quality weeks left and no slack, an episode ends the block.**
+**If the deadline runs long, protect sleep ahead of training volume** — this week's runs are worth
+very little and the sleep is worth the block.
+
+---
+
+## 💪 BARRY'S IS BACK ON — FRI 18. BODY PART UNKNOWN, SO THE PLAN BRANCHES.
+
+**Recorded without re-arguing the earlier decision.** Friday puts the gap at **24 days** from
+25 Aug.
+
+- **Branch A — lower body:** 🎯 **this is the gap-closer.** Walking lunges not jumping lunges;
+  no jump squats, box jumps or anything landing; **calf raises encouraged**; hip thrusts, bridges,
+  step-ups and abduction loaded properly; treadmill easy — **you will have run ~18 h earlier**;
+  **<155 avg**. Home strength then redundant, Saturday stays rest.
+- **Branch B — upper body:** ✅ **free and unrestricted**, but **the lower-body gap keeps running
+  past 24 days** — then the ~20 min home strength session happens **Sat 19**.
+
+**Either way: resting HR on waking before the class.** Tomorrow's reading is what says whether
+today's 56 was the late night or the start of something.
+
+---
+
+## Superseded 17 Sep — Barry's declined, then reinstated
 
 ## 🔴 BARRY'S IS OFF BY ATHLETE DECISION — THE STRENGTH WORK MOVES HOME
 
