@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 20 Sep 2026 — Thu run logged as a tempo, Fri Barry's on target. Pace governor moves to terrain.*
+*Last updated: 20 Sep 2026 — three answers in: ankle clean, Barry's was total body, RHR 52. Run confirmed.*
 
 ---
 
@@ -160,7 +160,7 @@ looks like, and it has been planned blind all campaign. **No action needed this 
 | **HR** | **<145. Hard ceiling. Hits 150 → walk until it drops back** |
 | **Pace** | **Whatever the terrain gives you at that HR — expect 5:45–6:05/km.** The number is an output today, not a target |
 | **Shoes** | Norda 001 (trail) or Cloud 6. **Not the Adizero Evo, not the Boom Zone** |
-| **⬇️ Gate** | **Any ankle stiffness on first steps out of bed → 5 km flat on grass, not 7** |
+| **⬇️ Gate** | ✅ **PASSED — ankle clean, RHR 52. Full 7 km confirmed** |
 | **🛑 Abort** | **Any medial ankle sensation → stop, walk home.** Unchanged |
 
 **Why 7 km still stands after Thursday:** Thursday's 5 km at 5:00/km was a *higher-force* exposure
@@ -168,6 +168,62 @@ than the 7 km easy being prescribed now. **The tendon has already demonstrated t
 load than today asks for** — so today is a step down in intensity and up in duration, which is the
 right direction. **The caveat is that this reasoning depends entirely on the ankle reads that have
 not been reported.**
+
+## ✅ ALL THREE ANSWERED — THE RUN IS CONFIRMED AND THE ANKLE PICTURE CHANGES
+
+| # | Answer | Read |
+|---|---|---|
+| **1** | **Ankle fine** | 🟢 **The strongest evidence yet — see below** |
+| **2** | **Total body, mostly chest** | 🟡 **Partial credit against the gap, not closure** |
+| **3** | **RHR 52** | 🟢 **Back inside the 49–55 baseline from 56** |
+
+### 🟢 RHR 52 CLOSES THE THURSDAY QUESTION CLEANLY
+
+**56 → 52 in three days confirms the elevation was the late night, not illness and not accumulated
+fatigue.** It also says Thursday's unplanned tempo **and** Friday's class were both absorbed —
+**52 is mid-baseline, not the top of it.** Taken with Thursday's 57 bpm post-workout drop, autonomic
+recovery is in good shape. **No trim today. Full session.**
+
+### 🟢 THE ANKLE — THREE PROGRESSIVELY HARDER EXPOSURES, ALL CLEAN
+
+| Day | Exposure | Morning after |
+|---|---|---|
+| Day 8 | 4 km **road** @ 5:30/km | ✅ Clean |
+| **Day 11** | **5 km @ 5:00/km, 160 avg — highest-force running since the race** | ✅ **Clean** |
+| Day 12 | Total-body Barry's, ~18 h later | ✅ Clean |
+| Day 15 | — | ✅ **Clean today** |
+
+**Thursday was an unsanctioned load test and the tendon passed it.** A tibialis posterior still in
+trouble does not take 5 km at tempo force and stay quiet for three days. **Combined with the
+trajectory that already ruled out bone stress, this flag is now effectively resolved.**
+
+**🟡 TWO THINGS DO NOT CHANGE, AND THEY ARE THE REASON IT STAYS ON THE PAGE:**
+
+1. **The loading programme continues** — isometrics daily, slow heavy heel raises every other day,
+   band inversion. **Tendinopathy recurs when loading stops, and stopping it because the tendon
+   feels fine is the standard way people re-injure.** It is also still the treatment, not a test.
+2. **48-hour spacing between runs holds through Week 2.** One more clean week before back-to-back
+   running days come back.
+
+### 🟡 "TOTAL BODY, MOSTLY CHEST" — PARTIAL CREDIT, NOT CLOSURE
+
+**Some lower-body load, upper-dominant. The last DEDICATED lower-body session is still 25 Aug.**
+
+**The zone data independently corroborates the report**, which is worth noting because the body
+part could not be resolved from HR alone: **Friday ran Z1 19:33 / Z3 05:46, against the 4 Aug
+dedicated lower-body session at Z1 15:05 / Z3 07:22.** **More Zone 1, less Zone 3 is the signature
+of upper-body emphasis** — chest and arm work generates less cardiovascular demand per minute than
+loaded leg work. **Trace and report agree.**
+
+**So: the ~20 min home glute session is still owed and is prescribed this week.** Risk is lower
+than the raw day count implies — the legs have had a total-body class plus three runs, so this is
+**not** 26 days of nothing. **But the next dedicated lower-body class still counts as a first
+session back: walking lunges, no jumping lunges, no jump squats, no box jumps.** That rule stays
+live until two clean dedicated lower-body sessions are logged.
+
+**❓ What is Tuesday's body part?** If Tuesday 22 Sep is legs, the gap closes properly this week.
+
+---
 
 ---
 
@@ -388,11 +444,25 @@ and on first steps the next morning — the gate passed.** 🚩 30 sec/km fast, 
 **Thu 17 Sep:** ⚠️ **5.02 km @ 5:00/km, 160 avg, max 173. Z3 68%, Z4 3:43.** ❌ 54 sec/km fast, 20 bpm over cap, abort rule ignored. 🟢 Fitness intact, post-workout 169→112→104 best in log. RHR 56.
 **Fri 18 Sep:** ✅ **Barry's 46:21, 130 avg, max 163, zero Zone 4.** On target. ❓ Body part unreported.
 **Sat 19 Sep:** Rest (assumed).
-**Sun 20 Sep:** ⏳ **7 km, GRASS OR TRAIL, HR <145.** Pace is an output. ⬇️ 5 km on any morning stiffness.
+**Sun 20 Sep:** ✅ **GO — 7 km, GRASS OR TRAIL, HR <145.** Pace is an output. Gate passed: ankle clean, RHR 52.
 
-**❓ THREE THINGS OUTSTANDING:** (1) **the ankle on Fri, Sat and this morning** — unreported after the
-hardest load since the race, and it is the only monitoring system left; (2) **Friday's Barry's body
-part**; (3) **this morning's resting HR**.
+**✅ ANSWERED 20 SEP:** ankle **clean** through all three exposures; Friday was **total body, mostly
+chest** (partial credit, gap not closed); **RHR 52**, back inside baseline from 56.
+
+**⏳ STILL OWED THIS WEEK: the ~20 min home glute strength session.** ❓ **And what is Tuesday's
+body part?**
+
+### 🎯 AND THE MECHANISM FIX CARRIES INTO WEEK 2'S QUALITY SESSION
+
+**Terrain governs easy runs. It cannot govern a threshold session** — that one needs a pace, and
+this athlete has now missed three in a row on the easy end and has one precedent on the hard end
+(**27 Aug: a prescribed 3 km @ 4:50/km run as an unplanned maximal 5 km at 4:29/km**).
+
+**➡️ Week 2's threshold session gets built as a STRUCTURED WATCH WORKOUT with pace alerts**, not
+written as a number in a plan. `data_capture_protocol.md` already recommends this *"whenever the
+session has more than one intensity"* — **the new argument is that it is the only prescription
+mechanism in this campaign with a demonstrated ability to hold an intensity.** It also fixes the
+split-capture problem in the same move.
 
 **Week 2 now opens with a different question than planned.** It was going to be *"is there enough
 evidence to reintroduce threshold?"* **Thursday answered part of that by accident — 5:00/km @ 160,

@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 20 Sep 2026 (Thu run logged as a tempo — pace governor moves to terrain)*
+*Last updated: 20 Sep 2026 (ankle clean, RHR 52 — flag effectively resolved; lower-body gap still open)*
 
 ---
 
@@ -110,13 +110,27 @@ flat on grass.** 🛑 Any medial ankle sensation → stop and walk home.
 than 7 km easy** — today is a step down in intensity and up in duration, which is the right
 direction. **That reasoning depends entirely on ankle reads that have not been reported.**
 
-### ❓ THREE THINGS OUTSTANDING
+### ✅ ALL THREE ANSWERED (20 SEP)
 
-1. **🔴 THE ANKLE — Friday, Saturday and this morning.** Unreported after the hardest running load
-   since the race, on the tendon. **It is the only monitoring system left since the physio was
-   dropped.**
-2. **Friday's Barry's body part.**
-3. **This morning's resting HR** — protocol v3 makes pre-run readings mandatory.
+**1 — ANKLE CLEAN. 🟢 THE FLAG IS NOW EFFECTIVELY RESOLVED.** Three progressively harder exposures,
+all with clean morning reads: **day 8** 4 km road @ 5:30/km → **day 11** 5 km @ 5:00/km at 160 avg,
+the highest-force running since the race → **day 12** total-body Barry's ~18 h later → **day 15
+clean**. **Thursday was an unsanctioned load test and the tendon passed it.**
+
+**🟡 Two things do not change:** (a) **the loading programme continues** — tendinopathy recurs when
+loading stops, and stopping because it feels fine is the standard re-injury route; (b) **48-hour
+spacing between runs holds through Week 2.**
+
+**2 — FRIDAY WAS TOTAL BODY, MOSTLY CHEST. 🟡 Partial credit, not closure.** Last dedicated
+lower-body session is still 25 Aug. **The zone data corroborates the report independently:** Friday
+ran **Z1 19:33 / Z3 05:46** against 4 Aug's dedicated lower-body **Z1 15:05 / Z3 07:22** — more
+Zone 1, less Zone 3 is the upper-body signature. **The ~20 min home glute session is still owed.**
+**The next dedicated lower-body class is still a first session back: walking lunges, no
+plyometrics.** ❓ **Is Tuesday legs?**
+
+**3 — RHR 52. 🟢 Back inside the 49–55 baseline from 56.** Confirms the elevation was the late
+night, not illness or accumulated fatigue, and that **both Thursday's tempo and Friday's class were
+absorbed.** No trim — full session today.
 
 ---
 
