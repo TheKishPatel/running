@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 15 Sep 2026*
+*Last updated: 20 Sep 2026*
 
 ---
 
@@ -36,8 +36,8 @@ quality to move a threshold that has not moved all summer.
 
 | Week | Dates | Shape | Volume | Status |
 |---|---|---|---|---|
-| **W1** | **14–20 Sep** | **Easy-only rebuild.** 4 → 5 → 6 → 8 km, ankle-gated at every step | **23 km** | 🔄 **Current** |
-| W2 | 21–27 Sep | **Threshold returns** — one conservative session | ~30 km | ⏳ |
+| **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
+| **W2** | **21–27 Sep** | **Threshold returns** — one conservative session, **built as a structured watch workout** | ~24–28 km | 🔄 **Current — plan due** |
 | W3 | 28 Sep – 4 Oct | **Heaviest quality week** — threshold + race pace | ~33 km | ⏳ |
 | W4 | 5–11 Oct | **Sharpen and taper into the race** | ~25 km | ⏳ |
 
@@ -46,8 +46,9 @@ quality to move a threshold that has not moved all summer.
 | # | Gate | When | Status |
 |---|---|---|---|
 | **0** | **Return-to-run: ankle clean during, that evening, and next morning** | Mon 14 Sep | ✅ **PASSED** — 4 km road @ ~5:30/km, clean at all three |
-| **1** | **W1 completes clean** — Thursday's Barry's happens, Sunday's 8 km happens, and the runs come back with data | Sun 20 Sep | ⏳ **Open.** Decides whether W2 opens with threshold work |
-| **2** | **Threshold re-read** — first quality session since 6 Aug | W2 | ⏳ Not set. Needs W1's HR data to set a pace |
+| **0b** | **Ankle tolerates real load** | Thu 17 Sep | ✅ **PASSED** — 5 km @ 5:00/km, 160 avg, clean. **Flag resolved** |
+| **1** | **W1 completes clean** | Sun 20 Sep | ✅ **PASSED** — 7 km @ 5:50/km, 139 avg, no drift, ankle clean. **Terrain governor validated** |
+| **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **W2** | ⏳ **Next. The block's first real read — sub-20:30 sits on it** |
 | **3** | **Race-pace read** | W3 | ⏳ |
 
 ### The block's actual problem
@@ -59,14 +60,14 @@ result; **the gap to sub-20 is threshold and this block is the last chance to mo
 
 ### Live constraints
 
-- **🟢 Left medial ankle (tib post tendinopathy)** — opened 9 Sep, downgraded 🔴 → 🟢 on 15 Sep.
-  **No longer gates sessions; still governs the rate of volume increase.** Loading programme daily.
-  **Physio dropped 15 Sep** — defensible on the trajectory, with re-book triggers in the week plan.
-- **🔴 Lower-body Barry's gap: 21 days and extending** (last session 25 Aug; 15 Sep missed —
-  trainers forgotten). **31 Mar VMO precedent is 21 days exactly.** Prescribed fix: a lower-body
-  class Thu 17 Sep rather than Tue 22, which would make it 28.
-- **🚩 Data capture** — third consecutive week with a gap. Week 2's threshold pace cannot be set
-  without W1's HR data.
+- **🟢 Left medial ankle — RESOLVED 20 Sep.** Four clean exposures incl. 5 km @ 5:00/km and a 7 km.
+  **Loading programme continues** (recurrence risk on stopping) and **48 h run spacing holds through
+  W2.** Physio dropped 15 Sep; re-book triggers stand.
+- **🔴 Lower-body gap still open — 26 days.** Last dedicated session 25 Aug. 15 Sep missed (trainers);
+  18 Sep was total body, **mostly chest** — partial credit only. **Home glute session owed.** Next
+  dedicated lower-body class is a first session back: **walking lunges, no plyometrics.**
+- **✅ Data capture fixed** — full splits, zones and power on both W1 runs. **🎯 Easy runs are now
+  governed by surface + HR (validated 20 Sep); the quality session must be a structured watch workout.**
 - **⚠️ Illness** — five episodes cost ~30 days this campaign. **With three quality weeks left and
   no slack, one episode ends the block.**
 

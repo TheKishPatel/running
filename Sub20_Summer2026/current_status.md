@@ -1,8 +1,83 @@
 # Current Status
 
-*Last updated: 20 Sep 2026 (ankle clean, RHR 52 — flag effectively resolved; lower-body gap still open)*
+*Last updated: 20 Sep 2026 (Week 1 CLOSED — terrain governor validated, ankle flag resolved)*
 
 ---
+
+## 📕 OCTOBER BLOCK — WEEK 1 CLOSED (Mon 14 – Sun 20 Sep)
+
+**Full summary: `02_training_log/weekly_summaries/oct_block_week_01_summary.md`.**
+
+**16.02 km prescribed across 3 runs (18.42 km incl. a 2.40 km family section), 1 Barry's.**
+23 km was planned; **two sessions were lost to logistics, not training** — Tuesday's Barry's
+(trainers forgotten) and Wednesday's run (rolled to Thursday, and the 6 km never recovered).
+
+**Week 1's stated job was volume. What it actually delivered was two answers the block needed
+more.**
+
+### 🟢 1 — THE ANKLE FLAG IS RESOLVED
+
+**Four consecutive clean exposures:** day 8 4 km road @ 5:30/km → **day 11 5 km @ 5:00/km at 160
+avg, the highest-force running since the race** → day 12 total-body Barry's ~18 h later → **day 15
+7 km, the longest run since the half.** All clean the next morning.
+
+**Thursday's overcooked run was accidentally the most informative session of the week** — a tendon
+still in trouble does not absorb 5 km at tempo force and stay silent for three days.
+
+**Carrying forward anyway:** the **loading programme continues** (tendinopathy recurs when loading
+stops — stopping because it feels fine is the standard re-injury route), and **48-hour run spacing
+holds through Week 2.**
+
+### 🟢 2 — THE PRESCRIPTION METHOD WAS THE PROBLEM, AND CHANGING IT WORKED
+
+| Run | Method | Prescribed | Actual |
+|---|---|---|---|
+| Mon 14 | Pace number | 6:00/km | ❌ ~5:30/km (**+30**) |
+| Thu 17 | Pace + HR cap + written abort | 5:55/km, HR <140 | ❌ **5:00/km, 160 avg** (**+54**, cap +20, abort ignored) |
+| **Sun 20** | **Surface + HR, pace as output** | Grass/trail, HR <145 *(predicted 5:45–6:05)* | ✅ **5:50/km, 139 avg — mid-band** |
+
+**Three numeric prescriptions, three misses. First terrain-and-HR prescription, a hit.** One data
+point is not proof, **but it is the mechanism working as argued. It is now the default for easy
+running.**
+
+**Sunday's aerobic signature was the cleanest in weeks:** km2 5:47 @ 138 (209 W) vs km6 5:51 @ 141
+(202 W) — **+2.2% HR at the same pace over ~20 min** — and HR rose to 147 at km5 then **fell back**
+to 140. **Drift does not reverse; an excursion does.** Cap touched not breached: max 157, **02:05
+in Zone 3 across 62 min** with 42 m of climb. Post-workout **119 → 84 → 74**, though the last
+2.4 km at pushchair pace mean recovery had already begun — **not comparable to Thursday's
+169 → 112 → 104.**
+
+### 📊 Fitness — level with early August, and surface-dependent
+
+**20 Sep: 5:50/km @ 139.** References: 5 Aug 5:46 @ 139 · 19 Aug 5:46 @ 137 · **23 Aug 5:48 @ 132**.
+At face value that is level with early August and ~7 bpm off the peak — the expected cost of a half
+plus a fortnight of nothing, recoverable in 2–3 consistent weeks.
+
+**❓ Surface is unconfirmed and it changes the conclusion.** Grass/trail costs 15–25 sec/km at equal
+effort, so **if Sunday was on soft ground as prescribed, the read is materially better than level.**
+Thursday agrees from the other end: 5:00/km @ 160 with power **below** threshold. **No decline.**
+
+### ⚠️ Open going into Week 2
+
+- **🔴 Lower-body gap NOT closed.** Friday was total body, **mostly chest** — partial credit. Last
+  dedicated lower-body session is still **25 Aug**. Zone split corroborates (Z1 19:33 / Z3 05:46 vs
+  4 Aug's Z1 15:05 / Z3 07:22 — more Z1, less Z3 is the upper-body signature). **The free home
+  glute session was prescribed and not done. Still owed.** Next dedicated lower-body class is still
+  a first session back: **walking lunges, no plyometrics.**
+- **🎯 Week 2's quality session must be a STRUCTURED WATCH WORKOUT with pace alerts.** Terrain
+  cannot govern a threshold session, and the hard-end precedent is **27 Aug — a prescribed 3 km @
+  4:50/km run as a maximal 5 km @ 4:29/km.** A built workout is the only mechanism here with a
+  demonstrated ability to hold an intensity, and it fixes split capture too.
+- **Threshold unmeasured since 6 Aug (4:23/km).** Week 2's session is the block's first real read
+  and **the whole sub-20:30 question sits on it.**
+- **❗ The October race is still not named or entered** — raised 15 Sep, unanswered. **W4 depends
+  on it.**
+
+**➡️ `/weekly-plan` is due for Week 2 (Mon 21 – Sun 27 Sep).**
+
+---
+
+## Superseded — Week 1 in progress
 
 ## 🟢 STATUS: **OCTOBER 5K SHARPENING BLOCK, WEEK 1 OF 4. THE ANKLE GATE IS PASSED.**
 
