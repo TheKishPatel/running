@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 17 Sep 2026 (W1 reshuffled — Wed rolled to Thu, Barry's back on Fri, RHR 56)*
+*Last updated: 20 Sep 2026 (Thu run logged as a tempo — pace governor moves to terrain)*
 
 ---
 
@@ -44,6 +44,83 @@ do not go through a tendon that was work-from-home painful eight days ago. **Qua
 ---
 
 ---
+
+---
+
+## 🔴 20 SEP — THURSDAY WAS RUN AS A TEMPO. THE PACE GOVERNOR MOVES TO TERRAIN.
+
+**Prescribed: 5 km @ 5:55/km, HR <140, with an explicit abort — "HR above 140 → cut at 4 km and
+walk home." Actual: 5.02 km @ 5:00/km, 160 avg, max 173.** **54 sec/km fast, 20 bpm over the cap,
+and the abort rule triggered at km 2 and was not acted on.** Zone 1 zero, **Zone 3 17:06 = 68% of
+the session**, Zone 4 3:43, finishing with 5 s at 4:10/km and 171 bpm.
+
+**Third consecutive pace flag and the largest: +21 (1 Aug) → +30 (14 Sep) → +54 sec/km.**
+`CLAUDE.md` flags anything over 15.
+
+**➡️ THE CONCLUSION IS ABOUT THE METHOD: a numeric pace prescription is not governing this
+athlete's easy runs.** Three attempts, three misses, escalating. **From 20 Sep, easy runs are
+prescribed by SURFACE and HR; the pace number is a reported output, not an instruction** — per
+`CLAUDE.md` (*"Suggest trail running when pace discipline slips"*) and `athlete_preferences.md`
+pattern #3 (*"Trail running = natural pace governor"*).
+
+### 📉 The data backed the rule that was ignored — this was a forecast, not caution
+
+- **km2 4:59 @ 160; km5 4:58 @ 167** — same pace, **+7 bpm, 4.4% drift in ~15 min.**
+- **km4 → km5: power FELL 251 → 232 W while HR ROSE 162 → 167.** **Effort up, output down** —
+  exactly the cost the 56 resting HR predicted, arriving in the final kilometre.
+
+### 🟢 Two genuinely good findings
+
+1. **Fitness intact.** 5:00/km @ 160 sits sensibly against the 6 Sep half (4:43/km @ 168, 99 min);
+   power 238–251 W is **below** threshold (272–275 W at 4:23/km, 6 Aug). **No decline off an 8-day
+   layoff, 3 runs in a fortnight, bad sleep and RHR 56.**
+2. **Post-workout 169 → 112 → 104 — a 57 bpm drop in one minute, best in the log** (2 Aug long run
+   gave 40). **Autonomically absorbed.**
+
+**Neither justifies the session retrospectively.** They mean the cost was low **on a tendon 11 days
+off being WFH-painful — which was luck as much as judgement.**
+
+### 📐 New: cadence 159 SPM
+
+**Low.** Longer ground contact, **higher peak force per step — the loading variable that matters
+most for tibialis posterior.** No action now; candidate target ~170 SPM once the tendon is clear.
+
+---
+
+## ✅ FRI 18 BARRY'S — TEXTBOOK PLACEMENT. ❓ BODY PART UNREPORTED.
+
+**130 avg vs a <155 cap, max 163, Zone 4 ZERO.** Z1 19:33 / Z2 21:02 / Z3 5:46 over 46:21 —
+**Z2+3 = 58%**, sitting correctly between 28 Jul (too light: 125 avg, 32%) and 4 Aug (the corrected
+target: 135 avg, 64%). **No third hard day created, which mattered because Thursday was already an
+unplanned tempo.**
+
+**❓ The HR trace cannot resolve the body part, and the branches point opposite ways:**
+**lower body → the 24-day gap is CLOSED and the 31 Mar VMO precedent discharged**; **upper body →
+the gap is open, a third straight week without lower-body work, and the home strength session is
+still owed.** **One word settles it.**
+
+---
+
+## 🏃 TODAY — SUN 20 SEP: 7 km, GRASS OR TRAIL, HR <145
+
+**Pace is an output today, expect 5:45–6:05/km.** ⬇️ **Any ankle stiffness on first steps → 5 km
+flat on grass.** 🛑 Any medial ankle sensation → stop and walk home.
+
+**7 km still stands after Thursday because Thursday's 5 km at 5:00/km was a *higher-force* exposure
+than 7 km easy** — today is a step down in intensity and up in duration, which is the right
+direction. **That reasoning depends entirely on ankle reads that have not been reported.**
+
+### ❓ THREE THINGS OUTSTANDING
+
+1. **🔴 THE ANKLE — Friday, Saturday and this morning.** Unreported after the hardest running load
+   since the race, on the tendon. **It is the only monitoring system left since the physio was
+   dropped.**
+2. **Friday's Barry's body part.**
+3. **This morning's resting HR** — protocol v3 makes pre-run readings mandatory.
+
+---
+
+## Superseded — 17 Sep
 
 ## ⚠️ 17 SEP — RHR 56, BAD SLEEP, WORK DEADLINE. RUN GOES AHEAD ON A CONDITIONAL TRIM.
 
