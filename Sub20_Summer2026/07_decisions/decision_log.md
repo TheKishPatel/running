@@ -4,6 +4,39 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-09-22 — Week 2: threshold re-read on Friday at 4:20, as a built watch workout
+
+**Situation.** W1 closed at 16 km with the ankle flag resolved and the terrain-and-HR method
+validated on Sunday's 7 km. Threshold has not been measured since 6 Aug (4:23/km @ 169). Plan
+written Tuesday, after a 144-avg Barry's (hardest in the log, inside the <155 rule).
+
+**Decision.** Wed 6 km easy / **Fri 2 km + 4 × 1 km @ 4:20 (alert 4:16–4:24), 90 s jog + 2 km,
+structured watch workout, HR ceiling 178** / Sat home strength / Sun 8 km easy. ~22.5 km.
+
+**Rationale.**
+1. **Friday, not Thursday.** The 48 h run-spacing rule holds through W2. Tue → Thu quality leaves
+   no room for a second easy run before Sunday; Wed / Fri / Sun gets three runs at 48–72 h each,
+   and puts the threshold 72 h after a 144-avg class.
+2. **4:20, not 4:15.** 4:20 (2 Jul), 4:23 (6 Aug), then a half, 8 days off and a tendon flag.
+   A faster target would come from the goal, not the data. W3 moves it if Friday comes in low in
+   the HR band.
+3. **4 × 1 km, not 4 km continuous.** Same work as 6 Aug, split into four readable reps. Rep 1 vs
+   rep 4 gives the drift read, and the 90 s breaks cut continuous force on a tendon 16 days clear.
+4. **Built workout with pace alerts.** Three numeric easy-run prescriptions missed in W1. On the
+   hard end, 27 Aug turned 3 km @ 4:50 into a maximal 5 km @ 4:29. Terrain can govern an easy run
+   but not a threshold session. The watch alert is the remaining mechanism.
+5. **22.5 km, under the 24–28 km sketched on 15 Sep.** Intensity returns this week, and the ankle
+   flag governs the rate of volume increase. 16 → 22.5 km is the step. The 25 km/week re-book
+   trigger (28 Sep) is next week's line.
+
+**Scoring set in advance:** 🟢 4:20 or faster, reps 2–4 ≤172 avg → W3 5 × 1 km @ 4:17. 🟡 173–178
+→ W3 repeats 4:20. 🔴 cannot hold 4:24 → re-set at 4:25, sub-20:30 target reviewed.
+
+**Race default:** still unnamed after two asks. **If unnamed by Sun 27 Sep, W4 is written for a
+Sat 10 Oct parkrun.**
+
+---
+
 ## 2026-09-13 — Hop test withdrawn, tendon loading programme issued, resting HR moves to pre-run only
 
 **Situation.** Sunday's return-to-run was held: ten hops on the left ankle produced tightness.

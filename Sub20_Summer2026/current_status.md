@@ -1,8 +1,48 @@
 # Current Status
 
-*Last updated: 20 Sep 2026 (Week 1 CLOSED — terrain governor validated, ankle flag resolved)*
+*Last updated: 22 Sep 2026 (Week 2 plan written; Tuesday's Barry's logged)*
 
 ---
+
+## 🟢 OCTOBER BLOCK — WEEK 2 LIVE (Mon 21 – Sun 27 Sep). THRESHOLD RETURNS FRIDAY.
+
+**Live plan: `current_week_plan.md`.**
+
+| Day | Session | Status |
+|---|---|---|
+| Mon 21 | Rest | Unreported — assumed |
+| **Tue 22** | **Barry's** | ✅ **44:23, 144 avg, max ~175, Z4 01:14. Inside the rule** |
+| Wed 23 | Easy 6 km, grass/trail, HR <145 | ⏳ |
+| Thu 24 | Rest | ⏳ Build Friday's workout on the watch |
+| **Fri 25** | **Threshold: 2 km / 4 × 1 km @ 4:20 (alert 4:16–4:24), 90 s / 2 km. Structured workout, HR ceiling 178** | ⏳ **Gate 2** |
+| Sat 26 | Home strength ~20 min (owed since W1) | ⏳ |
+| Sun 27 | Easy 8 km, grass/trail, HR <145 | ⏳ |
+
+**~22.5 km, 3 runs, 48 h spacing throughout.**
+
+### ✅ Tue 22 Barry's — inside the rule, hardest in the log
+
+**144 avg (<155 ✅), Zone 2+3 77% (majority ✅), Zone 4 01:14, Zone 5 zero.** Rule met.
+
+**But it tops every Barry's on record:** highest average (prev 138, 7 Jul), highest Zone 3 (16:02
+vs 12:14), lowest Zone 1 (08:47). Zone 4 sits below 7 Jul's 01:54. **One session is not a flag.
+A second Tuesday like it would be.**
+
+**The zone shape points to legs:** 18 Sep chest-dominant ran Z1 19:33 / Z3 05:46; today ran the
+reverse. **If legs, the lower-body gap closed at 28 days.** Post-workout 119 → 115 → 117, flat,
+the normal Barry's shape.
+
+### ❓ Open
+
+- **Tuesday's body part, and whether jumping lunges were swapped for walking lunges.** Decides
+  whether the gap is closed and what next Tuesday looks like.
+- **Resting HR not reported this week.** Required Wed and Fri mornings (Friday gates the session).
+- **❗ The October race is still not named.** Default if still unnamed by Sunday: **Sat 10 Oct
+  parkrun.**
+
+---
+
+## Superseded — Week 1 closed (20 Sep)
 
 ## 📕 OCTOBER BLOCK — WEEK 1 CLOSED (Mon 14 – Sun 20 Sep)
 

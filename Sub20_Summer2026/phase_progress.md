@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 20 Sep 2026*
+*Last updated: 22 Sep 2026*
 
 ---
 
@@ -20,12 +20,12 @@
 | **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. PB BY 5:06 (prev 1:44:38). Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
 | **Recovery week** | — | **Mon 7 – Sun 13 Sep** | ✅ **Complete — 0 km.** Race absorbed. Left medial ankle flag opened 9 Sep; all running cancelled | — |
-| **5K sharpening block** | **1–4** | **Mon 14 Sep – Sun 11 Oct** | 🔄 **Current — W1 live.** Opened easy-only. **Race date not yet named** | ✅ **Ankle gate passed 15 Sep** |
+| **5K sharpening block** | **1–4** | **Mon 14 Sep – Sun 11 Oct** | 🔄 **Current — W2 live.** Threshold returns Fri 25 Sep. **Race date not yet named** | ✅ **Ankle gate passed 15 Sep** |
 
-> **Live plan = `current_week_plan.md`** (October 5K sharpening block, W1 of 4).
+> **Live plan = `current_week_plan.md`** (October 5K sharpening block, W2 of 4).
 > `big_half_block_Sep2026.md` is closed — the 6 Sep half marathon delivered a 5:06 PB (1:39:32).
 > **Targets for October: sub-20:30 and a 5K PB realistic; sub-20:00 a stretch.**
-> **❗ The race itself has still not been named or entered — that decision is due this week.**
+> **❗ The race itself has still not been named or entered. Default if unnamed by Sun 27 Sep: Sat 10 Oct parkrun.**
 
 ---
 
@@ -37,7 +37,7 @@ quality to move a threshold that has not moved all summer.
 | Week | Dates | Shape | Volume | Status |
 |---|---|---|---|---|
 | **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
-| **W2** | **21–27 Sep** | **Threshold returns** — one conservative session, **built as a structured watch workout** | ~24–28 km | 🔄 **Current — plan due** |
+| **W2** | **21–27 Sep** | **Threshold returns** — Fri 2 km / 4 × 1 km @ 4:20, 90 s / 2 km, **structured watch workout**. Wed 6 km + Sun 8 km easy, terrain + HR | **~22.5 km** (was ~24–28) | 🔄 **Current.** Tue Barry's ✅ 144 avg |
 | W3 | 28 Sep – 4 Oct | **Heaviest quality week** — threshold + race pace | ~33 km | ⏳ |
 | W4 | 5–11 Oct | **Sharpen and taper into the race** | ~25 km | ⏳ |
 
@@ -48,7 +48,7 @@ quality to move a threshold that has not moved all summer.
 | **0** | **Return-to-run: ankle clean during, that evening, and next morning** | Mon 14 Sep | ✅ **PASSED** — 4 km road @ ~5:30/km, clean at all three |
 | **0b** | **Ankle tolerates real load** | Thu 17 Sep | ✅ **PASSED** — 5 km @ 5:00/km, 160 avg, clean. **Flag resolved** |
 | **1** | **W1 completes clean** | Sun 20 Sep | ✅ **PASSED** — 7 km @ 5:50/km, 139 avg, no drift, ankle clean. **Terrain governor validated** |
-| **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **W2** | ⏳ **Next. The block's first real read — sub-20:30 sits on it** |
+| **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **Fri 25 Sep** | ⏳ **4 × 1 km @ 4:20. 🟢 ≤172 avg reps 2–4 → W3 at 4:17. 🟡 173–178 → W3 repeats 4:20. 🔴 can't hold 4:24 → re-set 4:25, sub-20:30 reviewed** |
 | **3** | **Race-pace read** | W3 | ⏳ |
 
 ### The block's actual problem
@@ -63,9 +63,10 @@ result; **the gap to sub-20 is threshold and this block is the last chance to mo
 - **🟢 Left medial ankle — RESOLVED 20 Sep.** Four clean exposures incl. 5 km @ 5:00/km and a 7 km.
   **Loading programme continues** (recurrence risk on stopping) and **48 h run spacing holds through
   W2.** Physio dropped 15 Sep; re-book triggers stand.
-- **🔴 Lower-body gap still open — 26 days.** Last dedicated session 25 Aug. 15 Sep missed (trainers);
-  18 Sep was total body, **mostly chest** — partial credit only. **Home glute session owed.** Next
-  dedicated lower-body class is a first session back: **walking lunges, no plyometrics.**
+- **🟡 Lower-body gap — probably closed 22 Sep, unconfirmed.** Last confirmed dedicated session 25 Aug.
+  Tue 22 Sep Barry's (144 avg, Z3 16:02 — the leg-day zone shape, hardest class in the log); **body
+  part and lunge substitution unreported.** If legs: gap closed at 28 days, walking lunges one more
+  Tuesday. **Home glute session (owed since W1) prescribed Sat 26 Sep.**
 - **✅ Data capture fixed** — full splits, zones and power on both W1 runs. **🎯 Easy runs are now
   governed by surface + HR (validated 20 Sep); the quality session must be a structured watch workout.**
 - **⚠️ Illness** — five episodes cost ~30 days this campaign. **With three quality weeks left and
