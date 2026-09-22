@@ -31,7 +31,7 @@ cannot be chosen.** Attending on a given day means taking whatever that day is.
 | Day | Body part |
 |---|---|
 | Mon | ❓ unrecorded |
-| Tue | ❓ unrecorded — the habitual slot |
+| **Tue** | **Legs** (confirmed 22 Sep) — the habitual slot. **Walking lunges on the first 2 sessions after any gap** |
 | Wed | ❓ unrecorded |
 | **Thu** | **Glutes / "butt"** (reported 15 Sep, wording approximate) |
 | Fri | ❓ unrecorded |

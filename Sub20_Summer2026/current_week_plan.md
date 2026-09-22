@@ -1,17 +1,17 @@
 # Current Week Plan
 
-*Last updated: 22 Sep 2026 — Week 2 plan written Tuesday; Tuesday's Barry's logged.*
+*Last updated: 22 Sep 2026 — Tuesday confirmed legs with walking lunges; race booked Sat 17 Oct. Block extended to 5 weeks.*
 
 ---
 
-## 🟢 OCTOBER 5K SHARPENING BLOCK — WEEK 2 of 4 (Mon 21 – Sun 27 Sep)
+## 🟢 OCTOBER 5K SHARPENING BLOCK — WEEK 2 of 5 (Mon 21 – Sun 27 Sep). RACE: SAT 17 OCT
 
 **Threshold returns this week. One session, Friday, built as a structured watch workout.**
 It is the first quality running since 6 Aug (4 km @ 4:23/km, 169 avg) and **the block's first
 real read. The sub-20:30 question sits on it.**
 
-**Volume target: ~22.5 km across 3 runs (6 + ~8.5 + 8), one Barry's (done), one home strength
-session, tendon loading daily.** W1 ran 16 km. +6.5 km is the step. Under 25 km on purpose:
+**Volume target: ~22.5 km across 3 runs (6 + ~8.5 + 8), one Barry's (done, legs), ~10 min glute
+medius Saturday, tendon loading daily.** W1 ran 16 km. +6.5 km is the step. Under 25 km on purpose:
 the ankle flag still governs how fast volume rises, and this week adds intensity.
 
 ---
@@ -21,11 +21,11 @@ the ankle flag still governs how fast volume rises, and this week adds intensity
 | Day | Session | Target |
 |---|---|---|
 | **Mon 21** | 😴 Rest *(unreported — assumed)* | — |
-| **Tue 22** | ✅ **Barry's, 44:23, 144 avg, Z4 1:14** | ✅ **Inside the rule. Hardest Barry's in the log.** Body part ❓ |
+| **Tue 22** | ✅ **Barry's LEGS, 44:23, 144 avg, Z4 1:14. Walking lunges** | ✅ **Inside the rule. Lower-body gap CLOSED at 28 days** |
 | **Wed 23** | 🏃 **EASY 6 km — GRASS OR TRAIL** | **HR <145 hard. Pace is an output (expect 5:45–6:05/km)** |
 | **Thu 24** | 😴 Rest + tendon loading | Carbs to training-day level in the evening (338–405 g) |
 | **Fri 25** | 🎯 **THRESHOLD — 2 km WU / 4 × 1 km @ 4:20/km, 90 s jog / 2 km CD** | **STRUCTURED WATCH WORKOUT. Pace alert 4:16–4:24. HR ceiling 178** |
-| **Sat 26** | 💪 **Home strength, ~20 min** (the owed session) | No jumping, nothing landing |
+| **Sat 26** | 💪 **Glute medius, ~10 min** (clamshells + single-leg bridge) | Tuesday covered the legs. No jumping |
 | **Sun 27** | 🏃 **EASY 8 km — GRASS OR TRAIL** | **HR <145 hard. Pace is an output** |
 
 **Spacing: Sun → Wed 72 h, Wed → Fri 48 h, Fri → Sun 48 h.** The 48-hour rule holds through
@@ -62,19 +62,28 @@ if next Tuesday repeats it.**
 **Post-workout 119 → 115 → 117:** flat, same shape as 4 Aug and 18 Aug. Barry's ends on
 mobility, not a hard stop. **Not a recovery problem.**
 
-### ❓ THE ZONE SHAPE SAYS LEGS. ONE WORD CONFIRMS IT.
+### ✅ CONFIRMED: LEGS, WALKING LUNGES. THE GAP IS CLOSED.
 
-**18 Sep (chest-dominant): Z1 19:33 / Z3 05:46. Today: Z1 08:47 / Z3 16:02. The opposite
-shape.** Loaded leg work is what generates sustained Zone 3.
+**The zone shape called it** (18 Sep chest: Z1 19:33 / Z3 05:46; today the reverse), and the
+report confirms it. **First dedicated lower-body session in 28 days (last 25 Aug), and the
+first-session-back rule was followed: walking lunges, no jumping lunges.** That is exactly the
+31 Mar precedent handled correctly.
 
-- **If legs:** first dedicated lower-body session in **28 days** (last 25 Aug). **The gap is
-  closed.** Walking lunges again next Tuesday, then jumping lunges return. **❓ Were jumping lunges
-  swapped for walking lunges today?** If not, report any inner-quad / VMO sensation. That is the
-  31 Mar injury pattern exactly.
-- **If not legs:** the gap is at 28 days and still open. Saturday's home session is then the
-  only lower-body loading this week and stops being optional.
+**The 144 average fits:** a first leg session after 28 days costs more HR for the same work.
+That is the deconditioning showing up, and it should fall back toward 131–135 over the next two
+Tuesdays.
 
-**Either way, 144 avg is the hardest class in the log, and Wednesday is the day after it.**
+| Tuesday | Lunges |
+|---|---|
+| ✅ 22 Sep | Walking — session 1 of 2 |
+| **29 Sep** | **Walking — session 2 of 2** |
+| **6 Oct** | **Jumping lunges return** if both are clean |
+| 13 Oct | Race week — decided in the W5 plan |
+
+**Report any inner-quad / VMO sensation tomorrow morning.** That is the only thing that changes
+the table above.
+
+**144 avg is the hardest class in the log, and Wednesday is the day after it.**
 That is the reason Wednesday is governed by terrain and HR and not by distance.
 
 ---
@@ -178,21 +187,19 @@ complete rest, no exceptions.
 
 ---
 
-## 💪 SAT 26 SEP — HOME STRENGTH, ~20 min (OWED SINCE W1)
+## 💪 SAT 26 SEP — GLUTE MEDIUS, ~10 min
 
-**Moved to Saturday on purpose.** Thursday would put it 24 h before the threshold. Saturday is
-the day after, and it is bodyweight only.
+**Cut from the full ~20 min home session.** That session was a stand-in for the missing leg day.
+Tuesday was the leg day. What stays is the part a Barry's class does not target directly:
 
 | Exercise | Dose |
 |---|---|
-| **Band clamshells / side-lying hip abduction** | **3 × 15 each side** — glute medius, the priority |
+| **Band clamshells / side-lying hip abduction** | **3 × 15 each side** |
 | **Single-leg glute bridge** | **3 × 12 each side** |
-| **Split squat** | **3 × 10 each side** |
-| **Step-ups** | **3 × 12 each side** |
-| **Walking lunges** | **3 × 10 each side** |
 
-**❌ No jumping, nothing landing.** If Tuesday was legs, this is glute-medius maintenance. If not,
-it is the only lower-body loading of the week.
+**Why keep it:** glute medius controls hip drop, which controls pronation, which is the load on
+tibialis posterior at every footstrike. **On the tendon that was flagged three weeks ago, this is
+the highest-value 10 minutes of the week.** No jumping, nothing landing.
 
 ---
 
@@ -226,13 +233,25 @@ strap, no threshold verdict (29 Aug: wrist optical under-read by ~25 bpm).
 
 ---
 
-## ❗ THE RACE IS STILL NOT NAMED
+## 🏁 RACE BOOKED: SATURDAY 17 OCTOBER
 
-**Raised 15 Sep. Raised 20 Sep. Unanswered.** Week 3 starts Monday and **W4's taper cannot be
-written without a date.** A parkrun on Sat 10 Oct and a chip-timed Sunday 5K are different
-planning objects: different taper day, different warm-up, different pacing plan.
+**The block grows from 4 weeks to 5.** The race is 6 days later than the old W4 end date (11 Oct).
+**That extra week is a quality week.** It is not extra taper.
 
-**Name it by Sunday. If it is not named, W4 is written as a Sat 10 Oct parkrun by default.**
+| Week | Dates | Shape | Volume |
+|---|---|---|---|
+| W1 | 14–20 Sep | Easy-only rebuild | ✅ 16 km |
+| **W2** | **21–27 Sep** | **Threshold re-read (Fri)** ← this week | ~22.5 km |
+| W3 | 28 Sep – 4 Oct | Threshold progression + first race-pace session. 48 h spacing lifted if W2 is clean | ~27 km |
+| **W4** | **5–11 Oct** | **Heaviest quality week.** Threshold + race-pace 5K session | ~32 km |
+| **W5** | **12–17 Oct** | **Race week. Taper to Saturday** | ~15 km + race |
+
+**What it buys:** three quality weeks after Friday's re-read instead of two. **What it does not
+change:** threshold is still the limiter. Friday's read is still the input every later week is
+built on.
+
+**❓ Two details for the W5 plan, not needed now:** is it chip-timed or a parkrun, and what time
+does it start? Warm-up length and race-morning food depend on both.
 
 ---
 
@@ -261,21 +280,22 @@ planning objects: different taper day, different warm-up, different pacing plan.
 - **Return only at 100% symptom-free.**
 - **Resting HR >60 on a training morning → rest. 56–60 → trim.**
 
-**Five episodes cost ~30 days this campaign. With two quality weeks left after this one, an
-episode now ends the block.**
+**Five episodes cost ~30 days this campaign. With three quality weeks left after this one, an
+episode now costs the race.**
 
 ---
 
 ## Week Log
 
 **Mon 21 Sep:** Rest (unreported — assumed).
-**Tue 22 Sep:** ✅ **Barry's, 44:23, 144 avg, max ~175. Z1 08:47 / Z2 18:20 / Z3 16:02 / Z4 01:14.
-Z2+3 77%.** Inside the rule; hardest Barry's in the log. Post 119→115→117. ❓ Body part and lunge
-substitution unreported.
+**Tue 22 Sep:** ✅ **Barry's LEGS, 44:23, 144 avg, max ~175. Z1 08:47 / Z2 18:20 / Z3 16:02 / Z4 01:14.
+Z2+3 77%.** Inside the rule; hardest Barry's in the log. Walking lunges ✅. **Lower-body gap closed at
+28 days.** Post 119→115→117.
 **Wed 23 Sep:** ⏳ Easy 6 km, grass/trail, HR <145.
 **Thu 24 Sep:** ⏳ Rest. Build Friday's workout on the watch.
 **Fri 25 Sep:** ⏳ **Threshold: 2 km / 4 × 1 km @ 4:20, 90 s / 2 km.** Structured workout.
-**Sat 26 Sep:** ⏳ Home strength ~20 min.
+**Sat 26 Sep:** ⏳ Glute medius ~10 min.
 **Sun 27 Sep:** ⏳ Easy 8 km, grass/trail, HR <145.
 
-**❓ OWED: Tuesday's body part, and whether jumping lunges were swapped. The race date.**
+**✅ ANSWERED 22 SEP:** Tuesday was **legs, walking lunges.** Race **booked: Sat 17 Oct.**
+**❓ OWED: resting HR (coming today). Any VMO / inner-quad sensation tomorrow morning.**

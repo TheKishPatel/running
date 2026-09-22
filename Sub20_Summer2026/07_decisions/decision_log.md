@@ -4,6 +4,34 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-09-22 (later) — Race booked Sat 17 Oct: block extends to 5 weeks; Tuesday confirmed legs
+
+**Race.** Booked for **Saturday 17 October** — six days after the old W4 end date (11 Oct).
+
+**Decision: the extra week goes to quality, not taper.**
+
+| Week | Dates | Shape | Volume |
+|---|---|---|---|
+| W2 | 21–27 Sep | Threshold re-read (Fri) — unchanged | ~22.5 km |
+| W3 | 28 Sep – 4 Oct | Threshold progression + first race-pace session | ~27 km |
+| W4 | 5–11 Oct | Heaviest quality week | ~32 km |
+| W5 | 12–17 Oct | Race week, taper to Saturday | ~15 km + race |
+
+**Rationale.** Threshold is the limiter (4:20 → 4:23, flat all summer), and quality weeks are what
+move it. The old shape had two quality weeks after the re-read. This one has three. A 5K taper
+needs about 5 days, and race week already gives that. **Spreading the old W3 peak across W3 and W4
+also slows the volume ramp** (22.5 → 27 → 32 km instead of 22.5 → 33), which the ankle flag asks
+for anyway.
+
+**Barry's.** Tue 22 Sep confirmed **legs, walking lunges.** Lower-body gap closed at 28 days, and
+the first-session-back rule was followed. **Rotation recorded: Tue = legs** (`athlete_preferences.md`).
+Walking lunges Tue 29 Sep, jumping lunges from Tue 6 Oct if both are clean. **Tue 13 Oct is 4 days
+before the race and gets decided in the W5 plan.** Per `CLAUDE.md`, the class is not dropped. Only
+the plyometrics are open to modification. Saturday's home session is cut from ~20 min to ~10 min
+of glute medius work, since the class now covers the legs.
+
+---
+
 ## 2026-09-22 — Week 2: threshold re-read on Friday at 4:20, as a built watch workout
 
 **Situation.** W1 closed at 16 km with the ankle flag resolved and the terrain-and-HR method
