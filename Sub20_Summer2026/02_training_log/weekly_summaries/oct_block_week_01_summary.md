@@ -96,13 +96,26 @@ where power fell 251 → 232 W while HR rose 162 → 167.
 | 23 Aug, 18 km | 5:48/km | **132** |
 | **20 Sep, 7 km** | **5:50/km** | **139** |
 
-**At face value: level with early August, ~7 bpm worse than the 23 Aug peak at the same pace.** That
-is the expected cost of a half marathon plus a fortnight of almost no running, and it should close
-within 2–3 consistent weeks.
+**✅ SURFACE CONFIRMED (22 Sep): TRAIL.** All three August references are road, so they are not
+like-for-like — and the power data resolves it better than a surface adjustment would.
 
-**❓ But the surface is unconfirmed, and it changes the conclusion.** Grass or trail typically costs
-**15–25 sec/km at equal effort**, so if Sunday was run on soft ground as prescribed, it is not
-comparable to those road references and **the read is materially better than level.**
+**23 Aug is the only other easy run in the log with per-km power:**
+
+| | Pace | HR | Power |
+|---|---|---|---|
+| **23 Aug — ROAD** | 5:44/km | **125** | 208–215 W |
+| **20 Sep — TRAIL** | 5:46/km | **138** | 206–209 W |
+
+**Same pace, same measured power, HR 13 bpm higher.** Mechanical output intact; **the gap is the
+heart-rate cost of producing it.** Apple's running power derives mostly from pace, grade and mass
+and **does not capture soft-ground energy loss** — so on trail the true metabolic cost exceeds the
+reported watts, which is why HR sits higher at equal pace and equal power. **Part of the 13 bpm is
+surface, part is detraining, and one run cannot separate them.**
+
+**➡️ THE DEFENSIBLE READ: above early August, below the 23 Aug peak.** vs 5 Aug (road, 5:46 @ 139),
+Sunday ran **5:46 @ 138 on trail** — equal at face value, better once surface is counted. vs the
+peak, ~13 bpm worse at the same pace. **Exactly the expected position after a goal-race half plus a
+fortnight of almost no running; it should close within 2–3 consistent weeks.**
 
 **Thursday's accidental tempo says the same thing from the other end:** 5:00/km @ 160 avg with
 power at 238–251 W, **below** the 272–275 W threshold figure from 6 Aug. **No decline.**

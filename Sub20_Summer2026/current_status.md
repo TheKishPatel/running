@@ -53,9 +53,34 @@ in Zone 3 across 62 min** with 42 m of climb. Post-workout **119 → 84 → 74**
 At face value that is level with early August and ~7 bpm off the peak — the expected cost of a half
 plus a fortnight of nothing, recoverable in 2–3 consistent weeks.
 
-**❓ Surface is unconfirmed and it changes the conclusion.** Grass/trail costs 15–25 sec/km at equal
-effort, so **if Sunday was on soft ground as prescribed, the read is materially better than level.**
-Thursday agrees from the other end: 5:00/km @ 160 with power **below** threshold. **No decline.**
+**✅ SURFACE CONFIRMED 22 SEP: TRAIL — and the power data sharpens the read, partly walking back the
+optimistic version.**
+
+**23 Aug is the only other easy run in the log with per-km power, so it is the comparison that
+counts:**
+
+| | Pace | HR | Power |
+|---|---|---|---|
+| **23 Aug — ROAD** (peak) | 5:44/km | **125** | 208–215 W |
+| **20 Sep — TRAIL** | 5:46/km | **138** | 206–209 W |
+
+**Same pace, same measured power, HR 13 bpm higher.** The mechanical output is intact; **the gap is
+in the heart-rate cost of producing it.**
+
+**Apple's running power does not capture soft-ground energy loss** — it derives mostly from pace,
+grade and mass. **So on trail the true metabolic cost exceeds the reported power, which is exactly
+why HR sits higher at equal pace and equal watts. Part of the 13 bpm is surface, part is
+detraining, and one run cannot separate them.**
+
+**➡️ THE DEFENSIBLE READ: ABOVE EARLY AUGUST, BELOW THE 23 AUG PEAK.** vs 5 Aug (road, 5:46 @ 139)
+Sunday ran **5:46 @ 138 on trail** — equal at face value, **better once surface is accounted for.**
+vs 23 Aug, ~13 bpm worse at the same pace, only part of which is the trail. **That is the expected
+position after a goal-race half plus a fortnight of almost nothing, and it should close within 2–3
+consistent weeks.**
+
+**⚠️ Correcting my own read from 20 Sep:** I said a trail surface would make this "materially better
+than level". **Having looked at power against 23 Aug, that overstated it.** Better than early
+August — yes. Better than peak — no.
 
 ### ⚠️ Open going into Week 2
 
