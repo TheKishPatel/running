@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 6 Sep 2026*
+*Last updated: 20 Sep 2026*
 
 ---
 
@@ -19,12 +19,58 @@
 | **5K GOAL RACE** | — | **Sat 25 Jul 2026 — ~21:27, 24°C, heat-limited. PB (20:59) intact** | ✅ Complete | n/a |
 | **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. PB BY 5:06 (prev 1:44:38). Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
-| **Recovery week** | — | **Mon 7 – Sun 13 Sep** | 🔄 **Current** — ~10–15 km, zero quality, no lower-body Barry's | — |
-| 5K sharpening block | — | ~mid-Sep – Oct | ⏳ **Next — not yet written.** Starts after the recovery week | — |
+| **Recovery week** | — | **Mon 7 – Sun 13 Sep** | ✅ **Complete — 0 km.** Race absorbed. Left medial ankle flag opened 9 Sep; all running cancelled | — |
+| **5K sharpening block** | **1–4** | **Mon 14 Sep – Sun 11 Oct** | 🔄 **Current — W1 live.** Opened easy-only. **Race date not yet named** | ✅ **Ankle gate passed 15 Sep** |
 
-> **Live plan = `big_half_block_Sep2026.md`** (6-week block to the 6 Sep half marathon).
-> Target 1:42–1:45, stretch 1:40, race pace 4:50/km. Then a 4-week 5K sharpening block →
-> cool-weather 5K early-to-mid Oct for the PB the heat took on 25 Jul.
+> **Live plan = `current_week_plan.md`** (October 5K sharpening block, W1 of 4).
+> `big_half_block_Sep2026.md` is closed — the 6 Sep half marathon delivered a 5:06 PB (1:39:32).
+> **Targets for October: sub-20:30 and a 5K PB realistic; sub-20:00 a stretch.**
+> **❗ The race itself has still not been named or entered — that decision is due this week.**
+
+---
+
+## 🟢 October 5K Sharpening Block — Weeks 1–4 (Mon 14 Sep – Sun 11 Oct)
+
+**Opened 15 Sep.** Four weeks, of which **one is easy-only by design**, leaving three weeks of
+quality to move a threshold that has not moved all summer.
+
+| Week | Dates | Shape | Volume | Status |
+|---|---|---|---|---|
+| **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
+| **W2** | **21–27 Sep** | **Threshold returns** — one conservative session, **built as a structured watch workout** | ~24–28 km | 🔄 **Current — plan due** |
+| W3 | 28 Sep – 4 Oct | **Heaviest quality week** — threshold + race pace | ~33 km | ⏳ |
+| W4 | 5–11 Oct | **Sharpen and taper into the race** | ~25 km | ⏳ |
+
+### Gates
+
+| # | Gate | When | Status |
+|---|---|---|---|
+| **0** | **Return-to-run: ankle clean during, that evening, and next morning** | Mon 14 Sep | ✅ **PASSED** — 4 km road @ ~5:30/km, clean at all three |
+| **0b** | **Ankle tolerates real load** | Thu 17 Sep | ✅ **PASSED** — 5 km @ 5:00/km, 160 avg, clean. **Flag resolved** |
+| **1** | **W1 completes clean** | Sun 20 Sep | ✅ **PASSED** — 7 km @ 5:50/km, 139 avg, no drift, ankle clean. **Terrain governor validated** |
+| **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **W2** | ⏳ **Next. The block's first real read — sub-20:30 sits on it** |
+| **3** | **Race-pace read** | W3 | ⏳ |
+
+### The block's actual problem
+
+**Threshold: 4:20/km (2 Jul) → 4:23/km (6 Aug) → nothing, across three compromised Thursdays.**
+It has not moved in the whole campaign, and the 6 Sep PB does not change that — **Riegel from
+1:39:32 projects a 5K of 21:38, slower than the standing 20:59 PB.** The half was an endurance
+result; **the gap to sub-20 is threshold and this block is the last chance to move it.**
+
+### Live constraints
+
+- **🟢 Left medial ankle — RESOLVED 20 Sep.** Four clean exposures incl. 5 km @ 5:00/km and a 7 km.
+  **Loading programme continues** (recurrence risk on stopping) and **48 h run spacing holds through
+  W2.** Physio dropped 15 Sep; re-book triggers stand.
+- **🔴 Lower-body gap still open — 26 days.** Last dedicated session 25 Aug. 15 Sep missed (trainers);
+  18 Sep was total body, **mostly chest** — partial credit only. **Home glute session owed.** Next
+  dedicated lower-body class is a first session back: **walking lunges, no plyometrics.**
+- **✅ Data capture fixed** — full splits, zones and power on both W1 runs. **🎯 Easy runs are now
+  governed by surface + HR (validated 20 Sep); the quality session must be a structured watch workout.**
+- **⚠️ Illness** — five episodes cost ~30 days this campaign. **With three quality weeks left and
+  no slack, one episode ends the block.**
+
 
 ⚠️ **Calendar note:** Illness in W3–W4 pushed Phase 1 gate one week. Phase 4 (Race Specific) was compressed to 1 week and then lost to illness. The 25 Jul build (A–D) replaced Phases 4–5.
 
