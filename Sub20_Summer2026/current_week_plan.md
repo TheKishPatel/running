@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 22 Sep 2026 — Tuesday confirmed legs with walking lunges; race booked Sat 17 Oct. Block extended to 5 weeks.*
+*Last updated: 23 Sep 2026 — RHR 56 + very tired: Wednesday's run dropped to protect Friday. Race confirmed chip-timed, ~10:00.*
 
 ---
 
@@ -10,7 +10,7 @@
 It is the first quality running since 6 Aug (4 km @ 4:23/km, 169 avg) and **the block's first
 real read. The sub-20:30 question sits on it.**
 
-**Volume target: ~22.5 km across 3 runs (6 + ~8.5 + 8), one Barry's (done, legs), ~10 min glute
+**Volume target: ~16.5 km across 2 runs (~8.5 + 8) — was 22.5 before Wednesday was dropped, one Barry's (done, legs), ~10 min glute
 medius Saturday, tendon loading daily.** W1 ran 16 km. +6.5 km is the step. Under 25 km on purpose:
 the ankle flag still governs how fast volume rises, and this week adds intensity.
 
@@ -22,13 +22,13 @@ the ankle flag still governs how fast volume rises, and this week adds intensity
 |---|---|---|
 | **Mon 21** | 😴 Rest *(unreported — assumed)* | — |
 | **Tue 22** | ✅ **Barry's LEGS, 44:23, 144 avg, Z4 1:14. Walking lunges** | ✅ **Inside the rule. Lower-body gap CLOSED at 28 days** |
-| **Wed 23** | 🏃 **EASY 6 km — GRASS OR TRAIL** | **HR <145 hard. Pace is an output (expect 5:45–6:05/km)** |
+| **Wed 23** | 😴 **REST — was easy 6 km. RHR 56 + very tired** | **Dropped, not moved. Friday is protected** |
 | **Thu 24** | 😴 Rest + tendon loading | Carbs to training-day level in the evening (338–405 g) |
 | **Fri 25** | 🎯 **THRESHOLD — 2 km WU / 4 × 1 km @ 4:20/km, 90 s jog / 2 km CD** | **STRUCTURED WATCH WORKOUT. Pace alert 4:16–4:24. HR ceiling 178** |
 | **Sat 26** | 💪 **Glute medius, ~10 min** (clamshells + single-leg bridge) | Tuesday covered the legs. No jumping |
 | **Sun 27** | 🏃 **EASY 8 km — GRASS OR TRAIL** | **HR <145 hard. Pace is an output** |
 
-**Spacing: Sun → Wed 72 h, Wed → Fri 48 h, Fri → Sun 48 h.** The 48-hour rule holds through
+**Spacing: Sun → Fri 5 days, Fri → Sun 48 h.** The 48-hour rule holds through
 Week 2 as written on 20 Sep. **No back-to-back running days.** The threshold sits 72 h after
 Tuesday's class, which matters more than usual after a 144-avg session.
 
@@ -88,19 +88,39 @@ That is the reason Wednesday is governed by terrain and HR and not by distance.
 
 ---
 
-## 🏃 WED 23 SEP — EASY 6 km. GRASS OR TRAIL. HR <145.
+## 😴 WED 23 SEP — REST. THE RUN IS DROPPED, NOT MOVED.
 
-| | |
+**Resting HR 56, "very tired", the morning after the hardest Barry's in the log. No VMO pain.**
+
+**The written rule was 56–60 → trim to 5 km. It did not account for "very tired" on top, and
+two signals together outweigh the rule for one.**
+
+| Signal | Read |
 |---|---|
-| **Distance** | **6 km. Whole kilometres** |
-| **Surface** | 🌱 **Grass or trail.** Victoria Park loops. Norda 001 |
-| **HR** | **<145 hard ceiling. 150 → walk until it drops back** |
-| **Pace** | **Output, not target. Expect 5:45–6:05/km.** Legs heavy from Tuesday → it will be slower. That is correct |
-| **🛑 Abort** | **Any medial ankle sensation → stop, walk home** |
-| **Morning** | **Resting HR on waking.** >60 → rest. 56–60 → 5 km |
+| **RHR 56** | 1 above the 49–55 baseline. On its own: trim |
+| **Very tired** | Subjective, but consistent with 144 avg on the first leg class in 28 days |
+| **No VMO pain** | 🟢 Lunge table holds |
 
-**Why grass again:** Sunday was the first compliant easy run of the block. **One hit after three
-misses is a mechanism, not a habit yet.** Road comes back when two or three more land.
+**Why rest and not a trimmed 5 km:** this week exists to produce **Friday's threshold read.**
+A 5 km today adds ~5 km of easy volume. **The same run makes a tired Friday more likely, and a
+tired Friday gives a contaminated read that every later week gets built on.** Wednesday is the
+cheapest session in the week to lose.
+
+**Why not move it:** Thursday → Friday would be back-to-back running days. The 48 h rule holds
+this week.
+
+**Cost:** the week drops to ~16.5 km, level with W1. **The 25 km/week re-book trigger (28 Sep)
+is about symptoms stopping volume, not about a planned rest day. Not triggered.** The step to
+~27 km moves into W3.
+
+### ⚠️ Illness check. Answer today.
+
+**Tired + RHR at the top of the baseline is how three of the five illness episodes in this log
+started.** Most likely it is Tuesday's class. But:
+
+- **Sore throat, any severity → complete rest.**
+- **Cough or phlegm → complete rest.**
+- **Report sleep hours last night.**
 
 ---
 
@@ -156,10 +176,11 @@ A watch alert that buzzes at 4:15 is the only mechanism in this campaign that ha
 | Resting HR on waking | Session |
 |---|---|
 | **≤55** | **As written** |
-| **56–60** | **3 × 1 km.** Same pace |
-| **>60** | **Rest. Rolled to Saturday; Sunday drops to 6 km easy** |
+| **56–60, feeling OK** | **3 × 1 km.** Same pace |
+| **56–60 AND still very tired** | **Friday becomes easy 5 km on trail, HR <145. Threshold moves to Sunday** (48 h later), in place of the 8 km |
+| **>60** | **Rest. Threshold moves to Sunday** |
 
-**Plus: ankle clean on first steps, and no illness symptoms.** Sore throat, cough or phlegm →
+**Plus: ankle clean on first steps, no illness symptoms, and no longer "very tired".** Sore throat, cough or phlegm →
 complete rest, no exceptions.
 
 ### 📊 How the read is scored
@@ -218,8 +239,8 @@ the highest-value 10 minutes of the week.** No jumping, nothing landing.
 1. Ankle pain that changes how you walk.
 2. Morning stiffness after runs on two consecutive occasions.
 3. Tingling, burning or numbness in the arch or sole.
-4. **Cannot pass ~25 km/week by 28 Sep without symptoms.** This week's 22.5 km is the step
-   before that line.
+4. **Cannot pass ~25 km/week by 28 Sep without symptoms.** W2 drops to ~16.5 km by choice
+   (Wednesday rested on fatigue), not by symptom. **The line moves to W3 (~27 km).**
 
 ---
 
@@ -241,7 +262,7 @@ strap, no threshold verdict (29 Aug: wrist optical under-read by ~25 bpm).
 | Week | Dates | Shape | Volume |
 |---|---|---|---|
 | W1 | 14–20 Sep | Easy-only rebuild | ✅ 16 km |
-| **W2** | **21–27 Sep** | **Threshold re-read (Fri)** ← this week | ~22.5 km |
+| **W2** | **21–27 Sep** | **Threshold re-read (Fri)** ← this week | ~16.5 km (Wed dropped) |
 | W3 | 28 Sep – 4 Oct | Threshold progression + first race-pace session. 48 h spacing lifted if W2 is clean | ~27 km |
 | **W4** | **5–11 Oct** | **Heaviest quality week.** Threshold + race-pace 5K session | ~32 km |
 | **W5** | **12–17 Oct** | **Race week. Taper to Saturday** | ~15 km + race |
@@ -250,8 +271,13 @@ strap, no threshold verdict (29 Aug: wrist optical under-read by ~25 bpm).
 change:** threshold is still the limiter. Friday's read is still the input every later week is
 built on.
 
-**❓ Two details for the W5 plan, not needed now:** is it chip-timed or a parkrun, and what time
-does it start? Warm-up length and race-morning food depend on both.
+**✅ Chip-timed, ~10:00 start (athlete to confirm the exact time).** For the W5 plan:
+
+- **Breakfast by ~07:00** — 3 h before the gun, the same as the half.
+- **Warm-up ~09:25–09:45:** 2 km easy + strides, finishing ~10 min before the start.
+- **Training is at 05:00–06:00; the race is not.** One W4 quality session gets run at ~10:00 as
+  a rehearsal of timing, food and warm-up.
+- **Barry's Tue 13 Oct** is 4 days out. The class stays. Plyometrics are decided in the W5 plan.
 
 ---
 
@@ -267,8 +293,8 @@ does it start? Warm-up length and race-morning food depend on both.
 ## 🍽️ Nutrition
 
 - **Protein 122 g/day.**
-- **Carbs 338–405 g: Tue, Wed, Fri, Sun.** Thursday evening to training-day level for Friday.
-- **Carbs 270–338 g: Mon, Thu (daytime), Sat.**
+- **Carbs 338–405 g: Tue, Fri, Sun.** Thursday evening to training-day level for Friday.
+- **Carbs 270–338 g: Mon, Wed, Thu (daytime), Sat.** Wednesday is now a rest day.
 - **Alcohol:** none Thursday. Friday's read is not repeatable this block.
 
 ---
@@ -291,11 +317,12 @@ episode now costs the race.**
 **Tue 22 Sep:** ✅ **Barry's LEGS, 44:23, 144 avg, max ~175. Z1 08:47 / Z2 18:20 / Z3 16:02 / Z4 01:14.
 Z2+3 77%.** Inside the rule; hardest Barry's in the log. Walking lunges ✅. **Lower-body gap closed at
 28 days.** Post 119→115→117.
-**Wed 23 Sep:** ⏳ Easy 6 km, grass/trail, HR <145.
+**Wed 23 Sep:** 😴 **Rest — easy 6 km dropped. RHR 56, very tired.** No VMO pain.
 **Thu 24 Sep:** ⏳ Rest. Build Friday's workout on the watch.
 **Fri 25 Sep:** ⏳ **Threshold: 2 km / 4 × 1 km @ 4:20, 90 s / 2 km.** Structured workout.
 **Sat 26 Sep:** ⏳ Glute medius ~10 min.
 **Sun 27 Sep:** ⏳ Easy 8 km, grass/trail, HR <145.
 
 **✅ ANSWERED 22 SEP:** Tuesday was **legs, walking lunges.** Race **booked: Sat 17 Oct.**
-**❓ OWED: resting HR (coming today). Any VMO / inner-quad sensation tomorrow morning.**
+**✅ ANSWERED 23 SEP:** RHR **56**, very tired. **No VMO pain.** Race **chip-timed, ~10:00.**
+**❓ OWED: sore throat / cough (yes or no), sleep hours. Friday morning RHR.**

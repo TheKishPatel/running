@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 22 Sep 2026 (Tuesday confirmed legs; race booked Sat 17 Oct — block now 5 weeks)*
+*Last updated: 23 Sep 2026 (RHR 56 + very tired → Wednesday rested; race chip-timed ~10:00)*
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Block extends from 4 weeks to 5.** The extra week is quality, not taper: W3 threshold
 progression + first race-pace (~27 km) → **W4 5–11 Oct heaviest quality week (~32 km)** → W5
-12–17 Oct race week. ❓ For the W5 plan: chip-timed or parkrun, and start time.
+12–17 Oct race week. **Chip-timed, ~10:00 start.**
 
 **Live plan: `current_week_plan.md`.**
 
@@ -18,13 +18,13 @@ progression + first race-pace (~27 km) → **W4 5–11 Oct heaviest quality week
 |---|---|---|
 | Mon 21 | Rest | Unreported — assumed |
 | **Tue 22** | **Barry's — LEGS, walking lunges** | ✅ **44:23, 144 avg, max ~175, Z4 01:14. Inside the rule. Gap closed** |
-| Wed 23 | Easy 6 km, grass/trail, HR <145 | ⏳ |
+| Wed 23 | ~~Easy 6 km~~ **Rest** | 😴 **Dropped: RHR 56 + very tired. Protects Friday** |
 | Thu 24 | Rest | ⏳ Build Friday's workout on the watch |
 | **Fri 25** | **Threshold: 2 km / 4 × 1 km @ 4:20 (alert 4:16–4:24), 90 s / 2 km. Structured workout, HR ceiling 178** | ⏳ **Gate 2** |
 | Sat 26 | Glute medius ~10 min (clamshells + single-leg bridge) | ⏳ |
 | Sun 27 | Easy 8 km, grass/trail, HR <145 | ⏳ |
 
-**~22.5 km, 3 runs, 48 h spacing throughout.**
+**~16.5 km, 2 runs** (was 22.5; Wednesday dropped). **Friday gate added: RHR 56–60 and still very tired → Friday easy 5 km, threshold to Sunday.**
 
 ### ✅ Tue 22 Barry's — inside the rule, hardest in the log
 
@@ -42,8 +42,9 @@ the normal Barry's shape.
 
 ### ❓ Open
 
-- **Any VMO / inner-quad sensation Wednesday morning** — the one thing that changes the lunge table.
-- **Resting HR — incoming 22 Sep.** Required Wed and Fri mornings too (Friday gates the session).
+- ✅ **No VMO pain** after walking lunges — lunge table holds.
+- ⚠️ **RHR 56 + very tired (Wed).** Most likely Tuesday's class. **Illness screen owed: sore throat / cough, and sleep hours.** Any symptom → complete rest.
+- **Friday RHR on waking** gates the threshold.
 
 ---
 

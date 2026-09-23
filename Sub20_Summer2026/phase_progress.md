@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 22 Sep 2026*
+*Last updated: 23 Sep 2026*
 
 ---
 
@@ -25,7 +25,7 @@
 > **Live plan = `current_week_plan.md`** (October 5K sharpening block, W2 of 5).
 > `big_half_block_Sep2026.md` is closed — the 6 Sep half marathon delivered a 5:06 PB (1:39:32).
 > **Targets for October: sub-20:30 and a 5K PB realistic; sub-20:00 a stretch.**
-> **🏁 Race booked 22 Sep: Saturday 17 October.** Block extended 4 → 5 weeks; the extra week is quality.
+> **🏁 Race booked 22 Sep: Saturday 17 October, chip-timed, ~10:00 start.** Block extended 4 → 5 weeks; the extra week is quality.
 
 ---
 
@@ -38,7 +38,7 @@ that has not moved all summer.
 | Week | Dates | Shape | Volume | Status |
 |---|---|---|---|---|
 | **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
-| **W2** | **21–27 Sep** | **Threshold returns** — Fri 2 km / 4 × 1 km @ 4:20, 90 s / 2 km, **structured watch workout**. Wed 6 km + Sun 8 km easy, terrain + HR | **~22.5 km** (was ~24–28) | 🔄 **Current.** Tue Barry's ✅ 144 avg |
+| **W2** | **21–27 Sep** | **Threshold returns** — Fri 2 km / 4 × 1 km @ 4:20, 90 s / 2 km, **structured watch workout**. Wed 6 km + Sun 8 km easy, terrain + HR | **~16.5 km** (was ~22.5; Wed rested on RHR 56 + fatigue) | 🔄 **Current.** Tue Barry's ✅ 144 avg. Wed rest |
 | W3 | 28 Sep – 4 Oct | **Threshold progression + first race-pace session.** 48 h spacing lifted if W2 is clean | ~27 km | ⏳ |
 | **W4** | **5–11 Oct** | **Heaviest quality week** — threshold + race-pace 5K session | ~32 km | ⏳ |
 | **W5** | **12–17 Oct** | **Race week. Taper to 🏁 Sat 17 Oct** | ~15 km + race | ⏳ |
