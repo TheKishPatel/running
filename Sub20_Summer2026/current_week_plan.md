@@ -116,7 +116,7 @@ is about symptoms stopping volume, not about a planned rest day. Not triggered.*
 ### ⚠️ Illness check. Answer today.
 
 **Most likely this is Tuesday's class.** The log has the precedent: **59 on 5 Aug and 55 on 19 Aug,
-both the morning after a first lunge session back**, both training response, not illness. **But rising
+both the morning after a Tuesday leg class**, both training response, not illness. **But rising
 resting HR is also the earliest illness warning this log has**, so the screen is not optional:
 
 - **Sore throat, any severity → complete rest.**
