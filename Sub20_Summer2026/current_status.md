@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 23 Sep 2026 (RHR 56 + very tired → Wednesday rested; race chip-timed ~10:00)*
+*Last updated: 23 Sep 2026 (Wednesday rested: RHR 56, ~5 h sleep, illness screen clear; race chip-timed ~10:00)*
 
 ---
 
@@ -43,7 +43,7 @@ the normal Barry's shape.
 ### ❓ Open
 
 - ✅ **No VMO pain** after walking lunges — lunge table holds.
-- ⚠️ **RHR 56 + very tired (Wed).** Most likely Tuesday's class. **Illness screen owed: sore throat / cough, and sleep hours.** Any symptom → complete rest.
+- ✅ **Illness screen clear (Wed):** no sore throat, no cough. **RHR 56 + very tired = ~5 h sleep on top of Tuesday's class.** Not illness. **Thursday night's sleep is Friday's biggest variable.**
 - **Friday RHR on waking** gates the threshold.
 
 ---

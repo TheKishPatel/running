@@ -99,6 +99,8 @@ two signals together outweigh the rule for one.**
 |---|---|
 | **RHR 56** | 1 above the 49–55 baseline. On its own: trim |
 | **Very tired** | Subjective, but consistent with 144 avg on the first leg class in 28 days |
+| **Sleep ~5 h** | **The main driver.** Sleep is a documented ~11 sec/km factor in this log |
+| **Throat / cough** | ✅ **None. Not illness** |
 | **No VMO pain** | 🟢 Lunge table holds |
 
 **Why rest and not a trimmed 5 km:** this week exists to produce **Friday's threshold read.**
@@ -113,7 +115,7 @@ this week.
 is about symptoms stopping volume, not about a planned rest day. Not triggered.** The step to
 ~27 km moves into W3.
 
-### ⚠️ Illness check. Answer today.
+### ✅ Illness check — CLEAR (answered 23 Sep): no throat, no cough, ~5 h sleep
 
 **Most likely this is Tuesday's class.** The log has the precedent: **59 on 5 Aug and 55 on 19 Aug,
 both the morning after a Tuesday leg class**, both training response, not illness. **But rising
@@ -318,12 +320,13 @@ episode now costs the race.**
 **Tue 22 Sep:** ✅ **Barry's LEGS, 44:23, 144 avg, max ~175. Z1 08:47 / Z2 18:20 / Z3 16:02 / Z4 01:14.
 Z2+3 77%.** Inside the rule; hardest Barry's in the log. Walking lunges ✅. **Lower-body gap closed at
 28 days.** Post 119→115→117.
-**Wed 23 Sep:** 😴 **Rest — easy 6 km dropped. RHR 56, very tired.** No VMO pain.
-**Thu 24 Sep:** ⏳ Rest. Build Friday's workout on the watch.
+**Wed 23 Sep:** 😴 **Rest — easy 6 km dropped. RHR 56, very tired, ~5 h sleep.** No VMO pain. Illness screen clear.
+**Thu 24 Sep:** ⏳ Rest. Build Friday's workout on the watch. **Bed early — 7 h+ is the target; Friday's read depends on it.**
 **Fri 25 Sep:** ⏳ **Threshold: 2 km / 4 × 1 km @ 4:20, 90 s / 2 km.** Structured workout.
 **Sat 26 Sep:** ⏳ Glute medius ~10 min.
 **Sun 27 Sep:** ⏳ Easy 8 km, grass/trail, HR <145.
 
 **✅ ANSWERED 22 SEP:** Tuesday was **legs, walking lunges.** Race **booked: Sat 17 Oct.**
 **✅ ANSWERED 23 SEP:** RHR **56**, very tired. **No VMO pain.** Race **chip-timed, ~10:00.**
-**❓ OWED: sore throat / cough (yes or no), sleep hours. Friday morning RHR.**
+**✅ Illness screen clear:** no sore throat, no cough. **Sleep ~5 h** — that, plus Tuesday's class,
+explains the 56. **❓ OWED: Friday morning RHR and sleep hours.**
