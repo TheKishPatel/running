@@ -10,7 +10,7 @@
 It is the first quality running since 6 Aug (4 km @ 4:23/km, 169 avg) and **the block's first
 real read. The sub-20:30 question sits on it.**
 
-**Volume target: ~16.5 km across 2 runs (~8.5 + 8) — was 22.5 before Wednesday was dropped, one Barry's (done, legs), ~10 min glute
+**Volume target: ~14.5 km across 2 runs (~6.5 + 8) — was 22.5 before Wednesday was dropped, one Barry's (done, legs), ~10 min glute
 medius Saturday, tendon loading daily.** W1 ran 16 km. +6.5 km is the step. Under 25 km on purpose:
 the ankle flag still governs how fast volume rises, and this week adds intensity.
 
@@ -24,7 +24,7 @@ the ankle flag still governs how fast volume rises, and this week adds intensity
 | **Tue 22** | ✅ **Barry's LEGS, 44:23, 144 avg, Z4 1:14. Walking lunges** | ✅ **Inside the rule. Lower-body gap CLOSED at 28 days** |
 | **Wed 23** | 😴 **REST — was easy 6 km. RHR 56 + very tired** | **Dropped, not moved. Friday is protected** |
 | **Thu 24** | 😴 Rest + tendon loading | Carbs to training-day level in the evening (338–405 g) |
-| **Fri 25** | 🎯 **THRESHOLD — 2 km WU / 4 × 1 km @ 4:20/km, 90 s jog / 2 km CD** | **STRUCTURED WATCH WORKOUT. Pace alert 4:16–4:24. HR ceiling 178** |
+| **Fri 25** | 🎯 **THRESHOLD — 1 km WU / 4 × 1 km @ 4:20/km, 90 s jog / 1 km CD** *(shortened for time)* | **STRUCTURED WATCH WORKOUT. Pace alert 4:16–4:24. HR ceiling 178** |
 | **Sat 26** | 💪 **Glute medius, ~10 min** (clamshells + single-leg bridge) | Tuesday covered the legs. No jumping |
 | **Sun 27** | 🏃 **EASY 8 km — GRASS OR TRAIL** | **HR <145 hard. Pace is an output** |
 
@@ -135,13 +135,13 @@ resting HR is also the earliest illness warning this log has**, so the screen is
 
 | Block | Setting | Alert |
 |---|---|---|
-| **Warmup** | **Distance 2 km** | None. Easy, 5:45–6:00/km |
+| **Warmup** | **Distance 1 km** | None. **Progressive: 6:00 → 5:30/km** |
 | **Work** | **Distance 1 km** | **Pace range 4:16–4:24/km** |
 | **Recovery** | **Time 1:30** | None. Walk or jog |
 | **Repeat** | **Work + Recovery × 4** | — |
-| **Cooldown** | **Distance 2 km** | None. Easy |
+| **Cooldown** | **Distance 1 km** | None. Easy |
 
-**Total ~8.5 km.** The watch reports each block separately. **Send the segment breakdown
+**Total ~6.5 km.** *Shortened 25 Sep from 2 km / 2 km for time: RHR 50, green.* The watch reports each block separately. **Send the segment breakdown
 (Fitness → workout → segments), not the km splits.** `data_capture_protocol.md` Rule 3.
 
 ### Targets
@@ -151,7 +151,7 @@ resting HR is also the earliest illness warning this log has**, so the screen is
 | **Rep pace** | **4:20/km.** Alert band 4:16–4:24 |
 | **HR** | **168–176 on reps 2–4. 178 is the ceiling, not the aim** |
 | **Power reference** | **272–275 W** at 4:23/km, 6 Aug |
-| **Rep 1** | **4:20–4:24. The slowest rep of the four, or equal to the slowest** |
+| **Rep 1** | **4:22–4:24. Deliberately the slowest — with a 1 km warm-up it finishes the warm-up.** Not scored |
 | **Rep 4** | **Not faster than 4:16.** No fifth rep |
 
 **Why 4:20 and not 4:15:** threshold was 4:20 (2 Jul) and 4:23 (6 Aug). Since then: a half
@@ -200,7 +200,7 @@ complete rest, no exceptions.
 
 | | |
 |---|---|
-| **Distance** | **8 km.** 7 → 8, one step |
+| **Distance** | **8 km.** 7 → 8, one step. **Not 10: Friday's 2 km is not added back** |
 | **Surface** | 🌱 **Grass or trail** |
 | **HR** | **<145 hard. 150 → walk** |
 | **Pace** | **Output. Expect 5:45–6:05/km** |
@@ -242,7 +242,7 @@ the highest-value 10 minutes of the week.** No jumping, nothing landing.
 1. Ankle pain that changes how you walk.
 2. Morning stiffness after runs on two consecutive occasions.
 3. Tingling, burning or numbness in the arch or sole.
-4. **Cannot pass ~25 km/week by 28 Sep without symptoms.** W2 drops to ~16.5 km by choice
+4. **Cannot pass ~25 km/week by 28 Sep without symptoms.** W2 drops to ~14.5 km by choice
    (Wednesday rested on fatigue), not by symptom. **The line moves to W3 (~27 km).**
 
 ---
@@ -265,7 +265,7 @@ strap, no threshold verdict (29 Aug: wrist optical under-read by ~25 bpm).
 | Week | Dates | Shape | Volume |
 |---|---|---|---|
 | W1 | 14–20 Sep | Easy-only rebuild | ✅ 16 km |
-| **W2** | **21–27 Sep** | **Threshold re-read (Fri)** ← this week | ~16.5 km (Wed dropped) |
+| **W2** | **21–27 Sep** | **Threshold re-read (Fri)** ← this week | ~14.5 km (Wed dropped, WU/CD shortened) |
 | W3 | 28 Sep – 4 Oct | Threshold progression + first race-pace session. 48 h spacing lifted if W2 is clean | ~27 km |
 | **W4** | **5–11 Oct** | **Heaviest quality week.** Threshold + race-pace 5K session | ~32 km |
 | **W5** | **12–17 Oct** | **Race week. Taper to Saturday** | ~15 km + race |
@@ -322,7 +322,7 @@ Z2+3 77%.** Inside the rule; hardest Barry's in the log. Walking lunges ✅. **L
 28 days.** Post 119→115→117.
 **Wed 23 Sep:** 😴 **Rest — easy 6 km dropped. RHR 56, very tired, ~5 h sleep.** No VMO pain. Illness screen clear.
 **Thu 24 Sep:** ⏳ Rest. Build Friday's workout on the watch. **Bed early — 7 h+ is the target; Friday's read depends on it.**
-**Fri 25 Sep:** ⏳ **Threshold: 2 km / 4 × 1 km @ 4:20, 90 s / 2 km.** Structured workout.
+**Fri 25 Sep:** ⏳ **Threshold: 1 km / 4 × 1 km @ 4:20, 90 s / 1 km** (shortened for time). **RHR 50 → as written.** Structured workout.
 **Sat 26 Sep:** ⏳ Glute medius ~10 min.
 **Sun 27 Sep:** ⏳ Easy 8 km, grass/trail, HR <145.
 
