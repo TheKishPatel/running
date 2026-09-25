@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 23 Sep 2026 — RHR 56 + very tired: Wednesday's run dropped to protect Friday. Race confirmed chip-timed, ~10:00.*
+*Last updated: 24 Sep 2026 — 🟢 GATE 2 PASSED: threshold 4 km @ 4:19, last 3 km 4:18 @ 169. First sub-4:20 threshold of the campaign.*
 
 ---
 
@@ -23,12 +23,12 @@ the ankle flag still governs how fast volume rises, and this week adds intensity
 | **Mon 21** | 😴 Rest *(unreported — assumed)* | — |
 | **Tue 22** | ✅ **Barry's LEGS, 44:23, 144 avg, Z4 1:14. Walking lunges** | ✅ **Inside the rule. Lower-body gap CLOSED at 28 days** |
 | **Wed 23** | 😴 **REST — was easy 6 km. RHR 56 + very tired** | **Dropped, not moved. Friday is protected** |
-| **Thu 24** | 😴 Rest + tendon loading | Carbs to training-day level in the evening (338–405 g) |
-| **Fri 25** | 🎯 **THRESHOLD — 1 km WU / 4 × 1 km @ 4:20/km, 90 s jog / 1 km CD** *(shortened for time)* | **STRUCTURED WATCH WORKOUT. Pace alert 4:16–4:24. HR ceiling 178** |
+| **Thu 24** | ✅ **THRESHOLD — 1 km / 4 km CONTINUOUS @ 4:19 / 1 km. 166 avg, 273 W** *(moved up from Fri; run without recoveries)* | 🟢 **GATE 2 PASSED. km3–5 4:17.7 @ 169.3** |
+| **Fri 25** | 😴 Rest + tendon loading | **Ankle first-steps read** |
 | **Sat 26** | 💪 **Glute medius, ~10 min** (clamshells + single-leg bridge) | Tuesday covered the legs. No jumping |
 | **Sun 27** | 🏃 **EASY 8 km — GRASS OR TRAIL** | **HR <145 hard. Pace is an output** |
 
-**Spacing: Sun → Fri 5 days, Fri → Sun 48 h.** The 48-hour rule holds through
+**Spacing: Sun → Thu 4 days, Thu → Sun 72 h.** The 48-hour rule holds through
 Week 2 as written on 20 Sep. **No back-to-back running days.** The threshold sits 72 h after
 Tuesday's class, which matters more than usual after a 144-avg session.
 
@@ -321,12 +321,13 @@ episode now costs the race.**
 Z2+3 77%.** Inside the rule; hardest Barry's in the log. Walking lunges ✅. **Lower-body gap closed at
 28 days.** Post 119→115→117.
 **Wed 23 Sep:** 😴 **Rest — easy 6 km dropped. RHR 56, very tired, ~5 h sleep.** No VMO pain. Illness screen clear.
-**Thu 24 Sep:** ⏳ Rest. Build Friday's workout on the watch. **Bed early — 7 h+ is the target; Friday's read depends on it.**
-**Fri 25 Sep:** ⏳ **Threshold: 1 km / 4 × 1 km @ 4:20, 90 s / 1 km** (shortened for time). **RHR 50 → as written.** Structured workout.
+**Thu 24 Sep:** ✅ **THRESHOLD — GATE 2 PASSED. RHR 50, sleep 8 h.** 1 km WU 6:16 / **4:24 · 4:20 · 4:19 · 4:14 @ 156 · 171 · 170 · 167, 266–278 W** / 1 km CD 6:28. **4 km in 17:17 (4:19/km); km3–5 4:17.7 @ 169.3.** vs 2 Jul same pace shape, km3 −5 bpm, km4 −12 bpm. Run continuous (no 90 s recoveries in the splits). ⚠️ km5 4:14 past the 4:16 limit by 2 s; km5 HR dip unverified (strap?). Full read: `03_session_analyses/2026-09-24_threshold_4km_reread.md`.
+**Fri 25 Sep:** ⏳ Rest. **Ankle first-steps read.**
 **Sat 26 Sep:** ⏳ Glute medius ~10 min.
 **Sun 27 Sep:** ⏳ Easy 8 km, grass/trail, HR <145.
 
 **✅ ANSWERED 22 SEP:** Tuesday was **legs, walking lunges.** Race **booked: Sat 17 Oct.**
 **✅ ANSWERED 23 SEP:** RHR **56**, very tired. **No VMO pain.** Race **chip-timed, ~10:00.**
 **✅ Illness screen clear:** no sore throat, no cough. **Sleep ~5 h** — that, plus Tuesday's class,
-explains the 56. **❓ OWED: Friday morning RHR and sleep hours.**
+explains the 56. **✅ ANSWERED 24 SEP:** RHR **50**, sleep **8 h**.
+**❓ OWED: ankle first steps Fri + Sat (gates Sunday). Strap or wrist on Thursday? Workout built with recoveries, or run straight?**

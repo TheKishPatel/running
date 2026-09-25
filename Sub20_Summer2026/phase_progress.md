@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 25 Sep 2026*
+*Last updated: 24 Sep 2026*
 
 ---
 
@@ -20,7 +20,7 @@
 | **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. PB BY 5:06 (prev 1:44:38). Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
 | **Recovery week** | — | **Mon 7 – Sun 13 Sep** | ✅ **Complete — 0 km.** Race absorbed. Left medial ankle flag opened 9 Sep; all running cancelled | — |
-| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 🔄 **Current — W2 live.** Threshold returns Fri 25 Sep. **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
+| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 🔄 **Current — W2 live.** **🟢 Gate 2 passed 24 Sep — threshold 4:18.** **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
 
 > **Live plan = `current_week_plan.md`** (October 5K sharpening block, W2 of 5).
 > `big_half_block_Sep2026.md` is closed — the 6 Sep half marathon delivered a 5:06 PB (1:39:32).
@@ -50,12 +50,12 @@ that has not moved all summer.
 | **0** | **Return-to-run: ankle clean during, that evening, and next morning** | Mon 14 Sep | ✅ **PASSED** — 4 km road @ ~5:30/km, clean at all three |
 | **0b** | **Ankle tolerates real load** | Thu 17 Sep | ✅ **PASSED** — 5 km @ 5:00/km, 160 avg, clean. **Flag resolved** |
 | **1** | **W1 completes clean** | Sun 20 Sep | ✅ **PASSED** — 7 km @ 5:50/km, 139 avg, no drift, ankle clean. **Terrain governor validated** |
-| **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **Fri 25 Sep** | ⏳ **4 × 1 km @ 4:20. 🟢 ≤172 avg reps 2–4 → W3 at 4:17. 🟡 173–178 → W3 repeats 4:20. 🔴 can't hold 4:24 → re-set 4:25, sub-20:30 reviewed** |
+| **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **Thu 24 Sep** | ✅ **PASSED — TOP ROW.** 4 km continuous @ 4:19 @ 166; **km3–5 4:17.7 @ 169.3, 276 W.** vs 2 Jul same shape, −5/−12 bpm on the last two km. **First sub-4:20 threshold of the campaign → W3 at 4:17** |
 | **3** | **Race-pace read** | W3 | ⏳ |
 
 ### The block's actual problem
 
-**Threshold: 4:20/km (2 Jul) → 4:23/km (6 Aug) → nothing, across three compromised Thursdays.**
+**Threshold: 4:20/km (2 Jul) → 4:23/km (6 Aug) → 🟢 4:18/km @ 169 (24 Sep) — the first movement of the campaign.**
 It has not moved in the whole campaign, and the 6 Sep PB does not change that — **Riegel from
 1:39:32 projects a 5K of 21:38, slower than the standing 20:59 PB.** The half was an endurance
 result; **the gap to sub-20 is threshold and this block is the last chance to move it.**
