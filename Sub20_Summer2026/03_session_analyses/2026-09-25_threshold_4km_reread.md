@@ -1,6 +1,6 @@
-# Threshold Re-read — Thu 24 Sep 2026 (Oct block W2, Gate 2)
+# Threshold Re-read — Fri 25 Sep 2026 (Oct block W2, Gate 2)
 
-*First quality session since 6 Aug. Run 06:45–07:15. Resting HR 50, sleep 8 h.*
+*First quality session since 6 Aug. Run 06:45–07:15. Resting HR 50 (Thu), sleep 8 h. HR: Apple Watch + Wahoo arm strap.*
 
 ## Verdict: 🟢 GATE 2 PASSED — THRESHOLD HAS MOVED
 
@@ -25,9 +25,10 @@ Post-workout 135 → 106 → 99, taken after a 1 km cool-down and not comparable
 
 ## ⚠️ It was run as 4 km CONTINUOUS, not 4 × 1 km with 90 s jogs
 
-**The split times leave no room for recoveries.** km2–5 are 4:14–4:24. A 90 s jog inside any of
-them would have pushed that split past 5:30. **So either the custom workout was built without
-recovery blocks, or it was run straight through.** Unconfirmed.
+**The split times leave no room for recoveries.** km2–5 are 4:14–4:24. **Confirmed 26 Sep: the
+prescription was read as a single 4 km.** That is a plan-clarity failure, not an execution one: the
+session table said "4 × 1 km @ 4:20, 90 s jog" in one line. **W3's session will spell out every
+block, recoveries included.**
 
 **It cost nothing and made the read better.** Continuous 4 km is *harder* than the prescription,
 and it is the exact format of the two reference sessions, so the comparison is like-for-like.
@@ -38,7 +39,7 @@ and it is the exact format of the two reference sessions, so the comparison is l
 |---|---|---|---|---|
 | **2 Jul** (best tempo) | 4:27 / 4:23 / 4:19 / 4:13 | 156 / 171 / 175 / **179** | 271–281 W | 4:20 |
 | 6 Aug | 4:26 / 4:23 / 4:21 | 168 / 169 / 173 | 272–275 W | 4:23 @ 169 |
-| **24 Sep** | **4:24 / 4:20 / 4:19 / 4:14** | **156 / 171 / 170 / 167** | **266–278 W** | **4:19 @ 166** |
+| **25 Sep** | **4:24 / 4:20 / 4:19 / 4:14** | **156 / 171 / 170 / 167** | **266–278 W** | **4:19 @ 166** |
 
 - **vs 2 Jul:** pace shape within 1–3 sec/km on every kilometre. **km3 170 vs 175, km4 167 vs 179.**
   Same work, same watts, less heart rate at the end, where fitness shows up.
@@ -49,8 +50,9 @@ and it is the exact format of the two reference sessions, so the comparison is l
 ## Caveats, stated once
 
 1. **km5's HR (167) fell while pace rose to 4:14.** The trace shows a short dip into Zone 3 around
-   07:04. That matches a brief pause (a crossing) *or* the 29 Aug wrist-optical under-read
-   pattern. **Strap unconfirmed.** Remove km5 and the read still holds: km3–4 ran
+   07:04. **HR came from a Wahoo arm strap** (upper-arm optical: more reliable than the wrist,
+   not as clean as a chest strap). That makes the 29 Aug wrist under-read unlikely, and a brief
+   pause (a crossing) the likelier explanation. Unresolved either way. Remove km5 and the read still holds: km3–4 ran
    4:19.5 @ 170.5 against 2 Jul's 4:21 @ 173.
 2. **km5 at 4:14 broke the "rep 4 not faster than 4:16" limit by 2 sec/km.** Same last-km kick as
    2 Jul (4:13). Small, HR-contained, and the only pacing breach. **Logged, not a flag.**
@@ -70,7 +72,7 @@ and it is the exact format of the two reference sessions, so the comparison is l
 ## What it means
 
 - **This is the first threshold improvement of the campaign.** 4:20 (2 Jul) → 4:23 (6 Aug) →
-  **~4:18 at lower HR (24 Sep).** Taking the HR saving into account, the 3 sec/km gain on
+  **~4:18 at lower HR (25 Sep).** Taking the HR saving into account, the 3 sec/km gain on
   paper is worth more.
 - **Where it came from:** most plausibly the half-marathon block's volume (the aerobic base the
   5K campaign never had), showing up once freshness returned.
@@ -81,7 +83,6 @@ and it is the exact format of the two reference sessions, so the comparison is l
 
 ## Open
 
-- **Ankle — Friday and Saturday first steps.** The highest-force running since the half.
-  Sunday's 8 km is gated on it.
-- **Chest strap or wrist?** Decides how much weight km5's HR carries.
-- **Workout built with recoveries, or run straight?** Decides how W3's session is set up.
+- ✅ **Ankle clean Saturday morning** after the highest-force running since the half. Sunday's 8 km is on.
+- ✅ **HR source: Watch + Wahoo arm strap.** The verdict stands.
+- ✅ **Recoveries: read as a single 4 km.** W3 spells out every block.

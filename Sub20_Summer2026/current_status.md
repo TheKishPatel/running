@@ -1,29 +1,29 @@
 # Current Status
 
-*Last updated: 24 Sep 2026 (🟢 Gate 2 passed — threshold 4:18 at lower HR, first sub-4:20 of the campaign)*
+*Last updated: 26 Sep 2026 (🟢 Gate 2 passed — threshold 4:18 at lower HR, first sub-4:20 of the campaign)*
 
 ---
 
-## 🟢 THU 24 SEP — THRESHOLD HAS MOVED. GATE 2 PASSED.
+## 🟢 FRI 25 SEP — THRESHOLD HAS MOVED. GATE 2 PASSED.
 
 **4 km continuous @ 4:19/km (17:17), 166 avg, 273 W. km3–5: 4:17.7/km @ 169.3, 276 W.**
-RHR 50, sleep 8 h. Full read: `03_session_analyses/2026-09-24_threshold_4km_reread.md`.
+RHR 50 (Thu), sleep 8 h, Watch + Wahoo arm strap. Full read: `03_session_analyses/2026-09-25_threshold_4km_reread.md`.
 
 | Session | km-by-km pace | km-by-km HR |
 |---|---|---|
 | 2 Jul (best tempo) | 4:27 / 4:23 / 4:19 / 4:13 | 156 / 171 / 175 / **179** |
-| **24 Sep** | **4:24 / 4:20 / 4:19 / 4:14** | **156 / 171 / 170 / 167** |
+| **25 Sep** | **4:24 / 4:20 / 4:19 / 4:14** | **156 / 171 / 170 / 167** |
 
 **Same pace shape, same watts, 5 and 12 bpm lower on the last two km.** vs 6 Aug: 4 sec/km faster at
 3 bpm lower. **First threshold read faster than 4:20 in the campaign.** Scored top row (≤4:20,
 ≤172, rep 4 ≤176) → **W3 progresses at 4:17.**
 
-**Caveats:** run continuous, not 4 × 1 km (split times leave no room for recoveries). That is harder
-than prescribed and like-for-like with the references. km5 4:14 broke the 4:16 limit by 2 s. km5's
-HR fell as pace rose; strap unconfirmed. **Excluding km5, km3–4 still beat 2 Jul (4:19.5 @ 170.5
+**Caveats:** run continuous, not 4 × 1 km — **the prescription was read as a single 4 km** (plan-clarity
+failure; W3 spells out every block). Harder than prescribed and like-for-like with the references.
+km5 4:14 broke the 4:16 limit by 2 s. km5's HR dip is most likely a brief pause (arm strap, not wrist). **Excluding km5, km3–4 still beat 2 Jul (4:19.5 @ 170.5
 vs 4:21 @ 173).**
 
-**Open:** ankle first steps Fri/Sat (gates Sunday's 8 km). Strap or wrist? Recoveries built or skipped?
+**✅ Ankle clean Saturday morning — Sunday's 8 km is on.**
 
 ---
 
@@ -42,7 +42,8 @@ progression + first race-pace (~27 km) → **W4 5–11 Oct heaviest quality week
 | Mon 21 | Rest | Unreported — assumed |
 | **Tue 22** | **Barry's — LEGS, walking lunges** | ✅ **44:23, 144 avg, max ~175, Z4 01:14. Inside the rule. Gap closed** |
 | Wed 23 | ~~Easy 6 km~~ **Rest** | 😴 **Dropped: RHR 56 + very tired. Protects Friday** |
-| **Thu 24** | **Threshold — 1 km / 4 km continuous / 1 km** | ✅ 🟢 **GATE 2 PASSED. 4:19/km @ 166, 273 W; km3–5 4:17.7 @ 169.3** |
+| Thu 24 | Rest | ✅ RHR 50 |
+| **Fri 25** | **Threshold — 1 km / 4 km continuous / 1 km** | ✅ 🟢 **GATE 2 PASSED. 4:19/km @ 166, 273 W; km3–5 4:17.7 @ 169.3** |
 | Fri 25 | Rest | ⏳ Ankle first-steps read |
 | Sat 26 | Glute medius ~10 min (clamshells + single-leg bridge) | ⏳ |
 | Sun 27 | Easy 8 km, grass/trail, HR <145 | ⏳ |
