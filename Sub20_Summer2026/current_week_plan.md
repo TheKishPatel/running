@@ -25,8 +25,8 @@ the ankle flag still governs how fast volume rises, and this week adds intensity
 | **Wed 23** | 😴 **REST — was easy 6 km. RHR 56 + very tired** | **Dropped, not moved. Friday is protected** |
 | **Thu 24** | 😴 Rest + tendon loading | RHR 50 |
 | **Fri 25** | ✅ **THRESHOLD — 1 km / 4 km CONTINUOUS @ 4:19 / 1 km. 166 avg, 273 W** *(read as a single 4 km)* | 🟢 **GATE 2 PASSED. km3–5 4:17.7 @ 169.3** |
-| **Sat 26** | 💪 **Glute medius, ~10 min** (clamshells + single-leg bridge) | Tuesday covered the legs. No jumping |
-| **Sun 27** | 🏃 **EASY 8 km — GRASS OR TRAIL** | **HR <145 hard. Pace is an output** |
+| **Sat 26** | 💪 **Glute medius, ~10 min** (clamshells + single-leg bridge) | Unreported |
+| **Sun 27** | ✅ **EASY 8.89 km @ 5:55, 138 avg, 88 m climb** (countryside, wrist HR) | ✅ **Every km ≤144. No drift. +0.89 km** |
 
 **Spacing: Sun → Fri 5 days, Fri → Sun 48 h.** The 48-hour rule holds through
 Week 2 as written on 20 Sep. **No back-to-back running days.** The threshold sits 72 h after
@@ -324,7 +324,10 @@ Z2+3 77%.** Inside the rule; hardest Barry's in the log. Walking lunges ✅. **L
 **Thu 24 Sep:** 😴 Rest. RHR 50.
 **Fri 25 Sep:** ✅ **THRESHOLD — GATE 2 PASSED. Sleep 8 h. Watch + Wahoo arm strap.** 1 km WU 6:16 / **4:24 · 4:20 · 4:19 · 4:14 @ 156 · 171 · 170 · 167, 266–278 W** / 1 km CD 6:28. **4 km in 17:17 (4:19/km); km3–5 4:17.7 @ 169.3.** vs 2 Jul same pace shape, km3 −5 bpm, km4 −12 bpm. Run continuous (prescription read as a single 4 km). ⚠️ km5 4:14 past the 4:16 limit by 2 s; km5 HR dip likely a brief pause. Full read: `03_session_analyses/2026-09-25_threshold_4km_reread.md`.
 **Sat 26 Sep:** ✅ **Ankle clean on first steps — Sunday cleared.** ⏳ Glute medius ~10 min.
-**Sun 27 Sep:** ⏳ Easy 8 km, grass/trail, HR <145.
+**Sun 27 Sep:** ✅ **8.89 km @ 5:55, 138 avg (wrist only), 88 m climb.** Every km ≤144; Zone 3 01:51, all on climbs. km3 5:49 @130 → km7 5:57 @132: no drift. Post 138→101→98. +0.89 km over. No morning RHR.
+
+**📕 WEEK 2 CLOSED — 14.90 km, 2 runs, 1 Barry's. Gate 2 passed. Summary: `02_training_log/weekly_summaries/oct_block_week_02_summary.md`.**
+**❓ OWED: ankle first steps Mon 28 (decides whether 48 h spacing lifts in W3).**
 
 **✅ ANSWERED 22 SEP:** Tuesday was **legs, walking lunges.** Race **booked: Sat 17 Oct.**
 **✅ ANSWERED 23 SEP:** RHR **56**, very tired. **No VMO pain.** Race **chip-timed, ~10:00.**

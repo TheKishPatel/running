@@ -1,6 +1,23 @@
 # Current Status
 
-*Last updated: 26 Sep 2026 (🟢 Gate 2 passed — threshold 4:18 at lower HR, first sub-4:20 of the campaign)*
+*Last updated: 27 Sep 2026 (Week 2 CLOSED — threshold moved, terrain governor 2/2; W3 plan due Mon)*
+
+---
+
+## 📕 OCTOBER BLOCK — WEEK 2 CLOSED (Mon 21 – Sun 27 Sep)
+
+**Full summary: `02_training_log/weekly_summaries/oct_block_week_02_summary.md`.**
+
+**14.90 km, 2 runs (6.01 + 8.89), 1 Barry's (legs).** ~22.5 planned; Wednesday dropped on RHR 56 +
+~5 h sleep, and the threshold warm-up and cool-down were cut for time. **Neither was symptom-driven.**
+
+- 🟢 **Threshold moved:** 4:20 → 4:23 → **4:18 @ 169** (Fri 25). **W3 at 4:17.**
+- 🟢 **Terrain governor 2 for 2:** Sun 27 **8.89 km @ 5:55, 138 avg over 88 m of climbing, every km
+  ≤144, no drift.** Wrist HR only, so no aerobic verdict.
+- 🟢 **Lower-body gap closed** (Tue legs, walking lunges, no VMO).
+- ⚠️ **Sleep drove the week:** ~5 h → RHR 56, run dropped; 8 h → RHR 50, best threshold of the campaign.
+
+**Open:** ankle first steps Mon 28, which decides whether 48 h spacing lifts in W3. **➡️ `/weekly-plan` due for W3 (28 Sep – 4 Oct).**
 
 ---
 
@@ -45,8 +62,8 @@ progression + first race-pace (~27 km) → **W4 5–11 Oct heaviest quality week
 | Thu 24 | Rest | ✅ RHR 50 |
 | **Fri 25** | **Threshold — 1 km / 4 km continuous / 1 km** | ✅ 🟢 **GATE 2 PASSED. 4:19/km @ 166, 273 W; km3–5 4:17.7 @ 169.3** |
 | Fri 25 | Rest | ⏳ Ankle first-steps read |
-| Sat 26 | Glute medius ~10 min (clamshells + single-leg bridge) | ⏳ |
-| Sun 27 | Easy 8 km, grass/trail, HR <145 | ⏳ |
+| Sat 26 | Glute medius ~10 min (clamshells + single-leg bridge) | Unreported |
+| Sun 27 | Easy 8 km, terrain + HR <145 | ✅ **8.89 km @ 5:55, 138 avg, 88 m climb, every km ≤144** |
 
 **~14.5 km, 2 runs** (was 22.5; Wednesday dropped, Friday WU/CD cut to 1 km). **Sunday stays 8 km — the 2 km is not added back.** **Friday gate added: RHR 56–60 and still very tired → Friday easy 5 km, threshold to Sunday.**
 
