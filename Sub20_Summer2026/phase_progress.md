@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 27 Sep 2026*
+*Last updated: 29 Sep 2026*
 
 ---
 
@@ -20,9 +20,9 @@
 | **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. PB BY 5:06 (prev 1:44:38). Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
 | **Recovery week** | — | **Mon 7 – Sun 13 Sep** | ✅ **Complete — 0 km.** Race absorbed. Left medial ankle flag opened 9 Sep; all running cancelled | — |
-| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 🔄 **Current — W2 closed, W3 next.** **🟢 Gate 2 passed 25 Sep — threshold 4:18.** **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
+| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 🔄 **Current — W3 live (28 Sep – 4 Oct).** **🟢 Gate 2 passed 25 Sep — threshold 4:18.** **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
 
-> **Live plan = `current_week_plan.md`** (October 5K sharpening block, W2 of 5).
+> **Live plan = `current_week_plan.md`** (October 5K sharpening block, W3 of 5).
 > `big_half_block_Sep2026.md` is closed — the 6 Sep half marathon delivered a 5:06 PB (1:39:32).
 > **Targets for October: sub-20:30 and a 5K PB realistic; sub-20:00 a stretch.**
 > **🏁 Race booked 22 Sep: Saturday 17 October, chip-timed, ~10:00 start.** Block extended 4 → 5 weeks; the extra week is quality.
@@ -39,8 +39,8 @@ that has not moved all summer.
 |---|---|---|---|---|
 | **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
 | **W2** | **21–27 Sep** | **Threshold returns** — Fri 1 km / **4 km continuous @ 4:19** / 1 km; Sun 8.89 km easy @ 5:55, 138 avg, 88 m climb | **14.90 km** (plan ~22.5; Wed rested on RHR 56 + ~5 h sleep; Fri WU/CD 1 km) | ✅ **Complete. 🟢 Gate 2 passed — threshold 4:18 @ 169** |
-| W3 | 28 Sep – 4 Oct | **Threshold progression + first race-pace session.** 48 h spacing lifted if W2 is clean | ~27 km | ⏳ |
-| **W4** | **5–11 Oct** | **Heaviest quality week** — threshold + race-pace 5K session | ~32 km | ⏳ |
+| **W3** | **28 Sep – 4 Oct** | **Threshold progression + first race-pace read.** Fri 2 km / **5 × 1 km @ 4:17**, 90 s jog / 1 km; Sun 2 km / **3 × 1 km @ 4:05**, 2:00 jog / 3 km; Wed easy 7 km. Ankle clean Mon 28 → 48 h spacing lifted (not used: W→F→S) | ~25 km | 🔄 **Live.** Barry's Tue 29 ✅ 140 avg |
+| **W4** | **5–11 Oct** | **Heaviest quality week** — threshold + race-pace 5K session; one session at ~10:00 as race rehearsal; first back-to-back run days | ~30 km | ⏳ |
 | **W5** | **12–17 Oct** | **Race week. Taper to 🏁 Sat 17 Oct** | ~15 km + race | ⏳ |
 
 ### Gates
@@ -51,7 +51,7 @@ that has not moved all summer.
 | **0b** | **Ankle tolerates real load** | Thu 17 Sep | ✅ **PASSED** — 5 km @ 5:00/km, 160 avg, clean. **Flag resolved** |
 | **1** | **W1 completes clean** | Sun 20 Sep | ✅ **PASSED** — 7 km @ 5:50/km, 139 avg, no drift, ankle clean. **Terrain governor validated** |
 | **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **Fri 25 Sep** | ✅ **PASSED — TOP ROW.** 4 km continuous @ 4:19 @ 166; **km3–5 4:17.7 @ 169.3, 276 W.** vs 2 Jul same shape, −5/−12 bpm on the last two km. **First sub-4:20 threshold of the campaign → W3 at 4:17** |
-| **3** | **Race-pace read** | W3 | ⏳ |
+| **3** | **Race-pace read** — 3 × 1 km @ 4:05 (band 4:02–4:08). 🟢 all ≤4:06 → W4 @ 4:02; 🟡 4:06–4:08 → W4 @ 4:05; 🔴 >4:08 → target resets to PB | **Sun 4 Oct** | ⏳ |
 
 ### The block's actual problem
 
