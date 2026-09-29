@@ -4,6 +4,67 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-09-22 (later) — Race booked Sat 17 Oct: block extends to 5 weeks; Tuesday confirmed legs
+
+**Race.** Booked for **Saturday 17 October** — six days after the old W4 end date (11 Oct).
+
+**Decision: the extra week goes to quality, not taper.**
+
+| Week | Dates | Shape | Volume |
+|---|---|---|---|
+| W2 | 21–27 Sep | Threshold re-read (Fri) — unchanged | ~22.5 km |
+| W3 | 28 Sep – 4 Oct | Threshold progression + first race-pace session | ~27 km |
+| W4 | 5–11 Oct | Heaviest quality week | ~32 km |
+| W5 | 12–17 Oct | Race week, taper to Saturday | ~15 km + race |
+
+**Rationale.** Threshold is the limiter (4:20 → 4:23, flat all summer), and quality weeks are what
+move it. The old shape had two quality weeks after the re-read. This one has three. A 5K taper
+needs about 5 days, and race week already gives that. **Spreading the old W3 peak across W3 and W4
+also slows the volume ramp** (22.5 → 27 → 32 km instead of 22.5 → 33), which the ankle flag asks
+for anyway.
+
+**Barry's.** Tue 22 Sep confirmed **legs, walking lunges.** Lower-body gap closed at 28 days, and
+the first-session-back rule was followed. **Rotation recorded: Tue = legs** (`athlete_preferences.md`).
+Walking lunges Tue 29 Sep, jumping lunges from Tue 6 Oct if both are clean. **Tue 13 Oct is 4 days
+before the race and gets decided in the W5 plan.** Per `CLAUDE.md`, the class is not dropped. Only
+the plyometrics are open to modification. Saturday's home session is cut from ~20 min to ~10 min
+of glute medius work, since the class now covers the legs.
+
+---
+
+## 2026-09-22 — Week 2: threshold re-read on Friday at 4:20, as a built watch workout
+
+**Situation.** W1 closed at 16 km with the ankle flag resolved and the terrain-and-HR method
+validated on Sunday's 7 km. Threshold has not been measured since 6 Aug (4:23/km @ 169). Plan
+written Tuesday, after a 144-avg Barry's (hardest in the log, inside the <155 rule).
+
+**Decision.** Wed 6 km easy / **Fri 2 km + 4 × 1 km @ 4:20 (alert 4:16–4:24), 90 s jog + 2 km,
+structured watch workout, HR ceiling 178** / Sat home strength / Sun 8 km easy. ~22.5 km.
+
+**Rationale.**
+1. **Friday, not Thursday.** The 48 h run-spacing rule holds through W2. Tue → Thu quality leaves
+   no room for a second easy run before Sunday; Wed / Fri / Sun gets three runs at 48–72 h each,
+   and puts the threshold 72 h after a 144-avg class.
+2. **4:20, not 4:15.** 4:20 (2 Jul), 4:23 (6 Aug), then a half, 8 days off and a tendon flag.
+   A faster target would come from the goal, not the data. W3 moves it if Friday comes in low in
+   the HR band.
+3. **4 × 1 km, not 4 km continuous.** Same work as 6 Aug, split into four readable reps. Rep 1 vs
+   rep 4 gives the drift read, and the 90 s breaks cut continuous force on a tendon 16 days clear.
+4. **Built workout with pace alerts.** Three numeric easy-run prescriptions missed in W1. On the
+   hard end, 27 Aug turned 3 km @ 4:50 into a maximal 5 km @ 4:29. Terrain can govern an easy run
+   but not a threshold session. The watch alert is the remaining mechanism.
+5. **22.5 km, under the 24–28 km sketched on 15 Sep.** Intensity returns this week, and the ankle
+   flag governs the rate of volume increase. 16 → 22.5 km is the step. The 25 km/week re-book
+   trigger (28 Sep) is next week's line.
+
+**Scoring set in advance:** 🟢 4:20 or faster, reps 2–4 ≤172 avg → W3 5 × 1 km @ 4:17. 🟡 173–178
+→ W3 repeats 4:20. 🔴 cannot hold 4:24 → re-set at 4:25, sub-20:30 target reviewed.
+
+**Race default:** still unnamed after two asks. **If unnamed by Sun 27 Sep, W4 is written for a
+Sat 10 Oct parkrun.**
+
+---
+
 ## 2026-09-13 — Hop test withdrawn, tendon loading programme issued, resting HR moves to pre-run only
 
 **Situation.** Sunday's return-to-run was held: ten hops on the left ankle produced tightness.

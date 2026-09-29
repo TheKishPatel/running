@@ -1,8 +1,95 @@
 # Current Status
 
-*Last updated: 20 Sep 2026 (Week 1 CLOSED — terrain governor validated, ankle flag resolved)*
+*Last updated: 27 Sep 2026 (Week 2 CLOSED — threshold moved, terrain governor 2/2; W3 plan due Mon)*
 
 ---
+
+## 📕 OCTOBER BLOCK — WEEK 2 CLOSED (Mon 21 – Sun 27 Sep)
+
+**Full summary: `02_training_log/weekly_summaries/oct_block_week_02_summary.md`.**
+
+**14.90 km, 2 runs (6.01 + 8.89), 1 Barry's (legs).** ~22.5 planned; Wednesday dropped on RHR 56 +
+~5 h sleep, and the threshold warm-up and cool-down were cut for time. **Neither was symptom-driven.**
+
+- 🟢 **Threshold moved:** 4:20 → 4:23 → **4:18 @ 169** (Fri 25). **W3 at 4:17.**
+- 🟢 **Terrain governor 2 for 2:** Sun 27 **8.89 km @ 5:55, 138 avg over 88 m of climbing, every km
+  ≤144, no drift.** Wrist HR only, so no aerobic verdict.
+- 🟢 **Lower-body gap closed** (Tue legs, walking lunges, no VMO).
+- ⚠️ **Sleep drove the week:** ~5 h → RHR 56, run dropped; 8 h → RHR 50, best threshold of the campaign.
+
+**Open:** ankle first steps Mon 28, which decides whether 48 h spacing lifts in W3. **➡️ `/weekly-plan` due for W3 (28 Sep – 4 Oct).**
+
+---
+
+## 🟢 FRI 25 SEP — THRESHOLD HAS MOVED. GATE 2 PASSED.
+
+**4 km continuous @ 4:19/km (17:17), 166 avg, 273 W. km3–5: 4:17.7/km @ 169.3, 276 W.**
+RHR 50 (Thu), sleep 8 h, Watch + Wahoo arm strap. Full read: `03_session_analyses/2026-09-25_threshold_4km_reread.md`.
+
+| Session | km-by-km pace | km-by-km HR |
+|---|---|---|
+| 2 Jul (best tempo) | 4:27 / 4:23 / 4:19 / 4:13 | 156 / 171 / 175 / **179** |
+| **25 Sep** | **4:24 / 4:20 / 4:19 / 4:14** | **156 / 171 / 170 / 167** |
+
+**Same pace shape, same watts, 5 and 12 bpm lower on the last two km.** vs 6 Aug: 4 sec/km faster at
+3 bpm lower. **First threshold read faster than 4:20 in the campaign.** Scored top row (≤4:20,
+≤172, rep 4 ≤176) → **W3 progresses at 4:17.**
+
+**Caveats:** run continuous, not 4 × 1 km — **the prescription was read as a single 4 km** (plan-clarity
+failure; W3 spells out every block). Harder than prescribed and like-for-like with the references.
+km5 4:14 broke the 4:16 limit by 2 s. km5's HR dip is most likely a brief pause (arm strap, not wrist). **Excluding km5, km3–4 still beat 2 Jul (4:19.5 @ 170.5
+vs 4:21 @ 173).**
+
+**✅ Ankle clean Saturday morning — Sunday's 8 km is on.**
+
+---
+
+## 🟢 OCTOBER BLOCK — WEEK 2 of 5 LIVE (Mon 21 – Sun 27 Sep). THRESHOLD RETURNS FRIDAY.
+
+## 🏁 RACE BOOKED: SATURDAY 17 OCTOBER
+
+**Block extends from 4 weeks to 5.** The extra week is quality, not taper: W3 threshold
+progression + first race-pace (~27 km) → **W4 5–11 Oct heaviest quality week (~32 km)** → W5
+12–17 Oct race week. **Chip-timed, ~10:00 start.**
+
+**Live plan: `current_week_plan.md`.**
+
+| Day | Session | Status |
+|---|---|---|
+| Mon 21 | Rest | Unreported — assumed |
+| **Tue 22** | **Barry's — LEGS, walking lunges** | ✅ **44:23, 144 avg, max ~175, Z4 01:14. Inside the rule. Gap closed** |
+| Wed 23 | ~~Easy 6 km~~ **Rest** | 😴 **Dropped: RHR 56 + very tired. Protects Friday** |
+| Thu 24 | Rest | ✅ RHR 50 |
+| **Fri 25** | **Threshold — 1 km / 4 km continuous / 1 km** | ✅ 🟢 **GATE 2 PASSED. 4:19/km @ 166, 273 W; km3–5 4:17.7 @ 169.3** |
+| Fri 25 | Rest | ⏳ Ankle first-steps read |
+| Sat 26 | Glute medius ~10 min (clamshells + single-leg bridge) | Unreported |
+| Sun 27 | Easy 8 km, terrain + HR <145 | ✅ **8.89 km @ 5:55, 138 avg, 88 m climb, every km ≤144** |
+
+**~14.5 km, 2 runs** (was 22.5; Wednesday dropped, Friday WU/CD cut to 1 km). **Sunday stays 8 km — the 2 km is not added back.** **Friday gate added: RHR 56–60 and still very tired → Friday easy 5 km, threshold to Sunday.**
+
+### ✅ Tue 22 Barry's — inside the rule, hardest in the log
+
+**144 avg (<155 ✅), Zone 2+3 77% (majority ✅), Zone 4 01:14, Zone 5 zero.** Rule met.
+
+**But it tops every Barry's on record:** highest average (prev 138, 7 Jul), highest Zone 3 (16:02
+vs 12:14), lowest Zone 1 (08:47). Zone 4 sits below 7 Jul's 01:54. **One session is not a flag.
+A second Tuesday like it would be.**
+
+**✅ Confirmed legs, walking lunges.** The zone shape had already said so (18 Sep chest ran Z1 19:33 /
+Z3 05:46; today the reverse). **Lower-body gap CLOSED at 28 days (last 25 Aug), first-session-back
+rule followed.** The 144 average is the cost of a first leg session in four weeks. Walking lunges
+again Tue 29 Sep; **jumping lunges return Tue 6 Oct** if both are clean. Post-workout 119 → 115 → 117, flat,
+the normal Barry's shape.
+
+### ❓ Open
+
+- ✅ **No VMO pain** after walking lunges — lunge table holds.
+- ✅ **Illness screen clear (Wed):** no sore throat, no cough. **RHR 56 + very tired = ~5 h sleep on top of Tuesday's class.** Not illness. **Thursday night's sleep is Friday's biggest variable.**
+- ✅ **Threshold-morning RHR 50** — back to baseline from 56. Full session.
+
+---
+
+## Superseded — Week 1 closed (20 Sep)
 
 ## 📕 OCTOBER BLOCK — WEEK 1 CLOSED (Mon 14 – Sun 20 Sep)
 

@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 20 Sep 2026*
+*Last updated: 27 Sep 2026*
 
 ---
 
@@ -20,26 +20,28 @@
 | **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. PB BY 5:06 (prev 1:44:38). Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
 | **Recovery week** | — | **Mon 7 – Sun 13 Sep** | ✅ **Complete — 0 km.** Race absorbed. Left medial ankle flag opened 9 Sep; all running cancelled | — |
-| **5K sharpening block** | **1–4** | **Mon 14 Sep – Sun 11 Oct** | 🔄 **Current — W1 live.** Opened easy-only. **Race date not yet named** | ✅ **Ankle gate passed 15 Sep** |
+| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 🔄 **Current — W2 closed, W3 next.** **🟢 Gate 2 passed 25 Sep — threshold 4:18.** **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
 
-> **Live plan = `current_week_plan.md`** (October 5K sharpening block, W1 of 4).
+> **Live plan = `current_week_plan.md`** (October 5K sharpening block, W2 of 5).
 > `big_half_block_Sep2026.md` is closed — the 6 Sep half marathon delivered a 5:06 PB (1:39:32).
 > **Targets for October: sub-20:30 and a 5K PB realistic; sub-20:00 a stretch.**
-> **❗ The race itself has still not been named or entered — that decision is due this week.**
+> **🏁 Race booked 22 Sep: Saturday 17 October, chip-timed, ~10:00 start.** Block extended 4 → 5 weeks; the extra week is quality.
 
 ---
 
-## 🟢 October 5K Sharpening Block — Weeks 1–4 (Mon 14 Sep – Sun 11 Oct)
+## 🟢 October 5K Sharpening Block — Weeks 1–5 (Mon 14 Sep – Sat 17 Oct)
 
-**Opened 15 Sep.** Four weeks, of which **one is easy-only by design**, leaving three weeks of
-quality to move a threshold that has not moved all summer.
+**Opened 15 Sep.** Five weeks since the race was booked for **Sat 17 Oct** (22 Sep) — originally four.
+**One is easy-only by design and one is race week**, leaving three weeks of quality to move a threshold
+that has not moved all summer.
 
 | Week | Dates | Shape | Volume | Status |
 |---|---|---|---|---|
 | **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
-| **W2** | **21–27 Sep** | **Threshold returns** — one conservative session, **built as a structured watch workout** | ~24–28 km | 🔄 **Current — plan due** |
-| W3 | 28 Sep – 4 Oct | **Heaviest quality week** — threshold + race pace | ~33 km | ⏳ |
-| W4 | 5–11 Oct | **Sharpen and taper into the race** | ~25 km | ⏳ |
+| **W2** | **21–27 Sep** | **Threshold returns** — Fri 1 km / **4 km continuous @ 4:19** / 1 km; Sun 8.89 km easy @ 5:55, 138 avg, 88 m climb | **14.90 km** (plan ~22.5; Wed rested on RHR 56 + ~5 h sleep; Fri WU/CD 1 km) | ✅ **Complete. 🟢 Gate 2 passed — threshold 4:18 @ 169** |
+| W3 | 28 Sep – 4 Oct | **Threshold progression + first race-pace session.** 48 h spacing lifted if W2 is clean | ~27 km | ⏳ |
+| **W4** | **5–11 Oct** | **Heaviest quality week** — threshold + race-pace 5K session | ~32 km | ⏳ |
+| **W5** | **12–17 Oct** | **Race week. Taper to 🏁 Sat 17 Oct** | ~15 km + race | ⏳ |
 
 ### Gates
 
@@ -48,12 +50,12 @@ quality to move a threshold that has not moved all summer.
 | **0** | **Return-to-run: ankle clean during, that evening, and next morning** | Mon 14 Sep | ✅ **PASSED** — 4 km road @ ~5:30/km, clean at all three |
 | **0b** | **Ankle tolerates real load** | Thu 17 Sep | ✅ **PASSED** — 5 km @ 5:00/km, 160 avg, clean. **Flag resolved** |
 | **1** | **W1 completes clean** | Sun 20 Sep | ✅ **PASSED** — 7 km @ 5:50/km, 139 avg, no drift, ankle clean. **Terrain governor validated** |
-| **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **W2** | ⏳ **Next. The block's first real read — sub-20:30 sits on it** |
+| **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **Fri 25 Sep** | ✅ **PASSED — TOP ROW.** 4 km continuous @ 4:19 @ 166; **km3–5 4:17.7 @ 169.3, 276 W.** vs 2 Jul same shape, −5/−12 bpm on the last two km. **First sub-4:20 threshold of the campaign → W3 at 4:17** |
 | **3** | **Race-pace read** | W3 | ⏳ |
 
 ### The block's actual problem
 
-**Threshold: 4:20/km (2 Jul) → 4:23/km (6 Aug) → nothing, across three compromised Thursdays.**
+**Threshold: 4:20/km (2 Jul) → 4:23/km (6 Aug) → 🟢 4:18/km @ 169 (25 Sep) — the first movement of the campaign.**
 It has not moved in the whole campaign, and the 6 Sep PB does not change that — **Riegel from
 1:39:32 projects a 5K of 21:38, slower than the standing 20:59 PB.** The half was an endurance
 result; **the gap to sub-20 is threshold and this block is the last chance to move it.**
@@ -63,9 +65,10 @@ result; **the gap to sub-20 is threshold and this block is the last chance to mo
 - **🟢 Left medial ankle — RESOLVED 20 Sep.** Four clean exposures incl. 5 km @ 5:00/km and a 7 km.
   **Loading programme continues** (recurrence risk on stopping) and **48 h run spacing holds through
   W2.** Physio dropped 15 Sep; re-book triggers stand.
-- **🔴 Lower-body gap still open — 26 days.** Last dedicated session 25 Aug. 15 Sep missed (trainers);
-  18 Sep was total body, **mostly chest** — partial credit only. **Home glute session owed.** Next
-  dedicated lower-body class is a first session back: **walking lunges, no plyometrics.**
+- **🟢 Lower-body gap — CLOSED 22 Sep at 28 days.** Tue 22 Sep confirmed **legs, walking lunges** (144 avg,
+  Z3 16:02, hardest class in the log — the cost of a first leg session in four weeks). Walking lunges
+  again Tue 29 Sep; **jumping lunges return Tue 6 Oct** if both clean. Barry's rotation: **Tue = legs.**
+  Saturday home work cut to ~10 min glute medius.
 - **✅ Data capture fixed** — full splits, zones and power on both W1 runs. **🎯 Easy runs are now
   governed by surface + HR (validated 20 Sep); the quality session must be a structured watch workout.**
 - **⚠️ Illness** — five episodes cost ~30 days this campaign. **With three quality weeks left and
