@@ -39,8 +39,8 @@ that has not moved all summer.
 |---|---|---|---|---|
 | **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
 | **W2** | **21–27 Sep** | **Threshold returns** — Fri 1 km / **4 km continuous @ 4:19** / 1 km; Sun 8.89 km easy @ 5:55, 138 avg, 88 m climb | **14.90 km** (plan ~22.5; Wed rested on RHR 56 + ~5 h sleep; Fri WU/CD 1 km) | ✅ **Complete. 🟢 Gate 2 passed — threshold 4:18 @ 169** |
-| **W3** | **28 Sep – 4 Oct** | **Threshold progression + first race-pace read.** Fri 2 km / **5 × 1 km @ 4:17**, 90 s jog / 1 km; Sun 2 km / **3 × 1 km @ 4:05**, 2:00 jog / 3 km; Wed easy 7 km. Ankle clean Mon 28 → 48 h spacing lifted (not used: W→F→S) | ~25 km | 🔄 **Live.** Barry's Tue 29 ✅ 140 avg |
-| **W4** | **5–11 Oct** | **Heaviest quality week** — threshold + race-pace 5K session; one session at ~10:00 as race rehearsal; first back-to-back run days | ~30 km | ⏳ |
+| **W3** | **28 Sep – 4 Oct** | **Threshold progression.** **Thu** 2 km / **5 × 1 km @ 4:17**, 90 s jog / 1 km; Fri 5 km + Sat 5 km easy; Sun 8 km. Ankle clean Mon 28 → 48 h spacing lifted (Thu–Sun consecutive) | ~27 km | 🔄 **Live.** Barry's Tue 29 ✅ 140 avg |
+| **W4** | **5–11 Oct** | **Heaviest quality week** — Thu race-pace read (Gate 3) at ~10:00 as race rehearsal | ~30 km | ⏳ |
 | **W5** | **12–17 Oct** | **Race week. Taper to 🏁 Sat 17 Oct** | ~15 km + race | ⏳ |
 
 ### Gates
@@ -51,7 +51,7 @@ that has not moved all summer.
 | **0b** | **Ankle tolerates real load** | Thu 17 Sep | ✅ **PASSED** — 5 km @ 5:00/km, 160 avg, clean. **Flag resolved** |
 | **1** | **W1 completes clean** | Sun 20 Sep | ✅ **PASSED** — 7 km @ 5:50/km, 139 avg, no drift, ankle clean. **Terrain governor validated** |
 | **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **Fri 25 Sep** | ✅ **PASSED — TOP ROW.** 4 km continuous @ 4:19 @ 166; **km3–5 4:17.7 @ 169.3, 276 W.** vs 2 Jul same shape, −5/−12 bpm on the last two km. **First sub-4:20 threshold of the campaign → W3 at 4:17** |
-| **3** | **Race-pace read** — 3 × 1 km @ 4:05 (band 4:02–4:08). 🟢 all ≤4:06 → W4 @ 4:02; 🟡 4:06–4:08 → W4 @ 4:05; 🔴 >4:08 → target resets to PB | **Sun 4 Oct** | ⏳ |
+| **3** | **Race-pace read** — 3 × 1 km @ 4:05 (band 4:02–4:08). 🟢 all ≤4:06 → W4 @ 4:02; 🟡 4:06–4:08 → W4 @ 4:05; 🔴 >4:08 → target resets to PB | **Thu 8 Oct** | ⏳ |
 
 ### The block's actual problem
 

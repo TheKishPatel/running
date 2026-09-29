@@ -1,17 +1,16 @@
 # Current Week Plan
 
-*Last updated: 29 Sep 2026 — W3 generated. Ankle clean Mon 28 → 48 h spacing lifted. Barry's Tue 29 inside the rule (140 avg).*
+*Last updated: 29 Sep 2026 — W3 re-laid to the fixed week: Tue Barry's legs, Thu quality, Sun long. Threshold Thu 1 Oct.*
 
 ---
 
 ## 🟢 OCTOBER 5K SHARPENING BLOCK — WEEK 3 of 5 (Mon 28 Sep – Sun 4 Oct). RACE: SAT 17 OCT
 
-**Two quality sessions for the first time this block: threshold progresses to 4:17 (Fri), and the
-first race-pace read (Sun).** Both are structured watch workouts. Every block is listed.
+**One quality session, Thursday: threshold 5 × 1 km @ 4:17, structured watch workout, every block listed.**
+The first race-pace read (Gate 3) moves to **Thu 8 Oct** — fast running stays on Thursdays.
 
-**Volume target: ~25 km across 3 runs (7 + ~9 + ~9), one Barry's (done), ~10 min glute medius
-Saturday, tendon loading daily.** W2 ran 14.9 km. The physio line (25 km/week without symptoms)
-gets crossed this week.
+**Volume target: ~27 km across 4 runs (9 + 5 + 5 + 8), one Barry's (done), tendon loading daily.**
+W2 ran 14.9 km. The physio line (25 km/week without symptoms) gets crossed this week.
 
 ---
 
@@ -20,23 +19,24 @@ gets crossed this week.
 | Day | Session | Target |
 |---|---|---|
 | **Mon 28** | ✅ Rest. **Ankle clean, no pain** | 🟢 **48 h spacing lifted** |
-| **Tue 29** | ✅ **Barry's, ~47 min, 140 avg, Z4 01:51, Z2+3 66%** | ✅ **Inside the rule.** Body part / lunges to confirm |
-| **Wed 30** | 🏃 **EASY 7 km — trail or grass. HR <145** | Pace is output. Expect 5:45–6:05 |
-| **Thu 1** | 😴 Rest + tendon loading (slow heavy heel raises today, not Fri) | **7 h+ sleep** |
-| **Fri 2** | 🎯 **THRESHOLD — 2 km / 5 × 1 km @ 4:17 (90 s jog) / 1 km. Structured workout** | **Reps 2–5: 4:14–4:20, HR 168–176** |
-| **Sat 3** | 💪 **Glute medius ~10 min.** No run | Ankle first steps |
-| **Sun 4** | 🎯 **RACE PACE — 2 km / 3 × 1 km @ 4:05 (2:00 jog) / 3 km. Structured workout** | **Reps 4:02–4:08. Gate 3** |
+| **Tue 29** | ✅ **Barry's East London — LEGS. ~47 min, 140 avg, Z4 01:51, Z2+3 66%** | ✅ **Inside the rule.** Walking lunges session 2 of 2 |
+| **Wed 30** | 😴 **Rest** + tendon loading (slow heavy heel raises today). Build Thursday's workout tonight | **7 h+ sleep** |
+| **Thu 1** | 🎯 **THRESHOLD — 2 km / 5 × 1 km @ 4:17 (90 s jog) / 1 km. Structured workout** | **Reps 2–5: 4:14–4:20, HR 168–176** |
+| **Fri 2** | 🏃 **EASY 5 km — trail or grass. HR <140** | Recovery run. Pace is output |
+| **Sat 3** | 🏃 **EASY 5 km — trail or grass. HR <145** + glute medius ~10 min | Ankle first steps gate |
+| **Sun 4** | 🏃 **LONG EASY 8 km — trail or countryside. HR <145** | Same distance as W2. Ankle first steps gate |
 
-**Spacing: Wed → Fri 48 h, Fri → Sun 48 h. No back-to-back running days.** The lift is available
-but not used: two quality sessions in one week is the new load, and the gaps protect both reads.
-**W4 is where back-to-back days first appear.**
+**Thu → Sun is four consecutive running days — the first of the block.** That is the spacing lift
+used in full. It is safe only because Fri–Sun are all easy, short and on soft ground. **Any morning
+ankle stiffness Fri, Sat or Sun → that day's run is dropped, not shortened.** Two consecutive
+mornings of stiffness is a physio re-book trigger.
 
-**Why Friday again:** Tue Barry's → Fri is 72 h, Wed easy → Fri is 48 h — **identical to the set-up
-that produced 4:18 @ 169.** Same conditions make W3's read comparable with W2's.
+**Thursday is 48 h after Barry's legs** (W2's read was 72 h). Wednesday rest covers it, and the
+class cost less this week (140 vs 144 avg).
 
 ---
 
-## ✅ TUE 29 SEP — BARRY'S. INSIDE THE RULE. COST FALLING.
+## ✅ TUE 29 SEP — BARRY'S LEGS. INSIDE THE RULE. COST FALLING.
 
 **~47 min, 12:03. 140 avg, max ~172. Z1 14:20 / Z2 18:46 / Z3 12:00 / Z4 01:51 / Z5 00:00.
 Zone 2+3 = 66%.** Post 126 → 118 → 120.
@@ -49,52 +49,27 @@ Zone 2+3 = 66%.** Post 126 → 118 → 120.
 | Z4 | 01:14 | **01:51** |
 | Z2+3 | 77% | **66%** |
 
-**−4 bpm, −4 min Zone 3 on the second session back.** The fall toward 131–135 forecast on 22 Sep is
-under way. **Zone 4: second Tuesday running over 1 min** — 4% of the class, Z5 zero. Not
-"consistently Zone 4–5". **Watch item: flag if 6 Oct passes ~2 min Z4 or 145 avg.**
-
-### ❓ Confirm: legs? Walking lunges?
+**−4 bpm, −4 min Zone 3 on the second leg class back.** The fall toward 131–135 forecast on 22 Sep
+is under way. **Zone 4: second Tuesday over 1 min** — 4% of the class, Z5 zero. Not "consistently
+Zone 4–5". **Watch item: flag if 6 Oct passes ~2 min Z4 or 145 avg.**
 
 | Tuesday | Lunges |
 |---|---|
 | ✅ 22 Sep | Walking — session 1 of 2 |
-| ✅ **29 Sep** | **Walking — session 2 of 2** *(to confirm)* |
-| **6 Oct** | **Jumping lunges return** if today was walking and **no inner-quad / VMO sensation Wed morning** |
+| ✅ 29 Sep | Walking — session 2 of 2 |
+| **6 Oct** | **Jumping lunges return** — unless inner-quad / VMO sensation Wed morning |
 | 13 Oct | Race week — decided in the W5 plan |
 
 ---
 
-## 🏃 WED 30 SEP — EASY 7 km. TRAIL OR GRASS. HR <145.
+## 🎯 THU 1 OCT — THRESHOLD 5 × 1 km @ 4:17. STRUCTURED WATCH WORKOUT.
 
-| | |
-|---|---|
-| **Distance** | **7 km** |
-| **Surface** | 🌱 **Trail or grass** |
-| **HR** | **<145 hard. 150 → walk** |
-| **Pace** | **Output. Expect 5:45–6:05/km.** Road → flag if any km <5:40 |
-| **Strap** | **Wahoo arm strap.** No strap, no aerobic verdict |
+### ⚠️ FIVE separate reps with a jog between each. Not one 5 km.
 
-### ⬇️ Morning gate — this is the day that failed last week
+Last week's "4 × 1 km, 90 s" was read as a single 4 km. **The watch buzzes at the end of each km.
+Ease to a jog for 90 s. It buzzes again. Go.**
 
-| On waking | Session |
-|---|---|
-| **RHR ≤55, slept 7 h+** | **7 km as written** |
-| **RHR 56–60, or <6 h sleep** | **5 km** |
-| **RHR 56–60 AND very tired, or RHR >60** | **Rest. Not moved.** Friday is protected |
-
-Plus: **no inner-quad / VMO sensation** (report it — it sets 6 Oct), ankle clean. **Sore throat,
-cough or phlegm → complete rest.**
-
----
-
-## 🎯 FRI 2 OCT — THRESHOLD 5 × 1 km @ 4:17. STRUCTURED WATCH WORKOUT.
-
-### ⚠️ This is FIVE separate reps with a jog between each. Not one 5 km.
-
-Last week's "4 × 1 km, 90 s" was read as a single 4 km. **The watch will buzz at the end of each
-km. Stop running fast. Jog 90 s. It buzzes again. Go.**
-
-### Build it Thursday night: Workout app → Running → Custom workout
+### Build it Wednesday night: Workout app → Running → Custom workout
 
 | # | Block | Setting | Alert |
 |---|---|---|---|
@@ -116,9 +91,9 @@ km. Stop running fast. Jog 90 s. It buzzes again. Go.**
 | **Power** | **~276 W** (4:17.7 on 25 Sep) |
 | **Rep 5** | **Not faster than 4:14.** No sixth rep |
 
-**Why 4:17:** top-row outcome pre-set 22 Sep and hit on 25 Sep (km3–5 4:17.7 @ 169.3). 4:17 is that
-number, held for 5 km instead of 3, with breaks. **Load goes up by +1 km, pace by ~1 sec/km. One
-variable moves meaningfully, not both.** 4:12–4:15 would be the goal talking.
+**Why 4:17:** top-row outcome pre-set 22 Sep and hit on 25 Sep (km3–5 4:17.7 @ 169.3). Same pace,
+held for 5 km instead of 3, with breaks. **Distance moves, pace holds.** 4:12–4:15 would be the goal
+talking, not the data.
 
 ### 🛑 Stop rules
 
@@ -132,70 +107,49 @@ variable moves meaningfully, not both.** 4:12–4:15 would be the goal talking.
 |---|---|
 | **RHR ≤55** | **As written** |
 | **56–60, feeling OK** | **4 × 1 km.** Same pace |
-| **56–60 AND very tired** | **Easy 5 km trail. Threshold → Sun, race pace → W4** |
-| **>60** | **Rest.** Same move |
+| **56–60 AND very tired** | **Easy 5 km trail. Threshold dropped, not moved — fast running stays on Thursdays. W4 Thu repeats it** |
+| **>60** | **Rest.** Same call |
 
-**Chest/arm strap mandatory.** No strap, no threshold verdict.
+**Wahoo arm strap mandatory.** No strap, no threshold verdict. **Sore throat, cough or phlegm →
+complete rest.**
 
 ### 📊 Scoring
 
-| Outcome | Read | W4 |
+| Outcome | Read | W4 Thursday (8 Oct) |
 |---|---|---|
-| **Reps 2–5 ≤4:18, avg HR ≤172, rep 5 ≤176** | 🟢 **Threshold holding at 4:17** | **Threshold 3 × 2 km @ 4:15** |
-| **4:17 held at 173–178** | 🟡 **Holding, expensive** | **5 × 1 km @ 4:17 again** |
-| **Cannot hold 4:20** | 🔴 **Overreached** | **Back to 4 × 1 km @ 4:20. Sun race pace cancelled** |
+| **Reps 2–5 ≤4:18, avg HR ≤172, rep 5 ≤176** | 🟢 **Threshold holding at 4:17** | **Race-pace read: 3 × 1 km @ 4:05** (Gate 3) |
+| **4:17 held at 173–178** | 🟡 **Holding, expensive** | **Race-pace read @ 4:07** |
+| **Cannot hold 4:20** | 🔴 **Overreached** | **Threshold again, 4 × 1 km @ 4:20. Race pace dropped** |
 
 ---
 
-## 🎯 SUN 4 OCT — FIRST RACE-PACE READ (GATE 3). STRUCTURED WATCH WORKOUT.
+## 🏃 FRI 2 – SUN 4 OCT — EASY. TERRAIN + HR.
 
-### THREE separate 1 km reps, 2 minutes jogging between each.
-
-| # | Block | Setting | Alert |
+| | Fri 2 | Sat 3 | Sun 4 |
 |---|---|---|---|
-| 1 | **Warmup** | **Distance 2 km** | None. **6:00 → 5:30/km** |
-| 2 | **Work** | **Distance 1 km** | **Pace 4:02–4:08/km** |
-| 3 | **Recovery** | **Time 2:00** | None. **Jog** |
-| — | **Repeat 2 + 3** | **× 3** | — |
-| 4 | **Cooldown** | **Distance 3 km** | None. **Easy, HR <145** |
+| **Distance** | **5 km** | **5 km** | **8 km** |
+| **Surface** | 🌱 Trail / grass | 🌱 Trail / grass | 🌱 Trail / countryside |
+| **HR** | **<140.** Day after threshold | **<145** | **<145. 150 → walk** |
+| **Pace** | Output. Expect 6:00+ | Output. 5:45–6:05 | Output. 5:45–6:05 |
+| **Gate** | Ankle first steps clean | Ankle clean | Ankle clean |
 
-**Total ~8.5 km, ~45 min.** Send the segments.
+**Friday is the one that goes wrong.** Legs feel fine the morning after a good threshold and the
+log's pattern is a fast "easy" run (17 Sep: 5:00/km, 20 bpm over cap). **HR <140 on trail. If it
+reads 145, walk.**
 
-### Targets
-
-| | |
-|---|---|
-| **Rep pace** | **4:05/km** (sub-20:30 pace is 4:06; sub-20:00 is 4:00). Band 4:02–4:08 |
-| **HR** | **172–180 by rep 3.** Rising across reps is expected |
-| **Power** | **~288 W** (16 Jul reps 1–2) |
-| **Rep 3** | **Not the slowest by more than 4 sec/km** |
-
-**Why 4:05, not 4:00:** 16 Jul, 3 × 1600 @ 4:00 prescribed → **4:10 / 4:07 / 4:18, retching on rep 3.**
-Threshold has moved 3–5 sec/km since then. **4:05 tests whether that shift carries to race pace. 4:00
-on the first read repeats 16 Jul.** Short reps (1 km, not 1600) and longer jogs keep it a read, not a
-survival test.
-
-### Gate — only if Friday was 🟢 or 🟡, ankle clean Sat and Sun first steps
-
-### 📊 Scoring (Gate 3)
-
-| Outcome | Read | W4 race-pace session |
-|---|---|---|
-| **All 3 reps ≤4:06, rep 3 not the slowest by >4 s** | 🟢 **Sub-20:30 pace owned** | **4 × 1 km @ 4:02 — the sub-20 question opens** |
-| **Avg 4:06–4:08, fade on rep 3** | 🟡 **Sub-20:30 pace reachable** | **4 × 1 km @ 4:05** |
-| **Cannot hold 4:08** | 🔴 **Race pace not there** | **Target resets to PB (sub-20:59)** |
+**Sunday stays 8 km, not 10.** Four days in a row is this week's step; distance doesn't also rise.
 
 ---
 
-## 💪 SAT 3 OCT — GLUTE MEDIUS ~10 min
+## 💪 SAT 3 OCT — GLUTE MEDIUS ~10 min (after the run)
 
 **Band clamshells / side-lying abduction 3 × 15 each side. Single-leg glute bridge 3 × 12 each
-side.** No jumping. **Report it** — unreported last week.
+side.** No jumping.
 
 ## 💪 TENDON LOADING — DAILY
 
 - **Isometric single-leg heel raise, mid-height hold: 5 × 30–45 s. Daily.**
-- **Slow heavy heel raise 3 s / 3 s: 3 × 10–15.** Wed and **Thu** — **not Fri or Sun morning.**
+- **Slow heavy heel raise 3 s / 3 s: 3 × 10–15.** **Wed** and Sat — **not Thursday morning.**
 - **Band inversion 3 × 15.**
 
 ### 🔁 Physio re-book triggers — unchanged
@@ -203,24 +157,24 @@ side.** No jumping. **Report it** — unreported last week.
 1. Ankle pain that changes how you walk.
 2. Morning stiffness after runs on two consecutive occasions.
 3. Tingling, burning or numbness in the arch or sole.
-4. **Symptoms that stop ~25 km this week.**
+4. **Symptoms that stop ~27 km this week.**
 
 ---
 
 ## 📊 DATA CAPTURE
 
 **Every run:** splits (or segments), avg/max HR, five zones, **resting HR on waking**, **sleep hours**.
-**Strap on all three runs.** Fri and Sun: segments from the built workout.
+**Strap on every run.** Thursday: segments from the built workout.
 
 ---
 
 ## 🍽️ Nutrition
 
 - **Protein 122 g/day.**
-- **Carbs 338–405 g: Tue, Wed, Fri, Sun.** Thursday evening and Saturday evening up to training-day level.
-- **Carbs 270–338 g: Mon, Thu, Sat (daytime).**
-- **Alcohol: none Thursday or Saturday.**
-- **Sleep: 7 h+ Thursday and Saturday nights.** W2: ~5 h → run lost; 8 h → best threshold of the campaign.
+- **Carbs 338–405 g: Tue, Thu, Fri, Sat, Sun.** Wednesday evening up to training-day level.
+- **Carbs 270–338 g: Mon, Wed (daytime).**
+- **Alcohol: none Wednesday.**
+- **Sleep: 7 h+ Wednesday night.** W2: ~5 h → run lost; 8 h → best threshold of the campaign.
 
 ---
 
@@ -239,8 +193,8 @@ side.** No jumping. **Report it** — unreported last week.
 |---|---|---|---|
 | W1 | 14–20 Sep | Easy-only rebuild | ✅ 16 km |
 | W2 | 21–27 Sep | Threshold re-read | ✅ 14.9 km. Gate 2 🟢 4:18 @ 169 |
-| **W3** | **28 Sep – 4 Oct** | **Threshold 5 × 1 @ 4:17 + first race-pace read** ← this week | **~25 km** |
-| **W4** | **5–11 Oct** | **Heaviest quality week.** One session at ~10:00 as race rehearsal | ~30 km |
+| **W3** | **28 Sep – 4 Oct** | **Thu threshold 5 × 1 @ 4:17; Fri/Sat easy; Sun 8 km** ← this week | **~27 km** |
+| **W4** | **5–11 Oct** | **Thu race-pace read (Gate 3), run at ~10:00 as race rehearsal** | ~30 km |
 | **W5** | **12–17 Oct** | **Race week. Taper to Sat 17 Oct, ~10:00** | ~15 km + race |
 
 ---
@@ -248,6 +202,6 @@ side.** No jumping. **Report it** — unreported last week.
 ## Week Log
 
 **Mon 28 Sep:** ✅ Rest. **Ankle clean, no pain → 48 h spacing lifted.**
-**Tue 29 Sep:** ✅ **Barry's, ~47 min, 140 avg, max ~172. Z1 14:20 / Z2 18:46 / Z3 12:00 / Z4 01:51 / Z5 0. Z2+3 66%.** Inside the rule. Post 126→118→120. −4 bpm vs 22 Sep.
+**Tue 29 Sep:** ✅ **Barry's East London, legs, ~47 min, 140 avg, max ~172. Z1 14:20 / Z2 18:46 / Z3 12:00 / Z4 01:51 / Z5 0. Z2+3 66%.** Inside the rule. Post 126→118→120. −4 bpm vs 22 Sep.
 
-**❓ OWED:** body part + walking or jumping lunges (Tue 29). **Wed morning: RHR, sleep, VMO / inner-quad sensation.**
+**❓ OWED Wed morning:** RHR, sleep, any VMO / inner-quad sensation.

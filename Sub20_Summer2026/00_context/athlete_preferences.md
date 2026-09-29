@@ -21,7 +21,11 @@
 ## Life Context
 - Training: 5-6am
 - Family: 18-month daughter
-- Tuesday: Barry's Bootcamp (habitual slot)
+- **Fixed week (restated 29 Sep — do not re-plan around it):**
+  - **Tue: Barry's East London — LOWER BODY (legs).** Always. Do not ask which body part.
+  - **Thu: threshold / fast running.** All quality goes on Thursday.
+  - **Sun: long run.**
+  - Other days: rest or easy.
 
 ## Barry's Bootcamp — class rotation
 
@@ -58,7 +62,7 @@ unaffected — this is a spending decision, not a session-protection one.**
 - **Glute days are high-value for running**, independent of the gap: glute medius controls hip
   drop, which controls pronation, which is what tibialis posterior resists on every footstrike.
 - **Upper-body days are free and unrestricted** at all times, per `CLAUDE.md`.
-- Location: London, Victoria Park
+- Location: Barry's East London
 - Shoes: Boom Zone (race), Norda 001 (trail), Cloud 6 (training)
 
 ## Alcohol

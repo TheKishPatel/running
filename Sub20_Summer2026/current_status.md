@@ -1,28 +1,29 @@
 # Current Status
 
-*Last updated: 29 Sep 2026 (W3 plan live — threshold 5 × 1 km @ 4:17 Fri, first race-pace read Sun)*
+*Last updated: 29 Sep 2026 (W3 plan re-laid — threshold 5 × 1 km @ 4:17 Thu; Fri/Sat easy; Sun 8 km)*
 
 ---
 
 ## 🟢 OCTOBER BLOCK — WEEK 3 of 5 LIVE (Mon 28 Sep – Sun 4 Oct)
 
-**Plan: `current_week_plan.md`. ~25 km, 3 runs, 2 quality sessions, 1 Barry's (done).**
+**Plan: `current_week_plan.md`. ~27 km, 4 runs, 1 quality session (Thu), 1 Barry's (done).**
+**Fixed week (athlete, 29 Sep): Tue Barry's East London = legs · Thu = quality · Sun = long.** Race-pace read (Gate 3) → Thu 8 Oct.
 
 | Day | Session |
 |---|---|
 | Mon 28 | ✅ Rest. **Ankle clean, no pain → 48 h spacing lifted** |
-| Tue 29 | ✅ **Barry's, 140 avg, Z2+3 66%, Z4 01:51.** Inside the rule; −4 bpm vs 22 Sep |
-| Wed 30 | Easy 7 km, trail/grass, HR <145 (RHR/sleep gate) |
-| Thu 1 | Rest |
-| **Fri 2** | **Threshold: 2 km / 5 × 1 km @ 4:17 (band 4:14–4:20), 90 s jog / 1 km. HR 168–176** |
-| Sat 3 | Glute medius ~10 min |
-| **Sun 4** | **Race pace (Gate 3): 2 km / 3 × 1 km @ 4:05 (band 4:02–4:08), 2:00 jog / 3 km** |
+| Tue 29 | ✅ **Barry's legs, 140 avg, Z2+3 66%, Z4 01:51.** Inside the rule; −4 bpm vs 22 Sep |
+| Wed 30 | Rest |
+| **Thu 1** | **Threshold: 2 km / 5 × 1 km @ 4:17 (band 4:14–4:20), 90 s jog / 1 km. HR 168–176** |
+| Fri 2 | Easy 5 km, trail/grass, HR <140 |
+| Sat 3 | Easy 5 km, trail/grass, HR <145 + glute medius ~10 min |
+| Sun 4 | Long easy 8 km, HR <145 |
 
 - **Barry's Tue 29:** 144 → **140 avg**, Z3 16:02 → **12:00** on the second leg class back. Z4 01:51 is
   the second Tuesday over 1 min — **watch item, not a flag.** Flag if 6 Oct passes ~2 min Z4 or 145 avg.
-- **Spacing lift available but unused:** Wed → Fri → Sun, 48 h each. Two quality sessions is this week's step.
+- **Spacing lift used:** Thu → Sun is four consecutive run days, first of the block. Fri–Sun easy, soft ground; any morning ankle stiffness drops that day's run.
 
-**❓ OWED:** Tue body part + walking/jumping lunges (sets 6 Oct). Wed morning: RHR, sleep, VMO sensation.
+**❓ OWED:** Wed morning RHR, sleep, VMO sensation (sets jumping lunges 6 Oct).
 
 ---
 
