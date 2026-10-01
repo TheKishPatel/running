@@ -7,7 +7,10 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 
 ---
 
-## Episode 6 (provisional) — opened Thu 1 Oct 2026
+## Exposure watch — Thu 1 Oct 2026 (NOT an episode)
+
+**⚠️ CORRECTION 1 Oct: the RHR 79 was a sensor-placement error. Re-read 55. The cancellation below was reversed —
+threshold runs trimmed to 4 × 1 km. Kept for the record.**
 
 | | |
 |---|---|
@@ -15,7 +18,7 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 | **Exposure** | Daughter ill: **cough, wheeze, fever**, sleeping in the athlete's bed. Close overnight exposure, broken sleep |
 | **Own symptoms** | **None** (no throat, cough, phlegm). **Mild brain fog Wed 30 Sep afternoon.** Sleep **≤5 h, broken** |
 | **Action** | 🛑 **Complete rest Thu 1 Oct.** Threshold dropped, not moved |
-| **Status** | **OPEN** |
+| **Status** | **Exposure watch to Mon 5 Oct. No episode** |
 
 **Read:** 79 is not a sleep-only number. Every broken-sleep morning in this log (teething, ~10 wakings,
 13 Aug) landed at 62 or lower. **+24 bpm with a febrile contact in the bed is the earliest illness
@@ -36,4 +39,4 @@ Illness → stays high or symptoms appear.**
 
 | Date | RHR | Sleep | Own symptoms | Decision |
 |---|---|---|---|---|
-| Thu 1 Oct | **79** | **≤5 h, broken** | None. Brain fog Wed pm | 🛑 Rest. Threshold cancelled |
+| Thu 1 Oct | ~~79~~ **55** (re-read) | **≤5 h, broken** | None. Brain fog Wed pm | 🟡 Threshold trimmed to 4 × 1 km @ 4:17 |

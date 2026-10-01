@@ -1,26 +1,32 @@
 # Current Week Plan
 
-*Last updated: 1 Oct 2026 — 🛑 THRESHOLD CANCELLED. RHR 79, daughter febrile + coughing in the bed. Rest. Fri–Sun gated.*
+*Last updated: 1 Oct 2026 — RHR re-read 55 (79 was a mis-placed reading). Threshold BACK ON, trimmed to 4 × 1 km on ≤5 h sleep.*
 
 ---
 
-## 🛑 THU 1 OCT — RHR 79. COMPLETE REST. THE THRESHOLD IS DROPPED, NOT MOVED.
+## 🟡 THU 1 OCT — THRESHOLD ON, TRIMMED: 4 × 1 km @ 4:17
 
-**79 against a 49–55 baseline. The campaign's previous high was 62.** Daughter ill (cough, wheeze, fever)
-and sleeping in your bed. Treated as incubating. Log: `05_health_recovery/illness_log.md`.
+**RHR 55 on re-read** (the 79 was a sensor-placement error). Top of the 49–55 band. **No symptoms.**
+But: **≤5 h broken sleep**, mild brain fog Wed afternoon, febrile child in the bed.
 
-| Day | Was | Now |
-|---|---|---|
-| **Thu 1** | Threshold 5 × 1 km @ 4:17 | 🛑 **Rest** |
-| **Fri 2** | Easy 5 km | 🛑 **Rest** — one night does not clear +24 bpm |
-| **Sat 3** | Easy 5 km | **Easy 5 km trail, HR <140 — only if RHR ≤58 AND zero symptoms.** Else rest |
-| **Sun 4** | Long easy 8 km | **Easy 5–6 km, HR <140 — only if Sat ran clean and RHR ≤58.** Else rest |
+| Signal | Read |
+|---|---|
+| RHR 55 | Gate ≤55 → passes, at the edge |
+| Sleep ≤5 h, broken | **W2: ~5 h cost a run. Sleep is a documented ~11 sec/km factor on threshold work** |
+| Exposure | Daughter cough/wheeze/fever. Hard sessions suppress immunity for hours after |
 
-**Sore throat, cough or phlegm at any point → complete rest until 100% symptom-free.**
-**W4:** threshold 5 × 1 km @ 4:17 moves to **Thu 8 Oct** (needs RHR ≤55 and 48 h after the first clean
-run). The race-pace read is pushed out; the W4 plan decides. **Barry's Tue 6 Oct:** if any training days
-are lost to illness, **walking lunges, not jumping** — jumping lunges wait until the first clean leg class
-after return.
+**Session — same build, one rep fewer:** 2 km warm-up / **4 × 1 km @ 4:17 (band 4:14–4:20), 90 s jog** /
+1 km cool-down. **~8 km.** Edit the custom workout: repeat × 4. Strap on.
+
+**Extra stop rules for today:**
+- **HR >176 on rep 2 → that is the last rep.** On 5 h sleep the HR tells you before the pace does.
+- **Rep 2 slower than 4:20 → stop after it.** Cool down. That is a sleep result, not a fitness result.
+
+**Scoring adjusted:** today is a hold-check, not a progression read. **4:17 at ≤172 on reps 2–4 → W4
+progresses as planned. Anything worse is filed as sleep-contaminated, not as a threshold drop.**
+
+**Fri–Sun unchanged** (easy 5 / 5 / 8 km), each gated on: **RHR ≤58, zero symptoms.** Sore throat, cough
+or phlegm → complete rest. Exposure watch runs 5 days (to Mon 5 Oct).
 
 ---
 
@@ -229,7 +235,7 @@ side.** No jumping.
 **Tue 29 Sep:** ✅ **Barry's East London, legs, ~47 min, 140 avg, max ~172. Z1 14:20 / Z2 18:46 / Z3 12:00 / Z4 01:51 / Z5 0. Z2+3 66%.** Inside the rule. Post 126→118→120. −4 bpm vs 22 Sep.
 
 **Wed 30 Sep:** 😴 Rest (unreported).
-**Thu 1 Oct:** 🛑 **RHR 79. Daughter ill (cough, wheeze, fever) in the bed. Complete rest — threshold cancelled.**
+**Thu 1 Oct:** RHR **55** (first reading of 79 was a sensor-placement error). Daughter ill (cough, wheeze, fever) in the bed. Sleep ≤5 h broken. No symptoms. **Threshold on, trimmed to 4 × 1 km @ 4:17.**
 
 Symptoms: **none.** Brain fog Wed afternoon. Sleep **≤5 h, broken.**
 
