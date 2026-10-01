@@ -1,6 +1,19 @@
 # Current Status
 
-*Last updated: 1 Oct 2026 (RHR re-read 55 — threshold on, trimmed to 4 × 1 km @ 4:17)*
+*Last updated: 1 Oct 2026 (🟢 threshold held: reps 2–4 4:17.7 @ 159, 276 W on ≤5 h sleep)*
+
+---
+
+## 🟢 THU 1 OCT — THRESHOLD HOLDING AT 4:18. ON 5 h SLEEP.
+
+**4 × 1 km: 4:21 / 4:22 / 4:16 / 4:15 @ 152 / 156 / 164 / 158, 274–279 W.** Reps 2–4 **4:17.7 @ 159.3, 276 W.**
+vs 25 Sep km3–5 **4:17.7 @ 169.3, 276 W** — same pace, same power, 10 bpm lower, on ≤5 h sleep vs 8 h.
+Full read: `03_session_analyses/2026-10-01_threshold_4x1km_holdcheck.md`.
+
+- **Hold-check passed → Thu 8 Oct = race-pace read (Gate 3), 3 × 1 km @ 4:05.**
+- Not a breakthrough: rep HR includes the ramp from recovery; rep 4 HR dip looks like a sensor drop; **HR source unconfirmed.**
+- Reps 1–2 under-pressed (rep 2 4:22 tripped the stop rule on pace; HR 156 said no strain — continuing was right).
+- **❓ OWED:** strap or wrist? Ankle first steps Fri. Fri RHR + sleep.
 
 ---
 

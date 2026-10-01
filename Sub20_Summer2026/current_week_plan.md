@@ -1,10 +1,14 @@
 # Current Week Plan
 
-*Last updated: 1 Oct 2026 — RHR re-read 55 (79 was a mis-placed reading). Threshold BACK ON, trimmed to 4 × 1 km on ≤5 h sleep.*
+*Last updated: 1 Oct 2026 — 🟢 Threshold held: 4 × 1 km, reps 2–4 4:17.7 @ 159, 276 W. Hold-check passed. Fri–Sun easy.*
 
 ---
 
-## 🟡 THU 1 OCT — THRESHOLD ON, TRIMMED: 4 × 1 km @ 4:17
+## ✅ THU 1 OCT — DONE: 4:21 / 4:22 / 4:16 / 4:15 @ 152 / 156 / 164 / 158. 🟢 HOLD-CHECK PASSED
+
+**Reps 2–4 4:17.7 @ 159.3, 276 W** — same pace and power as 25 Sep, 10 bpm lower. **Thu 8 Oct → race-pace read 3 × 1 km @ 4:05.**
+
+### As prescribed (morning of 1 Oct)
 
 **RHR 55 on re-read** (the 79 was a sensor-placement error). Top of the 49–55 band. **No symptoms.**
 But: **≤5 h broken sleep**, mild brain fog Wed afternoon, febrile child in the bed.
@@ -235,7 +239,7 @@ side.** No jumping.
 **Tue 29 Sep:** ✅ **Barry's East London, legs, ~47 min, 140 avg, max ~172. Z1 14:20 / Z2 18:46 / Z3 12:00 / Z4 01:51 / Z5 0. Z2+3 66%.** Inside the rule. Post 126→118→120. −4 bpm vs 22 Sep.
 
 **Wed 30 Sep:** 😴 Rest (unreported).
-**Thu 1 Oct:** RHR **55** (first reading of 79 was a sensor-placement error). Daughter ill (cough, wheeze, fever) in the bed. Sleep ≤5 h broken. No symptoms. **Threshold on, trimmed to 4 × 1 km @ 4:17.**
+**Thu 1 Oct:** RHR **55** (first reading of 79 was a sensor-placement error). Daughter ill (cough, wheeze, fever) in the bed. Sleep ≤5 h broken. No symptoms. **Threshold on, trimmed to 4 × 1 km @ 4:17.** ✅ **2 km 5:54 @133 / 4:21 · 4:22 · 4:16 · 4:15 @ 152 · 156 · 164 · 158, 274–279 W / 824 m CD. 7.71 km, avg 148, max 169. Reps 2–4 4:17.7 @ 159.3.** 🟢 Hold-check passed.
 
 Symptoms: **none.** Brain fog Wed afternoon. Sleep **≤5 h, broken.**
 

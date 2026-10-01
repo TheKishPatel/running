@@ -39,7 +39,7 @@ that has not moved all summer.
 |---|---|---|---|---|
 | **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
 | **W2** | **21–27 Sep** | **Threshold returns** — Fri 1 km / **4 km continuous @ 4:19** / 1 km; Sun 8.89 km easy @ 5:55, 138 avg, 88 m climb | **14.90 km** (plan ~22.5; Wed rested on RHR 56 + ~5 h sleep; Fri WU/CD 1 km) | ✅ **Complete. 🟢 Gate 2 passed — threshold 4:18 @ 169** |
-| **W3** | **28 Sep – 4 Oct** | **Threshold progression.** **Thu** 2 km / **5 × 1 km @ 4:17**, 90 s jog / 1 km; Fri 5 km + Sat 5 km easy; Sun 8 km. Ankle clean Mon 28 → 48 h spacing lifted (Thu–Sun consecutive) | ~27 km | 🔄 **Live.** Barry's Tue 29 ✅ 140 avg |
+| **W3** | **28 Sep – 4 Oct** | **Threshold progression.** **Thu** 2 km / **5 × 1 km @ 4:17**, 90 s jog / 1 km; Fri 5 km + Sat 5 km easy; Sun 8 km. Ankle clean Mon 28 → 48 h spacing lifted (Thu–Sun consecutive) | ~27 km | 🔄 **Live.** Barry's Tue 29 ✅ 140 avg. **Thu 1 ✅ 4 × 1 km (trimmed, ≤5 h sleep): reps 2–4 4:17.7 @ 159, 276 W — threshold held** |
 | **W4** | **5–11 Oct** | **Heaviest quality week** — Thu race-pace read (Gate 3) at ~10:00 as race rehearsal | ~30 km | ⏳ |
 | **W5** | **12–17 Oct** | **Race week. Taper to 🏁 Sat 17 Oct** | ~15 km + race | ⏳ |
 

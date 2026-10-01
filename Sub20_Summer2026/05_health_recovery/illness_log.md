@@ -39,4 +39,4 @@ Illness → stays high or symptoms appear.**
 
 | Date | RHR | Sleep | Own symptoms | Decision |
 |---|---|---|---|---|
-| Thu 1 Oct | ~~79~~ **55** (re-read) | **≤5 h, broken** | None. Brain fog Wed pm | 🟡 Threshold trimmed to 4 × 1 km @ 4:17 |
+| Thu 1 Oct | ~~79~~ **55** (re-read) | **≤5 h, broken** | None. Brain fog Wed pm | 🟢 Threshold 4 × 1 km done: reps 2–4 4:17.7 @ 159. No symptoms |
