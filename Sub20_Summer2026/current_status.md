@@ -1,6 +1,18 @@
 # Current Status
 
-*Last updated: 29 Sep 2026 (W3 plan re-laid — threshold 5 × 1 km @ 4:17 Thu; Fri/Sat easy; Sun 8 km)*
+*Last updated: 1 Oct 2026 (🛑 RHR 79 — threshold cancelled, illness watch open)*
+
+---
+
+## 🛑 THU 1 OCT — RHR 79. COMPLETE REST. EPISODE 6 PROVISIONALLY OPEN.
+
+- **RHR 79** vs 49–55 baseline; previous campaign high 62 (13 Aug, ~10 wakings). **+24 bpm.**
+- **Exposure:** daughter coughing, wheezy, febrile, sleeping in your bed.
+- **Own symptoms: not yet reported.**
+- **Thu threshold cancelled (dropped, not moved). Fri rest. Sat/Sun easy 5 km only if RHR ≤58 and zero symptoms.**
+- **Threshold 5 × 1 km @ 4:17 → Thu 8 Oct** if return criteria are met. Race in 16 days.
+- **Tue 6 Oct Barry's:** walking lunges if training days are lost; jumping lunges deferred.
+- Log: `05_health_recovery/illness_log.md`.
 
 ---
 

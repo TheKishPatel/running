@@ -1,6 +1,30 @@
 # Current Week Plan
 
-*Last updated: 29 Sep 2026 — W3 re-laid to the fixed week: Tue Barry's legs, Thu quality, Sun long. Threshold Thu 1 Oct.*
+*Last updated: 1 Oct 2026 — 🛑 THRESHOLD CANCELLED. RHR 79, daughter febrile + coughing in the bed. Rest. Fri–Sun gated.*
+
+---
+
+## 🛑 THU 1 OCT — RHR 79. COMPLETE REST. THE THRESHOLD IS DROPPED, NOT MOVED.
+
+**79 against a 49–55 baseline. The campaign's previous high was 62.** Daughter ill (cough, wheeze, fever)
+and sleeping in your bed. Treated as incubating. Log: `05_health_recovery/illness_log.md`.
+
+| Day | Was | Now |
+|---|---|---|
+| **Thu 1** | Threshold 5 × 1 km @ 4:17 | 🛑 **Rest** |
+| **Fri 2** | Easy 5 km | 🛑 **Rest** — one night does not clear +24 bpm |
+| **Sat 3** | Easy 5 km | **Easy 5 km trail, HR <140 — only if RHR ≤58 AND zero symptoms.** Else rest |
+| **Sun 4** | Long easy 8 km | **Easy 5–6 km, HR <140 — only if Sat ran clean and RHR ≤58.** Else rest |
+
+**Sore throat, cough or phlegm at any point → complete rest until 100% symptom-free.**
+**W4:** threshold 5 × 1 km @ 4:17 moves to **Thu 8 Oct** (needs RHR ≤55 and 48 h after the first clean
+run). The race-pace read is pushed out; the W4 plan decides. **Barry's Tue 6 Oct:** if any training days
+are lost to illness, **walking lunges, not jumping** — jumping lunges wait until the first clean leg class
+after return.
+
+---
+
+*Original W3 plan below, superseded where it conflicts with the box above.*
 
 ---
 
@@ -204,4 +228,7 @@ side.** No jumping.
 **Mon 28 Sep:** ✅ Rest. **Ankle clean, no pain → 48 h spacing lifted.**
 **Tue 29 Sep:** ✅ **Barry's East London, legs, ~47 min, 140 avg, max ~172. Z1 14:20 / Z2 18:46 / Z3 12:00 / Z4 01:51 / Z5 0. Z2+3 66%.** Inside the rule. Post 126→118→120. −4 bpm vs 22 Sep.
 
-**❓ OWED Wed morning:** RHR, sleep, any VMO / inner-quad sensation.
+**Wed 30 Sep:** 😴 Rest (unreported).
+**Thu 1 Oct:** 🛑 **RHR 79. Daughter ill (cough, wheeze, fever) in the bed. Complete rest — threshold cancelled.**
+
+**❓ OWED:** your own symptoms (throat / cough / phlegm / temperature / aches), sleep hours, RHR each morning.
