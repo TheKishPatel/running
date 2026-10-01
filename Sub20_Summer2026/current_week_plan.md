@@ -231,4 +231,6 @@ side.** No jumping.
 **Wed 30 Sep:** 😴 Rest (unreported).
 **Thu 1 Oct:** 🛑 **RHR 79. Daughter ill (cough, wheeze, fever) in the bed. Complete rest — threshold cancelled.**
 
-**❓ OWED:** your own symptoms (throat / cough / phlegm / temperature / aches), sleep hours, RHR each morning.
+Symptoms: **none.** Brain fog Wed afternoon. Sleep **≤5 h, broken.**
+
+**❓ OWED:** RHR every morning; any throat / cough / phlegm the moment it appears.

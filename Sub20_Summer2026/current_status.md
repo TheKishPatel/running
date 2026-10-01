@@ -8,7 +8,7 @@
 
 - **RHR 79** vs 49–55 baseline; previous campaign high 62 (13 Aug, ~10 wakings). **+24 bpm.**
 - **Exposure:** daughter coughing, wheezy, febrile, sleeping in your bed.
-- **Own symptoms: not yet reported.**
+- **Own symptoms: none** (no throat/cough/phlegm). Mild brain fog Wed pm. **Sleep ≤5 h, broken.** Sleep explains part; 13 Aug's ~10-waking night gave 62, not 79. **Friday RHR decides.**
 - **Thu threshold cancelled (dropped, not moved). Fri rest. Sat/Sun easy 5 km only if RHR ≤58 and zero symptoms.**
 - **Threshold 5 × 1 km @ 4:17 → Thu 8 Oct** if return criteria are met. Race in 16 days.
 - **Tue 6 Oct Barry's:** walking lunges if training days are lost; jumping lunges deferred.

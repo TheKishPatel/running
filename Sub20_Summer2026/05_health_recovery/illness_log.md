@@ -13,13 +13,18 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 |---|---|
 | **Trigger** | **RHR 79 on waking.** Baseline 49–55. Previous campaign high 62 (13 Aug). **+24 to +30 bpm** |
 | **Exposure** | Daughter ill: **cough, wheeze, fever**, sleeping in the athlete's bed. Close overnight exposure, broken sleep |
-| **Own symptoms** | ⏳ **Not yet reported** — throat, cough, phlegm, own temperature, aches, sleep hours |
+| **Own symptoms** | **None** (no throat, cough, phlegm). **Mild brain fog Wed 30 Sep afternoon.** Sleep **≤5 h, broken** |
 | **Action** | 🛑 **Complete rest Thu 1 Oct.** Threshold dropped, not moved |
 | **Status** | **OPEN** |
 
 **Read:** 79 is not a sleep-only number. Every broken-sleep morning in this log (teething, ~10 wakings,
 13 Aug) landed at 62 or lower. **+24 bpm with a febrile contact in the bed is the earliest illness
 signal this log has ever recorded. Treated as incubating until proved otherwise.**
+
+**Update 1 Oct:** no throat/cough/phlegm. Sleep ≤5 h broken explains part of it — but 13 Aug (~10 wakings)
+produced 62, not 79. Brain fog Wed afternoon fits either sleep debt or prodrome. **No change to the decision.**
+Friday's RHR is the discriminator: **sleep-driven → falls hard after one decent night (13 Aug: 62 → 49 in 3 days).
+Illness → stays high or symptoms appear.**
 
 ### Return criteria
 
@@ -31,4 +36,4 @@ signal this log has ever recorded. Treated as incubating until proved otherwise.
 
 | Date | RHR | Sleep | Own symptoms | Decision |
 |---|---|---|---|---|
-| Thu 1 Oct | **79** | ⏳ | ⏳ | 🛑 Rest. Threshold cancelled |
+| Thu 1 Oct | **79** | **≤5 h, broken** | None. Brain fog Wed pm | 🛑 Rest. Threshold cancelled |
