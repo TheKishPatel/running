@@ -1,6 +1,19 @@
 # Current Week Plan
 
-*Last updated: 1 Oct 2026 — 🟢 Threshold held: 4 × 1 km, reps 2–4 4:17.7 @ 159, 276 W. Hold-check passed. Fri–Sun easy.*
+*Last updated: 2 Oct 2026 — 🛑 Fri RHR 61, broken sleep → rest. Sat/Sun gated. Thu threshold held (strap-confirmed).*
+
+---
+
+## 🛑 FRI 2 OCT — RHR 61. REST. EASY 5 km DROPPED, NOT MOVED.
+
+| Day | Plan now |
+|---|---|
+| **Fri 2** | 🛑 **Rest.** RHR 61 > 60. Woken at every cough |
+| **Sat 3** | **Easy 5 km trail, HR <140 — only if RHR ≤58 AND zero symptoms.** 59+ → rest |
+| **Sun 4** | **Easy 5–6 km (was 8), HR <140 — only if Sat ran clean and RHR ≤58.** If Sat was rest, Sun is the 5 km |
+
+**Week lands ~13–19 km against ~27.** Not symptom-driven. Thu 8 Oct race-pace read needs: RHR ≤55, zero
+symptoms, one clean easy run before it.
 
 ---
 

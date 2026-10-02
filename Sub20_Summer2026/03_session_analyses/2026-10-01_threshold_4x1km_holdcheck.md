@@ -2,7 +2,7 @@
 
 **Prescribed:** 2 km WU / 4 × 1 km @ 4:17 (band 4:14–4:20), 90 s jog / 1 km CD. Trimmed from 5 reps on ≤5 h broken sleep.
 **Context:** RHR 55 (top of 49–55). Sleep ≤5 h, broken. Daughter ill (cough, wheeze, fever) in the bed. No symptoms.
-06:34 start. Structured watch workout. HR source not stated.
+06:34 start. Structured watch workout. **HR: Wahoo arm strap** (confirmed 2 Oct).
 
 ---
 
@@ -57,8 +57,9 @@ Reps 1–2 were under-pressed, not failed: the same opening-rep caution as 25 Se
 1. **Intervals vs continuous.** 1 km reps average in a ramp from ~151 recovery HR; a continuous km does
    not. Rep HR under-reads steady-state by some bpm. Part of the −10 is format.
 2. **Rep 4 HR fell (164 → 158) as pace rose (4:16 → 4:15).** The trace shows a dip/gap around 07:01–07:03.
-   Same anomaly as 25 Sep km5. Possible sensor drop. **HR source unconfirmed — strap or wrist?**
-   Wrist under-reads ~25 bpm on hard efforts (29 Aug). **No strap → pace and power are the read, not HR.**
+   Same anomaly as 25 Sep km5. Possible brief strap contact loss.
+   **HR source confirmed 2 Oct: Wahoo arm strap.** The wrist under-read does not apply; HR is valid evidence.
+   Excluding rep 4: reps 2–3 4:19 @ 160 vs 25 Sep km3–4 4:19.5 @ 170.5 — the −10 bpm holds.
 3. Max 169 for the session vs ~175 on 25 Sep.
 
 **Power is the HR-independent signal: 274–279 W, same as 25 Sep and 6 Aug.** Pace at that power: 4:15–4:16 on
@@ -76,4 +77,4 @@ reps 3–4. **Threshold at ~4:17–4:18 confirmed twice in 6 days, the second on
 
 - **Scoring: 🟢 → Thu 8 Oct = race-pace read (Gate 3), 3 × 1 km @ 4:05**, at ~10:00 as race rehearsal.
 - Fri–Sun easy as planned (5 / 5 / 8 km), gated on RHR ≤58 and zero symptoms. Exposure watch to Mon 5 Oct.
-- **Report:** HR source; ankle first steps Fri; Fri RHR and sleep.
+- ✅ Reported 2 Oct: HR Wahoo strap; ankle clean Fri.

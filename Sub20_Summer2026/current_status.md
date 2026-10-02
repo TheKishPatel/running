@@ -1,6 +1,15 @@
 # Current Status
 
-*Last updated: 1 Oct 2026 (🟢 threshold held: reps 2–4 4:17.7 @ 159, 276 W on ≤5 h sleep)*
+*Last updated: 2 Oct 2026 (🛑 Fri RHR 61 — rest; Sat/Sun gated)*
+
+---
+
+## 🛑 FRI 2 OCT — RHR 61. REST.
+
+- **RHR 61** (>60 → rest). Thu 55. **Sleep broken, woken at every cough** (daughter ill). No own symptoms reported.
+- **Ankle clean** after Thursday. **Thursday HR was Wahoo strap — the −10 bpm read stands** (with the interval-format caveat).
+- **Sat 3:** easy 5 km trail, HR <140 — **only if RHR ≤58 and zero symptoms.** 59–60 → rest. **Sun 4:** 8 km → **5–6 km easy** if Sat ran clean and RHR ≤58.
+- Two-day RHR rise + febrile contact in the bed = illness screen stays live. **Throat / cough / phlegm → complete rest.**
 
 ---
 
@@ -11,9 +20,9 @@ vs 25 Sep km3–5 **4:17.7 @ 169.3, 276 W** — same pace, same power, 10 bpm lo
 Full read: `03_session_analyses/2026-10-01_threshold_4x1km_holdcheck.md`.
 
 - **Hold-check passed → Thu 8 Oct = race-pace read (Gate 3), 3 × 1 km @ 4:05.**
-- Not a breakthrough: rep HR includes the ramp from recovery; rep 4 HR dip looks like a sensor drop; **HR source unconfirmed.**
+- Not a breakthrough: rep HR includes the ramp from recovery; rep 4 HR dip looks like a brief contact loss. **HR = Wahoo strap (confirmed) — valid.**
 - Reps 1–2 under-pressed (rep 2 4:22 tripped the stop rule on pace; HR 156 said no strain — continuing was right).
-- **❓ OWED:** strap or wrist? Ankle first steps Fri. Fri RHR + sleep.
+- ✅ Strap confirmed. Ankle clean Fri.
 
 ---
 
