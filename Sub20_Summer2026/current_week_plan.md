@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 2 Oct 2026 — 🛑 Fri RHR 61, broken sleep → rest. Sat/Sun gated. Thu threshold held (strap-confirmed).*
+*Last updated: 5 Oct 2026 — 📕 WEEK 3 CLOSED. 17.66 km + 5.40 family. Summary: `02_training_log/weekly_summaries/oct_block_week_03_summary.md`. W4 plan due.*
 
 ---
 
@@ -256,4 +256,9 @@ side.** No jumping.
 
 Symptoms: **none.** Brain fog Wed afternoon. Sleep **≤5 h, broken.**
 
-**❓ OWED:** RHR every morning; any throat / cough / phlegm the moment it appears.
+**Fri 2 Oct:** ⚠️ RHR 61 → rest called. **Ran anyway at 18:13: 4.93 km @ 5:55, 138 avg.** 6:34 / 6:02 / 5:35 / 5:28 / 5:31 @ 130 / 133 / 140 / 143 / 143. Pace drifted fast; HR at cap.
+**Sat 3 Oct:** Family jog with the kids, 5.40 km @ 9:45, 115 avg. Excluded from training totals.
+**Sun 4 Oct:** ✅ **5.02 km @ 6:03, 132 avg, max 142.** 6:19 / 6:04 / 6:04 / 6:00 / 5:47 @ 136 / 131 / 131 / 129 / 135. Every km under cap, no drift.
+
+**📕 WEEK 3 CLOSED — 17.66 km training (+5.40 family), 3 runs, 1 Barry's. Threshold held at 4:18.**
+**❓ OWED:** RHR Mon 5 Oct; any throat / cough / phlegm.

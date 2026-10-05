@@ -40,4 +40,6 @@ Illness → stays high or symptoms appear.**
 | Date | RHR | Sleep | Own symptoms | Decision |
 |---|---|---|---|---|
 | Thu 1 Oct | ~~79~~ **55** (re-read) | **≤5 h, broken** | None. Brain fog Wed pm | 🟢 Threshold 4 × 1 km done: reps 2–4 4:17.7 @ 159. No symptoms |
-| Fri 2 Oct | **61** | **Broken — woken at every cough** | None reported | 🛑 Rest (>60 rule). Easy 5 km dropped |
+| Fri 2 Oct | **61** | **Broken — woken at every cough** | None reported | 🛑 Rest called (>60). ⚠️ **Ran anyway 18:13**, 4.93 km, 138 avg |
+| Sat 3 Oct | — | — | None reported | Family jog, 115 avg |
+| Sun 4 Oct | — | — | None reported | Easy 5.02 km, 132 avg — compliant |

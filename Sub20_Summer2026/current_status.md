@@ -1,8 +1,26 @@
 # Current Status
 
-*Last updated: 2 Oct 2026 (🛑 Fri RHR 61 — rest; Sat/Sun gated)*
+*Last updated: 5 Oct 2026 (📕 Week 3 CLOSED — threshold held at 4:18; W4 plan due)*
 
 ---
+
+## 📕 OCTOBER BLOCK — WEEK 3 CLOSED (Mon 28 Sep – Sun 4 Oct)
+
+**Full summary: `02_training_log/weekly_summaries/oct_block_week_03_summary.md`.**
+
+**17.66 km, 3 training runs (7.71 + 4.93 + 5.02) + 5.40 km family jog, 1 Barry's (legs).** ~27 planned.
+
+- 🟢 **Threshold held:** 4 × 1 km, reps 2–4 **4:17.7 @ 159.3, 276 W** on ≤5 h sleep (Wahoo strap). Same pace and power as 25 Sep, −10 bpm.
+- ⚠️ **Fri ran against the RHR-61 rest call** (evening, 4.93 km @ 5:55, 138 avg). Pace drifted to 5:28 (>15 sec/km fast vs 6:00+), HR km3–5 140–143 vs <140 cap.
+- 🟢 **Sun model easy run:** 5.02 km @ 6:03, **132 avg, max 142, every km ≤136.**
+- Daughter ill all week; **no own symptoms reported.** RHR Sat/Sun not reported.
+
+**Next:** Thu 8 Oct race-pace read (Gate 3), 3 × 1 km @ 4:05. Barry's Tue 6 Oct: jumping lunges return. **❓ OWED: RHR this morning, any symptoms.**
+
+---
+
+## Superseded — Fri 2 Oct
+
 
 ## 🛑 FRI 2 OCT — RHR 61. REST.
 
