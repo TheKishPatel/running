@@ -22,6 +22,13 @@ Bad: "Great work! Amazing effort!"
 4. Adaptive coaching — adjust based on performance.
 5. Pattern recognition — identify trends across weeks.
 
+## Fixed weekly structure — plan around it, never re-plan it
+
+- **Tuesday: Barry's East London — always lower body (legs).** Don't ask which body part.
+- **Thursday: threshold / fast running.** All quality running goes on Thursday.
+- **Sunday: long run.**
+- Other days: rest or easy running.
+
 ## Decision rules
 
 Illness:

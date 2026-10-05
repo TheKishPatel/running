@@ -1,8 +1,84 @@
 # Current Status
 
-*Last updated: 27 Sep 2026 (Week 2 CLOSED — threshold moved, terrain governor 2/2; W3 plan due Mon)*
+*Last updated: 5 Oct 2026 (📕 Week 3 CLOSED — threshold held at 4:18; W4 plan due)*
 
 ---
+
+## 📕 OCTOBER BLOCK — WEEK 3 CLOSED (Mon 28 Sep – Sun 4 Oct)
+
+**Full summary: `02_training_log/weekly_summaries/oct_block_week_03_summary.md`.**
+
+**17.66 km, 3 training runs (7.71 + 4.93 + 5.02) + 5.40 km family jog, 1 Barry's (legs).** ~27 planned.
+
+- 🟢 **Threshold held:** 4 × 1 km, reps 2–4 **4:17.7 @ 159.3, 276 W** on ≤5 h sleep (Wahoo strap). Same pace and power as 25 Sep, −10 bpm.
+- ⚠️ **Fri ran against the RHR-61 rest call** (evening, 4.93 km @ 5:55, 138 avg). Pace drifted to 5:28 (>15 sec/km fast vs 6:00+), HR km3–5 140–143 vs <140 cap.
+- 🟢 **Sun model easy run:** 5.02 km @ 6:03, **132 avg, max 142, every km ≤136.**
+- Daughter ill all week; **no own symptoms reported.** RHR Sat/Sun not reported.
+
+**Next:** Thu 8 Oct race-pace read (Gate 3), 3 × 1 km @ 4:05. Barry's Tue 6 Oct: jumping lunges return. **❓ OWED: RHR this morning, any symptoms.**
+
+---
+
+## Superseded — Fri 2 Oct
+
+
+## 🛑 FRI 2 OCT — RHR 61. REST.
+
+- **RHR 61** (>60 → rest). Thu 55. **Sleep broken, woken at every cough** (daughter ill). No own symptoms reported.
+- **Ankle clean** after Thursday. **Thursday HR was Wahoo strap — the −10 bpm read stands** (with the interval-format caveat).
+- **Sat 3:** easy 5 km trail, HR <140 — **only if RHR ≤58 and zero symptoms.** 59–60 → rest. **Sun 4:** 8 km → **5–6 km easy** if Sat ran clean and RHR ≤58.
+- Two-day RHR rise + febrile contact in the bed = illness screen stays live. **Throat / cough / phlegm → complete rest.**
+
+---
+
+## 🟢 THU 1 OCT — THRESHOLD HOLDING AT 4:18. ON 5 h SLEEP.
+
+**4 × 1 km: 4:21 / 4:22 / 4:16 / 4:15 @ 152 / 156 / 164 / 158, 274–279 W.** Reps 2–4 **4:17.7 @ 159.3, 276 W.**
+vs 25 Sep km3–5 **4:17.7 @ 169.3, 276 W** — same pace, same power, 10 bpm lower, on ≤5 h sleep vs 8 h.
+Full read: `03_session_analyses/2026-10-01_threshold_4x1km_holdcheck.md`.
+
+- **Hold-check passed → Thu 8 Oct = race-pace read (Gate 3), 3 × 1 km @ 4:05.**
+- Not a breakthrough: rep HR includes the ramp from recovery; rep 4 HR dip looks like a brief contact loss. **HR = Wahoo strap (confirmed) — valid.**
+- Reps 1–2 under-pressed (rep 2 4:22 tripped the stop rule on pace; HR 156 said no strain — continuing was right).
+- ✅ Strap confirmed. Ankle clean Fri.
+
+---
+
+## 🟡 THU 1 OCT — RHR 55. THRESHOLD ON, TRIMMED.
+
+- **RHR 79 was a mis-placed reading; re-read 55.** No symptoms. **Episode 6 not opened** — exposure watch only.
+- **Sleep ≤5 h broken**, brain fog Wed pm, daughter febrile/coughing in the bed.
+- **Today: 2 km / 4 × 1 km @ 4:17, 90 s jog / 1 km.** Stop if HR >176 on rep 2 or rep 2 slower than 4:20.
+- Hold-check, not a progression read. Fri–Sun easy as planned, gated on RHR ≤58 + zero symptoms.
+- Log: `05_health_recovery/illness_log.md`.
+
+---
+
+## 🟢 OCTOBER BLOCK — WEEK 3 of 5 LIVE (Mon 28 Sep – Sun 4 Oct)
+
+**Plan: `current_week_plan.md`. ~27 km, 4 runs, 1 quality session (Thu), 1 Barry's (done).**
+**Fixed week (athlete, 29 Sep): Tue Barry's East London = legs · Thu = quality · Sun = long.** Race-pace read (Gate 3) → Thu 8 Oct.
+
+| Day | Session |
+|---|---|
+| Mon 28 | ✅ Rest. **Ankle clean, no pain → 48 h spacing lifted** |
+| Tue 29 | ✅ **Barry's legs, 140 avg, Z2+3 66%, Z4 01:51.** Inside the rule; −4 bpm vs 22 Sep |
+| Wed 30 | Rest |
+| **Thu 1** | **Threshold: 2 km / 5 × 1 km @ 4:17 (band 4:14–4:20), 90 s jog / 1 km. HR 168–176** |
+| Fri 2 | Easy 5 km, trail/grass, HR <140 |
+| Sat 3 | Easy 5 km, trail/grass, HR <145 + glute medius ~10 min |
+| Sun 4 | Long easy 8 km, HR <145 |
+
+- **Barry's Tue 29:** 144 → **140 avg**, Z3 16:02 → **12:00** on the second leg class back. Z4 01:51 is
+  the second Tuesday over 1 min — **watch item, not a flag.** Flag if 6 Oct passes ~2 min Z4 or 145 avg.
+- **Spacing lift used:** Thu → Sun is four consecutive run days, first of the block. Fri–Sun easy, soft ground; any morning ankle stiffness drops that day's run.
+
+**❓ OWED:** Wed morning RHR, sleep, VMO sensation (sets jumping lunges 6 Oct).
+
+---
+
+## Superseded — Week 2 closed (27 Sep)
+
 
 ## 📕 OCTOBER BLOCK — WEEK 2 CLOSED (Mon 21 – Sun 27 Sep)
 
