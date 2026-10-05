@@ -1,6 +1,25 @@
 # Current Status
 
-*Last updated: 5 Oct 2026 (📕 Week 3 CLOSED — threshold held at 4:18; W4 plan due)*
+*Last updated: 5 Oct 2026 (🎯 Week 4 planned — Gate 3 race-pace read Thu 8 Oct)*
+
+---
+
+## 🎯 OCTOBER BLOCK — WEEK 4 PLANNED (Mon 5 – Sun 11 Oct). RACE SAT 17 OCT
+
+**~26 km, 4 runs + Barry's legs.** Full plan: `current_week_plan.md`.
+
+| Day | Session |
+|---|---|
+| Mon 5 | Rest |
+| Tue 6 | Barry's legs — **jumping lunges return.** <155 avg; flag >145 or Z4 >~2 min |
+| Wed 7 | Rest. 7 h+ sleep |
+| **Thu 8** | **Gate 3: 2 km / 3 × 1 km @ 4:05 (4:02–4:08), 2:00 jog / 2 km. HR 170–180, ceiling 183. ~10:00, race breakfast + shoes** |
+| Fri 9 | Easy 5 km trail, HR <140 |
+| Sat 10 | Easy 5 km trail, HR <145 — gated (Fri clean, RHR ≤58) |
+| Sun 11 | Easy 8 km trail, HR <145 |
+
+**Gate 3 sets the race plan:** 🟢 4:02 (20:10) · 🟡 4:05 (20:25) · 🔴 4:10 (20:50). Read lost → 4:05.
+Volume cut from the block map's ~30 km: W3 actual 17.66; +47% is the ceiling.
 
 ---
 
