@@ -1,6 +1,6 @@
 # Phase Progress Tracker
 
-*Last updated: 5 Oct 2026*
+*Last updated: 6 Oct 2026*
 
 ---
 
@@ -20,7 +20,7 @@
 | **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. PB BY 5:06 (prev 1:44:38). Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
 | **Recovery week** | — | **Mon 7 – Sun 13 Sep** | ✅ **Complete — 0 km.** Race absorbed. Left medial ankle flag opened 9 Sep; all running cancelled | — |
-| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 🔄 **Current — W4 (5–11 Oct), Gate 3 Thu 8 Oct.** **🟢 Gate 2 passed 25 Sep — threshold 4:18.** **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
+| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 🔄 **Current — W4 (5–11 Oct). 🛑 Illness episode 6 from 6 Oct; Gate 3 lost.** **🟢 Gate 2 passed 25 Sep — threshold 4:18.** **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
 
 > **Live plan = `current_week_plan.md`** (October 5K sharpening block, W4 of 5 — Gate 3 race-pace read Thu 8 Oct).
 > `big_half_block_Sep2026.md` is closed — the 6 Sep half marathon delivered a 5:06 PB (1:39:32).
@@ -40,7 +40,7 @@ that has not moved all summer.
 | **W1** | **14–20 Sep** | **Easy-only rebuild.** Ran 4 → 5 → 7 km | **16 km** (plan 23) | ✅ **Complete** |
 | **W2** | **21–27 Sep** | **Threshold returns** — Fri 1 km / **4 km continuous @ 4:19** / 1 km; Sun 8.89 km easy @ 5:55, 138 avg, 88 m climb | **14.90 km** (plan ~22.5; Wed rested on RHR 56 + ~5 h sleep; Fri WU/CD 1 km) | ✅ **Complete. 🟢 Gate 2 passed — threshold 4:18 @ 169** |
 | **W3** | **28 Sep – 4 Oct** | **Threshold progression.** **Thu** 2 km / **5 × 1 km @ 4:17**, 90 s jog / 1 km; Fri 5 km + Sat 5 km easy; Sun 8 km. Ankle clean Mon 28 → 48 h spacing lifted (Thu–Sun consecutive) | **17.66 km** (+5.40 family; plan ~27) | ✅ **Complete.** Barry's Tue 29 ✅ 140 avg. **Thu 1 4 × 1 km (≤5 h sleep): reps 2–4 4:17.7 @ 159, 276 W — threshold held.** ⚠️ Fri ran against RHR-61 rest call. Sun 5.02 km @ 132 avg |
-| **W4** | **5–11 Oct** | **Race-pace read + rehearsal.** Tue Barry's legs (jumping lunges return); Wed rest; **Thu** 2 km / **3 × 1 km @ 4:05**, 2:00 jog / 2 km, ~10:00 start, race breakfast + shoes; Fri 5 km + Sat 5 km (gated) easy; Sun 8 km | **~26 km** (cut from ~30: +47% on W3's 17.66 is the ceiling) | 🔄 **Planned 5 Oct** |
+| **W4** | **5–11 Oct** | **Race-pace read + rehearsal.** Tue Barry's legs (jumping lunges return); Wed rest; **Thu** 2 km / **3 × 1 km @ 4:05**, 2:00 jog / 2 km, ~10:00 start, race breakfast + shoes; Fri 5 km + Sat 5 km (gated) easy; Sun 8 km | **~26 km** (cut from ~30: +47% on W3's 17.66 is the ceiling) | 🛑 **Illness episode 6 from Tue 6 Oct (phlegm, RHR 62). Barry's + Gate 3 lost** |
 | **W5** | **12–17 Oct** | **Race week. Taper to 🏁 Sat 17 Oct** | ~15 km + race | ⏳ |
 
 ### Gates
@@ -51,7 +51,7 @@ that has not moved all summer.
 | **0b** | **Ankle tolerates real load** | Thu 17 Sep | ✅ **PASSED** — 5 km @ 5:00/km, 160 avg, clean. **Flag resolved** |
 | **1** | **W1 completes clean** | Sun 20 Sep | ✅ **PASSED** — 7 km @ 5:50/km, 139 avg, no drift, ankle clean. **Terrain governor validated** |
 | **2** | **Threshold re-read** — first quality session since 6 Aug (4:23/km) | **Fri 25 Sep** | ✅ **PASSED — TOP ROW.** 4 km continuous @ 4:19 @ 166; **km3–5 4:17.7 @ 169.3, 276 W.** vs 2 Jul same shape, −5/−12 bpm on the last two km. **First sub-4:20 threshold of the campaign → W3 at 4:17** |
-| **3** | **Race-pace read** — 3 × 1 km @ 4:05 (band 4:02–4:08), 2:00 jog, HR 170–180. Sets the race plan: 🟢 reps 2–3 ≤4:06 → open 4:02 (20:10); 🟡 4:06–4:08 or HR 181–183 → 4:05 (20:25); 🔴 >4:08 → 4:10 (20:50, target = PB). Read lost to the morning gate → race plan defaults to 4:05 | **Thu 8 Oct** | ⏳ |
+| **3** | **Race-pace read** — 3 × 1 km @ 4:05 (band 4:02–4:08), 2:00 jog, HR 170–180. Sets the race plan: 🟢 reps 2–3 ≤4:06 → open 4:02 (20:10); 🟡 4:06–4:08 or HR 181–183 → 4:05 (20:25); 🔴 >4:08 → 4:10 (20:50, target = PB). Read lost to the morning gate → race plan defaults to 4:05 | **Thu 8 Oct** | ❌ **Lost — illness episode 6 (6 Oct). Race plan → 4:05 default** |
 
 ### The block's actual problem
 

@@ -7,7 +7,41 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 
 ---
 
-## Exposure watch — Thu 1 Oct 2026 (NOT an episode)
+## 🛑 EPISODE 6 — Tue 6 Oct 2026. PHLEGM + RHR 62. COMPLETE REST.
+
+| | |
+|---|---|
+| **Trigger** | **Slight phlegm in the throat + RHR 62 on waking.** Baseline 49–55 |
+| **Exposure** | Daughter ill (cough, wheeze, fever) in the bed through W3. Watch opened 1 Oct |
+| **Prodrome in hindsight** | Fri 2 Oct RHR 61 + broken sleep. Two broken nights. Mon 5 RHR not reported |
+| **Rule applied** | **Phlegm → complete rest** (any severity). RHR >60 → rest. Both triggers independently |
+| **Action** | 🛑 **Complete rest. No running, no Barry's, no glute/tendon loading beyond the isometric heel-raise holds** |
+| **Race** | Sat 17 Oct — **11 days out** |
+
+**Sessions lost:** Tue 6 Barry's legs. **Thu 8 Gate 3 race-pace read — lost under the return criteria in every
+scenario** (earliest symptom-free day Wed 7 → first easy run Thu 8 → no quality within 48 h; fast running
+is Thursday-only). Fri–Sun easy runs gated below.
+
+**Race plan:** Gate 3 not run → **defaults to 4:05/km (20:25)** per the W4 plan. Re-assessed in the W5 plan
+against how many days are lost.
+
+### Return criteria
+
+1. **100% symptom-free** — no phlegm, no throat, no cough, no fever, no aches. "Nearly gone" = rest.
+2. **RHR ≤58** on waking for an easy run; **≤55** for any quality.
+3. **First run back: easy 5 km, trail, HR <140.** No quality within 48 h of the first clean run.
+4. **First lower-body Barry's back: walking lunges, not jumping** (gap from 29 Sep). Jumping lunges return deferred.
+
+### Daily log
+
+| Date | RHR | Sleep | Own symptoms | Decision |
+|---|---|---|---|---|
+| Mon 5 Oct | — (not reported) | — | Not reported | Rest (planned) |
+| **Tue 6 Oct** | **62** | — | **Slight phlegm in throat** | 🛑 **Complete rest. Barry's cancelled. Gate 3 lost** |
+
+---
+
+## Exposure watch — Thu 1 Oct 2026 (NOT an episode — escalated to Episode 6 on 6 Oct)
 
 **⚠️ CORRECTION 1 Oct: the RHR 79 was a sensor-placement error. Re-read 55. The cancellation below was reversed —
 threshold runs trimmed to 4 × 1 km. Kept for the record.**

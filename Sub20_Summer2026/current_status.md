@@ -1,10 +1,25 @@
 # Current Status
 
-*Last updated: 5 Oct 2026 (🎯 Week 4 planned — Gate 3 race-pace read Thu 8 Oct)*
+*Last updated: 6 Oct 2026 (🛑 Illness episode 6 — complete rest)*
 
 ---
 
-## 🎯 OCTOBER BLOCK — WEEK 4 PLANNED (Mon 5 – Sun 11 Oct). RACE SAT 17 OCT
+## 🛑 TUE 6 OCT — ILLNESS EPISODE 6. COMPLETE REST.
+
+**RHR 62 + slight phlegm in throat.** Phlegm → complete rest; RHR >60 → rest. Exposure: daughter ill
+(cough, wheeze, fever) through W3. **Fri 2 Oct RHR 61 now reads as the prodrome.**
+
+- ❌ **Barry's legs today — cancelled.** Illness, not running protection.
+- ❌ **Thu 8 Gate 3 — lost, not moved.** Race plan defaults to **4:05/km (20:25)**.
+- **Return:** 100% symptom-free + RHR ≤58 → easy 5 km trail, HR <140. No quality within 48 h of it.
+- **Next leg Barry's (Tue 13): walking lunges** — gap from 29 Sep.
+- **Race Sat 17 Oct, 11 days out.** Campaign average ~6 days per episode. W5 plan decides the race.
+
+**❓ OWED daily:** RHR on waking, phlegm / throat / cough / fever status, sleep.
+
+---
+
+## Superseded 6 Oct (illness) — WEEK 4 AS PLANNED (Mon 5 – Sun 11 Oct)
 
 **~26 km, 4 runs + Barry's legs.** Full plan: `current_week_plan.md`.
 
