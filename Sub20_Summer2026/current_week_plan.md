@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 6 Oct 2026 — 🛑 Illness episode 6: complete rest. W4 plan below superseded where it conflicts.*
+*Last updated: 7 Oct 2026 — 🛑 Illness episode 6, day 2: RHR 65, complete rest. W4 plan below superseded where it conflicts.*
 
 ---
 
@@ -11,12 +11,12 @@
 | Day | Plan now |
 |---|---|
 | **Tue 6** | 🛑 **Rest. Barry's cancelled** (illness — not to protect running) |
-| **Wed 7** | 🛑 **Rest.** Send RHR + symptoms |
-| **Thu 8** | ❌ **Gate 3 lost. Not moved** — fast running is Thursday-only, and return criteria bar quality within 48 h of the first clean run. **If 100% symptom-free and RHR ≤58: easy 5 km trail, HR <140.** Otherwise rest |
+| **Wed 7** | 🛑 **Rest. RHR 65 — up from 62.** Illness progressing |
+| **Thu 8** | ❌ **Gate 3 lost. 🛑 Rest.** A 65 → ≤58 drop overnight with zero symptoms is not credible; no run |
 | **Fri 9 – Sun 11** | **Each day gated: 100% symptom-free + RHR ≤58.** First run back = easy 5 km, HR <140. Then easy 5 km, HR <145. **Sun max 6 km** (was 8) |
 
 **Race plan: Gate 3 not run → 4:05/km (20:25) default.** Re-assessed in the W5 plan.
-**Week lands ~0–16 km against ~26.**
+**Week lands ~0–11 km against ~26.** Earliest first run back: Fri 9, only if RHR ≤58 and 100% symptom-free.
 **Barry's: next leg class (Tue 13) = walking lunges.** Gap from 29 Sep; jumping-lunge return deferred.
 
 ---
@@ -228,3 +228,4 @@ Barry's: avg/max, five zones, **confirm jumping lunges were done.**
 
 **Mon 5 Oct:** Rest. RHR / symptoms not reported.
 **Tue 6 Oct:** 🛑 **RHR 62, slight phlegm → complete rest. Barry's cancelled. Gate 3 lost.** Illness episode 6.
+**Wed 7 Oct:** 🛑 **RHR 65 (↑3). Complete rest.** Symptoms not reported. Thu run off.

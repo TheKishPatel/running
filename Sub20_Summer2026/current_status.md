@@ -1,6 +1,16 @@
 # Current Status
 
-*Last updated: 6 Oct 2026 (🛑 Illness episode 6 — complete rest)*
+*Last updated: 7 Oct 2026 (🛑 Illness episode 6, day 2 — RHR 65, complete rest)*
+
+---
+
+## 🛑 WED 7 OCT — RHR 65. STILL RISING. COMPLETE REST.
+
+**RHR 62 → 65.** Highest valid reading of the campaign. Rising = acute phase, not recovery.
+- **Thu 8: rest.** No run.
+- **Earliest first run back: Fri 9** — RHR ≤58 and 100% symptom-free. Unlikely on this trend.
+- **Race Sat 17 Oct, 10 days out.** Decided in the W5 plan, not now.
+- **❓ OWED:** today's phlegm / throat / cough / fever / aches, sleep hours.
 
 ---
 

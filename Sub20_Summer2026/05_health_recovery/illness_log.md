@@ -22,6 +22,10 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 scenario** (earliest symptom-free day Wed 7 → first easy run Thu 8 → no quality within 48 h; fast running
 is Thursday-only). Fri–Sun easy runs gated below.
 
+**Wed 7 update — RHR 65, up 3 on Tuesday.** Highest valid reading of the campaign (79 on 1 Oct was a sensor error).
+Previous ceiling 62 (13 Aug, sleep-driven, back to 49 in 3 days). **Rising, not falling = still in the acute phase.**
+Re-read seated, strap on, 60 s, if there is any doubt about sensor placement.
+
 **Race plan:** Gate 3 not run → **defaults to 4:05/km (20:25)** per the W4 plan. Re-assessed in the W5 plan
 against how many days are lost.
 
@@ -38,6 +42,7 @@ against how many days are lost.
 |---|---|---|---|---|
 | Mon 5 Oct | — (not reported) | — | Not reported | Rest (planned) |
 | **Tue 6 Oct** | **62** | — | **Slight phlegm in throat** | 🛑 **Complete rest. Barry's cancelled. Gate 3 lost** |
+| **Wed 7 Oct** | **65** ↑ | — | Not reported | 🛑 **Complete rest. RHR rising — illness progressing, not clearing. Thu run off** |
 
 ---
 
