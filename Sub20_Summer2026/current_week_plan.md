@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 7 Oct 2026 — 🛑 Illness episode 6, day 2: RHR 65, complete rest. W4 plan below superseded where it conflicts.*
+*Last updated: 8 Oct 2026 — 🛑 Illness episode 6, day 3: RHR 62 (↓ from 65), complete rest. W4 plan below superseded where it conflicts.*
 
 ---
 
@@ -12,7 +12,7 @@
 |---|---|
 | **Tue 6** | 🛑 **Rest. Barry's cancelled** (illness — not to protect running) |
 | **Wed 7** | 🛑 **Rest. RHR 65 — up from 62.** Illness progressing |
-| **Thu 8** | ❌ **Gate 3 lost. 🛑 Rest.** A 65 → ≤58 drop overnight with zero symptoms is not credible; no run |
+| **Thu 8** | ❌ **Gate 3 lost. 🛑 Rest. RHR 62 (↓3).** Turning, still >60 |
 | **Fri 9 – Sun 11** | **Each day gated: 100% symptom-free + RHR ≤58.** First run back = easy 5 km, HR <140. Then easy 5 km, HR <145. **Sun max 6 km** (was 8) |
 
 **Race plan: Gate 3 not run → 4:05/km (20:25) default.** Re-assessed in the W5 plan.
@@ -229,3 +229,4 @@ Barry's: avg/max, five zones, **confirm jumping lunges were done.**
 **Mon 5 Oct:** Rest. RHR / symptoms not reported.
 **Tue 6 Oct:** 🛑 **RHR 62, slight phlegm → complete rest. Barry's cancelled. Gate 3 lost.** Illness episode 6.
 **Wed 7 Oct:** 🛑 **RHR 65 (↑3). Complete rest.** Symptoms not reported. Thu run off.
+**Thu 8 Oct:** 🛑 **RHR 62 (↓3). Complete rest.** Symptoms not reported. First fall of the episode.
