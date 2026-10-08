@@ -4,11 +4,12 @@
 
 ---
 
-## 🛑 THU 8 OCT — RHR 62. FIRST FALL. STILL REST.
+## 🛑 THU 8 OCT — RHR 62 + PHLEGM + PRE-SORE THROAT. COMPLETE REST.
 
 **RHR 62 → 65 → 62.** Wed looks like the peak. Still >60 and 7–13 over the 49–55 baseline → rest.
 - **Fri 9 run needs RHR ≤58 AND 100% symptom-free.** A 4-bpm drop overnight is possible, not likely.
-- **Symptoms unreported Wed and Thu.** RHR alone cannot clear a return — phlegm status is required.
+- **Symptoms Thu: slight phlegm + "pre-sore throat" feeling. No cough, fever or aches.** Phlegm → complete rest; sore throat any severity → complete rest. Both live.
+- Above-the-neck only, RHR falling → consistent with a cold clearing, not worsening.
 - **Race Sat 17 Oct, 9 days out.** Decided in the W5 plan.
 
 ---

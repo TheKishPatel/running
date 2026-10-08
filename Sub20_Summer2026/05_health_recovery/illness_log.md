@@ -43,7 +43,7 @@ against how many days are lost.
 | Mon 5 Oct | — (not reported) | — | Not reported | Rest (planned) |
 | **Tue 6 Oct** | **62** | — | **Slight phlegm in throat** | 🛑 **Complete rest. Barry's cancelled. Gate 3 lost** |
 | **Wed 7 Oct** | **65** ↑ | — | Not reported | 🛑 **Complete rest. RHR rising — illness progressing, not clearing. Thu run off** |
-| **Thu 8 Oct** | **62** ↓ | — | Not reported (Wed, Thu) | 🛑 **Complete rest (>60). First fall — peak likely Wed. Still 7–13 over baseline** |
+| **Thu 8 Oct** | **62** ↓ | — | **Slight phlegm + "pre-sore throat" feeling. No cough, fever or aches** | 🛑 **Complete rest — phlegm and throat each trigger it. RHR first fall, peak likely Wed. Symptoms above the neck only** |
 
 ---
 
