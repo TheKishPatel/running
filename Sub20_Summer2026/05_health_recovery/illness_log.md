@@ -7,7 +7,12 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 
 ---
 
-## 🛑 EPISODE 6 — Tue 6 Oct 2026. PHLEGM + RHR 62. COMPLETE REST.
+## ✅ EPISODE 6 — Tue 6 Oct 2026. PHLEGM + RHR 62. CLOSED Mon 12 Oct.
+
+**Closed 12 Oct: athlete reports "feel normal".** Above the neck only (phlegm, pre-sore throat; never cough,
+fever or aches). **~6 days, complete rest throughout — inside the <7-day metric.** Cleared on symptoms, which is
+the rule. **Morning RHR no longer measured (athlete's call, 12 Oct).** Easy-run HR at a known pace replaces it
+(4 Oct model: 6:03 @ 132). In hindsight the Fri 2 Oct 61 was the first signal, 4 days ahead of symptoms.
 
 | | |
 |---|---|
@@ -44,6 +49,8 @@ against how many days are lost.
 | **Tue 6 Oct** | **62** | — | **Slight phlegm in throat** | 🛑 **Complete rest. Barry's cancelled. Gate 3 lost** |
 | **Wed 7 Oct** | **65** ↑ | — | Not reported | 🛑 **Complete rest. RHR rising — illness progressing, not clearing. Thu run off** |
 | **Thu 8 Oct** | **62** ↓ | — | **Slight phlegm + "pre-sore throat" feeling. No cough, fever or aches** | 🛑 **Complete rest — phlegm and throat each trigger it. RHR first fall, peak likely Wed. Symptoms above the neck only** |
+| Fri 9 – Sun 11 Oct | — | — | Not reported | Rest (no exercise) |
+| **Mon 12 Oct** | not measured | — | **"Feel normal"** | ✅ **Episode closed. Easy 5 km, HR <140** |
 
 ---
 

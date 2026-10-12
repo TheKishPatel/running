@@ -1,10 +1,29 @@
 # Current Status
 
-*Last updated: 8 Oct 2026 (🛑 Illness episode 6, day 3 — RHR 62, complete rest)*
+*Last updated: 12 Oct 2026 (🏁 Race week — illness episode 6 closed, race Sat 17 Oct)*
 
 ---
 
-## 🛑 THU 8 OCT — RHR 62 + PHLEGM + PRE-SORE THROAT. COMPLETE REST.
+## 🏁 MON 12 OCT — BACK. RACE WEEK. RACE SAT 17 OCT, ~10:00
+
+**"Feel normal." Episode 6 closed (~6 days, above the neck only, complete rest throughout).** Last run 4 Oct.
+**W4: 0 km, Gate 3 lost.** Summary: `02_training_log/weekly_summaries/oct_block_week_04_summary.md`.
+
+| Day | Session |
+|---|---|
+| Mon 12 | Easy 5 km trail, HR <140 |
+| Tue 13 | Barry's legs — **walking lunges** (2-week gap), cap ~145 avg |
+| Wed 14 | Easy 4 km trail, HR <140 |
+| **Thu 15** | **2 km / 2 × 1 km @ 4:05 (2:00 jog) / 1 km — sets race plan** |
+| Fri 16 | Rest |
+| **Sat 17** | **🏁 RACE.** 🟢 open 4:05 · 🟡 4:08 · 🔴 4:10 even (PB) |
+
+- **Morning RHR dropped (athlete's call).** Post-illness check = easy-run HR vs 4 Oct (6:03 @ 132). >145 at ~6:00 → not recovered.
+- **Symptoms back at any point → complete rest; race re-decided.**
+
+---
+
+## Superseded — THU 8 OCT — RHR 62 + PHLEGM + PRE-SORE THROAT. COMPLETE REST.
 
 **RHR 62 → 65 → 62.** Wed looks like the peak. Still >60 and 7–13 over the 49–55 baseline → rest.
 - **Fri 9 run needs RHR ≤58 AND 100% symptom-free.** A 4-bpm drop overnight is possible, not likely.
