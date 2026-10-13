@@ -1,6 +1,29 @@
 # Current Week Plan
 
-*Last updated: 12 Oct 2026 — W5 race week. W4 summary: `02_training_log/weekly_summaries/oct_block_week_04_summary.md`.*
+*Last updated: 13 Oct 2026 — 🔴 post-illness check failed (146 avg at 6:22). Thursday reps cancelled. W5 race week. W4 summary: `02_training_log/weekly_summaries/oct_block_week_04_summary.md`.*
+
+---
+
+## 🔴 TUE 13 OCT — EASY RUN READ HIGH. NOT RECOVERED YET. THURSDAY REPS OFF.
+
+**~4.5 km @ 6:22, 146 avg, max 157** (in place of Barry's). vs **4 Oct: 6:03 @ 132.** Same power, **+23 bpm** (km4 201 W:
+152 vs 129). Pre-set rule: >145 at ~6:00 → not recovered.
+
+| Day | Plan now |
+|---|---|
+| **Wed 14** | 😴 **Rest** |
+| **Thu 15** | 🏃 **Recheck: easy 4 km trail. Hard cap HR 140 — walk to bring it down.** Pace is output. 2 × 1 km @ 4:05 **cancelled** |
+| **Fri 16** | 😴 Rest |
+| **Sat 17** | 🏁 **Race decided by Thursday (below)** |
+
+| Thu: avg HR at ~6:00–6:15 | Race Sat 17 |
+|---|---|
+| **≤140, feeling normal** | 🟡 **Race. 4:10 even → PB (sub-20:59).** km 4–5 free only if km 3 feels controlled |
+| **141–145** | 🟠 **Start, don't race.** 4:20+, HR ≤170. A tempo with a number on |
+| **>145, or chest tightness / palpitations / unusual breathlessness** | 🔴 **Don't start.** Exercise HR this far off after a virus → GP before hard running |
+
+**Partly expected:** 9 days off lowers plasma volume and raises HR within days. That recovers in a few runs; an illness
+tail doesn't. Thursday tells them apart. **Any symptom back → complete rest, no race.**
 
 ---
 
@@ -167,4 +190,5 @@ there's no 4:05 read. It's only possible if a 🟢 Thursday turns into km 4–5 
 
 ## Week Log
 
-**Mon 12 Oct:** "Feel normal." No exercise since Sun 4 Oct. Morning RHR no longer measured (athlete's call).
+**Mon 12 Oct:** "Feel normal." No exercise since Sun 4 Oct. Morning RHR no longer measured (athlete's call). Run not reported.
+**Tue 13 Oct:** Barry's skipped ("didn't feel right") → easy ~4.5 km @ 6:22, **146 avg**, max 157. 🔴 Post-illness check failed. Thu reps off → easy recheck.

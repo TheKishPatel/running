@@ -51,6 +51,7 @@ against how many days are lost.
 | **Thu 8 Oct** | **62** ↓ | — | **Slight phlegm + "pre-sore throat" feeling. No cough, fever or aches** | 🛑 **Complete rest — phlegm and throat each trigger it. RHR first fall, peak likely Wed. Symptoms above the neck only** |
 | Fri 9 – Sun 11 Oct | — | — | Not reported | Rest (no exercise) |
 | **Mon 12 Oct** | not measured | — | **"Feel normal"** | ✅ **Episode closed. Easy 5 km, HR <140** |
+| **Tue 13 Oct** | not measured | — | **"Didn't feel right" for Barry's** — unspecified | 🔴 **Easy run 146 avg @ 6:22 (4 Oct: 132 @ 6:03; +23 bpm at 201 W). Post-illness HR tail. Thu recheck decides race** |
 
 ---
 

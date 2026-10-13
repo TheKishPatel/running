@@ -1,6 +1,17 @@
 # Current Status
 
-*Last updated: 12 Oct 2026 (🏁 Race week — illness episode 6 closed, race Sat 17 Oct)*
+*Last updated: 13 Oct 2026 (🔴 Post-illness check failed — Thu recheck decides the race)*
+
+---
+
+## 🔴 TUE 13 OCT — EASY RUN 146 AVG AT 6:22. NOT RECOVERED. THU RECHECK DECIDES SAT.
+
+- Barry's legs skipped ("didn't feel right") → easy **~4.5 km @ 6:22, 146 avg, max 157, Z3 8:42.** Cap was <140.
+- **vs 4 Oct: +14 bpm at 19 sec/km slower. Same 201 W → 152 vs 129 bpm.**
+- **Thu 15 2 × 1 km @ 4:05 cancelled → easy 4 km, HR cap 140.** Wed + Fri rest.
+- **Race:** Thu ≤140 → race 4:10 even (PB) · 141–145 → run it at 4:20+, HR ≤170 · >145 or chest symptoms → don't start, GP.
+- **Barry's legs missed two weeks running → Tue 20 walking lunges.**
+- **❓ OWED:** what "didn't feel right" was (throat / phlegm / fatigue / legs?); did Mon's 5 km happen; strap or wrist.
 
 ---
 
