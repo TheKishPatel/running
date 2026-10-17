@@ -1,6 +1,103 @@
 # Current Status
 
-*Last updated: 5 Oct 2026 (📕 Week 3 CLOSED — threshold held at 4:18; W4 plan due)*
+*Last updated: 17 Oct 2026 (📕 Block closed — race run still recovering; rebuild plan Mon 19 Oct)*
+
+---
+
+## 📕 SAT 17 OCT — RACE DONE. OCTOBER BLOCK CLOSED.
+
+**Pushed km 1–3: 4:12 / 4:26 / 4:31 @ 179 (13:09). km 4–5 with the kids: 6:13 / 7:57.** Watch 5 km 27:19. Chip time not reported.
+Analysis: `03_session_analyses/2026-10-17_race_5k_october.md`. Week + block summary: `02_training_log/weekly_summaries/oct_block_week_05_summary.md`.
+
+- **Still recovering from illness:** km2–3 4:28 @ 179, 274 W vs healthy threshold 4:18 @ 169, 276 W. **Same power, +10 bpm.**
+- **Same fade as the 27 Jun post-illness tune-up** (4:11 / 4:21 / 4:30, same watts). Second time documented.
+- **Sub-20 not achieved. PB 20:59 stands.** Best block signal: threshold 4:17.7 @ 276 W, twice.
+- **Sun 18: rest.** **Mon 19: rebuild plan.** Easy-only start. Barry's Tue 20 legs → **walking lunges** (last leg class 29 Sep).
+- **❓ For Monday:** next target race + date; chip time if known.
+
+---
+
+## 🔴 TUE 13 OCT — EASY RUN 146 AVG AT 6:22. NOT RECOVERED. THU RECHECK DECIDES SAT.
+
+- Barry's legs skipped ("didn't feel right") → easy **~4.5 km @ 6:22, 146 avg, max 157, Z3 8:42.** Cap was <140.
+- **vs 4 Oct: +14 bpm at 19 sec/km slower. Same 201 W → 152 vs 129 bpm.**
+- **Thu 15 2 × 1 km @ 4:05 cancelled → easy 4 km, HR cap 140.** Wed + Fri rest.
+- **Race:** Thu ≤140 → race 4:10 even (PB) · 141–145 → run it at 4:20+, HR ≤170 · >145 or chest symptoms → don't start, GP.
+- **Barry's legs missed two weeks running → Tue 20 walking lunges.**
+- **❓ OWED:** what "didn't feel right" was (throat / phlegm / fatigue / legs?); did Mon's 5 km happen; strap or wrist.
+
+---
+
+## 🏁 MON 12 OCT — BACK. RACE WEEK. RACE SAT 17 OCT, ~10:00
+
+**"Feel normal." Episode 6 closed (~6 days, above the neck only, complete rest throughout).** Last run 4 Oct.
+**W4: 0 km, Gate 3 lost.** Summary: `02_training_log/weekly_summaries/oct_block_week_04_summary.md`.
+
+| Day | Session |
+|---|---|
+| Mon 12 | Easy 5 km trail, HR <140 |
+| Tue 13 | Barry's legs — **walking lunges** (2-week gap), cap ~145 avg |
+| Wed 14 | Easy 4 km trail, HR <140 |
+| **Thu 15** | **2 km / 2 × 1 km @ 4:05 (2:00 jog) / 1 km — sets race plan** |
+| Fri 16 | Rest |
+| **Sat 17** | **🏁 RACE.** 🟢 open 4:05 · 🟡 4:08 · 🔴 4:10 even (PB) |
+
+- **Morning RHR dropped (athlete's call).** Post-illness check = easy-run HR vs 4 Oct (6:03 @ 132). >145 at ~6:00 → not recovered.
+- **Symptoms back at any point → complete rest; race re-decided.**
+
+---
+
+## Superseded — THU 8 OCT — RHR 62 + PHLEGM + PRE-SORE THROAT. COMPLETE REST.
+
+**RHR 62 → 65 → 62.** Wed looks like the peak. Still >60 and 7–13 over the 49–55 baseline → rest.
+- **Fri 9 run needs RHR ≤58 AND 100% symptom-free.** A 4-bpm drop overnight is possible, not likely.
+- **Symptoms Thu: slight phlegm + "pre-sore throat" feeling. No cough, fever or aches.** Phlegm → complete rest; sore throat any severity → complete rest. Both live.
+- Above-the-neck only, RHR falling → consistent with a cold clearing, not worsening.
+- **Race Sat 17 Oct, 9 days out.** Decided in the W5 plan.
+
+---
+
+## Superseded — WED 7 OCT — RHR 65. STILL RISING. COMPLETE REST.
+
+**RHR 62 → 65.** Highest valid reading of the campaign. Rising = acute phase, not recovery.
+- **Thu 8: rest.** No run.
+- **Earliest first run back: Fri 9** — RHR ≤58 and 100% symptom-free. Unlikely on this trend.
+- **Race Sat 17 Oct, 10 days out.** Decided in the W5 plan, not now.
+- **❓ OWED:** today's phlegm / throat / cough / fever / aches, sleep hours.
+
+---
+
+## 🛑 TUE 6 OCT — ILLNESS EPISODE 6. COMPLETE REST.
+
+**RHR 62 + slight phlegm in throat.** Phlegm → complete rest; RHR >60 → rest. Exposure: daughter ill
+(cough, wheeze, fever) through W3. **Fri 2 Oct RHR 61 now reads as the prodrome.**
+
+- ❌ **Barry's legs today — cancelled.** Illness, not running protection.
+- ❌ **Thu 8 Gate 3 — lost, not moved.** Race plan defaults to **4:05/km (20:25)**.
+- **Return:** 100% symptom-free + RHR ≤58 → easy 5 km trail, HR <140. No quality within 48 h of it.
+- **Next leg Barry's (Tue 13): walking lunges** — gap from 29 Sep.
+- **Race Sat 17 Oct, 11 days out.** Campaign average ~6 days per episode. W5 plan decides the race.
+
+**❓ OWED daily:** RHR on waking, phlegm / throat / cough / fever status, sleep.
+
+---
+
+## Superseded 6 Oct (illness) — WEEK 4 AS PLANNED (Mon 5 – Sun 11 Oct)
+
+**~26 km, 4 runs + Barry's legs.** Full plan: `current_week_plan.md`.
+
+| Day | Session |
+|---|---|
+| Mon 5 | Rest |
+| Tue 6 | Barry's legs — **jumping lunges return.** <155 avg; flag >145 or Z4 >~2 min |
+| Wed 7 | Rest. 7 h+ sleep |
+| **Thu 8** | **Gate 3: 2 km / 3 × 1 km @ 4:05 (4:02–4:08), 2:00 jog / 2 km. HR 170–180, ceiling 183. ~10:00, race breakfast + shoes** |
+| Fri 9 | Easy 5 km trail, HR <140 |
+| Sat 10 | Easy 5 km trail, HR <145 — gated (Fri clean, RHR ≤58) |
+| Sun 11 | Easy 8 km trail, HR <145 |
+
+**Gate 3 sets the race plan:** 🟢 4:02 (20:10) · 🟡 4:05 (20:25) · 🔴 4:10 (20:50). Read lost → 4:05.
+Volume cut from the block map's ~30 km: W3 actual 17.66; +47% is the ceiling.
 
 ---
 
