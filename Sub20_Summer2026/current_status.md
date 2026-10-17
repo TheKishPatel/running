@@ -1,6 +1,19 @@
 # Current Status
 
-*Last updated: 13 Oct 2026 (🔴 Post-illness check failed — Thu recheck decides the race)*
+*Last updated: 17 Oct 2026 (📕 Block closed — race run still recovering; rebuild plan Mon 19 Oct)*
+
+---
+
+## 📕 SAT 17 OCT — RACE DONE. OCTOBER BLOCK CLOSED.
+
+**Pushed km 1–3: 4:12 / 4:26 / 4:31 @ 179 (13:09). km 4–5 with the kids: 6:13 / 7:57.** Watch 5 km 27:19. Chip time not reported.
+Analysis: `03_session_analyses/2026-10-17_race_5k_october.md`. Week + block summary: `02_training_log/weekly_summaries/oct_block_week_05_summary.md`.
+
+- **Still recovering from illness:** km2–3 4:28 @ 179, 274 W vs healthy threshold 4:18 @ 169, 276 W. **Same power, +10 bpm.**
+- **Same fade as the 27 Jun post-illness tune-up** (4:11 / 4:21 / 4:30, same watts). Second time documented.
+- **Sub-20 not achieved. PB 20:59 stands.** Best block signal: threshold 4:17.7 @ 276 W, twice.
+- **Sun 18: rest.** **Mon 19: rebuild plan.** Easy-only start. Barry's Tue 20 legs → **walking lunges** (last leg class 29 Sep).
+- **❓ For Monday:** next target race + date; chip time if known.
 
 ---
 

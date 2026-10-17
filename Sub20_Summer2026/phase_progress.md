@@ -20,9 +20,9 @@
 | **Half block** | **1–6** | **Mon 27 Jul – Sun 6 Sep** | ✅ **COMPLETE** | ✅ W2, ✅ W3, ✅ **W4 PEAK (23 Aug)**, ✅ **W5 FINAL READ (30 Aug)** |
 | **THE BIG HALF** | — | **Sun 6 Sep 2026 — 🏁 1:39:32, 4:43/km. PB BY 5:06 (prev 1:44:38). Target 1:42 beaten by 2:28; stretch 1:40 by 28 s** | ✅ **Complete** | n/a |
 | **Recovery week** | — | **Mon 7 – Sun 13 Sep** | ✅ **Complete — 0 km.** Race absorbed. Left medial ankle flag opened 9 Sep; all running cancelled | — |
-| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 🔄 **Current — W5 race week (12–17 Oct). W4 lost to illness episode 6 (closed 12 Oct).** **🟢 Gate 2 passed 25 Sep — threshold 4:18.** **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
+| **5K sharpening block** | **1–5** | **Mon 14 Sep – Sat 17 Oct** | 📕 **CLOSED 17 Oct. Race run still recovering (km 1–3 4:23 avg @ 179; km 4–5 with kids). Sub-20 not achieved; PB 20:59 stands.** W4 lost to illness episode 6. **🟢 Gate 2 passed 25 Sep — threshold 4:18.** **🏁 Race booked Sat 17 Oct** | ✅ **Ankle gate passed 15 Sep** |
 
-> **Live plan = `current_week_plan.md`** (October 5K sharpening block, W5 of 5 — race week, 🏁 Sat 17 Oct).
+> **Live plan = `current_week_plan.md`** (October block CLOSED 17 Oct — rebuild plan due Mon 19 Oct).
 > `big_half_block_Sep2026.md` is closed — the 6 Sep half marathon delivered a 5:06 PB (1:39:32).
 > **Targets for October: sub-20:30 and a 5K PB realistic; sub-20:00 a stretch.**
 > **🏁 Race booked 22 Sep: Saturday 17 October, chip-timed, ~10:00 start.** Block extended 4 → 5 weeks; the extra week is quality.
@@ -41,7 +41,7 @@ that has not moved all summer.
 | **W2** | **21–27 Sep** | **Threshold returns** — Fri 1 km / **4 km continuous @ 4:19** / 1 km; Sun 8.89 km easy @ 5:55, 138 avg, 88 m climb | **14.90 km** (plan ~22.5; Wed rested on RHR 56 + ~5 h sleep; Fri WU/CD 1 km) | ✅ **Complete. 🟢 Gate 2 passed — threshold 4:18 @ 169** |
 | **W3** | **28 Sep – 4 Oct** | **Threshold progression.** **Thu** 2 km / **5 × 1 km @ 4:17**, 90 s jog / 1 km; Fri 5 km + Sat 5 km easy; Sun 8 km. Ankle clean Mon 28 → 48 h spacing lifted (Thu–Sun consecutive) | **17.66 km** (+5.40 family; plan ~27) | ✅ **Complete.** Barry's Tue 29 ✅ 140 avg. **Thu 1 4 × 1 km (≤5 h sleep): reps 2–4 4:17.7 @ 159, 276 W — threshold held.** ⚠️ Fri ran against RHR-61 rest call. Sun 5.02 km @ 132 avg |
 | **W4** | **5–11 Oct** | **Race-pace read + rehearsal.** Tue Barry's legs (jumping lunges return); Wed rest; **Thu** 2 km / **3 × 1 km @ 4:05**, 2:00 jog / 2 km, ~10:00 start, race breakfast + shoes; Fri 5 km + Sat 5 km (gated) easy; Sun 8 km | **~26 km** (cut from ~30: +47% on W3's 17.66 is the ceiling) | ✅ **Closed — 0 km. Illness episode 6 (Tue 6 – ~Sun 11 Oct, above the neck, ~6 days). Barry's + Gate 3 lost** |
-| **W5** | **12–17 Oct** | **Race week.** Mon 5 km + Wed 4 km easy (post-illness HR check); Tue Barry's legs, walking lunges; **Thu 2 km / 2 × 1 km @ 4:05 / 1 km** (cut-down Gate 3, sets race plan); Fri rest; **🏁 Sat 17** | **~15.6 km + race** | 🔴 **Tue 13 easy run 146 avg @ 6:22 (+14 vs 4 Oct) — Thu reps off, easy recheck decides the race. Barry's skipped** |
+| **W5** | **12–17 Oct** | **Race week.** Mon 5 km + Wed 4 km easy (post-illness HR check); Tue Barry's legs, walking lunges; **Thu 2 km / 2 × 1 km @ 4:05 / 1 km** (cut-down Gate 3, sets race plan); Fri rest; **🏁 Sat 17** | **~15.6 km + race** | 📕 **Closed. Tue 13 easy 146 avg (🔴). Thu recheck not reported. 🏁 Sat 17: km 1–3 4:12/4:26/4:31 @ 179, km 4–5 with kids. Watch 5 km 27:19** |
 
 ### Gates
 

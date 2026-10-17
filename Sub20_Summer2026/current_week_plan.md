@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 13 Oct 2026 — 🔴 post-illness check failed (146 avg at 6:22). Thursday reps cancelled. W5 race week. W4 summary: `02_training_log/weekly_summaries/oct_block_week_04_summary.md`.*
+*Last updated: 17 Oct 2026 — 📕 W5 CLOSED, BLOCK CLOSED. Race run still recovering. Summary: `02_training_log/weekly_summaries/oct_block_week_05_summary.md`. Rebuild plan due Mon 19 Oct.*
 
 ---
 
@@ -192,3 +192,8 @@ there's no 4:05 read. It's only possible if a 🟢 Thursday turns into km 4–5 
 
 **Mon 12 Oct:** "Feel normal." No exercise since Sun 4 Oct. Morning RHR no longer measured (athlete's call). Run not reported.
 **Tue 13 Oct:** Barry's skipped ("didn't feel right") → easy ~4.5 km @ 6:22, **146 avg**, max 157. 🔴 Post-illness check failed. Thu reps off → easy recheck.
+**Wed 14 – Fri 16 Oct:** Not reported (Thu recheck not reported).
+**Sat 17 Oct:** 🏁 **Race.** km 1–3 4:12 / 4:26 / 4:31 @ 179 (pushed), km 4–5 6:13 / 7:57 with the kids. Watch 5 km 27:19. Avg 155, max 184.
+**Sun 18 Oct:** Rest (athlete).
+
+**📕 WEEK 5 CLOSED. OCTOBER BLOCK CLOSED. Sub-20 not achieved; PB 20:59 stands. Rebuild plan Mon 19 Oct.**
