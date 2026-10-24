@@ -21,7 +21,17 @@ a new infection or an episode 6 relapse after racing is unknown.** 7th episode o
 | **Barry's** | Legs Tue 27 Oct → **walking lunges** (last leg class 29 Sep) |
 | **Red flags → GP before running hard** | Chest tightness, palpitations, unusual breathlessness, easy HR >145 recurring |
 
-**❓ OWED:** start date, symptoms (throat / phlegm / cough / fever / aches), date fully clear.
+**Sat 24 Oct update:** symptoms were **phlegm in the throat + runny nose. No cough, no fever.** Now: **slight runny nose.**
+Phlegm status today not stated. No runs since 17 Oct.
+
+| Date | Own symptoms | Decision |
+|---|---|---|
+| ~18–23 Oct | Phlegm in throat + runny nose. No cough/fever | Rest (no runs) |
+| **Sat 24 Oct** | **Slight runny nose** | 🛑 **Not symptom-free → Sun 25 run OFF.** Walking fine |
+
+**Daily check on waking:** nose clear + no phlegm → easy 4 km trail, HR <140. Any symptom → rest, re-check next morning.
+
+**❓ OWED:** phlegm today — gone or still there?
 
 ---
 
