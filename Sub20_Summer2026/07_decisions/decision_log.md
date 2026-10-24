@@ -4,6 +4,40 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-10-24 — New target: sub-20 at parkrun Sat 6 Feb 2027. Hackney Half Sun 16 May 2027 follows
+
+**Situation.** October block closed 17 Oct without sub-20 (race run post-illness, km1–3 4:23 avg @ 179). Unwell again
+the week after (episode 7), "feeling better" 24 Oct. No 5K race booked; athlete wants a goal date anyway. Hackney Half
+booked, Sun 16 May 2027.
+
+**Decision.** Solo sub-20 attempt at **parkrun, Sat 6 Feb 2027, 09:00** — official timing, no entry needed. **Backup Sat 20 Feb**
+if illness costs >7 days in January. Then a 13-week half block, Mon 15 Feb → 16 May.
+
+**Rationale.**
+1. **Fitness gap is ~18 sec/km.** Sub-20 = 4:00/km. Best signal: threshold 4:17.7 @ 276 W (twice, Sep/Oct). PB 20:59 (4:12).
+   That gap needs a full block, not a sharpener — 15 weeks from Mon 26 Oct.
+2. **Illness is the limiter, not training.** 7 episodes in ~7 months, ~6 days each, peak season ahead, toddler at home.
+   Expect 2 more before February. 15 weeks with a 2-week Christmas buffer absorbs them; a December date would not.
+3. **Two post-illness race fades (27 Jun, 17 Oct, same 4:11–4:12 → 4:30 shape).** Rule from now: no attempt within
+   14 days of illness symptoms → that is what the 20 Feb backup is for.
+4. **Saturday fits the fixed week.** Thu = light sharpener, Sat = attempt, Sun = easy. Tue Barry's legs unchanged.
+5. **5K first feeds the half.** Raised threshold carries into HM pace; the half block starts 13 weeks out, a standard length.
+
+**Block map (15 weeks, Mon 26 Oct – Sat 6 Feb).**
+
+| Weeks | Dates | Phase | Thursday | Volume |
+|---|---|---|---|---|
+| W1–2 | 26 Oct – 8 Nov | Return. Easy-only until easy HR ≤138 at ~6:00 | Easy (W2 threshold if gate met) | 15 → 20 km |
+| W3–8 | 9 Nov – 20 Dec | Base + threshold | 1 km reps from 4:20 → 4:10 | 22 → 30 km |
+| W9–10 | 21 Dec – 3 Jan | Christmas: maintenance + illness buffer | One short threshold | ~20–25 km |
+| W11–14 | 4 – 31 Jan | Race-specific | 1 km reps 4:05 → 4:00; **Gate Thu 21 Jan: 3 × 1 km @ 4:00** | ~28–32 km |
+| W15 | 1 – 6 Feb | Taper | Thu 4 Feb: 2 × 1 km @ 4:00 | ~15 km + attempt |
+
+**Gate 21 Jan sets the pacing:** 3 × 1 km @ ≤4:00 with HR ≤180 → go at 4:00 even. Slower → attempt becomes a PB run at the
+pace Gate data supports, and 20 Feb is the sub-20 date. Barry's legs every Tuesday throughout; walking lunges 27 Oct – 10 Nov.
+
+---
+
 ## 2026-09-22 (later) — Race booked Sat 17 Oct: block extends to 5 weeks; Tuesday confirmed legs
 
 **Race.** Booked for **Saturday 17 October** — six days after the old W4 end date (11 Oct).

@@ -7,6 +7,24 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 
 ---
 
+## 🟡 EPISODE 7 — between Sun 18 and Sat 24 Oct 2026. "FEELING BETTER" 24 Oct. OPEN until symptom-free confirmed.
+
+**Reported 24 Oct: "I've been unwell, feeling better."** Dates, symptoms and severity not reported. Starts within a week
+of racing 17 Oct, 9 days after episode 6 symptoms, on a 13 Oct easy-run HR still +14 bpm at a slower pace. **Whether this is
+a new infection or an episode 6 relapse after racing is unknown.** 7th episode of the campaign.
+
+| | |
+|---|---|
+| **Status** | Improving. **Not closed** — "feeling better" is not "100% symptom-free" |
+| **Rule** | Sore throat / cough / phlegm, any severity → complete rest. Return when 100% symptom-free |
+| **Return** | Easy 4 km trail, HR <140. Easy-only week. No quality until easy HR ≤138 at ~6:00 |
+| **Barry's** | Legs Tue 27 Oct → **walking lunges** (last leg class 29 Sep) |
+| **Red flags → GP before running hard** | Chest tightness, palpitations, unusual breathlessness, easy HR >145 recurring |
+
+**❓ OWED:** start date, symptoms (throat / phlegm / cough / fever / aches), date fully clear.
+
+---
+
 ## ✅ EPISODE 6 — Tue 6 Oct 2026. PHLEGM + RHR 62. CLOSED Mon 12 Oct.
 
 **Closed 12 Oct: athlete reports "feel normal".** Above the neck only (phlegm, pre-sore throat; never cough,

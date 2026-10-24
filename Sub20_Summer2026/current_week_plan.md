@@ -1,6 +1,36 @@
 # Current Week Plan
 
-*Last updated: 17 Oct 2026 — 📕 W5 CLOSED, BLOCK CLOSED. Race run still recovering. Summary: `02_training_log/weekly_summaries/oct_block_week_05_summary.md`. Rebuild plan due Mon 19 Oct.*
+*Last updated: 24 Oct 2026 — 🔁 Return week Mon 26 Oct (easy-only, gated on 100% symptom-free). Block W1 of 15 → sub-20 attempt Sat 6 Feb 2027.*
+
+## 🔁 RETURN WEEK — Mon 26 Oct – Sun 1 Nov 2026. Block W1 of 15 → sub-20 attempt Sat 6 Feb 2027
+
+**Gate: 100% symptom-free before the first run.** Any throat, phlegm or cough left → rest, and every session shifts one day.
+Nothing is added to make up for lost time. Fitness lost to ~1 week of illness is small; returning early is what has cost
+this campaign (27 Jun and 17 Oct: same post-illness fade, km3 ~4:30).
+
+| Day | Session | Target |
+|---|---|---|
+| Sun 25 | 😴 Rest | Report symptoms |
+| **Mon 26** | 🏃 **Easy 4 km — trail/grass. First run back** | **HR <140.** Pace is output, expect ~6:10–6:20 |
+| **Tue 27** | 💪 **Barry's East London — LEGS. Walking lunges** (4-week gap) | **<145 avg** (first class back). Z4 <2 min |
+| Wed 28 | 😴 Rest | |
+| **Thu 29** | 🏃 **Easy 5 km — trail/grass. No quality this week** | **HR <140** |
+| Fri 30 | 😴 Rest | |
+| Sat 31 | 🏃 Optional easy 4 km, trail — **only if Mon + Thu both averaged ≤140.** No parkrun | HR <140 |
+| **Sun 1 Nov** | 🏃 **Easy long 6 km — trail** | **HR <145** |
+
+**~15 km (19 with Sat).** All distances whole km — auto-splits stay clean.
+
+### Reading the easy runs
+
+| Avg HR at ~6:00–6:15 | Read | Next |
+|---|---|---|
+| **≤138** | 🟢 Recovered (4 Oct: 132 @ 6:03) | W2: threshold returns Thu 5 Nov, 3 × 1 km @ 4:20 |
+| **139–145** | 🟡 Plasma volume / illness tail | W2 easy-only again |
+| **>145, or chest tightness / palpitations / unusual breathlessness** | 🔴 Not recovered | Walk home. Rest 48 h. Recurs → GP |
+
+- **HR >140 mid-run → walk until it drops.** Trail is the governor; avoid road where pace creeps.
+- **Barry's:** walking lunges for Tue 27, 3 Nov, 10 Nov; jumping lunges return Tue 17 Nov if all three clean.
 
 ---
 
