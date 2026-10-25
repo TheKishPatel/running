@@ -4,13 +4,13 @@
 
 ## 🔁 RETURN WEEK — Mon 26 Oct – Sun 1 Nov 2026. Block W1 of 15 → sub-20 attempt Sat 6 Feb 2027
 
-**Gate: 100% symptom-free before the first run.** Any throat, phlegm or cough left → rest, and every session shifts one day.
+**Gate: 100% symptom-free before the first run.** Sun 25: phlegm still present → rest. **If Tue is the first clear day, Barry's legs is the first session (walking lunges, <140 avg); first run Wed instead of Thu.** Any throat, phlegm or cough left → rest, and every session shifts one day.
 Nothing is added to make up for lost time. Fitness lost to ~1 week of illness is small; returning early is what has cost
 this campaign (27 Jun and 17 Oct: same post-illness fade, km3 ~4:30).
 
 | Day | Session | Target |
 |---|---|---|
-| Sun 25 | 😴 **Rest — runny nose = not symptom-free.** Walking fine | Report symptoms on waking |
+| Sun 25 | 😴 **Rest — phlegm easing, not gone + runny nose.** Walking fine | Report symptoms on waking |
 | **Mon 26** | 🏃 **Easy 4 km — trail/grass. First run back — only if nose clear + no phlegm on waking** | **HR <140.** Pace is output, expect ~6:10–6:20 |
 | **Tue 27** | 💪 **Barry's East London — LEGS. Walking lunges** (4-week gap) | **<145 avg** (first class back). Z4 <2 min |
 | Wed 28 | 😴 Rest | |

@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 24 Oct 2026 (🛑 Sun 25 run off — runny nose. 🔁 Illness ep 7. New target: sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
+*Last updated: 25 Oct 2026 (🛑 Phlegm easing, not gone — complete rest. 🔁 Illness ep 7. New target: sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
 
 
 ## 🔁 SAT 24 OCT — UNWELL AGAIN, NOW "FEELING BETTER". NEW TARGET SET.
@@ -16,7 +16,9 @@ Block map + rationale: `07_decisions/decision_log.md` (24 Oct). Illness: `05_hea
 - **Ep 7 symptoms: phlegm + runny nose, no cough/fever. Now: slight runny nose. No runs since 17 Oct.**
 - 🛑 **Sun 25 run OFF — not 100% symptom-free.** Run day = first morning nose clear + no phlegm. Then easy 4 km trail, HR <140.
 - 17 Oct chip time no longer owed: 2 miles pushed, last mile as a fun run with the kids. Not a 5K result.
-- **❓ OWED:** phlegm today — gone or still there?
+- **Sun 25: phlegm easing, not gone → complete rest** (phlegm, any severity). Week shifts to the first clear morning.
+- **First clear day = that day's session at easy cap.** Tue → Barry's legs, walking lunges, <140 avg. Any other day → easy 4 km trail, HR <140.
+- **❓ OWED:** each morning — phlegm and nose gone?
 
 ---
 

@@ -28,10 +28,11 @@ Phlegm status today not stated. No runs since 17 Oct.
 |---|---|---|
 | ~18–23 Oct | Phlegm in throat + runny nose. No cough/fever | Rest (no runs) |
 | **Sat 24 Oct** | **Slight runny nose** | 🛑 **Not symptom-free → Sun 25 run OFF.** Walking fine |
+| **Sun 25 Oct** | **Phlegm easing, not gone.** Slight runny nose | 🛑 **Phlegm → complete rest.** Mon 26 run only if both gone on waking |
 
 **Daily check on waking:** nose clear + no phlegm → easy 4 km trail, HR <140. Any symptom → rest, re-check next morning.
 
-**❓ OWED:** phlegm today — gone or still there?
+**❓ OWED:** daily on waking — phlegm and nose: gone or still there?
 
 ---
 
