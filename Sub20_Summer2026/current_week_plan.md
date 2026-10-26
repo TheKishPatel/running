@@ -12,7 +12,7 @@ this campaign (27 Jun and 17 Oct: same post-illness fade, km3 ~4:30).
 |---|---|---|
 | Sun 25 | 😴 **Rest — phlegm easing, not gone + runny nose.** Walking fine | Report symptoms on waking |
 | **Mon 26** | 😴 **Rest — phlegm still present** (nose clear). Run moves to first clear morning | **HR <140.** Pace is output, expect ~6:10–6:20 |
-| **Tue 27** | 💪 **Barry's East London — LEGS. Walking lunges** (4-week gap) | **<145 avg** (first class back). Z4 <2 min |
+| **Tue 27** | 🏃 **Barry's not possible (availability). If clear on waking: easy 4 km trail — first run back.** Otherwise rest | **HR <140** |
 | Wed 28 | 😴 Rest | |
 | **Thu 29** | 🏃 **Easy 5 km — trail/grass. No quality this week** | **HR <140** |
 | Fri 30 | 😴 Rest | |
@@ -30,7 +30,7 @@ this campaign (27 Jun and 17 Oct: same post-illness fade, km3 ~4:30).
 | **>145, or chest tightness / palpitations / unusual breathlessness** | 🔴 Not recovered | Walk home. Rest 48 h. Recurs → GP |
 
 - **HR >140 mid-run → walk until it drops.** Trail is the governor; avoid road where pace creeps.
-- **Barry's:** walking lunges for Tue 27, 3 Nov, 10 Nov; jumping lunges return Tue 17 Nov if all three clean.
+- **Barry's:** Tue 27 not attended (availability). Walking lunges Tue 3, 10, 17 Nov; jumping lunges return Tue 24 Nov if all three clean.
 
 ---
 

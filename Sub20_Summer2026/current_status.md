@@ -20,7 +20,9 @@ Block map + rationale: `07_decisions/decision_log.md` (24 Oct). Illness: `05_hea
 - **First clear day = that day's session at easy cap.** Tue → Barry's legs, walking lunges, <140 avg. Any other day → easy 4 km trail, HR <140.
 - **Mon 26: nose clear, phlegm still present → complete rest.** No run, no Barry's — so the Mon/Tue swap doesn't arise today.
 - **Phlegm only, lingering past ~Thu 29 with nothing else → pharmacist/GP** to rule out post-nasal drip / reflux. Rule stays until then.
-- **❓ OWED:** each morning — phlegm gone? Which day Barry's can't be made this week?
+- **Tue 27 Barry's: athlete can't attend** (availability, not illness or run protection). Mon swap ruled out — phlegm today.
+- **Tue 27 if clear on waking → easy 4 km trail, HR <140.** Not clear → rest. Next leg class Tue 3 Nov, walking lunges (5-week gap).
+- **❓ OWED:** each morning — phlegm gone?
 
 ---
 
