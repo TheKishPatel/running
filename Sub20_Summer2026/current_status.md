@@ -1,6 +1,6 @@
 # Current Status
 
-*Last updated: 25 Oct 2026 (🛑 Phlegm easing, not gone — complete rest. 🔁 Illness ep 7. New target: sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
+*Last updated: 26 Oct 2026 (🛑 Nose clear, phlegm still there — complete rest. 🔁 Illness ep 7. New target: sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
 
 
 ## 🔁 SAT 24 OCT — UNWELL AGAIN, NOW "FEELING BETTER". NEW TARGET SET.
@@ -18,7 +18,9 @@ Block map + rationale: `07_decisions/decision_log.md` (24 Oct). Illness: `05_hea
 - 17 Oct chip time no longer owed: 2 miles pushed, last mile as a fun run with the kids. Not a 5K result.
 - **Sun 25: phlegm easing, not gone → complete rest** (phlegm, any severity). Week shifts to the first clear morning.
 - **First clear day = that day's session at easy cap.** Tue → Barry's legs, walking lunges, <140 avg. Any other day → easy 4 km trail, HR <140.
-- **❓ OWED:** each morning — phlegm and nose gone?
+- **Mon 26: nose clear, phlegm still present → complete rest.** No run, no Barry's — so the Mon/Tue swap doesn't arise today.
+- **Phlegm only, lingering past ~Thu 29 with nothing else → pharmacist/GP** to rule out post-nasal drip / reflux. Rule stays until then.
+- **❓ OWED:** each morning — phlegm gone? Which day Barry's can't be made this week?
 
 ---
 

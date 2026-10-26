@@ -11,7 +11,7 @@ this campaign (27 Jun and 17 Oct: same post-illness fade, km3 ~4:30).
 | Day | Session | Target |
 |---|---|---|
 | Sun 25 | 😴 **Rest — phlegm easing, not gone + runny nose.** Walking fine | Report symptoms on waking |
-| **Mon 26** | 🏃 **Easy 4 km — trail/grass. First run back — only if nose clear + no phlegm on waking** | **HR <140.** Pace is output, expect ~6:10–6:20 |
+| **Mon 26** | 😴 **Rest — phlegm still present** (nose clear). Run moves to first clear morning | **HR <140.** Pace is output, expect ~6:10–6:20 |
 | **Tue 27** | 💪 **Barry's East London — LEGS. Walking lunges** (4-week gap) | **<145 avg** (first class back). Z4 <2 min |
 | Wed 28 | 😴 Rest | |
 | **Thu 29** | 🏃 **Easy 5 km — trail/grass. No quality this week** | **HR <140** |
