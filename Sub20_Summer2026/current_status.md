@@ -1,6 +1,17 @@
 # Current Status
 
-*Last updated: 26 Oct 2026 (🛑 Nose clear, phlegm still there — complete rest. 🔁 Illness ep 7. New target: sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
+*Last updated: 4 Nov 2026 (🟡 Near-recovered. Barry's Thu 5 if phlegm gone. 8 credits by 11 Dec. Sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
+
+## 🟡 WED 4 NOV — "KIND OF BACK TO DECENT HEALTH". NO EXERCISE SINCE 17 OCT (18 DAYS). BARRY'S THU 5 = FIRST SESSION BACK — IF PHLEGM IS GONE.
+
+- **Go/no-go Thu 5, on waking:** phlegm **completely gone** → go. Any phlegm, throat, cough → rest. "Kind of" isn't the bar.
+- **Thu 5 Barry's = abs & glutes. Cap: 6/10, <140 avg, Z4 <2 min.** Treadmill jog/incline walk, no sprints. **No jumping** (jump squats, jumping lunges → non-jump versions). Stop on chest tightness, dizziness, unusual breathlessness.
+- **First run: Fri 6 easy 4 km trail, HR <140.** Sun 8 easy 5 km. Recovery marker unchanged: ≤138 at ~6:00.
+- **8 Barry's credits, expire Fri 11 Dec.** Schedule: Thu 5, Tue 10, Thu 12, Tue 17, Tue 24, Tue 1, Tue 8 + 1 upper-body class (Mon/Wed/Fri, w/c 16 or 23 Nov). Front-loaded so one illness doesn't strand credits.
+- **Lost:** W1–2 of the 15-week block (illness). Sub-20 6 Feb now 13.5 weeks out; the Christmas buffer is the margin left. Backup 20 Feb more likely to be needed.
+- **❓ OWED:** phlegm on waking Thu; which Barry's day is upper body (Mon/Wed/Fri); Thu class HR.
+
+---
 
 
 ## 🔁 SAT 24 OCT — UNWELL AGAIN, NOW "FEELING BETTER". NEW TARGET SET.

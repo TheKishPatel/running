@@ -37,7 +37,7 @@ cannot be chosen.** Attending on a given day means taking whatever that day is.
 | Mon | ❓ unrecorded |
 | **Tue** | **Legs** (confirmed 22 Sep) — the habitual slot. **Walking lunges on the first 2 sessions after any gap** |
 | Wed | ❓ unrecorded |
-| **Thu** | **Glutes / "butt"** (reported 15 Sep, wording approximate) |
+| **Thu** | **Abs & glutes** (confirmed 4 Nov) |
 | Fri | ❓ unrecorded |
 | Sat | ❓ unrecorded |
 | Sun | ❓ unrecorded |
@@ -46,6 +46,8 @@ cannot be chosen.** Attending on a given day means taking whatever that day is.
 Recorded 15 Sep after a plan prescribed "take a lower-body class Thursday" on the false assumption
 that any day could be lower body. **Until it is filled in, every gap-closing prescription is made
 blind.** Fill it in when reported.
+
+**💳 UPDATE 4 NOV: 8 prepaid credits expiring Fri 11 Dec 2026 — extra classes are now sunk cost, use them. Schedule in `current_week_plan.md`. After 11 Dec the Tuesday-only default below applies again unless the athlete says otherwise.**
 
 **💷 STATUS 15 SEP: THE ATHLETE HAS DECLINED TO PAY FOR CLASSES OUTSIDE THE TUESDAY SLOT.**
 Thursday's glutes class was declined on cost. **Treat paid attendance as Tuesday-only unless the

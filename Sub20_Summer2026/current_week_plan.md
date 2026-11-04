@@ -1,6 +1,56 @@
 # Current Week Plan
 
-*Last updated: 24 Oct 2026 — 🔁 Return week Mon 26 Oct (easy-only, gated on 100% symptom-free). Block W1 of 15 → sub-20 attempt Sat 6 Feb 2027.*
+*Last updated: 4 Nov 2026 — 🔁 Return Thu 5 Nov (Barry's abs & glutes, gated on phlegm gone). 8 Barry's credits scheduled to 11 Dec. Threshold returns Thu 19 Nov if easy HR ≤138.*
+
+## 🔁 RETURN — Thu 5 Nov – Sun 8 Nov, then Mon 9 – Sun 15 Nov. Sub-20 attempt Sat 6 Feb 2027
+
+**Gate: 100% symptom-free on waking. Any phlegm → rest, and the next session moves to the next clear day.**
+18 days without exercise. Nothing added to catch up.
+
+### This week (rest of)
+
+| Day | Session | Target |
+|---|---|---|
+| **Thu 5** | 💪 **Barry's — abs & glutes. First session back** | **6/10. <140 avg, Z4 <2 min.** No jumping. Treadmill jog/incline walk, no sprints |
+| **Fri 6** | 🏃 **Easy 4 km — trail. First run back** | **HR <140.** Walk to bring it down |
+| Sat 7 | 😴 Rest | |
+| **Sun 8** | 🏃 **Easy 5 km — trail** | **HR <140** |
+
+### Next week (Mon 9 – Sun 15 Nov) — easy-only
+
+| Day | Session | Target |
+|---|---|---|
+| Mon 9 | 😴 Rest | |
+| **Tue 10** | 💪 **Barry's LEGS — walking lunges** (session 1 of 3 back) | <145 avg, Z4 <2 min |
+| Wed 11 | 🏃 Easy 5 km — trail | HR <140 |
+| **Thu 12** | 💪 **Barry's abs & glutes** — no running quality yet, so the slot takes the class | <150 avg, majority Z2–3 |
+| Fri 13 | 😴 Rest | |
+| Sat 14 | 🏃 Easy 4 km — trail | HR <140 |
+| **Sun 15** | 🏃 **Easy long 7 km — trail** | HR <145 |
+
+**~16 km running + 2 classes.** Whole km throughout.
+
+### Threshold return
+
+**Thu 19 Nov: 2 km / 3 × 1 km @ 4:20, 90 s jog / 1 km — structured watch workout** — only if easy runs Fri 6 – Sun 15
+average ≤138 at ~6:00. From then Thursday is running quality again and Barry's moves off Thursday.
+
+### 💳 Barry's credits — 8, expire Fri 11 Dec
+
+| # | Date | Class | Notes |
+|---|---|---|---|
+| 1 | **Thu 5 Nov** | Abs & glutes | First back. 6/10 |
+| 2 | Tue 10 Nov | Legs | Walking lunges (1/3) |
+| 3 | Thu 12 Nov | Abs & glutes | Last Thursday before threshold returns |
+| 4 | Tue 17 Nov | Legs | Walking lunges (2/3) |
+| 5 | **Mon/Wed/Fri, w/c 16 or 23 Nov** | **Upper body** | Unrestricted. Not Sat (before Sun long) |
+| 6 | Tue 24 Nov | Legs | Walking lunges (3/3) |
+| 7 | Tue 1 Dec | Legs | Jumping lunges return if 3 sessions clean |
+| 8 | Tue 8 Dec | Legs | |
+
+**Illness or a missed Tuesday:** replace with an upper-body class the same or next week (Mon/Wed/Fri). Never Thu once threshold is back, never Sat.
+
+---
 
 ## 🔁 RETURN WEEK — Mon 26 Oct – Sun 1 Nov 2026. Block W1 of 15 → sub-20 attempt Sat 6 Feb 2027
 

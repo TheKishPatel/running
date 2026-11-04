@@ -4,6 +4,28 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-11-04 — Barry's credits (8, expire 11 Dec) scheduled; return starts Thu 5 with abs & glutes; block W1–2 lost
+
+**Situation.** Episode 7 ran ~18 Oct – ~4 Nov; no exercise since 17 Oct. Athlete "kind of back to decent health" and
+wants Barry's Thu 5 (abs & glutes) at 6/10. 8 credits expire Fri 11 Dec — 5 Tuesdays left.
+
+**Decision.** Thu 5 Barry's as the first session back, **gated on phlegm completely gone**, capped <140 avg, no jumping.
+Credits: Thu 5, Tue 10, Thu 12, Tue 17, Tue 24, Tue 1, Tue 8 + one upper-body class in w/c 16 or 23 Nov.
+
+**Rationale.**
+1. **Thursday is free until threshold returns.** No quality before easy HR ≤138, so Thu 5 and 12 can take the class
+   without breaking the fixed week. Abs & glutes = glute medius = the running-relevant class.
+2. **Front-loaded.** Illness averages ~6 days per episode here; a credit planned for the last week is the first one lost.
+   Two Thursdays early + one spare upper-body class leaves room to absorb a missed Tuesday.
+3. **Upper body, not Saturday lower body**, for the extra: unrestricted per CLAUDE.md, no cost to the Sunday long run.
+4. **Barry's first, run second** (Fri 6): a 6/10 class with a hard HR cap is a controlled first exposure; the run the
+   next day is still the recovery read (≤138 at ~6:00).
+
+**Block impact.** W1–2 (26 Oct – 8 Nov) lost to illness. Threshold returns Thu 19 Nov at the earliest (was 5 Nov). 6 Feb
+holds — 11 training weeks from 9 Nov with the Christmas fortnight as the only margin left. Gate Thu 21 Jan unchanged; 20 Feb backup.
+
+---
+
 ## 2026-10-24 — New target: sub-20 at parkrun Sat 6 Feb 2027. Hackney Half Sun 16 May 2027 follows
 
 **Situation.** October block closed 17 Oct without sub-20 (race run post-illness, km1–3 4:23 avg @ 179). Unwell again

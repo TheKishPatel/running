@@ -7,7 +7,7 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 
 ---
 
-## 🟡 EPISODE 7 — between Sun 18 and Sat 24 Oct 2026. "FEELING BETTER" 24 Oct. OPEN until symptom-free confirmed.
+## 🟡 EPISODE 7 — between Sun 18 Oct and ~4 Nov 2026. Near-recovered 4 Nov. OPEN until phlegm confirmed gone. 18 days without exercise.
 
 **Reported 24 Oct: "I've been unwell, feeling better."** Dates, symptoms and severity not reported. Starts within a week
 of racing 17 Oct, 9 days after episode 6 symptoms, on a 13 Oct easy-run HR still +14 bpm at a slower pace. **Whether this is
@@ -30,6 +30,8 @@ Phlegm status today not stated. No runs since 17 Oct.
 | **Sat 24 Oct** | **Slight runny nose** | 🛑 **Not symptom-free → Sun 25 run OFF.** Walking fine |
 | **Sun 25 Oct** | **Phlegm easing, not gone.** Slight runny nose | 🛑 **Phlegm → complete rest.** Mon 26 run only if both gone on waking |
 | **Mon 26 Oct** | **Runny nose gone. Some phlegm in throat** — athlete unsure if viral or something else | 🛑 **Phlegm → complete rest.** No run, no Barry's. If phlegm is the only symptom by ~Thu 29, ask a pharmacist/GP whether it's post-nasal drip/reflux rather than infection |
+| Tue 27 Oct – Tue 3 Nov | Not reported day by day | Rest. No exercise |
+| **Wed 4 Nov** | **"Kind of back to decent health"** | 🟡 **Barry's Thu 5 only if phlegm completely gone on waking.** Episode closes on that confirmation |
 
 **Daily check on waking:** nose clear + no phlegm → easy 4 km trail, HR <140. Any symptom → rest, re-check next morning.
 
