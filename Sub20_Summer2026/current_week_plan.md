@@ -1,6 +1,6 @@
 # Current Week Plan
 
-*Last updated: 4 Nov 2026 — 🔁 Return Thu 5 Nov (Barry's abs & glutes, gated on phlegm gone). 8 Barry's credits scheduled to 11 Dec. Threshold returns Thu 19 Nov if easy HR ≤138.*
+*Last updated: 6 Nov 2026 — 🟡 First run back 145 avg @ 6:01 (Fri 6). Thu 5 Barry's skipped (daughter unwell). 8 Barry's credits scheduled to 11 Dec. Threshold returns Thu 19 Nov if easy HR ≤138.*
 
 ## 🔁 RETURN — Thu 5 Nov – Sun 8 Nov, then Mon 9 – Sun 15 Nov. Sub-20 attempt Sat 6 Feb 2027
 
@@ -11,10 +11,10 @@
 
 | Day | Session | Target |
 |---|---|---|
-| **Thu 5** | 💪 **Barry's — abs & glutes. First session back** | **6/10. <140 avg, Z4 <2 min.** No jumping. Treadmill jog/incline walk, no sprints |
-| **Fri 6** | 🏃 **Easy 4 km — trail. First run back** | **HR <140.** Walk to bring it down |
+| **Thu 5** | ❌ **Barry's skipped — daughter unwell** | Credit unused |
+| **Fri 6** | ✅ **Easy 4.01 km @ 6:01, 145 avg, max 153** | 🟡 Over cap every km. Not recovered yet |
 | Sat 7 | 😴 Rest | |
-| **Sun 8** | 🏃 **Easy 5 km — trail** | **HR <140** |
+| **Sun 8** | 🏃 **Easy 5 km — trail. Slower than Fri: let pace fall to ~6:20+** | **HR <140 — walk to hold it** |
 
 ### Next week (Mon 9 – Sun 15 Nov) — easy-only
 
@@ -39,7 +39,7 @@ average ≤138 at ~6:00. From then Thursday is running quality again and Barry's
 
 | # | Date | Class | Notes |
 |---|---|---|---|
-| 1 | **Thu 5 Nov** | Abs & glutes | First back. 6/10 |
+| ~~1~~ | ~~Thu 5 Nov~~ | ~~Abs & glutes~~ | Skipped (daughter unwell) — credit unused |
 | 2 | Tue 10 Nov | Legs | Walking lunges (1/3) |
 | 3 | Thu 12 Nov | Abs & glutes | Last Thursday before threshold returns |
 | 4 | Tue 17 Nov | Legs | Walking lunges (2/3) |
@@ -47,6 +47,7 @@ average ≤138 at ~6:00. From then Thursday is running quality again and Barry's
 | 6 | Tue 24 Nov | Legs | Walking lunges (3/3) |
 | 7 | Tue 1 Dec | Legs | Jumping lunges return if 3 sessions clean |
 | 8 | Tue 8 Dec | Legs | |
+| 1 | **Mon/Wed/Fri, w/c 30 Nov** | **Upper body** | Replaces Thu 5 |
 
 **Illness or a missed Tuesday:** replace with an upper-body class the same or next week (Mon/Wed/Fri). Never Thu once threshold is back, never Sat.
 

@@ -1,6 +1,20 @@
 # Current Status
 
-*Last updated: 4 Nov 2026 (🟡 Near-recovered. Barry's Thu 5 if phlegm gone. 8 credits by 11 Dec. Sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
+*Last updated: 6 Nov 2026 (🟡 First run back 145 avg @ 6:01 — not recovered yet. Easy-only. Sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
+
+## 🟡 FRI 6 NOV — FIRST RUN BACK: 4.01 km @ 6:01, 145 AVG. BETTER THAN 13 OCT, NOT RECOVERED YET.
+
+**km 6:21 / 5:49 / 5:52 / 5:57 @ 143 / 145 /145 / 148, ~201 W.** Z2 22:07, Z3 1:00. Post 148 → 108 → 103.
+- **vs 4 Oct (healthy): same pace, same power, +13 bpm.** vs 13 Oct (post-ep 6): same HR, 21 sec/km faster.
+- **Read: 🟡 (139–145).** Easy-only continues. Threshold Thu 19 still needs ≤138 at ~6:00.
+- **Pace ran ahead of HR:** km2–4 at 5:49–5:57 with HR over the cap. Slow down to whatever holds <140, walk if needed.
+- **Good sign: −40 bpm in 1 min post-run** (13 Oct −28).
+- **Thu 5 Barry's skipped (daughter unwell). Credit unused → 8 left; schedule now needs 2 upper-body classes.**
+- **⚠️ Exposure watch: daughter ill again.** Phlegm / throat / cough → complete rest.
+- **Sat 7 rest. Sun 8 easy 5 km trail, HR <140.**
+- **❓ OWED:** HR source (strap or wrist); own symptoms; is the phlegm fully gone.
+
+---
 
 ## 🟡 WED 4 NOV — "KIND OF BACK TO DECENT HEALTH". NO EXERCISE SINCE 17 OCT (18 DAYS). BARRY'S THU 5 = FIRST SESSION BACK — IF PHLEGM IS GONE.
 
