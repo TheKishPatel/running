@@ -33,6 +33,7 @@ Phlegm status today not stated. No runs since 17 Oct.
 | Tue 27 Oct – Tue 3 Nov | Not reported day by day | Rest. No exercise |
 | **Wed 4 Nov** | **"Kind of back to decent health"** | 🟡 **Barry's Thu 5 only if phlegm completely gone on waking.** Episode closes on that confirmation |
 | **Fri 6 Nov** | Own symptoms not reported. **Daughter unwell again** (Thu Barry's skipped) | 🟡 First run back: 4.01 km @ 6:01, **145 avg** (4 Oct 132). Exposure watch on. Any phlegm/throat/cough → rest |
+| **Sat 7 Nov** | **Phlegm "mostly gone"** — ~3 weeks of tail | 🟡 Not symptom-free → no run until fully gone. **Pharmacist/GP this week** to settle post-nasal drip vs infection |
 
 **Daily check on waking:** nose clear + no phlegm → easy 4 km trail, HR <140. Any symptom → rest, re-check next morning.
 

@@ -11,8 +11,11 @@
 - **Good sign: −40 bpm in 1 min post-run** (13 Oct −28).
 - **Thu 5 Barry's skipped (daughter unwell). Credit unused → 8 left; schedule now needs 2 upper-body classes.**
 - **⚠️ Exposure watch: daughter ill again.** Phlegm / throat / cough → complete rest.
-- **Sat 7 rest. Sun 8 easy 5 km trail, HR <140.**
-- **❓ OWED:** HR source (strap or wrist); own symptoms; is the phlegm fully gone.
+- **Sat 7 rest.**
+- **HR = chest strap → the +13 bpm is real.** Road. Athlete held a 150 cap by mistake; **cap is <140** (145 is the yellow-band edge, not a cap).
+- **Phlegm "mostly gone" = not symptom-free.** Rule → rest until fully gone. ~3 weeks of phlegm tail → **pharmacist/GP this week** (post-nasal drip vs infection).
+- **Sundays on road from now (athlete's choice).** Condition: HR cap holds. Cap missed on road → that run goes to trail.
+- **Sun 8: 5 km road, HR <140 — only if phlegm fully gone on waking.** Otherwise rest.
 
 ---
 

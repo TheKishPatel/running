@@ -14,7 +14,7 @@
 | **Thu 5** | ❌ **Barry's skipped — daughter unwell** | Credit unused |
 | **Fri 6** | ✅ **Easy 4.01 km @ 6:01, 145 avg, max 153** | 🟡 Over cap every km. Not recovered yet |
 | Sat 7 | 😴 Rest | |
-| **Sun 8** | 🏃 **Easy 5 km — trail. Slower than Fri: let pace fall to ~6:20+** | **HR <140 — walk to hold it** |
+| **Sun 8** | 🏃 **Easy 5 km — road. Only if phlegm fully gone on waking.** Let pace fall to ~6:20+ | **HR <140 — walk to hold it** |
 
 ### Next week (Mon 9 – Sun 15 Nov) — easy-only
 
@@ -26,7 +26,7 @@
 | **Thu 12** | 💪 **Barry's abs & glutes** — no running quality yet, so the slot takes the class | <150 avg, majority Z2–3 |
 | Fri 13 | 😴 Rest | |
 | Sat 14 | 🏃 Easy 4 km — trail | HR <140 |
-| **Sun 15** | 🏃 **Easy long 7 km — trail** | HR <145 |
+| **Sun 15** | 🏃 **Easy long 7 km — road** | HR <145 (long run). Cap missed → next Sunday on trail |
 
 **~16 km running + 2 classes.** Whole km throughout.
 

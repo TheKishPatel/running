@@ -24,7 +24,7 @@
 - **Fixed week (restated 29 Sep — do not re-plan around it):**
   - **Tue: Barry's East London — LOWER BODY (legs).** Always. Do not ask which body part.
   - **Thu: threshold / fast running.** All quality goes on Thursday.
-  - **Sun: long run.**
+  - **Sun: long run — on ROAD (athlete's choice, 6 Nov).** HR cap still governs; if it's missed on road, that Sunday moves to trail.
   - Other days: rest or easy.
 
 ## Barry's Bootcamp — class rotation
