@@ -7,6 +7,38 @@ Return only when 100% symptom-free. RHR >60 on a training morning → rest.
 
 ---
 
+## 🛑 EPISODE 9 — ~w/c 16 Nov 2026. COLD. OPEN — cough + phlegm still present 24 Nov
+
+| | |
+|---|---|
+| **Symptoms** | Cold caught the week of return to work. **24 Nov: fading, but cough + phlegm remain** |
+| **Rule** | **Cough → complete rest. Phlegm → complete rest.** Either alone is enough |
+| **Return** | No cough, no phlegm, eating normally → easy 3 km, HR <140 |
+| **GP trigger** | Cough ≥3 weeks, or any chest tightness / breathlessness / fever. **Also: 4 episodes in 7 weeks → worth a GP review of the frequency** |
+
+## 🛑 EPISODE 8 — Sat 7 – ~Sun 15 Nov 2026. STOMACH BUG (GI). CLOSED (gut settling)
+
+| | |
+|---|---|
+| **Course** | Ill from Sat 7 Nov. Home all week. Congee + broth; tried normal food 9 Nov and regressed. Very hungry throughout |
+| **16 Nov** | Back to work, packed lunches. **Gurgling belly, normal bowel movements, no pain** |
+| **Cost** | ~1 week of low protein and low energy intake. Body weight to re-check vs 67.5 kg |
+| **Episode 7 phlegm** | "Mostly gone" 6 Nov; not separately closed — merged into 8/9 |
+
+### Pattern — 6 Oct to 24 Nov
+
+| Ep | Start | Type | Run days lost |
+|---|---|---|---|
+| 6 | 6 Oct | Cold (phlegm, throat) | ~7 |
+| 7 | ~18 Oct | Cold (phlegm, nose) | ~18 |
+| 8 | 7 Nov | Stomach bug | ~9 |
+| 9 | ~16 Nov | Cold (cough, phlegm) | ongoing |
+
+**One run (6 Nov) between 17 Oct and 24 Nov.** Every episode coincides with a sick toddler at home. Not controllable; the plan has to absorb it.
+Controllables: sleep, vitamin D (NHS: 10 µg/day Oct–Mar), protein back to 122 g/day, hand hygiene around the kids.
+
+---
+
 ## 🟡 EPISODE 7 — between Sun 18 Oct and ~4 Nov 2026. Near-recovered 4 Nov. OPEN until phlegm confirmed gone. 18 days without exercise.
 
 **Reported 24 Oct: "I've been unwell, feeling better."** Dates, symptoms and severity not reported. Starts within a week

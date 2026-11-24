@@ -1,6 +1,41 @@
 # Current Week Plan
 
-*Last updated: 6 Nov 2026 — 🟡 First run back 145 avg @ 6:01 (Fri 6). Thu 5 Barry's skipped (daughter unwell). 8 Barry's credits scheduled to 11 Dec. Threshold returns Thu 19 Nov if easy HR ≤138.*
+*Last updated: 24 Nov 2026 — 🛑 Complete rest (cough + phlegm, episode 9). Return protocol and Barry's credit plan below.*
+
+## 🛑 WEEK OF MON 23 NOV — COMPLETE REST UNTIL COUGH AND PHLEGM ARE GONE
+
+**Rule:** cough or phlegm → complete rest. Both still present. No running, no Barry's.
+
+### Return — starts on the first clear morning (no cough, no phlegm, eating normally)
+
+| Day back | Session | Target |
+|---|---|---|
+| **Day 1** | 🏃 **Easy 3 km — road or trail** | **HR <140.** Walk to hold it |
+| Day 2 | 😴 Rest | Check symptoms |
+| **Day 3** | 🏃 Easy 4 km, or Barry's if it's Tue/Thu (below) | HR <140 / class <140 avg |
+| Day 4 | 😴 Rest | |
+| **Day 5** | 🏃 Easy 5 km | HR <140 |
+
+- **Cough comes back, chest tightness, palpitations, unusual breathlessness → stop, rest, GP.**
+- **Recovery marker unchanged:** easy run ≤138 at ~6:00 (4 Oct: 132 @ 6:03; 6 Nov: 145 @ 6:01).
+- **No fast running until that marker is met twice.** Quality returns on a Thursday only.
+
+### 💳 Barry's credits — 8, expire Fri 11 Dec
+
+**First: ask Barry's East London for a medical extension** (two illnesses, documented). If granted, use the original Tuesday-led plan.
+If not, from the first clear day — **max 3 sessions a week including runs-days pairing, never back-to-back hard days:**
+
+| Option | Date | Class | Cap |
+|---|---|---|---|
+| A | Tue 1 Dec | Legs — **walking lunges** (10-week gap since 29 Sep) | <140 avg |
+| B | Thu 3 Dec | Abs & glutes — Thursday free while quality is off | <140 avg, no jumping |
+| C | Mon/Wed/Fri, w/c 30 Nov | Upper body | Unrestricted effort, but first week back: <145 avg |
+| D | Tue 8 Dec | Legs — walking lunges | <145 avg |
+| E | Thu 10 Dec | Abs & glutes | <145 avg |
+
+**Realistic: 4–5 of 8.** Don't add classes to save credits. Overloading in week 1 back after two illnesses is the bigger cost.
+
+---
 
 ## 🔁 RETURN — Thu 5 Nov – Sun 8 Nov, then Mon 9 – Sun 15 Nov. Sub-20 attempt Sat 6 Feb 2027
 

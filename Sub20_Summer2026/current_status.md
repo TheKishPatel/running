@@ -1,6 +1,20 @@
 # Current Status
 
-*Last updated: 6 Nov 2026 (🟡 First run back 145 avg @ 6:01 — not recovered yet. Easy-only. Sub-20 parkrun Sat 6 Feb 2027; Hackney Half Sun 16 May 2027)*
+*Last updated: 24 Nov 2026 (🛑 Ep 8 stomach bug + ep 9 cold. Cough + phlegm → complete rest. Sub-20 date under review.)*
+
+## 🛑 TUE 24 NOV — TWO MORE ILLNESSES. STOMACH BUG 7–15 NOV, THEN A COLD. STILL COUGH + PHLEGM → COMPLETE REST.
+
+- **Episode 8 (GI):** Sat 7 – ~Sun 15 Nov. Home all week, congee/broth, regressed on normal food 9 Nov. Back to work 16 Nov; gurgling, normal bowel movements, no pain.
+- **Episode 9 (cold):** ~w/c 16 Nov. Fading. **Cough + phlegm still present → complete rest** (either one alone triggers it). Barry's legs today: off.
+- **Last run Fri 6 Nov (145 avg @ 6:01). 18 days off. Since 17 Oct: one run in 38 days.**
+- **Four illnesses in 7 weeks** (6 Oct, ~18 Oct, 7 Nov, ~16 Nov). → GP: cough at 3 weeks, or now to review the frequency.
+- **Return:** no cough, no phlegm, eating normally → easy 3 km, HR <140, then build. Plan: `current_week_plan.md`.
+- **Nutrition:** a week on congee/broth = protein and energy deficit. Back to 122 g protein/day as soon as the gut tolerates it.
+- **6 Feb sub-20 is now low-probability.** Recommended: keep 6 Feb as a PB run, move the sub-20 attempt to Sat 6 Mar 2027. **Athlete to decide.**
+- **Barry's credits (8, expire Fri 11 Dec):** ask Barry's for a medical extension. If none, use 4–5 from the first clear day (schedule in plan).
+- **❓ OWED:** date cough/phlegm fully clear; body weight now (67.5 kg baseline); 6 Feb vs 6 Mar; Barry's extension answer; upper-body day.
+
+---
 
 ## 🟡 FRI 6 NOV — FIRST RUN BACK: 4.01 km @ 6:01, 145 AVG. BETTER THAN 13 OCT, NOT RECOVERED YET.
 

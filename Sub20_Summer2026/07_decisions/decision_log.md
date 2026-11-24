@@ -4,6 +4,24 @@ Material coaching and planning decisions, with the evidence behind them. Newest 
 
 ---
 
+## 2026-11-24 — Sub-20 on 6 Feb now low-probability. Recommend moving the attempt to Sat 6 Mar 2027 (pending athlete)
+
+**Situation.** Since 17 Oct: illness episodes 7, 8 (stomach bug), 9 (cold, ongoing). One run in 38 days. Return ~end Nov at best.
+
+**Evidence.** Sub-20 needs 4:00/km; best threshold 4:17.7 (Sep/Oct, healthy and trained). Starting again from ~5 weeks
+detrained, 6 Feb leaves ~9 weeks, the Christmas fortnight included. The October block had 5 weeks and ended 4:23 avg over 3 km
+when ill. Planned 15-week build → ~9.
+
+**Recommendation.**
+- **Sat 6 Feb:** keep, as a **PB attempt (sub-20:59)** and the fitness check before the half block.
+- **Sat 6 Mar 2027:** sub-20 attempt (parkrun). Hackney Half block starts Mon 15 Feb anyway; its first 3 weeks are
+  threshold + base, which is the same work a 5K needs. 6 Mar is 10 weeks out from 16 May, early enough not to disturb it.
+- **Not decided** — the athlete chooses. Calendar not changed yet.
+
+**Barry's credits.** 8 expire 11 Dec; ~2 weeks of possible use. Ask for a medical extension; otherwise 4–5 classes, capped.
+
+---
+
 ## 2026-11-04 — Barry's credits (8, expire 11 Dec) scheduled; return starts Thu 5 with abs & glutes; block W1–2 lost
 
 **Situation.** Episode 7 ran ~18 Oct – ~4 Nov; no exercise since 17 Oct. Athlete "kind of back to decent health" and
