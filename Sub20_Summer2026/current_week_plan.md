@@ -23,7 +23,7 @@
 ### 💳 Barry's credits — 8, expire Fri 11 Dec
 
 **First: ask Barry's East London for a medical extension** (two illnesses, documented). If granted, use the original Tuesday-led plan.
-If not, from the first clear day — **max 3 sessions a week including runs-days pairing, never back-to-back hard days:**
+If not, from the first clear day — **no more than 2–3 classes a week, never on consecutive days:**
 
 | Option | Date | Class | Cap |
 |---|---|---|---|
